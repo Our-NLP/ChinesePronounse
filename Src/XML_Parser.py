@@ -1,6 +1,7 @@
 import xml.etree.ElementTree as ET
 import os
 from os import path
+import re
 #coding=utf-8 
 class xml_parser:
     def __init__(self,data_path,output_path):
@@ -14,16 +15,50 @@ class xml_parser:
             self.output_path+="/"
 
 
+    def GenerateMeta(self,root,out_file):
+        texts= root[0].text.splitlines()
+        tags=  root[1]
+
+        tag_list=[]
+        #sort the tags by the start attribute. Because annotation may different from
+        #the order *pro* appear in the text
+        for tag in tags :
+            tag_list.append(tag)
+        sorted(tag_list,key=lambda x:x.attrib["start"])
+
+        out_buf=[]
+        tags_index=0
+        tags_len=len(tag_list);
+        for i in range(len(texts)):
+            if "suid=" in texts[i]:
+                continue
+            if "*pro*" in texts[i] and tags_index<tags_len:
+                pro_num=[m.start() for m in re.finditer('\*pro\*', texts[i])]
+                texts[i]=texts[i].replace("*pro* ",""); #remove *pro*+" "
+                for j in pro_num:#if multiple *pro* apprear in the line
+                    pro=tag_list[tags_index].attrib["id"][:-1]
+                    start=tag_list[tags_index].attrib["start"]
+                    out_buf.append(pro+"\t"+start+"\t"+texts[i])
+                    tags_index+=1
+            else:
+                pro="NONE"
+                start="-1"
+                if len(texts[i])>0:
+                    out_buf.append(pro+"\t"+start+"\t"+texts[i])
+        self.write_file(out_file,out_buf)
+
+        
+
     def multi_task(self):
         #parse all file ended with xml in input directory
         #Generate meta data for producing feature files
         files=[x for x in os.listdir(self.data_path)]
         for file_name in files:
             if ".xml" in file_name:
-                self.parse_xml(file_name,file_name.replace(".xml",".meta"))
+                self.parse_xml(file_name,file_name.replace(".xml",".meta"),self.GenerateMeta)
         
 
-    def parse_xml(self,file_name,out_file):
+    def parse_xml(self,file_name,out_file,func):
         #parse a single xml file, generate one .meta file a time
         #remove *pro* from the text
         file_name=self.data_path+file_name
@@ -34,27 +69,7 @@ class xml_parser:
             return
         tree=ET.parse(file_name);
         root=tree.getroot();
-        
-        texts= root[0].text.splitlines()
-        tags=  root[1]
-        out_buf=[]
-        tags_index=0
-        tags_len=len(tags);
-        for i in range(len(texts)):
-            if "suid=" in texts[i]:
-                continue
-            if "*pro*" in texts[i] and tags_index<tags_len:
-                pro=tags[tags_index].attrib["id"][:-1]
-                start=tags[tags_index].attrib["start"]
-                tags_index+=1
-            else:
-                pro="NONE"
-                start="-1"
-            texts[i]=texts[i].replace("*pro* ",""); #remove *pro*+" "
-            if len(texts[i])>0:
-                out_buf.append(pro+"\t"+start+"\t"+texts[i])
-        self.write_file(out_file,out_buf)
-
+        func(root,out_file)
                 
     def write_file(self,file_name,content):
         #write to file
