@@ -10,22 +10,33 @@ class CheckPro(xml_parser):
         tags=  root[1]
         label_pro=[]
 
+        pro_text_dict={}# pro's start place and the sentence it is in
+
+
+        #pros in the tag part
         for tag in tags:
-            label_pro.append(tag.attrib["start"])
+            label_pro.append(int(tag.attrib["start"]))
         label_pro=sorted(label_pro,key=lambda x: int(x))
-        print label_pro
+        
+        #pros in the text
         pros_in_text=[m.start()+1 for m in re.finditer('\*pro\*',root[0].text)]
+        
 
-        pro_count=0
+        #find the difference of this two part
+        differences=list(set(pros_in_text)-set(label_pro))
+        #if no difference, end this iteration
+        if len(differences)==0:
+            return
+        
+        #figure out which sentence the missing pro is in
+        count=0
         for text in texts:
-            pro_num_this_line=len([m.start()+1 for m in re.finditer('\*pro\*',text)])
-            for i in range(pro_num_this_line):
-                if pros_in_text[pro_count]!=int(label_pro[pro_count]):
-                    print text,pros_in_text[pro_count],label_pro[pro_count]
-                pro_count+=1
-
-                
-          
+            for m in re.finditer('\*pro\*',text):
+                pro_text_dict[pros_in_text[count]]=text
+                count+=1
+        for dif in differences:
+            print pro_text_dict[dif]
+                          
     def multi_task(self):
         files=[x for x in os.listdir(self.data_path)]
         for file_name in files:
@@ -33,7 +44,8 @@ class CheckPro(xml_parser):
                 self.parse_xml(file_name,file_name.replace(".xml",".meta"),self.Check)
 
 if __name__=="__main__":
-    ck=CheckPro("../XMLData","../CheckPro");
+    ck=CheckPro("../XMLData","");
     ck.multi_task()
     print "Finish"
+
 
