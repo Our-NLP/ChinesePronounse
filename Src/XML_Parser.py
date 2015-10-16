@@ -5,6 +5,7 @@ from os import path
 import re
 #import nltk
 from nltk.tag import stanford
+stanford_path="../stanford-postagger/"
 class xml_parser:
     def __init__(self,data_path,output_path):
         #input and output directory name
@@ -21,7 +22,7 @@ class xml_parser:
         texts= root[0].text.splitlines()
         tags=  root[1]
 
-        st = stanford.POSTagger("./chinese-distsim.tagger","./stanford-postagger.jar",encoding="utf-8")
+        st = stanford.POSTagger(stanford_path+"/models/chinese-distsim.tagger",stanford_path+"stanford-postagger.jar",encoding="utf-8")
         #st.tag(word_tokenize(sentence)
 
         tag_list=[]
@@ -83,14 +84,13 @@ class xml_parser:
                 
     def write_file(self,file_name,content):
         #write to file
-        file_name=self.output_path+file_name
         with open(file_name,'w') as outfile:
             for line in content:
                 outfile.writelines(line.encode("utf-8")+"\n")
 
 
 if __name__=="__main__":
-    xp= xml_parser("../XMLData","../MetaData");
+    xp= xml_parser("../Data/XMLData","../Data/MetaData");
     xp.multi_task()
     print "Finished"
     

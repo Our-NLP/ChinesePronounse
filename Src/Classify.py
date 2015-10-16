@@ -1,8 +1,8 @@
 import subprocess
 if __name__=="__main__":
     mallet_bin="../mallet-2.0.8RC2/bin/"
-    train_data="../TrainData/train.dat"
-    mallet_data="../TrainData/train.mallet"
+    train_data="../Data/vectors/train.dat"
+    mallet_data="../Data/vectors/train.mallet"
 
 #Import Data
     subprocess.call([mallet_bin+"mallet","import-svmlight","--input",train_data,"--output",mallet_data])

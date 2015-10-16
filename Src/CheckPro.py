@@ -44,7 +44,7 @@ class CheckPro(xml_parser):
                 self.parse_xml(file_name,file_name.replace(".xml",".meta"),self.Check)
 
 if __name__=="__main__":
-    ck=CheckPro("../XMLData","");
+    ck=CheckPro("../Data/XMLData"," ");
     ck.multi_task()
     print "Finish"
 
