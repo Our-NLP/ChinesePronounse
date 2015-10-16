@@ -1,3 +1,5 @@
 stanford-postagger/*
 !stanford-postagger/*.jar
+!stanford-postagger/models/
+stanford-postagger/models/*
 !stanford-postagger/models/chinese-distsim.tagger
