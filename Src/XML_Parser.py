@@ -1,14 +1,16 @@
+# -*- coding: utf-8 -*-
 import xml.etree.ElementTree as ET
 import os
 from os import path
 import re
-#coding=utf-8 
+#import nltk
+from nltk.tag import stanford
 class xml_parser:
     def __init__(self,data_path,output_path):
         #input and output directory name
         self.data_path=data_path
         self.output_path=output_path
-        
+        self.cur_file=""
         if self.data_path[-1] is not '/':
             self.data_path+="/"
         if self.output_path[-1] is not '/':
@@ -18,6 +20,9 @@ class xml_parser:
     def GenerateMeta(self,root,out_file):
         texts= root[0].text.splitlines()
         tags=  root[1]
+
+        st = stanford.POSTagger("./chinese-distsim.tagger","./stanford-postagger.jar",encoding="utf-8")
+        #st.tag(word_tokenize(sentence)
 
         tag_list=[]
         #sort the tags by the start attribute. Because annotation may different from
@@ -31,6 +36,7 @@ class xml_parser:
         tags_len=len(tag_list);
         for i in range(len(texts)):
             if "suid=" in texts[i]:
+                suid,speaker=texts[i].split(" ")
                 continue
             if "*pro*" in texts[i] and tags_index<tags_len:
                 pro_num=[m.start() for m in re.finditer('\*pro\*', texts[i])]
@@ -38,13 +44,16 @@ class xml_parser:
                 for j in pro_num:#if multiple *pro* apprear in the line
                     pro=tag_list[tags_index].attrib["id"][:-1]
                     start=tag_list[tags_index].attrib["start"]
-                    out_buf.append(pro+"\t"+start+"\t"+texts[i])
+                    entry=self.cur_file+"\t"+pro+"\t"+start+"\t"+str(j)+"\t"+texts[i]+"\t"+suid[5:]+"\t"+speaker[12:]
+                    out_buf.append(entry)
                     tags_index+=1
             else:
                 pro="NONE"
                 start="-1"
                 if len(texts[i])>0:
-                    out_buf.append(pro+"\t"+start+"\t"+texts[i])
+                    entry=self.cur_file+"\t"+pro+"\t"+start+"\t"+str(-1)+"\t"+texts[i]+"\t"+suid[5:]+"\t"+speaker[12:]
+                    out_buf.append(entry)
+                    
         self.write_file(out_file,out_buf)
 
         
@@ -55,6 +64,7 @@ class xml_parser:
         files=[x for x in os.listdir(self.data_path)]
         for file_name in files:
             if ".xml" in file_name:
+                self.cur_file=file_name
                 self.parse_xml(file_name,file_name.replace(".xml",".meta"),self.GenerateMeta)
         
 
