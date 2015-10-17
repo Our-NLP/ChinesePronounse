@@ -3,9 +3,6 @@ import xml.etree.ElementTree as ET
 import os
 from os import path
 import re
-#import nltk
-from nltk.tag import stanford
-stanford_path="../stanford-postagger/"
 class xml_parser:
     def __init__(self,data_path,output_path):
         #input and output directory name
@@ -21,9 +18,6 @@ class xml_parser:
     def GenerateMeta(self,root,out_file):
         texts= root[0].text.splitlines()
         tags=  root[1]
-
-        st = stanford.POSTagger(stanford_path+"/models/chinese-distsim.tagger",stanford_path+"stanford-postagger.jar",encoding="utf-8")
-        #st.tag(word_tokenize(sentence)
 
         tag_list=[]
         #sort the tags by the start attribute. Because annotation may different from
