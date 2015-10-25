@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=134725
+*pro* 忽然 很 失落 ...
+suid=s1 participant=134167
+*pro* 怎么 了 ，
+suid=s2 participant=134725
+*pro* 想 *PRO* 有 男朋友 了
+suid=s3 participant=134167
+*pro* 淡定 哪 ， *pro* 对 教授 有 动心 了 ？
+suid=s4 participant=134725
+*pro* 想 *PRO* 嫁人 了
+suid=s5 participant=134167
+嗯 ， 但是 *pro* 可以 再 观察 观察 呗
+suid=s6 participant=134167
+这 种 心态 ， 有时候 我 也 有 *T*-1 ， *pro* 想 *PRO* 安定 下来 。
+suid=s7 participant=134167
+你 觉得 教授 怎样 呀
+suid=s8 participant=134725
+他 不 适合 我 结婚 对象
+suid=s9 participant=134167
+你 不 是 刚刚 还 出去 玩 吗
+suid=s10 participant=134167
+心情 变化 这么 快
+suid=s11 participant=134725
+*pro* 就 是 忽然 的 他 也 搞 不 懂 我 怎么 回 事 *pro* 给 我 打 电话 我 没 接
+suid=s12 participant=134167
+*pro* 就 是 女孩 的 心思 如 海底 针
+suid=s13 participant=134167
+*pro* 越 让 人 *PRO* 捉摸不透 ， 越 令 男人 *PRO* 着迷
+suid=s14 participant=134725
+呵呵 *pro* 可是 就是 和 你 聊聊 呢
+suid=s15 participant=134167
+*pro* 最近 都 太 忙 了 ， 应该 找 你 *PRO* 聊聊 的 ， 哈哈
+suid=s16 participant=134167
+*pro* 关心 一下
+suid=s17 participant=134725
+你 最近 都 不 关心 我 的
+suid=s18 participant=134725
+*OP* *pro* *T*-1 来 美国 这 两 年 *OP* *pro* 该 过 *T*-2 的 节日 *pro* 都 没 好好 过 过 *T*-3
+suid=s19 participant=134725
+端午节 又 该 到 了
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="29" end="32" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="114" end="117" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我2" start="223" end="226" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我3" start="349" end="352" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我4" start="565" end="568" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我5" start="773" end="776" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我6" start="822" end="825" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我7" start="892" end="895" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我8" start="981" end="984" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我9" start="1009" end="1012" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我10" start="1030" end="1033" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你0" start="74" end="77" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你1" start="163" end="166" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你2" start="176" end="179" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你3" start="276" end="279" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你4" start="701" end="704" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他 id="他0" start="599" end="602" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="648" end="651" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

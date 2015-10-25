@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=137671
+呵呵 ， *pro* 不好意思 ， *pro* 麻烦 你 了 哈
+suid=s1 participant=137671
+我 听 倩雯 *PRO* 说 你 在 新东方 当 过 老师
+suid=s2 participant=131603
+*pro* 是 的
+suid=s3 participant=137671
+我 想 *PRO* 咨询 下 ， *pro* 如果 想 *PRO* 做 英语 培训 ， 你 觉得 *OP* *T*-1 比较 好 做 的 是 哪 类 培训 ， 是 针对 小朋友 、 还是 大人 的 ？
+suid=s4 participant=131603
+你 在 哪里 做 ？
+地点 在 哪里 ？
+suid=s5 participant=137671
+前 几 天 我 在 成都 去 看 过 一 家 *OP* *T*-1 想要 *PRO* 转让 的 培训 机构 ， 他 那里 目前 是 做 托福 和 雅思 的
+suid=s6 participant=137671
+我 是 准备 *PRO* 在 成都 做
+suid=s7 participant=137671
+*OP* 我 看 *T*-1 这 家 目前 是 在 神仙树 ， 叫 HELLO ENGLISH
+suid=s8 participant=131603
+小孩 ， 成人 都 可以 ， 都 是 *OP* *T*-1 很 好 的 目标 群体
+suid=s9 participant=137671
+你 觉得 是 *pro* 如果 想 *PRO* 加盟 的话 ， 哪 家 比较 好 点
+suid=s10 participant=137671
+*pro* 主要 是 目前 成都 市场 上 英语 培训 机构 太 多 了
+suid=s11 participant=131603
+哪 家 ？
+suid=s12 participant=131603
+成都 我 不 了解 *T*-1 。
+北京 小孩 ： ABC 比较 好 ， 职场 ： 华尔街 比较 好
+suid=s13 participant=137671
+哦 ， 你 以前 是 在 北京 新东方 当 老师 吗
+suid=s14 participant=131603
+*pro* 是 的
+suid=s15 participant=137671
+哦 ， *pro* 好 的 ， 那 我 再 了解 了解 ， 再 向 你 请教 哈 ， *pro* 谢谢 咯 ， 你 也 要 休息 了 吧 ， *pro* 不好意思 ， *pro* 打扰 咯 [ 表情 ]
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="34" end="37" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="47" end="50" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我2" start="200" end="203" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我3" start="662" end="665" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我4" start="1040" end="1043" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我5" start="1068" end="1071" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我6" start="1081" end="1084" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="146" end="149" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它1" start="726" end="729" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它2" start="959" end="962" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它3" start="1001" end="1004" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

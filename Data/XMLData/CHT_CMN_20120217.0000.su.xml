@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=132631
+*pro* 啥 时候 回 南京 ？
+suid=s1 participant=131944
+下 周 吧 ， *pro* 在 这里 待 几 天 ， 反正 *pro* 去 缅甸 没有 这么 快
+suid=s2 participant=132631
+伊朗人 明天 走 吧 ？
+suid=s3 participant=131944
+嗯 ， 今天 *pro* 带 他们 *PRO* 去 了 博物馆 ， 给 他们 导游 了 一 把
+suid=s4 participant=131944
+你 得 帮 我 *PRO* 申请 *PRO* 把 缅甸 的 等级 升高 点 *-1 啊 ， 那边 内战 呢 ， *pro* 看 新闻 *pro* 就 知道 了
+suid=s5 participant=132631
+我 会 考虑 的
+suid=s6 participant=131944
+兄弟们 可 是 上 火线 的 ， 陈超 ， 王小兵 都 说 *OP* *T*-1 不 好 去 的 地方 ，
+suid=s7 participant=132631
+*pro* 放心 了 ， 我 会 帮 你 *PRO* 考虑 的 。
+suid=s8 participant=131944
+嗯 ， *pro* 多谢 ！
+suid=s9 participant=132631
+*pro* 这 次 和 伊朗人 接触 这 几 天 ， *pro* 感觉 调度 项目 把握性 有 多 大 ？
+suid=s10 participant=131944
+陈超 要是 不 拿下 *pro* 得 要 砍死 了 ，
+suid=s11 participant=131944
+昨天 *pro* 和 南网 交流 ， 人家 相当 配合 ，
+suid=s12 participant=131944
+伊朗人 问 南网 的 ， 作为 用户 ， 你 对 open 3000 评价 几 分 ？
+人家 直接 给 9.5 分
+suid=s13 participant=132631
+*pro* 是 啊 ， 这 次 股份 公司 这边 配合 的 确实 很 给力 ， 这 个 项目 *pro* 再 拿 不 下来 *T*-1 *pro* 真的 对不起 江东 父老 啊 。
+suid=s14 participant=131944
+我们 对 他 也 是 很 配合 ， 今天 我 送 一 个 人 *PRO* 去 机场 ， *pro* 包括 *pro* 替 他 导游 好 这些 伊朗人 ， *pro* 再 不 拿下 ， *pro* 有 何 面目 ？
+suid=s15 participant=132631
+*pro* 要 下班 了 ， 先 不 多 说 了 ， 你 出差 注意 安全 ， 缅甸 的 事 *pro* 随时 等 我 电话 通知 吧 。
+suid=s16 participant=131944
+嗯 ，
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="82" end="85" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="104" end="107" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我2" start="197" end="200" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我3" start="554" end="557" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我4" start="685" end="688" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我5" start="733" end="736" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我6" start="1046" end="1049" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我7" start="1070" end="1073" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我8" start="1085" end="1088" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我9" start="1128" end="1131" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你0" start="29" end="32" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你1" start="321" end="324" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你2" start="332" end="335" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你3" start="489" end="492" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你4" start="592" end="595" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你5" start="619" end="622" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你6" start="921" end="924" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你7" start="942" end="945" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你8" start="1175" end="1178" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="874" end="877" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<他们 id="他们0" start="1037" end="1040" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

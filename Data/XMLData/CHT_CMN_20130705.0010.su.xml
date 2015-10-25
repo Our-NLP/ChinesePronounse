@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=137134
+[ 表情 ] 哥 ， 俺 有 俩 女 同事 找 对象 ， *pro* 有 *OP* *T*-1 合适 的 *pro* 帮 *PRO* 看 着 点
+suid=s1 participant=137134
+*pro* 还 有 俺
+suid=s2 participant=136693
+*pro* 这么 多 …… *pro* 找 对象 *pro* 都 团购 么
+suid=s3 participant=137134
+嗯
+suid=s4 participant=137134
+不过 *pro* 都 是 外地 的 ， 家庭 条件 不错
+suid=s5 participant=137134
+收入 也 高
+suid=s6 participant=136693
+我 手头 暂时 就 那 俩 啊 ...
+suid=s7 participant=136693
+大龄 剩男
+suid=s8 participant=137134
+一 个 1.68 ， 22 岁 ， 一 个 1.6 . 。
+27 岁
+suid=s9 participant=137134
+那 个 *OP* *T*-1 没 结婚 的 是 嘛 情况 来
+suid=s10 participant=136693
+*pro* 80年 ， 开 了 一 家 婴幼儿 游泳馆
+suid=s11 participant=137134
+这个 不 是 *OP* *T*-1 离婚 的 吗
+suid=s12 participant=137134
+我 要 *OP* *T*-1 未婚 的
+suid=s13 participant=136693
+*pro* 就 是 *OP* *T*-1 未婚 的
+suid=s14 participant=136693
+*OP* *T*-1 未婚 的 *OP* *T*-2 离婚 的 都 是 80 的
+suid=s15 participant=137134
+嗯 *OP* *T*-1 未婚 的 是 *OP* *T*-2 干 嘛 的 来
+suid=s16 participant=137134
+你 问问 男方 *pro* 行 吧
+suid=s17 participant=137134
+*pro* 把 1.6 的 那个 介绍 给 他 *-1
+suid=s18 participant=137134
+家 是 外地 的
+suid=s19 participant=136693
+1.6 …… 矮 了 点 吧
+suid=s20 participant=136693
+他 可 是 1.8
+suid=s21 participant=137134
+[ 表情 ] *pro* 33 岁 了 啊
+suid=s22 participant=137134
+*pro* 找 个 *OP* *T*-1 小 11 岁 的 行 吗
+suid=s23 participant=136693
+哦
+suid=s24 participant=137134
+*pro* 穿 高跟 就 是 了
+suid=s25 participant=136693
+*pro* 忘 了 年龄 了
+suid=s26 participant=137134
+87年 的 1.6
+suid=s27 participant=137134
+*pro* 可以 穿 高跟 啊
+suid=s28 participant=137134
+*pro* 真 是 的
+suid=s29 participant=136693
+孩子 总 不 能 生 下来 就 穿 着 高跟鞋 吧 ！
+suid=s30 participant=136693
+*pro* 真 是 的
+suid=s31 participant=137134
+万一 *pro* 随 爹 呢
+suid=s32 participant=137134
+*pro* 真 是 的
+suid=s33 participant=136693
+万一 *pro* 不 随 呢
+suid=s34 participant=136693
+*pro* 真 是 的
+suid=s35 participant=137134
+*pro* 拉倒 吧
+suid=s36 participant=136693
+爹 挫 *pro* 挫 一 个 ， 娘 挫 *pro* 挫 一 窝
+suid=s37 participant=136693
+*pro* 真 是 的
+suid=s38 participant=136693
+*pro* 好 的 啦 ， 我 给 他 打 电话
+suid=s39 participant=137134
+哈哈
+suid=s40 participant=137134
+你 在 哪里 学 的
+suid=s41 participant=137134
+*pro* 讨厌
+suid=s42 participant=137134
+*pro* 快 去 找 吧
+suid=s43 participant=137134
+*pro* 还 有 你 妹妹 我 呢 。。。。 我 喜欢 *OP* *T*-1 开朗 的 [ 表情 ]
+suid=s44 participant=136693
+郎 是 什么 牌 的 汽车 ？
+suid=s45 participant=137134
+么 ？
+suid=s46 participant=137134
+捷豹 吧
+suid=s47 participant=137134
+*OP* 你 说 *T*-1 的 是
+suid=s48 participant=136693
+你 不 是 喜欢 *OP* *T*-1 开朗 的 吗 ？
+suid=s49 participant=137134
+你 能 着调 点 吧
+suid=s50 participant=136693
+哦 *pro* 对 了 ， 你 是 说 朗逸 吧 ， hoho
+suid=s51 participant=136693
+哥 正好 开 朗逸
+suid=s52 participant=136693
+1.6 长 的 咋样
+suid=s53 participant=137134
+*pro* 给 你 看看
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="946" end="949" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="1307" end="1310" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我2" start="2546" end="2549" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你0" start="82" end="85" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你2" start="1432" end="1435" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你3" start="1611" end="1614" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你4" start="1694" end="1697" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你5" start="1734" end="1737" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你6" start="1835" end="1838" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你7" start="1998" end="2001" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你8" start="2035" end="2038" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他 id="他0" start="553" end="556" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他 id="他1" start="710" end="713" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他 id="他2" start="1127" end="1130" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他 id="他3" start="1170" end="1173" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他 id="他4" start="1571" end="1574" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他 id="他5" start="1654" end="1657" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他 id="他6" start="1777" end="1780" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他 id="他7" start="1795" end="1798" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<她 id="她0" start="1262" end="1265" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<她 id="她1" start="1388" end="1391" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="908" end="911" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它1" start="1528" end="1531" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<你们 id="你们0" start="168" end="171" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你们 id="你们1" start="182" end="185" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你们 id="你们2" start="193" end="196" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<她们 id="她们0" start="265" end="268" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<形式主语 id="形0" start="58" end="61" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="1" existential="0" />
+<形式主语 id="形1" start="129" end="132" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="1" existential="0" />
+<形式主语 id="形2" start="1875" end="1878" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="1" existential="0" />
+<形式主语 id="形3" start="2077" end="2080" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="1" existential="0" />
+<形式主语 id="形4" start="2411" end="2414" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="1" existential="0" />
+</TAGS>
+</ProTask>

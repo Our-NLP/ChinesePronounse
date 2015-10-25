@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=137879
+我们 的 plan 一直 要 用到 哪 一 天 呀 ？
+2013-06-03 10:21:17 冰红茶 我 也 不 知道 啊
+suid=s1 participant=137774
+你 有 什么 想法 *pro* 啥 时候 停 吗 ？
+suid=s2 participant=137879
+到时候 *pro* *pro* 提前 点 通知 哈 ， 我 怕 *pro* 忽然 跟 外界 失去 联系 啦 哈哈 2013-06-03 10:21:49 冰红茶 哦 ， 咱 得 统一 个 时间
+suid=s3 participant=137774
+*pro* 然后 一起 给 退 出来 才 行
+suid=s4 participant=137879
+嗯 我 目前 都 还 好 2013-06-03 10:22:26 王菁 *pro* 对 2013-06-03 10:22:54 冰红茶 我 六月 中旬 应该 就 不 在 费城 了
+suid=s5 participant=137879
+啊啊 ， 你 要 去 哪 2013-06-03 10:23:25 冰红茶 *pro* 西雅图 去 了
+suid=s6 participant=137879
+恭喜 啊 *pro* 找到 工作 了 2013-06-03 10:23:57 冰红茶 呵呵
+suid=s7 participant=137774
+你 呢
+suid=s8 participant=137879
+还 *pro* 在 看 哈哈 2013-06-03 10:24:11 冰红茶 恩
+suid=s9 participant=137879
+那 之后 *pro* 怎么 给 你 话费 呢 2013-06-03 10:24:22 冰红茶 *pro* 转账 吧
+suid=s10 participant=137879
+哦 PNC *pro* 有 *T*-1 吗 ？
+suid=s11 participant=137774
+*pro* 没有
+suid=s12 participant=137774
+*pro* 只 有 boa
+suid=s13 participant=137879
+这 。。
+suid=s14 participant=137879
+我 想想 2013-06-03 10:30:36 王菁 其他 几 个 人 去 哪 ？
+suid=s15 participant=137774
+*pro* 不 知道 。
+suid=s16 participant=137879
+*pro* 有没有
+suid=s17 participant=137774
+刘夕林 和 林菲亚 都 有 ， 刘玺 *pro* 不 知道 *T*-1
+suid=s18 participant=137879
+*pro* 行 你 几号 中 大概 我 要么 提前 打给 你 要么 转给 他们 两 个 中 *OP* *T*-1 有 PNC 的 那个 2013-06-03 10:33:21 冰红茶 也 可以
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="205" end="208" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="501" end="504" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我2" start="648" end="651" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我3" start="719" end="722" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我4" start="852" end="855" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我5" start="889" end="892" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我6" start="1035" end="1038" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我7" start="1133" end="1136" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你0" start="129" end="132" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你1" start="183" end="186" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你2" start="547" end="550" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你3" start="761" end="764" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你4" start="806" end="809" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="1178" end="1181" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<我们 id="我们0" start="297" end="300" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他们 id="他们0" start="1076" end="1079" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<形式主语 id="形0" start="383" end="386" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="1" existential="0" />
+<其它 id="其0" start="177" end="180" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

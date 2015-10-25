@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=138168
+我 给 办公室 买 文件 盒 和 垃圾 篓 ， 原价 110 ， *pro* 让 老板 *PRO* 开 的 130 的 发票 ， 我 实际 支付 105 . *pro* 回来 老师 给 我 135 ， *pro* 还 有 5 块 钱 跑腿 费 。
+哈哈 。
+*pro* 有 点 意思 了 。
+suid=s1 participant=130533
+你 干 啥 办公室
+suid=s2 participant=138168
+一 个 研究生 办公室 ， *pro* 当 辅导员 的 助管
+suid=s3 participant=138168
+就 我 和 辅导员 俩 人 。
+suid=s4 participant=130533
+哦
+suid=s5 participant=130533
+你 赚 了 30
+suid=s6 participant=138168
+一 个 单身 男 博士 ， *pro* 会计 的 ， *pro* 32 了 ， 硕导 ， 副教授
+suid=s7 participant=138168
+*pro* 是 的 。
+suid=s8 participant=130533
+哦
+suid=s9 participant=130533
+*pro* 是 你 导师 ？
+suid=s10 participant=138168
+*pro* 不 是
+suid=s11 participant=138168
+*pro* 只 是 *OP* *T*-1 管 行政 的 辅导员
+suid=s12 participant=138168
+*OP* 我 找好 *T*-1 的 导师 是 个 副院长 ， 科研 能力 行政 能力 都 不错 ， *pro* 有 很多 课题
+suid=s13 participant=130533
+那 就 好 啊 你 平时 有 工资 吗
+suid=s14 participant=138168
+现在 *pro* 还 没 开学 ， 一切 都 没有 正规 呢 。
+我 只是 提前 接 了 前 一 个 学姐 的 班 了 。
+她 不 干 了 ， 但是 我 还 没 正式 呢 。
+suid=s15 participant=138168
+据说 *pro* 应该 是 有 工资 的 。
+suid=s16 participant=138168
+我 想 *PRO* 买 个 单反
+suid=s17 participant=138168
+*pro* 国庆节 出去 玩 啊
+suid=s18 participant=130533
+*pro* 买 啊
+suid=s19 participant=138168
+*pro* 没有 钱 啊
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="62" end="65" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="108" end="111" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我2" start="130" end="133" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我3" start="253" end="256" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我4" start="949" end="952" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我5" start="1042" end="1045" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我6" start="1125" end="1128" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你0" start="1087" end="1090" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他 id="他0" start="419" end="422" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他 id="他1" start="432" end="435" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他 id="他2" start="549" end="552" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他 id="他3" start="592" end="595" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他 id="他4" start="630" end="633" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他 id="他5" start="740" end="743" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="158" end="161" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它1" start="481" end="484" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<形式主语 id="形0" start="833" end="836" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="1" existential="0" />
+</TAGS>
+</ProTask>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=134628
+成绩 出来 了
+suid=s1 participant=136868
+你 是 不 是 说 社长 礼拜一 要 去 院 里 开会 的 ？
+suid=s2 participant=134628
+*pro* 是 啊
+suid=s3 participant=136868
+早上 下午 ？
+suid=s4 participant=136868
+刚刚 蓝天 把 社保 账号 给 我 *-1 了
+suid=s5 participant=136868
+一月份 的 *pro* 交掉 *T*-1 了
+suid=s6 participant=134628
+哦 ， 那 *pro* 挺 快 的 、
+suid=s7 participant=134628
+我 先 去 吃饭 了 哦
+suid=s8 participant=134628
+*pro* 回头 聊
+suid=s9 participant=136868
+那 个 *OP* *pro* *T*-1 买 香榧 要 汇钱 的 账号 是 什么 银行 的 ？
+suid=s10 participant=134628
+*pro* 直接 问 哥哥
+suid=s11 participant=134628
+你 早上 问 社长 下 周一 *pro* 开会 干 嘛 ？
+suid=s12 participant=136868
+我 去 问 他 下 周一 早上 的 选题 会 开 不 开
+suid=s13 participant=136868
+*pro* 本来 就 是 *pro* 每 次 开 之前 要 问 过 他 的
+suid=s14 participant=134628
+哦 ， 他 怎么 说
+suid=s15 participant=134628
+我们 是 下午 ， *pro* 不 影响
+suid=s16 participant=134628
+你们 几号 发 工资 ？
+suid=s17 participant=134628
+昨天 *pro* 睡 得 如何
+suid=s18 participant=134628
+昨晚 你 什么 时候 走 的 ， 我 居然 不 知道 ， 呵呵
+suid=s19 participant=134628
+童童 和 老爸 老妈 睡 下铺 的
+suid=s20 participant=134628
+她 有点 咳嗽
+suid=s21 participant=136868
+*pro* 一起 睡 下铺 的 啊 呵呵
+suid=s22 participant=136868
+合同 上 是 说 10号 的 呀
+suid=s23 participant=134628
+哦 ， 174 号 那边 安静 吗
+suid=s24 participant=136868
+*pro* 还 好 安静 的
+suid=s25 participant=134628
+呵呵 ， *pro* 早上 起 得 来 不 ？
+suid=s26 participant=136868
+*pro* 起 得 来 啊 *OP* *T*-1 差不多 时间
+suid=s27 participant=136868
+不过 那 个 女 的 跟 我 差不多 时间 的 她 也 是 坐 7点40 的 班车 *pro* 不 是 万科 的
+suid=s28 participant=134628
+你 今天 坐 几点 班车 的 ？
+suid=s29 participant=134628
+那 你们 两 个 要 公用 卫生间 的
+suid=s30 participant=136868
+45
+suid=s31 participant=134628
+我 第一 班 ， 每 看到 你 嘛
+suid=s32 participant=136868
+我 也 是 第一 班 啊
+suid=s33 participant=136868
+我 后面 地铁站 看到 你 的
+suid=s34 participant=136868
+不过 我 在 你 后面
+suid=s35 participant=134628
+哦 ， 呵呵
+suid=s36 participant=134628
+我 每 天 都 打得
+suid=s37 participant=136868
+呵呵 [ 表情 ]
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="252" end="255" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="430" end="433" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我2" start="667" end="670" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我3" start="1270" end="1273" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你0" start="302" end="305" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你1" start="497" end="500" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你2" start="852" end="855" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你3" start="1223" end="1226" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<她 id="她0" start="1372" end="1375" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="123" end="126" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它1" start="654" end="657" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它2" start="769" end="772" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它3" start="1175" end="1178" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我们 id="我们0" start="383" end="386" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我们 id="我们1" start="554" end="557" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他们 id="他们0" start="1035" end="1038" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=135882
+罗艳 ， 在 吗 ？
+[ 表情 ]
+suid=s1 participant=135882
+我 想 *PRO* 问问 你 那里 有没有 我们 班 的 排名 ， *pro* 最好 有 这 两 年 半 或者 三 年 的 整体 排名 ， 我 想 *PRO* 看看 自己 在 班 上 排 多少 名
+suid=s2 participant=135882
+噢 ， *pro* 没 事 鸟 ， 我 已经 查到 了
+suid=s3 participant=138456
+我 现在 才 上网
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="204" end="207" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<形式主语 id="形0" start="108" end="111" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="1" />
+</TAGS>
+</ProTask>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=136343
+*pro* 五一 放假 吗
+suid=s1 participant=135208
+*pro* 放假
+suid=s2 participant=135208
+你们 呢 ？
+suid=s3 participant=136343
+*pro* 出国 的 事 怎么样 了
+suid=s4 participant=136343
+*pro* 有 可能 放假 一 天 吧
+suid=s5 participant=136343
+*pro* 看 情况
+suid=s6 participant=135208
+*pro* 还 没有 结果
+suid=s7 participant=135208
+*pro* 得 七月份 能 出来 结果
+suid=s8 participant=136343
+哦哦哦
+suid=s9 participant=135208
+最近 *pro* 忙 不 ？
+suid=s10 participant=136343
+*pro* 不 忙
+suid=s11 participant=136343
+*pro* 出国 你们 三 个 人 都 去 啊
+suid=s12 participant=135208
+到时候 *pro* 再说
+suid=s13 participant=136343
+*pro* 申请 *PRO* 去 哪 国 啊
+suid=s14 participant=135208
+美国
+suid=s15 participant=136343
+哦哦
+suid=s16 participant=136343
+最近 试验 怎么样 啊
+suid=s17 participant=136343
+实验
+suid=s18 participant=135208
+*pro* 还 好
+suid=s19 participant=136343
+*pro* 有 进展 吗
+suid=s20 participant=135208
+*pro* 最近 给 你 老嫂 写 论文 呢
+suid=s21 participant=135208
+*pro* 过 几 天 *pro* 预答辩
+suid=s22 participant=136343
+实验 没 做完 *pro* 也 能 写 论文 啊
+suid=s23 participant=135208
+*pro* 不 做 了
+suid=s24 participant=135208
+*pro* 做完 了
+suid=s25 participant=135208
+*pro* 能 毕业 *pro* 就 不 做 了
+suid=s26 participant=136343
+那 也 行 啊
+suid=s27 participant=135208
+呵呵
+suid=s28 participant=135208
+文章 够 了 *pro* 就 能 毕业
+suid=s29 participant=136343
+那 你 现在 做 哪 个 试验 呢
+suid=s30 participant=136343
+哦哦
+suid=s31 participant=136343
+*pro* 去 美国 的 哪 个 城市 啊
+suid=s32 participant=135208
+现在 我 不 做 试验 了
+suid=s33 participant=135208
+*pro* 先 帮 你 老嫂 *PRO* 毕业
+suid=s34 participant=135208
+然后 *pro* 再说
+suid=s35 participant=135208
+*pro* 去 美国 的 费城
+suid=s36 participant=135208
+东北部 的 一 个 城市
+suid=s37 participant=136343
+嗯
+suid=s38 participant=136343
+*pro* 去 多久 啊
+suid=s39 participant=136343
+大哥 QQ 号 多少 啊
+suid=s40 participant=135208
+一 年
+suid=s41 participant=135208
+你 找 他 有 事 ？
+suid=s42 participant=136343
+*pro* 没 事 啊
+suid=s43 participant=136343
+*pro* 有 *pro* 就 加 一下 啊
+suid=s44 participant=135208
+我 给 你 找找
+suid=s45 participant=136343
+恩恩
+suid=s46 participant=136343
+网名 呢
+suid=s47 participant=136343
+碧海蓝天 是 吧
+suid=s48 participant=135208
+*pro* 是 的
+suid=s49 participant=136343
+*pro* 五一 放假 *pro* 去 哪 啊
+suid=s50 participant=135208
+*pro* 加班
+suid=s51 participant=136343
+*pro* 还 加班 啊
+suid=s52 participant=135208
+*pro* 对 最近 一 个 月 *pro* 会 比较 忙
+suid=s53 participant=136343
+哦哦
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="70" end="73" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="186" end="189" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我2" start="433" end="436" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我3" start="827" end="830" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我5" start="981" end="984" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我6" start="1021" end="1024" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我8" start="1071" end="1074" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我10" start="1397" end="1400" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我11" start="1452" end="1455" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我12" start="1489" end="1492" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我13" start="1758" end="1761" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我14" start="1806" end="1809" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我15" start="2077" end="2080" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我16" start="2172" end="2175" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你0" start="29" end="32" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你1" start="140" end="143" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你2" start="393" end="396" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你3" start="564" end="567" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你4" start="936" end="939" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你5" start="1305" end="1308" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你6" start="1604" end="1607" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你7" start="1798" end="1801" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你9" start="2037" end="2040" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你10" start="2114" end="2117" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<她 id="她0" start="890" end="893" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<她 id="她1" start="1060" end="1063" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<她 id="她2" start="1187" end="1190" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="233" end="236" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它1" start="271" end="274" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它2" start="312" end="315" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它3" start="748" end="751" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它4" start="786" end="789" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它5" start="1987" end="1990" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它6" start="2155" end="2158" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<我们 id="我们0" start="527" end="530" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<形式主语 id="形0" start="878" end="881" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="1" existential="0" />
+<形式主语 id="形1" start="2025" end="2028" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="1" existential="0" />
+<其它 id="其0" start="471" end="474" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

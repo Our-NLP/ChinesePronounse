@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=136893
+呵呵 ， 哪里 的 呀
+suid=s1 participant=136868
+幼儿园 里
+suid=s2 participant=136868
+老师 拍 的
+suid=s3 participant=136893
+昨晚 我 也 在 1号店 买 了 100.7 元 的 零食
+suid=s4 participant=136868
+哇塞 *pro* 送到 了 吗
+suid=s5 participant=136893
+*pro* 要 满 百 *pro* 才 包邮 的 嘛
+suid=s6 participant=136893
+明天 *pro* 应该 会 到 的
+suid=s7 participant=136868
+那 你们 那 比较 慢
+suid=s8 participant=136893
+江 浙 沪 都 是 发货 的
+suid=s9 participant=136893
+*pro* 昨晚 11点 买 的 ， 现在 *pro* 是 准备 *PRO* 装车 了
+suid=s10 participant=136868
+哦哦
+suid=s11 participant=136893
+我 明天 回去
+suid=s12 participant=136893
+我 爸 今天 给 我 钉 床
+suid=s13 participant=136868
+噶 *pro* 早 啊
+suid=s14 participant=136893
+你 家 的 旧 床
+suid=s15 participant=136893
+四件套 ， 我 买好 了 拿 回去 的
+suid=s16 participant=136868
+哦哦
+suid=s17 participant=136893
+三江 购物 *pro* 也 买 了 200 的 东西 ， 嵊州 的 三江 购物 ， *pro* 网上 也 能 买 的 ， *pro* 今天 送来 了
+suid=s18 participant=136868
+噶 *pro* 许多 东西 啊
+suid=s19 participant=136893
+*pro* 回去 打扫 卫生
+suid=s20 participant=136893
+东西 不 多 的 ， 现在 的 钱 买 不 了 多少 东西
+suid=s21 participant=136868
+反正 *pro* 有 人 送 你 *PRO* 回去 的 咯
+suid=s22 participant=136893
+恩
+suid=s23 participant=136893
+*pro* 刚才 在 小 商品 城 买 ， 本来 想 *PRO* 买 个 三 层 的 *OP* *pro* 浴室 放 *T*-1 的 置物架 的 ， *pro* 电话 问 了 我 爸 ， *pro* 跟 你 家 不 一样 的
+suid=s24 participant=136893
+我 家 的 那个 好像 小小 的 一 个 ， 所以 *pro* 回去 再 说 哈
+suid=s25 participant=136868
+哦哦 我 先 下班 了
+suid=s26 participant=136893
+*pro* 昨晚 在 网上 看 厨房 的 置物架 ， *pro* 不过 都 是 年后 发货
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="415" end="418" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="760" end="763" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我2" start="796" end="799" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我3" start="901" end="904" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我4" start="1090" end="1093" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我5" start="1165" end="1168" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我7" start="1340" end="1343" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="235" end="238" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它1" start="247" end="250" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它2" start="292" end="295" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它3" start="437" end="440" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它4" start="815" end="818" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它5" start="195" end="198" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它6" start="1184" end="1187" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它们 id="它们0" start="1367" end="1370" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<形式主语 id="形0" start="599" end="602" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="1" existential="0" />
+<形式主语 id="形1" start="1005" end="1008" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="1" existential="0" />
+<其它 id="其0" start="859" end="862" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<其它 id="其1" start="1138" end="1141" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

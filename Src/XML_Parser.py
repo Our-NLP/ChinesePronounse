@@ -30,11 +30,15 @@ class xml_parser:
         tags_index=0
         tags_len=len(tag_list);
         for i in range(len(texts)):
-            if "suid=" in texts[i]:
+            #print texts[i]
+            if "suid=" in texts[i] or "msgid=" in texts[i]:
                 suid,speaker=texts[i].split(" ")
                 continue
             if "*pro*" in texts[i] and tags_index<tags_len:
                 pro_num=[m.start() for m in re.finditer('\*pro\*', texts[i])]
+                #print pro_num
+                #print tags_index
+                #print tags_len
                 texts[i]=texts[i].replace("*pro* ",""); #remove *pro*+" "
                 for j in pro_num:#if multiple *pro* apprear in the line
                     pro=tag_list[tags_index].attrib["id"][:-1]
@@ -59,6 +63,7 @@ class xml_parser:
         files=[x for x in os.listdir(self.data_path)]
         for file_name in files:
             if ".xml" in file_name:
+                print file_name
                 self.cur_file=file_name
                 self.parse_xml(file_name,file_name.replace(".xml",".meta"),self.GenerateMeta)
         

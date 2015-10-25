@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=138153
+你们 家 宝宝 不 是 一般 二般 的 可爱 及 漂亮 啊
+suid=s1 participant=130530
+*pro* 大概 需要 加 你 *PRO* 为 好友 才 能 看 啊 ， *pro* 好不容易 找到 ， *pro* 还 要 申请 个 账号 才 行 ， 结果 *pro* 上去 了 ， *pro* 还 要 你 通过 验证 才 行 ， 哎 ！
+*pro* 好事多磨 啊
+]]></TEXT>
+<TAGS>
+<我 id="我1" start="123" end="126" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我2" start="139" end="142" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我3" start="166" end="169" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="179" end="182" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它1" start="86" end="89" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它2" start="207" end="210" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

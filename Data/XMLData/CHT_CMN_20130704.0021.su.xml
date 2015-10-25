@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=137903
+你 现在 上班 了 吗
+suid=s1 participant=137931
+恩啊
+suid=s2 participant=137931
+嘿嘿 ， *pro* 现在 忙 吗 ？
+suid=s3 participant=137903
+*pro* 瞎 忙
+suid=s4 participant=137903
+你 现在 做 什么 啊
+suid=s5 participant=137931
+*pro* 在 阳光一百 的 这边 ， 也 是 做 行政
+suid=s6 participant=137903
+*pro* 离 你 家 很 近 啊
+suid=s7 participant=137931
+恩啊 ， *pro* 骑 电瓶车 10 分钟 ， 嘿嘿
+suid=s8 participant=137931
+*pro* 现在 还 跑 贷款 吗 ？
+suid=s9 participant=137903
+*pro* 跑 啊
+suid=s10 participant=137903
+海天 在于 *pro* 折腾
+suid=s11 participant=137931
+哈哈 ， 五月份 的 工资 发 了 吗 ？
+我 还 有 借款 没有 处理 呢
+suid=s12 participant=137903
+你 的 好像 是 *pro* 扣下 了 因为 *pro* 没 处理 完
+suid=s13 participant=137931
+哦哦 ， *pro* 有空 再 去 处理 吧 我 的 钱 啊 [ 表情 ]
+suid=s14 participant=137903
+*pro* 是 啊 ， *pro* 抓紧 处理 了 *pro* 好 发 你 工资
+suid=s15 participant=137903
+好像 *pro* 就 是 因为 借款 的 事情 了
+suid=s16 participant=137931
+*pro* 对 啊 ， 不过 *pro* 要 给 张 总 打 电话 ， 有些 钱 不 是 我 能 处理 的 ， *pro* 现在 还 有 *OP* *T*-1 新 的 贷款 吗 ？
+suid=s17 participant=137903
+这个 我 就 不 知道 *T*-1 了
+suid=s18 participant=137903
+*pro* 倒是 整天 看 着 杨 老师 出去
+suid=s19 participant=137931
+哈哈
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="145" end="148" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="221" end="224" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我2" start="327" end="330" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我3" start="424" end="427" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我4" start="468" end="471" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我5" start="641" end="644" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我6" start="840" end="843" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我7" start="992" end="995" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你0" start="103" end="106" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你1" start="377" end="380" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="277" end="280" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它1" start="581" end="584" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它2" start="595" end="598" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它3" start="702" end="705" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它4" start="774" end="777" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它5" start="825" end="828" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<他们 id="他们0" start="714" end="717" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他们 id="他们1" start="728" end="731" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<形式主语 id="形0" start="881" end="884" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="1" existential="0" />
+</TAGS>
+</ProTask>

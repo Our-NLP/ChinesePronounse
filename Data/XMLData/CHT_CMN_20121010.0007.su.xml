@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=134205
+《 参赛 必读 》 （ 上 、 下 ） ； 《 小学生 读书 知识 竞赛 冲刺 试卷 》
+suid=s1 participant=133047
+*pro* 知道 了 。
+丫头 看 得 完 不 ？
+suid=s2 participant=133047
+我 觉得 这 是 老师 和 书店 在 勾结 卖 书 。
+suid=s3 participant=134205
+*pro* 不 知道 ， 老师 建议 家长 *PRO* 帮 着 抄 答案 然后 让 小孩 *PRO* 背 。
+suid=s4 participant=134205
+这 两 本 是 *pro* 建议 *pro* 买 。
+suid=s5 participant=134205
+老师 说 他 也 不 知道 哪 有 的 卖 ， 自己 去 找
+suid=s6 participant=133047
+*pro* 知道 了 。
+suid=s7 participant=133047
+*pro* 先 把 *OP* *pro* 买 *T*-1 的 弄完 *-2 再说 。
+suid=s8 participant=133047
+*pro* 进去 了 。
+丫头 要 睡 了 。
+suid=s9 participant=133047
+*pro* 在 么 ？
+suid=s10 participant=134205
+微信
+suid=s11 participant=133047
+微信 关 了 。
+suid=s12 participant=133047
+*pro* 还 没 回 么 ？
+suid=s13 participant=134205
+语音 消息
+suid=s14 participant=134205
+你 上 微信 啊 ！
+suid=s15 participant=134205
+？
+suid=s16 participant=133047
+z
+suid=s17 participant=134205
+*pro* 房间 里 ？
+suid=s18 participant=133047
+我 是 说 *pro* 没 人 招待 你们 ？
+suid=s19 participant=134205
+*pro* 还 没 睡 ？
+suid=s20 participant=133047
+*pro* 没 呢 。
+*pro* 还 在 看 。
+suid=s21 participant=134205
+哦
+suid=s22 participant=134205
+浙江 台 又 出来 个 新 节目
+suid=s23 participant=133047
+哦
+suid=s24 participant=134205
+*pro* 睡 吧
+suid=s25 participant=134205
+我 睡 了 。
+suid=s26 participant=133047
+*pro* 好 的 。
+我 再 看 会儿 。
+*pro* 今天 有 兴趣 看 。
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="101" end="104" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="209" end="212" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我2" start="403" end="406" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我3" start="443" end="446" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我4" start="458" end="461" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我5" start="513" end="516" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我6" start="984" end="987" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我7" start="996" end="999" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我8" start="1240" end="1243" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你0" start="564" end="567" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你1" start="672" end="675" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你2" start="849" end="852" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你3" start="942" end="945" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你4" start="1143" end="1146" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="1217" end="1220" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<我们 id="我们0" start="308" end="311" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他们 id="他们0" start="299" end="302" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<形式主语 id="形0" start="896" end="899" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="1" existential="0" />
+</TAGS>
+</ProTask>

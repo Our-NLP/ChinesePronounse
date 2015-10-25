@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=134115
+*pro* 还 没 审核
+suid=s1 participant=134115
+啥 事
+suid=s2 participant=131226
+马 姨 ， 我 失忆 了 。
+suid=s3 participant=131226
+我 忘记 *pro* 今年 有没有 给 工程师们 付 费用 了 ？
+suid=s4 participant=134115
+你 和 卢 总 说 了 吗
+suid=s5 participant=131226
+*pro* 就 是 建筑 资质 *pro* 用 工程师 的 证件
+suid=s6 participant=131226
+*pro* 有没有 给 2013年 的 钱
+suid=s7 participant=131226
+一 个 人 是 3000 或是 4000 的
+suid=s8 participant=131226
+我 没 说 。
+suid=s9 participant=134115
+这个 我 要 查 一下 帐
+suid=s10 participant=131226
+我 忘 了 *pro* 有没有 在 你 那里 支 过 这 个 钱 ？
+suid=s11 participant=134115
+*pro* 好 的
+suid=s12 participant=131226
+你 帮 我 *PRO* 查 下 吧 。
+suid=s13 participant=131226
+33000 是 对 的
+suid=s14 participant=131226
+*pro* 是 上 个 月 汇 的 ？
+suid=s15 participant=131226
+几号 ？
+suid=s16 participant=134115
+5.28
+suid=s17 participant=131226
+*pro* 不 对 吧 ？
+suid=s18 participant=131226
+你 看 *pro* 是 哪 年 的 ？
+suid=s19 participant=131226
+*pro* 是 今年 的 吗 ？
+suid=s20 participant=131226
+5月28 我 在 北京 学习
+suid=s21 participant=131226
+*pro* 走 之前 我 写 单子 了 吗 ？
+suid=s22 participant=131226
+我 怎么 一点儿 没 印象
+suid=s23 participant=131226
+马 姨 ， 刘静 刚才 打 电话 问 酒 钱 的 事
+suid=s24 participant=131226
+单子 *pro* 签 了 *T*-1 吗 ？
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="147" end="150" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="304" end="307" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我2" start="486" end="489" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我3" start="961" end="964" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你0" start="1113" end="1116" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="29" end="32" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它1" start="244" end="247" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它2" start="543" end="546" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它3" start="669" end="672" text="pro" generic="1" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它4" start="783" end="786" text="pro" generic="0" referential="1" event="1" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它5" start="829" end="832" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它6" start="873" end="876" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<他们 id="他们0" start="260" end="263" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

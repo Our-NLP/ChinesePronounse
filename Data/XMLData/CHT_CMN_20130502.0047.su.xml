@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=137696
+你 不 是 5月 4号 生日 么
+suid=s1 participant=137696
+*pro* 怎么 又 变成 6号 啦
+suid=s2 participant=131603
+*pro* 对 哒 ~ 我 5月 4 出生 ， 但 身份证 上 是 5月 6 ， 所以 大家 经常 搞 不 清楚 ， 不过 *pro* 没 关系 ， 我 一般 不 过 生日 ， 哈哈 ， 如果 *pro* 要 过 ， *pro* 就 随便 过 哪 一 个 都 好 。
+suid=s3 participant=131603
+如果 *pro* 过 两 个 ， *pro* 就 吃 两 个 蛋糕 [ 表情 ]
+suid=s4 participant=137696
+[ 表情 ] 那 等 郭枞 回来 *pro* 给 你 补 一 个 吧 ， 不过 我 6好 下午 要 拔牙 ， 估计 *pro* 要 昏死 一 晚 。。。
+suid=s5 participant=137696
+*pro* 就 是 整 牙 啊
+suid=s6 participant=137696
+*pro* 需要 把 上面 两 颗 牙 拔 *-1 了
+suid=s7 participant=137696
+*pro* 已经 拔 了 一 颗 ， 痛 的 死去活来
+suid=s8 participant=137696
+*pro* 整 牙 。。。
+suid=s9 participant=137696
+*pro* 就 是 *pro* 戴 牙套 而已 啦
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="216" end="219" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="228" end="231" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我2" start="283" end="286" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我3" start="297" end="300" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我4" start="365" end="368" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我5" start="406" end="409" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我6" start="452" end="455" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我7" start="495" end="498" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我8" start="550" end="553" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我9" start="605" end="608" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我11" start="656" end="659" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="73" end="76" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它1" start="119" end="122" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它2" start="181" end="184" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它3" start="646" end="649" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

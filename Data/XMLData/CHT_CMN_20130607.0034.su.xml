@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=135780
+美女 你 好 *pro* 乐意 *PRO* 交 个 朋友 么
+suid=s1 participant=135780
+[ 表情 ] *pro* 不 乐意 么 ？
+suid=s2 participant=135780
+*pro* 不 乐意 *pro* 还 啄 人家
+suid=s3 participant=131060
+*pro* 羞羞
+suid=s4 participant=135780
+*pro* 为什么 啊 美女
+suid=s5 participant=135780
+*pro* 交 个 朋友 可以 吗
+suid=s6 participant=131060
+嗯 。。。
+suid=s7 participant=131060
+我 想想
+suid=s8 participant=135780
+[ 图片 ] 我 人 很 好 的
+suid=s9 participant=135780
+*pro* 能文能武 [ 图片 ]
+suid=s10 participant=135780
+[ 图片 ] *pro* 还 会 陪 你 *PRO* 吹 泡泡
+suid=s11 participant=135780
+*pro* 还 能 抱 着 你 睡觉 摇摇摇 [ 图片 ]
+suid=s12 participant=135780
+*pro* 怎么 啦 ？
+suid=s13 participant=131060
+猫猫 ！
+suid=s14 participant=131060
+我 回来 啦 ！
+suid=s15 participant=135780
+这 位 美女 要 *PRO* 叫 朋友 么
+suid=s16 participant=131060
+*pro* 看 你 头像 这么 可爱
+suid=s17 participant=131060
+*pro* 就 勉强 答应 了
+suid=s18 participant=135780
+[ 图片 ] 美女 你 怎么 这么 喜欢 这 个 鸟 啊
+suid=s19 participant=131060
+*pro* 突然 发现
+suid=s20 participant=131060
+头像 就 是 猫猫 诶
+suid=s21 participant=131060
+嘿嘿嘿
+suid=s22 participant=135780
+嘿嘿嘿
+suid=s23 participant=135780
+美女 你 怎么 笨笨 的 啊
+suid=s24 participant=135780
+[ 图片 ] 我 这里 怎么 这样 啊
+suid=s25 participant=131060
+诶
+suid=s26 participant=131060
+*pro* 是 这样 的 啊
+suid=s27 participant=131060
+猫猫 刷 一下 ！
+suid=s28 participant=131060
+恩恩 ！
+suid=s29 participant=131060
+*pro* 喜欢 那 个 鸟
+suid=s30 participant=131060
+*pro* 是 因为 *pro* 跟 有 个 *OP* *T*-1 笨笨 的 猫猫 很 像 啦
+suid=s31 participant=135780
+哦 ？
+suid=s32 participant=135780
+美女 你 很 喜欢 猫 么 ？
+suid=s33 participant=131060
+*pro* 挺 喜欢 的 不过 *pro* 最 喜欢 其中 一 只
+suid=s34 participant=135780
+[ 图片 ] 这样 的
+suid=s35 participant=135780
+哇 ！
+suid=s36 participant=135780
+*pro* 不 好玩 ！
+suid=s37 participant=135780
+*pro* 应该 女神 一点
+suid=s38 participant=135780
+呵呵 ， 我 去 洗澡 了
+suid=s39 participant=135780
+这样 的
+suid=s40 participant=131060
+*pro* 这样 吗
+suid=s41 participant=135780
+*pro* 才 不 女神 那 ！
+suid=s42 participant=135780
+*pro* 抱住
+suid=s43 participant=131060
+炫酷 型 的
+suid=s44 participant=131060
+*pro* 喜欢 吗 ？
+suid=s45 participant=131060
+[ 图片 ] 女神 型
+suid=s46 participant=135780
+[ 图片 ] *pro* 还 可以
+suid=s47 participant=135780
+*pro* 都 是 我 的
+suid=s48 participant=135780
+*pro* 都 要 了
+suid=s49 participant=135780
+哼哼
+suid=s50 participant=131060
+嘿嘿
+suid=s51 participant=135780
+我 是 大爷 型 的
+suid=s52 participant=131060
+*pro* 是 *pro* 是
+suid=s53 participant=131060
+*pro* 伺候 大爷
+suid=s54 participant=131060
+*pro* 给 捏捏 腿
+suid=s55 participant=135780
+*pro* 过来 让 大爷 *PRO* 亲 一下 嘴
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="223" end="226" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="419" end="422" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我2" start="472" end="475" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我3" start="525" end="528" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我4" start="744" end="747" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我5" start="791" end="794" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我6" start="892" end="895" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我7" start="1271" end="1274" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我8" start="1466" end="1469" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我9" start="1482" end="1485" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我10" start="1759" end="1762" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我11" start="1843" end="1846" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我12" start="2003" end="2006" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我13" start="2084" end="2087" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我14" start="2269" end="2272" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我15" start="2309" end="2312" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你0" start="36" end="39" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你1" start="94" end="97" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你2" start="136" end="139" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你3" start="147" end="150" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你4" start="187" end="190" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你5" start="583" end="586" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你6" start="1600" end="1603" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你7" start="1641" end="1644" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你8" start="1798" end="1801" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你9" start="1915" end="1918" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你10" start="2350" end="2353" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="1157" end="1160" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它1" start="1314" end="1317" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它2" start="1325" end="1328" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它3" start="2225" end="2228" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它4" start="2233" end="2236" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<我们 id="我们0" start="265" end="268" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它们 id="它们0" start="2042" end="2045" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=135707
+策策 新年 快乐 ……
+suid=s1 participant=135688
+*pro* 新年 快乐 ~~~ 我 现在 是 晚上 吼
+suid=s2 participant=135707
+我 以为 *pro* 回家 了 呢
+suid=s3 participant=135688
+我 开学 一 个 月 了 。。。
+suid=s4 participant=135707
+我 又 无知 鸟 …… [ 表情 ]
+]]></TEXT>
+<TAGS>
+<你 id="你0" start="68" end="71" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你1" start="128" end="131" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

@@ -4,6 +4,7 @@ import re
 class CheckPro(xml_parser):
     def __init__(self,data_path,output_path):
         xml_parser.__init__(self,data_path,output_path);
+        self.cur_file
         
     def Check(self,root,out_file):
         texts= root[0].text.splitlines()
@@ -35,12 +36,14 @@ class CheckPro(xml_parser):
                 pro_text_dict[pros_in_text[count]]=text
                 count+=1
         for dif in differences:
+            print self.cur_file
             print pro_text_dict[dif]
                           
     def multi_task(self):
         files=[x for x in os.listdir(self.data_path)]
         for file_name in files:
             if ".xml" in file_name:
+                self.cur_file=file_name
                 self.parse_xml(file_name,file_name.replace(".xml",".meta"),self.Check)
 
 if __name__=="__main__":

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=134193
+hey Nathan 前 几 天 注册 搬 东西 选 课 什么 的 弄 的 太 混乱 咯 *pro* 抱歉 *pro* 现在 才 和 你 联系 ！
+suid=s1 participant=134193
+3 . *pro* 有 指定 作者 吗 ？
+还是 当代 都 可以 ？
+suid=s2 participant=134193
+我 先 去 上课 咯 之后 我 再 联系 你 ~
+suid=s3 participant=133047
+*pro* 不好意思 ， 才 回来 。
+目前 我 还 没有 确定 指定 作者 。
+*pro* *PRO* 正在 寻觅 中 。
+suid=s4 participant=133047
+如果 *pro* 方便 ， *pro* 可以 找 一些 *OP* *T*-1 比较 主流 并且 多产 的 英籍 作家 的 作品 。
+suid=s5 participant=133047
+我 先 了解 一下 。
+目前 我 是 在 读 麦克尤恩 的 atonement 。
+其它 的 *pro* 麻烦 你 *PRO* 可以 了解 一下 *RNR*-2 ， 推荐 一下 *T*-1 。
+suid=s6 participant=133047
+我 是 半路 出家 搞 英国 文学 的 。
+*pro* 原来 是 语言学 。
+suid=s7 participant=133047
+今年 *pro* 开始 读 博士 ， 专攻 英国 文学 。
+*pro* 能 得到 你 的 帮助 *pro* 真是 太 感谢 了 。
+suid=s8 participant=133047
+*pro* 希望 *pro* 不 要 影响 你 的 学业 。
+电子版 格式 最好 有 pdf 的 吧 。
+*pro* 希望 *pro* 是 *OP* *T*-1 可以 copy 的 版本 。
+你 看 *pro* 怎么 方便 *pro* 怎么 弄 吧 。
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="74" end="77" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="244" end="247" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我2" start="285" end="288" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我3" start="474" end="477" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我4" start="573" end="576" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我5" start="620" end="623" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我6" start="647" end="650" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我7" start="665" end="668" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我8" start="710" end="713" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我9" start="763" end="766" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你0" start="337" end="340" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你1" start="348" end="351" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你2" start="810" end="813" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你3" start="822" end="825" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="134" end="137" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它1" start="719" end="722" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它2" start="772" end="775" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<其它 id="其0" start="83" end="86" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=136755
+篇章 页 就 好 了
+suid=s1 participant=137872
+*pro* 还 在 不 ？
+suid=s2 participant=136755
+*pro* 应该 可以 的
+suid=s3 participant=136755
+三 审 已经 快 结束 了
+suid=s4 participant=137872
+*pro* 太 好 了 我 发 你 邮箱 啦
+suid=s5 participant=136755
+*pro* qq 邮箱 吗 ？
+suid=s6 participant=137872
+*pro* 是 的
+suid=s7 participant=136755
+我 收到 了
+suid=s8 participant=136755
+*pro* 谢谢
+suid=s9 participant=137872
+*pro* 应该 的 呵呵
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="354" end="357" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="390" end="393" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="67" end="70" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它1" start="108" end="111" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它2" start="190" end="193" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它3" start="283" end="286" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<其它 id="其0" start="240" end="243" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

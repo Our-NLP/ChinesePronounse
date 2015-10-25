@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=133148
+今天 谁 在 啊 ？
+*pro* 准备 *PRO* 吃饭 啦
+suid=s1 participant=133148
+小胡 在
+suid=s2 participant=133148
+小曹 可能 也 在
+suid=s3 participant=133177
+*pro* 都 在
+suid=s4 participant=133148
+哦
+suid=s5 participant=133177
+小曹 找 小胡 *PRO* 开会 去 了
+suid=s6 participant=133148
+*pro* 开会 ？？？
+suid=s7 participant=133148
+*pro* 讨论 网络 宣传 之类 的 事情 吧
+suid=s8 participant=133148
+哦哦 ， 我 先 去 解决 人生 大事 ， 一会儿 来 找 你们 啊
+suid=s9 participant=133177
+*pro* 好 的 ~
+]]></TEXT>
+<TAGS>
+<它 id="它0" start="424" end="427" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<我们 id="我们0" start="40" end="43" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他们 id="他们0" start="156" end="159" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他们 id="他们1" start="270" end="273" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他们 id="他们2" start="310" end="313" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

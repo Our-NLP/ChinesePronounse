@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=134726
+嘿嘿 。
+我 老板 想 你们 帮忙 *PRO* 拍 几 张 韩国 餐馆 的 照片 。
+*pro* 就 挑 两 个 *OP* *T*-1 比较 大 或者 出名 的 。
+*pro* 每 个 拍 个 三 四 个 角度 就 行 ， *pro* 不 用 进去 ， 就 拍 门面 外围 。
+你 看 *pro* 方便 么 ？
+suid=s1 participant=134167
+我 试试 看 ， 我 还 不 知道 我们 这里 的 韩国 餐馆 在 哪里 呢
+suid=s2 participant=134726
+他 说 *pro* 可以 给 你们 地址
+suid=s3 participant=134726
+不过 我 觉得 你们 自己 挑 *pro* 可能 会 方便 自己 一些
+suid=s4 participant=134726
+你们 看 吧 。
+*pro* 如果 需要 地址 我 给 你 发
+suid=s5 participant=134167
+*pro* 有 地址 的话 ， *pro* 可以 发 过来 参考 一下
+suid=s6 participant=134726
+*pro* OK ， *pro* 晚些 给 你 发 邮箱 。
+*pro* 谢谢 咯 [ 表情 ]
+suid=s7 participant=134167
+我 很少 出去 吃饭 ， 所以 *pro* 不 是 很 知道 [ 表情 ]
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="522" end="525" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="542" end="545" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我2" start="603" end="606" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你6" start="448" end="451" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你7" start="464" end="467" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他 id="他0" start="282" end="285" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="511" end="514" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<你们 id="你们1" start="72" end="75" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你们 id="你们2" start="112" end="115" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你们 id="你们3" start="141" end="144" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你们 id="你们4" start="172" end="175" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你们 id="你们5" start="342" end="345" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你们 id="你们6" start="398" end="401" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

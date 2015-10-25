@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=137803
+公鸡仔
+suid=s1 participant=137803
+我 突然 想到 我 勒 小 U盘 *pro* 都 用 哦 好多 年 *T*-1 哦 ！
+suid=s2 participant=137833
+嘿嘿嘿 我 勒 还 不 是 勒
+suid=s3 participant=137833
+哎哟 我 觉得 这 个 相机 还是 有点 傻瓜 嘿嘿
+suid=s4 participant=137803
+效果 咋样 ？
+suid=s5 participant=137833
+效果 倒是 还是 可以 不过 *pro* 对焦 是 自动 对 勒 所以 *pro* 有点 小 不爽
+suid=s6 participant=137803
+*pro* 不 能 切换 啊 ？
+suid=s7 participant=137833
+*pro* 不 能 勒 嘿嘿 *pro* 就 是 傻瓜 相机 ~
+suid=s8 participant=137833
+*pro* 才 400多 刀咯 嘛 *pro* 差不多 就 这些 功能 咯
+suid=s9 participant=137803
+为哟
+suid=s10 participant=137803
+我 准备 *PRO* 回家 哦 哈 *pro* 等哈 见
+suid=s11 participant=137833
+*pro* 哦 了
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="77" end="80" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="299" end="302" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="278" end="281" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它1" start="340" end="343" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它2" start="384" end="387" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它3" start="399" end="402" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它4" start="444" end="447" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它5" start="462" end="465" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它6" start="597" end="600" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<我们 id="我们0" start="558" end="561" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

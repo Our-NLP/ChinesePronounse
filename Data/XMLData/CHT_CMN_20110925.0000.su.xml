@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=137817
+*pro* 在 不
+suid=s1 participant=137803
+*pro* 在
+suid=s2 participant=137817
+你 寒假 回去 吗
+suid=s3 participant=137803
+*pro* 应该 不 回
+suid=s4 participant=137817
+哦 那 你 寒假 会 在 费城 不
+suid=s5 participant=137803
+*pro* 不 确定 勒 可能 我 妈妈 要 过来 玩 *pro* 到时候 可能 会 带 她 *PRO* 去 别的 地方
+suid=s6 participant=137817
+哦 *pro* 好 嘛
+suid=s7 participant=137803
+你 呢 ？
+suid=s8 participant=137817
+我 想 *PRO* 回去 但 *pro* 不 确定 *pro* 如果 不 去 我 和 朋友 想 *PRO* 去 费城
+suid=s9 participant=137803
+哦 ~~ 那 时候 *pro* 联系 嘛 ~~
+suid=s10 participant=137817
+恩 *pro* 好
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="66" end="69" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="138" end="141" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我2" start="223" end="226" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我3" start="398" end="401" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我4" start="409" end="412" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你0" start="29" end="32" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="313" end="316" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它1" start="523" end="526" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<我们 id="我们0" start="479" end="482" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<形式主语 id="形0" start="251" end="254" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="1" existential="0" />
+</TAGS>
+</ProTask>

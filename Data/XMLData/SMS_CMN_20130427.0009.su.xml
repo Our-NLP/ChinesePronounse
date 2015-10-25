@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=130530
+我 问 了 现在 我们 少 一 个 人 你 有没有 朋友 想 *PRO* 加入 ， *pro* 大概 44 刀 一 个 人 每 个 人 分 1 g *pro* 打 电话 和 发 短信 免费
+suid=s1 participant=131802
+*pro* 加入 我们 这 个 FAMILY PLAN 才 行 ？
+还是 其他 FAMILY PLAN 的 人 也 可以 ？
+suid=s2 participant=131802
+*pro* 不好意思 我 在 辅导 小孩 ， 只 能 短信
+suid=s3 participant=130530
+*pro* 要 从 他们 那 转 出来
+suid=s4 participant=130530
+*pro* 就 是 那 条 线 日期 还是 不 变 只是 他们 plan 就 少 一 个 人 了 所以 *pro* 到 没 到期 都 没 关系
+suid=s5 participant=131802
+然后 *pro* 再 加入 我们 这 个 PLAN 才 行 ？
+suid=s6 participant=130530
+只是 原来 plan 就 从 5 个 人 变 4 个 了
+suid=s7 participant=131802
+我 有 朋友 是 INDIVIDUAL PLAN 的 ， *pro* 也 可以 加入 我们 么 ？
+suid=s8 participant=130530
+那 *pro* 太 好 了
+suid=s9 participant=130530
+*pro* 就 更 方便 了
+suid=s10 participant=130530
+你 问 他 *pro* 要是 同意 我 下 周 问问 *pro* 怎么 办理
+suid=s11 participant=131802
+我 问问 她 先 到时 *pro* 给 你 回复 哈
+suid=s12 participant=130530
+*pro* 好 的 *pro* 谢谢 *pro* 现在 少 一 个 人
+suid=s13 participant=131802
+*pro* 加入 我们 以后 她 那边 话费 也 会 降低 *pro* 对 吧 ？
+suid=s14 participant=130530
+*pro* 就 是 他 不 是 individual 了
+suid=s15 participant=130530
+*pro* 其实 现在 是 和 别的 family 分 10 个 人 分 10 g
+suid=s16 participant=130530
+如果 我们 5 个 人 分 *pro* 就 是 大概 50 刀
+suid=s17 participant=130530
+你 觉得 呢 *pro* 是 5 个 人 分 算了 还是 10 个 人 分 ？
+suid=s18 participant=131802
+她 还 会 呆 半 年 吧 ， 但 *pro* 还 没 完全 确定 ， 我 要 再 问问 她
+suid=s19 participant=130530
+*pro* 就 是 每 个 月 *pro* 多 5 *RNR*-1 - 6 刀
+suid=s20 participant=130530
+你 朋友 还 要 呆 多久 ？
+suid=s21 participant=130530
+5 个 人 就 没 那么 复杂
+suid=s22 participant=130530
+*pro* 看 你们 意愿 吧
+suid=s23 participant=130530
+喔 那 *pro* 就 有点 短
+suid=s24 participant=131802
+5 *RNR*-1 ， 6 刀 问题 不 大 ， 我 无所谓
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="241" end="244" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="799" end="802" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我2" start="852" end="855" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他 id="他0" start="151" end="154" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他 id="他1" start="298" end="301" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他 id="他2" start="447" end="450" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他 id="他3" start="588" end="591" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他 id="他4" start="677" end="680" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他 id="他5" start="726" end="729" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<她 id="她1" start="906" end="909" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<她 id="她2" start="1249" end="1252" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="71" end="74" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它1" start="345" end="348" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它2" start="397" end="400" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它3" start="638" end="641" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它4" start="747" end="750" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它5" start="842" end="845" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它6" start="936" end="939" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它7" start="976" end="979" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它8" start="1033" end="1036" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它9" start="1306" end="1309" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它10" start="1322" end="1325" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它11" start="1462" end="1465" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<我们 id="我们0" start="103" end="106" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我们 id="我们1" start="861" end="864" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我们 id="我们2" start="1117" end="1120" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我们 id="我们3" start="1170" end="1173" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<形式主语 id="形0" start="1510" end="1513" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="1" existential="0" />
+</TAGS>
+</ProTask>

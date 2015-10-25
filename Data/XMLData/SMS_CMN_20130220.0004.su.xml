@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=133413
+*pro* 问 下 你 有 李 哥 电话 么 他 的 电话 有点 多 我 分 不 出来 到底 哪个 是 他 号码 你 有 他 号码 么 各 种 号码 *pro* 都 给 我 几 个 *T*-1 我 怕 找 不 到 他 人 你 要 有 的话 *pro* 多 给 我 几 个 *pro* 谢谢
+suid=s1 participant=133459
+额 ， 他 好像 经常 用 网络 电话 所以 电话 变來变去
+suid=s2 participant=133413
+啊 *pro* 晕 那 *OP* 你 *T*-1 发货 的 时候 *pro* 怎么 联系 他 啊
+suid=s3 participant=133459
+额 ， qq
+suid=s4 participant=133413
+*pro* 晕 *pro* 服 了 你 了 那 你 给 我 个 他 QQ 吧
+suid=s5 participant=133459
+或者 邮件
+suid=s6 participant=133413
+那 你 有 他 QQ 和 邮件 地址 么 我 要 联系 一下 他
+suid=s7 participant=133413
+*pro* 好 的 *pro* 谢谢 我 找 下 他
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="29" end="32" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="165" end="168" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我2" start="261" end="264" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我3" start="369" end="372" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我4" start="377" end="380" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我5" start="538" end="541" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你0" start="104" end="107" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你1" start="149" end="152" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你2" start="292" end="295" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="528" end="531" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

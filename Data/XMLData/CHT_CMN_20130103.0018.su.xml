@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=137652
+Hi
+suid=s1 participant=131603
+*pro* 干 什么 ？
+suid=s2 participant=137652
+*pro* 出国 都 要 办 什么 手续 ?
+suid=s3 participant=131603
+*pro* 不 知道
+suid=s4 participant=137652
+你 不 是 出 过 ...
+suid=s5 participant=131603
+你 已经 骂 过 我 了 ， 我 不 想 *PRO* 跟 你 再 有 交集
+suid=s6 participant=137652
+?
+suid=s7 participant=131603
+*pro* 88
+suid=s8 participant=137652
+什么 时候
+suid=s9 participant=137652
+*pro* 怎么 突然 变 了 ?
+suid=s10 participant=131603
+我 现在 在 忙 ， 以后 回 你
+suid=s11 participant=131603
+*pro* 请问 你 知道 *pro* 有 什么 好 方法 可以 下载 哈弗 大学 《 幸福 公开课 》 全 套 23 集 吗 ？
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="149" end="152" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="483" end="486" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你0" start="59" end="62" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你1" start="99" end="102" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你2" start="391" end="394" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我们 id="我们0" start="322" end="325" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<形式主语 id="形0" start="497" end="500" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="1" existential="0" />
+</TAGS>
+</ProTask>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=136892
+你 电脑 有没有 换 过 *-1 啊
+suid=s1 participant=136868
+你 说 笔记本 啊
+suid=s2 participant=136892
+嗯
+suid=s3 participant=136868
+*pro* 没有 啊 我 现在 用 啊 *pro* 不 用 的
+suid=s4 participant=136868
+家里 就 用 ipad 上上网
+suid=s5 participant=136892
+我 的 也 开始 慢 了 *pro* 想 *PRO* 带 出去 的话 *pro* 还是 换 一 只
+suid=s6 participant=136892
+HP 真是 不 行 啊
+suid=s7 participant=136868
+*pro* 对 呀 你 出国 *pro* 肯定 买 个 *OP* *T*-1 轻便 的 吧
+suid=s8 participant=136892
+这 只 是 *pro* 不 知道 *pro* 什么 时候 就 崩溃 了
+suid=s9 participant=136868
+嗯 *pro* 买 个 *OP* *T*-1 新 的
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="141" end="144" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="161" end="164" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我2" start="256" end="259" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我3" start="278" end="281" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我4" start="438" end="441" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你0" start="374" end="377" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你1" start="497" end="500" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="359" end="362" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它1" start="449" end="452" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

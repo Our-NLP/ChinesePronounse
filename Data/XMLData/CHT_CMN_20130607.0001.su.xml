@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=132634
+*pro* 回国 了 没 ？
+suid=s1 participant=131944
+*pro* 没有 ， *pro* 周末 回 ， 你 呢 ？
+suid=s2 participant=132634
+我 周六 凌晨 的 飞机
+suid=s3 participant=131944
+咱们 拓 工 终于 回 啦 ：） ，
+suid=s4 participant=132634
+*pro* 是 的 ， *pro* 高兴 极 了 ， 哈哈
+suid=s5 participant=132634
+*pro* 比 你 回 的 还 早 ， 哈哈
+suid=s6 participant=131944
+*pro* 是 啊 ， *pro* 刚好 赶上 *pro* 回家 过节 ， *OP* *T*-1 接替 你 的 是 谁 啊 ？
+suid=s7 participant=132634
+*pro* 没有 人 来 呀
+suid=s8 participant=132634
+*pro* 暂时 没 人 来 。
+suid=s9 participant=131944
+霍 不 让 *pro* 过来 啊 ？
+suid=s10 participant=132634
+*pro* 不 知道
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="71" end="74" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="82" end="85" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我2" start="226" end="229" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我3" start="271" end="274" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我4" start="333" end="336" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我5" start="345" end="348" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我6" start="545" end="548" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你0" start="29" end="32" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="214" end="217" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它1" start="321" end="324" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<他们 id="他们0" start="504" end="507" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<形式主语 id="形0" start="412" end="415" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="1" existential="0" />
+<形式主语 id="形1" start="454" end="457" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="1" existential="0" />
+</TAGS>
+</ProTask>

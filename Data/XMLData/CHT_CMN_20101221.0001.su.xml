@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=138487
+*pro* 在 ？
+suid=s1 participant=138487
+我 只是 想 问 ， 师姐 你 大二 第二 学期 的 书 还 在 吗 ？
+*pro* 可以 给 我 吗 ？
+suid=s2 participant=135882
+*pro* 什么 书 ？
+suid=s3 participant=138487
+什么 *pro* 都 要 *T*-1 *pro* 行 吗 [ 表情 ]
+suid=s4 participant=138487
+还是 你 要 拿 过去 ？
+suid=s5 participant=135882
+噢 ， *pro* 应该 齐全 的 。
+你 找天 来 我 宿舍 拿 吧
+suid=s6 participant=138487
+[ 表情 ] *pro* 谢谢 师姐
+suid=s7 participant=138487
+*pro* 有 直系 的 师姐 真 好
+suid=s8 participant=135882
+我 不 带 过去 吧 应该 ~ 就算 *pro* 带 的话 我 其他 舍友 的 也 可以 给 你 *-1 的 呵呵
+suid=s9 participant=135882
+*pro* 不 客气 撒
+suid=s10 participant=135882
+*OP* 你 *T*-1 过来 的 时候 *pro* 给 我 打 个 电话 就 行
+suid=s11 participant=138487
+嗯嗯
+suid=s12 participant=138487
+你 怎么 会 转变 观念 ， 在 群 上 吼 说 *pro* 要 出去 的 ？
+suid=s13 participant=135882
+恩 …… *pro* 就 是 趁机 说 一下 而已 ， *pro* 不 要 到时候 大家 觉得 我 什么 都 没 说 *-1 就 走 了
+suid=s14 participant=135882
+*pro* 好像 *pro* 没 把 大家 当 *-1 朋友 一样
+suid=s15 participant=138487
+嗯嗯
+suid=s16 participant=138487
+*pro* 还 有 一些 手尾 要 搞 吧 ？
+suid=s17 participant=138487
+你 想 *PRO* 去 边度食 啊 ？
+suid=s18 participant=135882
+恩 ， *OP* *T*-1 最 痛苦 的 是 *pro* 还 要 考完 辅修 那些 才 走
+suid=s19 participant=138487
+或者 ， 你 都 去 了 哪里 吃 ？
+suid=s20 participant=135882
+呵呵 ， *pro* 都 行 。
+我 都 可以 的 。
+*pro* 最近 去 了 日本 寿司 、 火锅 自助 、 百度 烤肉 这些 咯
+suid=s21 participant=135882
+我 去 刷牙 啦 。
+你 也 早点 睡 ~
+suid=s22 participant=138487
+嗯嗯
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="190" end="193" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="361" end="364" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我2" start="400" end="403" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我3" start="466" end="469" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我4" start="747" end="750" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我6" start="1056" end="1059" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我7" start="1160" end="1163" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我8" start="1183" end="1186" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我5" start="848" end="851" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你0" start="29" end="32" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你1" start="103" end="106" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你2" start="532" end="535" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你3" start="699" end="702" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你4" start="932" end="935" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你5" start="594" end="597" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它1" start="206" end="209" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<它们 id="它们0" start="295" end="298" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<形式主语 id="形0" start="770" end="773" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="1" existential="0" />
+<形式主语 id="形1" start="839" end="842" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="1" existential="0" />
+<其它 id="其1" start="147" end="150" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

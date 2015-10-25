@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=138141
+你 咋 也 没 休 啊
+suid=s1 participant=138136
+俺 在家 呢
+suid=s2 participant=138136
+你 加班 那 ？
+suid=s3 participant=138141
+*pro* 在家 *pro* 起 这么 早
+suid=s4 participant=138141
+今天 俺 值班
+suid=s5 participant=138141
+明天 俺 休假
+suid=s6 participant=138136
+呵呵
+suid=s7 participant=138136
+我 睡 不 着
+suid=s8 participant=138136
+昨晚 *pro* 1点 才 睡 呢
+suid=s9 participant=138141
+*pro* 怎么 了 ？
+suid=s10 participant=138136
+*pro* 去 苏州 *pro* 夜里 回来 的
+suid=s11 participant=138141
+哦 ， 你 去 度假 了
+suid=s12 participant=138136
+*pro* 玩 两 天 而已
+suid=s13 participant=138136
+嘿嘿
+suid=s14 participant=138141
+你 单位 组织 的 ？
+suid=s15 participant=138136
+宣传部 组织 的
+suid=s16 participant=138141
+哦
+suid=s17 participant=138136
+股票 最近 如何 了
+suid=s18 participant=138141
+*pro* 还 那样 啊
+suid=s19 participant=138136
+呵呵 ， *pro* 哪样 呀 ？
+suid=s20 participant=138141
+我 把 002180 这 只 大 牛股 放走 *-1 了 [ 表情 ]
+suid=s21 participant=138136
+牛股 多 着 呢
+suid=s22 participant=138141
+我 还 放着 00970 啊
+suid=s23 participant=138141
+我 的 002180 是 割肉 走 的 啊
+suid=s24 participant=138141
+我 刚 走 它 就 大 涨
+suid=s25 participant=138136
+庄家 在 你 屁股 后面 ， 你 难道 忘 了
+suid=s26 participant=138136
+你 还 在 那 个 收费群 吗 ？
+suid=s27 participant=138141
+我 早 出来 了
+suid=s28 participant=138136
+现在 呢 ？
+suid=s29 participant=138141
+他们 早 闹翻 了
+suid=s30 participant=138136
+哎
+suid=s31 participant=138136
+*pro* 不 团结
+suid=s32 participant=138141
+人 啊 ， *pro* 只要 涉及 到 金钱 和 利益 就 反目成仇
+suid=s33 participant=138136
+*pro* 不 太 好
+suid=s34 participant=138141
+这 就 是 *OP* *T*-1 丑陋 的 中国人
+suid=s35 participant=138136
+呵呵 ， 你 现在 自己 找 票 ？
+suid=s36 participant=138141
+*pro* 是 啊
+suid=s37 participant=138136
+自己 找 ， 也 很 好 的
+suid=s38 participant=138141
+捏 是
+suid=s39 participant=138136
+我 是 一边 自己 找 ， 一边 跟 别人
+suid=s40 participant=138141
+当初 002180 就 是 *OP* 我 自己 找 *T*-1 的 ， 可 这个 说 *pro* 不 好 那个 说 *pro* 不 好 ， *pro* 害 的 我 *pro* 养大 了 放走 了
+suid=s41 participant=138141
+你 跟 他们 做 的 好 吗
+suid=s42 participant=138136
+*pro* 刚 准备 *PRO* 开始
+suid=s43 participant=138136
+他们 还 行
+suid=s44 participant=138141
+哦
+suid=s45 participant=138136
+技术 很 高 的
+suid=s46 participant=138136
+收费 较 低
+suid=s47 participant=138136
+*OP* 我 现在 自己 找 *T*-1 的 票 ， 也 很 好 的
+suid=s48 participant=138141
+恩
+suid=s49 participant=138141
+以后 *pro* 相互 帮助 哈
+suid=s50 participant=138136
+嗯
+suid=s51 participant=138136
+*pro* 一直 跟 他们 学 着 技术 的
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="325" end="328" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="408" end="411" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我2" start="419" end="422" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我3" start="502" end="505" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我5" start="1858" end="1861" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我6" start="2211" end="2214" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你0" start="138" end="141" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你1" start="367" end="370" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="722" end="725" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它1" start="768" end="771" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它2" start="1526" end="1529" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它3" start="1732" end="1735" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它4" start="1747" end="1750" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它5" start="1759" end="1762" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<我们 id="我们0" start="2139" end="2142" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他们 id="他们0" start="1283" end="1286" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他们 id="他们1" start="1328" end="1331" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他们 id="他们2" start="1385" end="1388" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<其它 id="其0" start="147" end="150" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<其它 id="其1" start="1771" end="1774" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

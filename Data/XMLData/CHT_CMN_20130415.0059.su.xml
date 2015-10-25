@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=137903
+*OP* *pro* 看中 *T*-1 的 衣服 *pro* 怎么 找 你 *PRO* 拿 *T*-2 呢
+suid=s1 participant=137977
+亲 在 哪 啊
+suid=s2 participant=137903
+山大路
+suid=s3 participant=137977
+要不 哪 天 我 路过 捎 过去
+suid=s4 participant=137977
+[ 表情 ] 长裤 绿 的 lazy 定 了
+suid=s5 participant=137903
+浅灰 还 有 没 ？
+suid=s6 participant=137903
+3 岁 小朋友 ， 不 到 1 米 ， 能 穿 不 ？
+suid=s7 participant=137977
+[ 表情 ] *pro* 有
+suid=s8 participant=137977
+*pro* 会 不 会 长 啊 我 都 标 裤 长 了 亲 *pro* 最好 拿 小宝 的 裤子 量 下 不过 *OP* *T*-1 不 合适 的 包 退换
+suid=s9 participant=137977
+我 没 宝宝 *pro* 怕 *pro* 推荐 不 准 啊
+suid=s10 participant=137903
+*pro* 没 事 啊 ， *pro* 长 了 *pro* 就 折 一 块 就 行
+suid=s11 participant=137903
+*pro* 这么 便宜 ， *pro* 不 退 不 换
+suid=s12 participant=137977
+哈哈 你们 包 退换
+suid=s13 participant=137903
+我 从 你 店 里 拍 别的 吧 ， *pro* 帮 你 *PRO* 炒 一下
+suid=s14 participant=137977
+*pro* 先 不 用 亲 我 懒 还 没 弄好 我 给 你 记下 先 给 你 *pro* 什么 时候 弄好 我 通知 你 *pro* 再 拍
+suid=s15 participant=137903
+*pro* 好 来
+suid=s16 participant=137977
+你 是 白天 在 那 还是 晚上 啊
+suid=s17 participant=137903
+白天
+suid=s18 participant=137903
+我 单位 在 这边
+suid=s19 participant=137977
+山大 哪 啊 其实 我 倒是 经常 走 那
+suid=s20 participant=137903
+*pro* 就 是 山大路 和 和平路 交接口 ， 新东方 这里
+suid=s21 participant=137903
+老 浪潮
+suid=s22 participant=137977
+哦 *pro* 再 联系 我 看看 什么 时候 *pro* 有空 [ 表情 ]
+suid=s23 participant=137903
+*pro* 好 的 呢
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="34" end="37" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="54" end="57" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我2" start="518" end="521" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我3" start="593" end="596" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我4" start="653" end="656" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我5" start="753" end="756" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我6" start="842" end="845" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我7" start="1224" end="1227" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你0" start="435" end="438" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你1" start="802" end="805" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你2" start="864" end="867" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你3" start="1202" end="1205" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="405" end="408" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它1" start="569" end="572" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它2" start="583" end="586" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它3" start="639" end="642" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它4" start="902" end="905" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它5" start="1106" end="1109" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它6" start="1268" end="1271" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<形式主语 id="形0" start="370" end="373" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="1" existential="0" />
+<其它 id="其0" start="526" end="529" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

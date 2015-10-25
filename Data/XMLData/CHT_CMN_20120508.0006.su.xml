@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=138478
+师姐 您 好 ， *pro* 请问 您 在 吗 ？
+suid=s1 participant=135882
+*pro* 在 的
+suid=s2 participant=138478
+哈哈 ， *pro* 打扰 了 哦 ， 蓝斌 跟 你 说 了 情况 吗 ？
+suid=s3 participant=135882
+*pro* 说 了 ， 你 这 个 情况 很 急 吗 ？
+suid=s4 participant=135882
+我 刚好 要 出去 一下 ， 今晚 预答辩 ， 要 去 打印 论文
+suid=s5 participant=138478
+嗯嗯 *pro* 挺 急 的 *pro* 今晚 要 交 稿
+suid=s6 participant=138478
+噢
+suid=s7 participant=135882
+要不 你 直接 打 电话 给 我 好 吗
+suid=s8 participant=138478
+要不 你 先 去 忙 你 大概 几点 打印 回来 ？
+suid=s9 participant=138478
+*pro* 回来 我 再 打 电话 给 你 可以 吗
+suid=s10 participant=135882
+你 7点 前 随时 打来 都 行
+suid=s11 participant=138478
+*pro* 好 的 哦 。
+你 是 最近 刚 收到 了 国外 大学 的 录取 通知 *pro* 是 吗 ？
+suid=s12 participant=135882
+恩 ， *pro* 前 段 时间 收到 的
+suid=s13 participant=135882
+今年 8月 *pro* 要 去 读书
+suid=s14 participant=138478
+嗯嗯 *pro* 好 的 ， 那 我 等会 call 你 哦
+suid=s15 participant=138478
+你 先 忙 今晚 答辩 *pro* 加油 哦
+suid=s16 participant=135882
+[ 表情 ] *pro* 好 的 。
+你 最好 用 办公室 电话 打 哦 ， 我 的 是 中山 号 ， 电话费 比较 贵 哈
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="38" end="41" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="82" end="85" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我2" start="124" end="127" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我3" start="316" end="319" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我4" start="675" end="678" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我5" start="727" end="730" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你0" start="489" end="492" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你1" start="839" end="842" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他 id="他0" start="184" end="187" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="304" end="307" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它1" start="589" end="592" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它2" start="631" end="634" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它3" start="771" end="774" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

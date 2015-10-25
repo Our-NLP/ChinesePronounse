@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=133524
+张鹏 ， 在 不
+suid=s1 participant=133524
+*pro* 远程 给 你 看 一下
+suid=s2 participant=132065
+现在 么 ？
+suid=s3 participant=132065
+阳 工 那 个 药品 找到 了 没 ？
+suid=s4 participant=132065
+头孢 吡肟
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="65" end="68" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

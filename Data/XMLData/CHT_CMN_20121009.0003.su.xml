@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=136693
+*pro* 认识 *OP* *T*-1 开 旅馆 的 吗
+suid=s1 participant=136978
+*OP* *T*-1 有 协议 的 酒店 行 吗 ？
+*pro* 干 么 啊
+suid=s2 participant=136693
+大 酒店 吗 ， 还是 快捷 酒店
+suid=s3 participant=136693
+*pro* no
+suid=s4 participant=136978
+大 酒店 啊
+suid=s5 participant=136693
+我 想 *PRO* 开 一 家 快捷 酒店
+suid=s6 participant=136693
+*pro* 正在 考察 地段
+suid=s7 participant=136693
+具体 操作 流程 什么 的 *pro* 不 太 熟悉 *T*-1
+suid=s8 participant=136693
+*pro* 想 *PRO* 找 个 人 *PRO* 带带
+suid=s9 participant=136693
+*pro* 找 了
+suid=s10 participant=136978
+*pro* 这么 有 魄力 啊 ， 那 *pro* 就 找 陈彪 啊
+suid=s11 participant=136693
+我 只 想 *PRO* 开 纯 旅馆
+suid=s12 participant=136693
+*pro* 不 带 餐饮 的
+suid=s13 participant=136693
+*pro* 带 餐饮 太 麻烦 了
+suid=s14 participant=136693
+纯 旅馆 比较 好
+suid=s15 participant=136978
+哦 ， 那个 *pro* 不 熟 *T*-1 了
+suid=s16 participant=136693
+你 认识 ？
+什么 关系
+suid=s17 participant=136978
+*pro* 有 个 *OP* *T*-1 开 小 旅馆 的 *pro* 不 是 那 种 规模 的 ， 就 是 那 种 和 火车站 附近 那 种 小 平房 一 类 的
+suid=s18 participant=136693
+*pro* 可以 啊
+suid=s19 participant=136693
+*pro* 给 点 经验 也 行 啊
+suid=s20 participant=136693
+qq *pro* 给 我 *T*-1
+suid=s21 participant=136978
+我 同事
+suid=s22 participant=136693
+*pro* 倒
+suid=s23 participant=136693
+年纪 那么 大 了
+suid=s24 participant=136693
+唉
+suid=s25 participant=136978
+[ 表情 ] 50多 的 人 了 不 会 QQ *pro* 好 吧
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="315" end="318" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="371" end="374" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我2" start="417" end="420" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我3" start="473" end="476" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我4" start="755" end="758" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我5" start="1119" end="1122" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你0" start="29" end="32" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你1" start="112" end="115" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你2" start="511" end="514" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你3" start="531" end="534" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你4" start="1042" end="1045" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="196" end="199" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它1" start="621" end="624" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它2" start="664" end="667" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它3" start="872" end="875" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它4" start="953" end="956" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它5" start="992" end="995" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它6" start="1247" end="1250" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<形式主语 id="形0" start="842" end="845" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="1" existential="0" />
+</TAGS>
+</ProTask>

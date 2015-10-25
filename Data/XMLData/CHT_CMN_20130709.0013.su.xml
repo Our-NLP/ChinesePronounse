@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=136891
+磊 姐 你 是 不 是 浙江 农林 大学 毕业 的 啊
+suid=s1 participant=136868
+嗯 *pro* 咋滴
+suid=s2 participant=136868
+你 也 要 *PRO* 报 呀 ？
+suid=s3 participant=136891
+*pro* 哪里 爆 的 上 啊
+suid=s4 participant=136891
+*pro* 是 你 下面 的 一 个 学院
+suid=s5 participant=136868
+天目 学院 ？
+suid=s6 participant=136868
+三本 的
+suid=s7 participant=136891
+*pro* 是 的 啊
+suid=s8 participant=136891
+哪 个 学校 好 吗
+suid=s9 participant=136868
+我 觉得 *PRO* 去 临安 交通 不 怎么 方便
+suid=s10 participant=136868
+*pro* 到 杭州 *pro* 还是 要 坐 大巴 四十 分钟
+suid=s11 participant=136868
+你 什么 时候 填 志愿 啊
+suid=s12 participant=136891
+17号
+suid=s13 participant=136868
+*pro* 还 有 几 天 嘛
+suid=s14 participant=136868
+*pro* 干嘛 不 报 苏州 的
+suid=s15 participant=136868
+如果 你 要 *PRO* 报 杭州 的话 *pro* 还是 下沙 吧 *pro* 回家 什么 的 比较 方便
+suid=s16 participant=136868
+学校 本身 我 是 喜欢 *T*-1 的 但是 临安 这 个 地方 我 不 怎么 喜欢 *T*-2
+suid=s17 participant=136891
+苏州 的 学校 分数 比较 危险
+suid=s18 participant=136891
+*OP* 你 读 *T*-1 的 学校 下面 的 独立 学院 去年 的 分数 比较 低
+suid=s19 participant=136868
+现在 *pro* 好像 都 搬 了 以前 *pro* 在 市区 的
+suid=s20 participant=136868
+你 要 *PRO* 报 什么 专业 啊
+suid=s21 participant=136891
+独立 学院 的 就 一 个 商贸 英语 类 专业
+suid=s22 participant=136891
+其他 都 是 园林 类 的
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="167" end="170" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你0" start="86" end="89" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你1" start="459" end="462" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你2" start="470" end="473" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你3" start="639" end="642" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你4" start="720" end="723" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="211" end="214" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它1" start="327" end="330" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它2" start="706" end="709" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它3" start="966" end="969" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它4" start="984" end="987" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<形式主语 id="形0" start="595" end="598" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="1" existential="0" />
+</TAGS>
+</ProTask>

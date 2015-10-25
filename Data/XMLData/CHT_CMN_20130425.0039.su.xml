@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=137903
+我 那 个 月嫂 已经 签 *-1 到 10月份 了
+suid=s1 participant=137929
+[ 图片 ] *pro* 太 抢手 了
+suid=s2 participant=137929
+*pro* 现在 真是 不 好 找
+suid=s3 participant=137929
+我 都 在 好几 家 报名 了 ， 都 没有 约上 呢
+suid=s4 participant=137903
+你 找 的 太 晚 了
+suid=s5 participant=137903
+我 当时 怀孕 四 个 月 就 已经 找好 了
+suid=s6 participant=137929
+你 是 太 有 先见之明 了
+suid=s7 participant=137929
+*pro* 现在 真是 太 难 找 了
+suid=s8 participant=137903
+现在 *pro* 都 这 个 样子
+suid=s9 participant=137929
+嗯 。。 *pro* 继续 努力 找 [ 表情 ]
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="130" end="133" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="362" end="365" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我2" start="459" end="462" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="412" end="415" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<她们 id="她们0" start="90" end="93" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

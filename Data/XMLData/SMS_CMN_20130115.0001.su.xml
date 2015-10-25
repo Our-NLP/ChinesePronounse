@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=133457
+我 能 不 能 周三 跟 你 去 公司 面试 啊
+suid=s1 participant=133413
+*pro* 好 啊 但是 你 回来 *pro* 怎么办 阿
+suid=s2 participant=133457
+公交 俩 小时 .....
+suid=s3 participant=133413
+*pro* 晕 你 不 借 车 啊 *pro* 租 车子 也 比 *pro* 坐车 要 好 啊
+suid=s4 participant=133457
+等 *pro* 定 下来 *pro* 在 租 吧
+suid=s5 participant=133413
+这样 不 好 我 老板 她 其实 今天 问 过 我 你 车子 的 问题 我 没 敢 回答 她 要是 *pro* 看到 我 开车 送 你 *PRO* 去 *pro* 可能 会 影响 *OP* 你 *T*-1 上班 的 情况
+suid=s6 participant=133457
+但 我 现在 也 来 不 及 租 了 啊
+suid=s7 participant=133457
+你们 老板 一定 要 有 自己 的 车 啊 *pro* 拼车 都 不 行 啊
+suid=s8 participant=133413
+*pro* 不 行 啊 你 是 要 每 天 上班 的 不 是 兼职
+suid=s9 participant=133413
+当场 *pro* 要 有 车 才 行 啊 我们 之前 面 过 几 个 *pro* 没 车 *pro* 直接 挂 的
+suid=s10 participant=133457
+可是 我 也 不 可能 每 天 上班 呀 , 我 也 要 准备 考试 的 啊
+suid=s11 participant=133457
+如果 他 觉得 我 可以 我 就 马上 去 租 车
+suid=s12 participant=133413
+.... 我 只 能 说 我 之前 也 推介 过 几 个 人 但是 *pro* 一 听 *pro* 没 车 *pro* 就 放弃 了 所以 我 是 担心 *pro* 面试 会 白 面
+suid=s13 participant=133457
+嗨 那 要不 我 先 看看 *OP* *T*-1 租 车 的
+suid=s14 participant=133457
+你 知道 *pro* 上 哪 租 比较 好 吗
+suid=s15 participant=133413
+*pro* 租 车 我 不 太 清楚 *T*-1 我 自己 一直 都 有 车 的 所以 *pro* 没 注意 过 呢 不过 你 可以 问问 同学 看看 他们 是否 方便 送 你 *PRO* 过去
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="179" end="182" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="256" end="259" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我2" start="267" end="270" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我3" start="514" end="517" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我4" start="1010" end="1013" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我5" start="1101" end="1104" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你0" start="99" end="102" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你1" start="197" end="200" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你2" start="212" end="215" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你3" start="622" end="625" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你4" start="903" end="906" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你5" start="1057" end="1060" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="81" end="84" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它1" start="382" end="385" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它2" start="558" end="561" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<他们 id="他们0" start="654" end="657" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他们 id="他们1" start="664" end="667" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他们 id="他们2" start="860" end="863" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他们 id="他们3" start="870" end="873" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他们 id="他们4" start="880" end="883" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<其它 id="其0" start="356" end="359" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

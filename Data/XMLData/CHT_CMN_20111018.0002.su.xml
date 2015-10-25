@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=137843
+这 人 是 你 朋友 吗 ？
+http:／／u.cntv.cn／aszz7S 她 说 *pro* 认识 你 ， 老是 留言 给 我 , *pro* 帮 我 *PRO* 去 看看 吧 !
+suid=s1 participant=137803
+*pro* 完 了 …… 我 *pro* 点 了 连接 才 看见 你 的 签名 ……
+suid=s2 participant=137843
+*pro* 没 输入 密码 *pro* 就 不 要紧
+suid=s3 participant=137803
+*pro* 输 了 ……
+suid=s4 participant=137803
+*pro* 囧
+suid=s5 participant=137843
+*pro* 改 密码 吧
+suid=s6 participant=137803
+哦 *pro* 好 的
+suid=s7 participant=137843
+然后 *pro* 杀杀毒 ， 我 好像 又 没有 在 电脑 发现 病毒
+suid=s8 participant=137843
+所以 你 可能 也 没 中毒 ， 只 是 密码 被 知道 *-1 了
+suid=s9 participant=137803
+*pro* 好 的
+suid=s10 participant=137803
+qq 会 不 会 被 盗 *-1 啊 ……
+suid=s11 participant=137843
+*pro* 改 密码 *pro* 就 应该 没 事 了 *pro* patpat
+suid=s12 participant=137803
+*pro* 好 的 唉 我 太 2 了
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="149" end="152" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="273" end="276" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我2" start="313" end="316" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我3" start="668" end="671" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你0" start="97" end="100" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你1" start="219" end="222" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你2" start="348" end="351" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你3" start="430" end="433" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你4" start="640" end="643" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<她 id="她0" start="72" end="75" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="233" end="236" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它1" start="390" end="393" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它2" start="552" end="555" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它3" start="651" end="654" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它4" start="709" end="712" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<其它 id="其0" start="164" end="167" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

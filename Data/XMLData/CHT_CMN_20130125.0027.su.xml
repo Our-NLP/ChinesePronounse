@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=136693
+徐 科 ， 去年 锦标赛 和 冠军赛 *pro* 评选 体育 道德 风尚 奖 了 吗 ？
+suid=s1 participant=137022
+*pro* 应该 评 了
+suid=s2 participant=137022
+*pro* 看看 成绩册 上 有 吗
+suid=s3 participant=136693
+成绩册 上 没有 呢
+suid=s4 participant=136693
+锦标赛 、 冠军赛 的 体育 道德 风尚 奖 有 济南 吗 ， 徐 科 ？
+suid=s5 participant=137022
+*pro* 好像 没有
+suid=s6 participant=137022
+你们 要 报 吗
+suid=s7 participant=136693
+*pro* 要 啊
+suid=s8 participant=137022
+我 记得 *pro* 是 没有
+suid=s9 participant=136693
+呃 ...
+suid=s10 participant=137022
+*pro* 都 给 *OP* *T*-1 成绩 不 好 的 队伍 了
+suid=s11 participant=136693
+济南 成绩 多 差 啊
+suid=s12 participant=137022
+哈哈
+suid=s13 participant=137022
+今年 *pro* 评 你们
+suid=s14 participant=136693
+*pro* 谢谢
+suid=s15 participant=136693
+*pro* 去年 真 没 我们 吗 ？
+我们 马上 要 考评 了 ， 可以 加分 的
+suid=s16 participant=137022
+*pro* 没有
+suid=s17 participant=136693
+呃 ... *pro* 好 吧
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="655" end="658" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你0" start="141" end="144" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="290" end="293" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它1" start="407" end="410" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它2" start="692" end="695" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它3" start="763" end="766" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它4" start="806" end="809" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<我们 id="我们0" start="365" end="368" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他们 id="他们0" start="48" end="51" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他们 id="他们1" start="101" end="104" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他们 id="他们2" start="479" end="482" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他们 id="他们3" start="616" end="619" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

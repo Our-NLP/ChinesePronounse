@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=135696
+哦 … 就是说 东北 面向 就业 的 ？
+suid=s1 participant=135688
+嗯 *pro* 没有 具体 看 过 他们 的 课程 设置 有没有 连贯性 但是 *pro* 面向 就业 是 *OP* *T*-1 肯定 的
+suid=s2 participant=135696
+我 看 他们 有 两 种 ， 一 种 是 *pro* 全 都 是 上课 ， 一 种 还 有 十几 个 学分 的 毕业 课题 。
+suid=s3 participant=135688
+如果 *pro* 想 *PRO* 读 博士 *pro* 就 选 后者 但是 如果 *pro* 就业 考虑 *-1 大家 倾向 前者
+suid=s4 participant=135688
+*pro* 因为 *pro* 需要 经历 和 时间 磨合 口语 找 实习
+suid=s5 participant=135696
+*pro* 这样 ！
+我 差点 就 选 了 后者 了 …
+suid=s6 participant=135696
+潜意识 总 觉得 *pro* 纯 授课 没有 *OP* *pro* 课题 学 *T*-1 的 东西 多 。
+suid=s7 participant=135688
+*pro* 确实 *pro* 动手 会 收获 *OP* *T*-1 比 *pro* 课程 收获 多 的 专业 知识
+suid=s8 participant=135688
+但是 我 觉得 *OP* *PRO* *T*-1 来 这 目的 不 是 *pro* 学 专业 知识 所以 我 个人 倾向 前者
+suid=s9 participant=135696
+嗯 *pro* 挺 有 道理 的
+suid=s10 participant=135696
+我 也 不 是 想 *PRO* 一直 做 技术 所以 怕 *PRO* 去 那 种 特别 理论 的 学校 。。。
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="79" end="82" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="506" end="509" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你0" start="268" end="271" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你1" start="287" end="290" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你2" start="306" end="309" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你3" start="367" end="370" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你4" start="568" end="571" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你5" start="595" end="598" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你6" start="680" end="683" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你7" start="737" end="740" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="559" end="562" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<他们 id="他们0" start="117" end="120" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他们 id="他们1" start="195" end="198" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他们 id="他们2" start="487" end="490" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<形式主语 id="形0" start="358" end="361" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="1" existential="0" />
+<其它 id="其0" start="422" end="425" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

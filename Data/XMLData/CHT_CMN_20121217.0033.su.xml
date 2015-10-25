@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=137657
+露叶 同学 ， 你 好 呀 ！
+*pro* 问 你 点 事 哈 ， 随着 你 离职 我们 组 另 一 个 *OP* *pro* *T*-1 玩 的 比较 好 的 同事 也 要 最近 离职 ， 她 想 *PRO* 让 我 *PRO* 帮忙 *PRO* 打听 一下 行政 那边 的 流程 。
+suid=s1 participant=137657
+唉 ， 你们 都 跑 了
+suid=s2 participant=131603
+李可楠 同学 ， 你 不 接 我 电话 ！！
+suid=s3 participant=131603
+你 最近 可好 ？？ 我 是 真的 想 你 。
+我 忙 到 *pro* 都 只 能 跟 你 电话 讲 清楚 ， 可是 你 好像 不 在 座位 上
+suid=s4 participant=131603
+我 十分 抱歉 ， 我 最近 一直 没有 上网 ， 都 不 知道 什么 时候 *pro* 才 看到 *OP* 你 给 我 *T*-1 的 消息 ， 你 也许 早 几 天 就 发给 我 而 我 现在 才 看到 吧 。
+*pro* 真是 抱歉 ， 我 把 *OP* 我 知道 *T*-1 的 都 打 在 下面 *-2 ， 希望 *pro* 还 来 得 及
+suid=s5 participant=131603
+离职 手续 很 简单 。
+就是 *pro* 跟 行政 说 ： 我 要 离职 。
+行政 就 会 给 你 一 张 表格 （ *pro* 注意 ， 这里 的 程序 都 是 非正式 的 ， 随时 可以 回转 ， 行政 也 不 放 在 心 上 ） ， *pro* 让 你 *PRO* 给 合伙人 签字 （ *pro* 表示 同意 ） ， 你 同事 跟 你 老板 谈好 后 ， 老板 在 表格 上 签字 ， 然后 你 同事 开始 填 表格 ， 内容 也 很 简单 ， *pro* 就 是 离职 原因 （ *pro* 随便 写 ） ， 电脑 ， 钥匙 ， 座椅 情况 ， 邮箱 是否 清理 好 ？
+等等 ， *pro* 然后 拿去 行政 ， 行政 给 你 算 钱 ——
+suid=s6 participant=131603
+哦 ， *pro* 估计 你 被 叫住 了 *-1 吧 ， 我 接着 打字
+suid=s7 participant=137657
+*pro* 谢谢 亲爱 的 *OP* *T*-1 这么 细致 的 回答 。
+suid=s8 participant=131603
+*pro* 米 事 。
+我 能 帮到 自然 好
+suid=s9 participant=137657
+好人 有 好 报 ， 你 加油 。
+等 你 安顿 好 了 咱们 聚聚 。
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="45" end="48" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="87" end="90" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我2" start="320" end="323" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我3" start="429" end="432" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我4" start="498" end="501" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我5" start="552" end="555" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我6" start="952" end="955" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我7" start="1013" end="1016" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你2" start="741" end="744" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你3" start="653" end="656" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你4" start="609" end="612" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他 id="他1" start="839" end="842" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他 id="他2" start="890" end="893" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="821" end="824" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它1" start="1078" end="1081" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<他们 id="他们0" start="714" end="717" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

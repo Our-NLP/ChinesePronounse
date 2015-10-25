@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=133623
+*pro* 在 吗 ?
+suid=s1 participant=133628
+*pro* 在 外面
+suid=s2 participant=133628
+王 工 什么 事 ？
+suid=s3 participant=133623
+哦 , 那 个 开发板 *pro* 能 借给 我们 *T*-1 *PRO* 调试 吗 ?
+suid=s4 participant=133628
+你 的 项目 重启 了 ？
+suid=s5 participant=133623
+*pro* 是 的
+suid=s6 participant=133623
+现在 板子 出来 了 , 3 G 驱动 总是 加载 不 上 .
+suid=s7 participant=133628
+*pro* 重启 项目 的话 *pro* 联系 市场部 的 *pro* 就 应该 可以 提供 开发板 给 你 *PRO* 调试
+suid=s8 participant=133628
+*pro* 有时候 可以 加载 成功 ？
+suid=s9 participant=133623
+*pro* 没有 成功 过 .
+suid=s10 participant=133623
+上面 是 打印 信息 .
+suid=s11 participant=133628
+那 说明 驱动 没 装好
+suid=s12 participant=133623
+*pro* 是 哪 个 业务员 ?
+suid=s13 participant=133628
+蒙家昌
+suid=s14 participant=133623
+*pro* 怎么 没 装好 ?
+suid=s15 participant=133628
+你 可以 通过 网站 联系 也 行 ， 明天 我 叫 他 *PRO* 联系 你 也 行
+suid=s16 participant=133623
+*pro* 没 装好 的话 , *pro* 就 没有 打印 信息 .
+suid=s17 participant=133623
+你 叫 他 *PRO* 联系 我 吧
+suid=s18 participant=133623
+最好 你们 销售 来 一 趟 .
+suid=s19 participant=133628
+注册表 和 那 两 个 .dll 文件 需要 编译 到 内核
+suid=s20 participant=133623
+*pro* 编 了
+suid=s21 participant=133628
+明天 我 叫 他 *PRO* 联系 下 你 看看 情况
+suid=s22 participant=133623
+*pro* 好
+suid=s23 participant=133628
+注册表 *pro* 没 修改 什么 吧 ？
+suid=s24 participant=133623
+就是 串口 索引号 .
+suid=s25 participant=133623
+*OP* *T*-1 出厂 模认 的 也 不 行 .
+suid=s26 participant=133623
+*pro* 默认 .
+suid=s27 participant=133628
+那 以后 *pro* 过去 一起 看看
+suid=s28 participant=133623
+*pro* 好
+suid=s29 participant=133628
+他 上午 出去 了
+suid=s30 participant=133628
+*pro* 呆会 估计 会 联系 你
+suid=s31 participant=133623
+*pro* 好 的
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="68" end="71" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="492" end="495" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我2" start="1026" end="1029" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我3" start="1462" end="1465" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你0" start="29" end="32" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你1" start="156" end="159" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你2" start="353" end="356" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你3" start="368" end="371" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你4" start="444" end="447" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你5" start="1160" end="1163" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他 id="他0" start="618" end="621" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他 id="他1" start="696" end="699" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他 id="他2" start="812" end="815" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="257" end="260" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它1" start="1120" end="1123" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它2" start="1388" end="1391" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它3" start="1509" end="1512" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<我们 id="我们0" start="1345" end="1348" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他们 id="他们0" start="383" end="386" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<形式主语 id="形0" start="828" end="831" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="1" existential="0" />
+<其它 id="其0" start="1301" end="1304" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

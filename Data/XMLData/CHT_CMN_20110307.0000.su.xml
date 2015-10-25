@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=138137
+*pro* 忙 啥 呢 ？
+suid=s1 participant=138136
+*pro* 没 啥 事儿
+suid=s2 participant=138137
+呵呵
+suid=s3 participant=138136
+你 干 啥 了
+suid=s4 participant=138137
+*pro* 还 挺 悠闲 的 啊
+suid=s5 participant=138137
+我 没 干 啥 ， *pro* 瞎 玩 呢
+suid=s6 participant=138136
+*pro* 一样
+suid=s7 participant=138137
+海燕 呢 ？
+suid=s8 participant=138137
+*pro* 上班 去 了 吗 ？
+suid=s9 participant=138136
+*pro* 在 外面 随便 忙 呢
+suid=s10 participant=138137
+哦 ， 这 都 几点 了 ， *pro* 还 忙活 啥 啊
+suid=s11 participant=138136
+*pro* 反正 收拾 东西 呗
+suid=s12 participant=138137
+海燕 真 是 个 贤妻良母
+suid=s13 participant=138136
+哈哈 ， *pro* 整天 在 收拾
+suid=s14 participant=138137
+哈哈 ， 女人 都 爱 *PRO* 拾掇
+suid=s15 participant=138137
+恩 ， 我 也 是 ， 整天 收拾
+suid=s16 participant=138136
+嘿嘿
+suid=s17 participant=138137
+他们 都 说 我 有 洁癖 ， 哈哈
+suid=s18 participant=138136
+其实 *pro* 就 是 爱 干净
+suid=s19 participant=138137
+恩 ， *pro* 是 的
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="70" end="73" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="229" end="232" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你0" start="29" end="32" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你1" start="175" end="178" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你3" start="796" end="799" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<她 id="她0" start="338" end="341" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<她 id="她1" start="382" end="385" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<她 id="她2" start="443" end="446" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<她 id="她3" start="486" end="489" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<她 id="她4" start="578" end="581" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="843" end="846" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<我们 id="我们0" start="268" end="271" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

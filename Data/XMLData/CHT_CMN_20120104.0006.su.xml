@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=138159
+12000 元
+suid=s1 participant=130530
+*OP* *T*-1 1月 27号 北京 到 纽瓦克 的 多少 钱
+suid=s2 participant=138159
+1万2 啊
+suid=s3 participant=130530
+*pro* 1月 31号 北京 直飞 纽瓦克 多收 钱
+suid=s4 participant=130530
+1月 25号 多少 钱
+suid=s5 participant=138159
+25 没有
+suid=s6 participant=130530
+26 呢 ？
+suid=s7 participant=138159
+*pro* 没有
+suid=s8 participant=130530
+28号 有 吗 ?
+suid=s9 participant=130530
+月底 哪 天 便宜 ？
+suid=s10 participant=138159
+*pro* 没有
+suid=s11 participant=138159
+6500 元
+suid=s12 participant=130530
+31号 多少 钱 ？
+suid=s13 participant=130530
+*pro* 27号 到 费城 有 吗 ？
+suid=s14 participant=130530
+25 . 26号 也 行
+suid=s15 participant=130530
+*pro* 多少 钱 ？
+suid=s16 participant=130530
+*pro* 多少 钱 ？
+suid=s17 participant=138159
+7300 元
+suid=s18 participant=130530
+1月中 有 吗 ？
+*pro* 北京 到 纽瓦克
+suid=s19 participant=130530
+19号 左右
+suid=s20 participant=130530
+15 , 16号 也 行
+suid=s21 participant=138159
+*pro* 没有 奥
+suid=s22 participant=138159
+*OP* *T*-1 不 直飞 的 可以 吗 *pro* 有
+suid=s23 participant=130530
+一月 的 一 张 都 没有 了 ？
+suid=s24 participant=138159
+1月 31号 有 奥
+suid=s25 participant=130530
+*pro* 只 有 这 天 的 ？
+suid=s26 participant=138159
+*pro* 就 这 一 天 便宜
+suid=s27 participant=138159
+1月 29号 我 看看 价格 奥
+suid=s28 participant=138159
+9200 元 1月 29号 的 价格
+suid=s29 participant=130530
+前面 还 有 吗 ？
+suid=s30 participant=138159
+*pro* 没有 *OP* *T*-1 不 直飞 的 有
+suid=s31 participant=130530
+*pro* 北京 到 纽约 呢 ?
+suid=s32 participant=130530
+*pro* 一月 哪 天 有 *OP* *T*-1 便宜 的 ？
+suid=s33 participant=138159
+1月 31好
+suid=s34 participant=130530
+上海 到 纽瓦克 或者 纽约 哪 天 ？
+suid=s35 participant=130530
+26号 左右 ， 或者 16号 左右
+suid=s36 participant=138159
+*pro* 请问 *pro* 不 直飞 可以 吗
+suid=s37 participant=138159
+*pro* 不 直飞 *pro* 都 有 若 *pro* 直飞 *pro* 都 没有
+suid=s38 participant=130530
+*pro* 不 直飞 25号 北京 或者 上海 到 费城
+suid=s39 participant=138159
+*pro* 有
+suid=s40 participant=130530
+多少 钱
+suid=s41 participant=130530
+哪 个 点 好 ？
+suid=s42 participant=138159
+*pro* 到 费城 或者 ewr 都 可以 *pro* 不过 不 是 大陆 航空 的 不 是 *OP* *T*-1 直飞 的
+suid=s43 participant=130530
+*pro* 到 费城 多少 钱 ？
+suid=s44 participant=138159
+6800 元
+suid=s45 participant=130530
+*OP* *T*-1 往返 10来 天 的 多少 钱
+suid=s46 participant=138159
+11800 元
+suid=s47 participant=130530
+*pro* 除了 AA 的 最 便宜 吗 ?
+suid=s48 participant=138159
+除了 aa 其他 都 1月 26号 前 都 没 票 奥
+suid=s49 participant=130530
+*pro* 定 一 张 1月 25号 北京 到 费城 单程 机票 ， 但是 *pro* 是 B2 签证 *pro* 能 给 办 个 回程 吗 ?
+suid=s50 participant=130530
+*pro* 就 是 我 婆婆 也 问 你 了
+suid=s51 participant=138159
+奥 *pro* 知道 了 *pro* 请问 乘机人 是 谁 奥
+suid=s52 participant=138159
+我 不 是 非常 确定 回程 *pro* 弄 个 行程单 就 管用 奥
+suid=s53 participant=130530
+*pro* 再 定 一 张 往返 *pro* 1月 25号 北京 到 费城 ， 2月 8号 左右 费城 到 北京
+suid=s54 participant=138159
+*pro* ok
+suid=s55 participant=130530
+往返 王清华
+suid=s56 participant=130530
+*pro* 买 两 张 *pro* 能 优惠 些 吗 ？
+suid=s57 participant=130530
+呵呵
+suid=s58 participant=138159
+往返 多久 奥
+suid=s59 participant=130530
+*pro* 谢谢
+suid=s60 participant=130530
+你 说 哪个 ？
+suid=s61 participant=138159
+往返 的 奥
+suid=s62 participant=130530
+*pro* 2月 8号 回
+suid=s63 participant=130530
+左右
+suid=s64 participant=138159
+去程 一样 的 ？
+suid=s65 participant=130530
+*pro* 对
+suid=s66 participant=138159
+去程 要 那 个 转机 时间 的 奥
+suid=s67 participant=138159
+一 个 转机 差 5 分钟 不 到 3 个 小时
+suid=s68 participant=138159
+另 一 个 是 4 个 多 小时 的
+suid=s69 participant=130530
+那 就 下面 这个
+suid=s70 participant=130530
+4 个 多 小时 保险 点
+suid=s71 participant=138159
+*pro* 确定 吗
+suid=s72 participant=130530
+*pro* 怎么 了 ？
+suid=s73 participant=138159
+*pro* ok
+suid=s74 participant=138159
+*pro* 好 的
+suid=s75 participant=130530
+单程 多收 钱 ？
+suid=s76 participant=130530
+往返 多少 ？
+suid=s77 participant=130530
+*pro* 便宜 点
+suid=s78 participant=130530
+*pro* 谢谢
+suid=s79 participant=138159
+我 算算
+suid=s80 participant=130530
+哦
+suid=s81 participant=138159
+价格 是 6800 元 单程 往返 是 11800 元
+suid=s82 participant=130530
+*pro* 能 便宜 点 吗 ？
+suid=s83 participant=130530
+两 张
+suid=s84 participant=138159
+我 最多 能 便宜 300 元 一共 因为 *pro* 就 挣 400 元
+suid=s85 participant=130530
+那 个 单程 的 可以 在 单子 上 做 个 返程 吗 ？
+suid=s86 participant=130530
+那 是 多少 钱 ？
+suid=s87 participant=130530
+单程 和 往返
+suid=s88 participant=138159
+6800 + 11800 - 300
+suid=s89 participant=130530
+就是 每 张 便宜 150
+suid=s90 participant=130530
+*pro* 好 的
+suid=s91 participant=130530
+那 单程 的 6500 ， 往返 的 11800 吧
+suid=s92 participant=138159
+嗯 *pro* 好 的
+suid=s93 participant=130530
+那 你 帮 我 *PRO* 定 吧
+suid=s94 participant=130530
+单程 的 朱晓红 在 客票 上 帮 我 *PRO* 做 个 半 年 的 往返
+suid=s95 participant=130530
+往返 1月 25号 - 2月 8号 左右
+suid=s96 participant=138159
+*OP* 回程 *T*-1 最 理想 几号
+suid=s97 participant=138159
+*pro* 现在 选择 一下 回程 *pro* 那 天 都 有 票
+suid=s98 participant=138159
+往返 机票 是 *pro* 住满 3 天 不 超过 30 天
+suid=s99 participant=130530
+单程 朱晓红 女 G34035415 1959年 2月 2号 2019年 3月 18号
+suid=s100 participant=130530
+往返 王清华 男 G56454201 1962年 11月 15号 2021年 124号
+suid=s101 participant=138159
+*pro* 请问 你 怎么 付款 呢
+suid=s102 participant=130530
+*pro* 可以 怎么 付 ？
+suid=s103 participant=130530
+*pro* 建行 和 工行 的 号 给 我 *-1
+suid=s104 participant=130530
+农行 也 行
+suid=s105 participant=138159
+*pro* 请问 *pro* 北京 出发 对 吗
+suid=s106 participant=130530
+*pro* 是
+suid=s107 participant=138159
+你们 在 上海 还是 北京 奥
+suid=s108 participant=130530
+北京
+suid=s109 participant=138159
+*pro* ok
+suid=s110 participant=138159
+*pro* 看看 时间 不 变动 我 就 先 开票 了 奥
+suid=s111 participant=130530
+*pro* 好 的
+suid=s112 participant=130530
+*pro* 确定 这个
+suid=s113 participant=138159
+*pro* ok 我 开票
+suid=s114 participant=130530
+单程 6500 往返 11800
+suid=s115 participant=138159
+*pro* 没错
+suid=s116 participant=130530
+*pro* 好 的
+suid=s117 participant=130530
+往返 定 了 吗 ？
+suid=s118 participant=138159
+*pro* 定好 了
+suid=s119 participant=130530
+形成 和 预定 编号
+suid=s120 participant=130530
+行程 和 预定 编号
+suid=s121 participant=138159
+确认号 ISYKMB
+suid=s122 participant=130530
+这个 转机 只有 1 个 小时 50 分钟
+suid=s123 participant=130530
+*pro* 来 得 及 吗 ?
+suid=s124 participant=138159
+*pro* 回程 不 拿 行李 且 *pro* 只 是 转机
+suid=s125 participant=130530
+我 是 说 回程
+suid=s126 participant=138159
+我 就 是 说 的 奥
+suid=s127 participant=138159
+*pro* 去程 要 拿 行李 *pro* 回程 不 用
+suid=s128 participant=138159
+*pro* 回程 不 用 拿 行李 且 航班 就 这 一 个 航班 啊 哦
+suid=s129 participant=130530
+*pro* 费城 到 芝加哥 能 早 点 吗 ？
+suid=s130 participant=130530
+*pro* 有没有 下午 2点 左右 的 吗 ？
+suid=s131 participant=130530
+或者 3点
+suid=s132 participant=138159
+*pro* 有
+suid=s133 participant=138159
+*pro* 这样 呢 ？
+suid=s134 participant=138159
+回程 *pro* 就 选择 2月 8号 吗
+suid=s135 participant=130530
+*pro* 这样 吧
+suid=s136 participant=130530
+*pro* 好 的
+suid=s137 participant=138159
+*pro* 选择 2月 8号 吗
+suid=s138 participant=130530
+*pro* 好 的
+suid=s139 participant=138159
+*pro* 没错 我 也 开票 了 奥
+suid=s140 participant=138159
+*pro* 最后 核对 一下 *pro* 没错 把
+suid=s141 participant=130530
+*pro* 好 的
+suid=s142 participant=138159
+有效期 *pro* 住满 3 天 不 超过 3 个 月 *pro* 改期 1500 元 *pro* 不 能 退票
+suid=s143 participant=130530
+*pro* 好 的
+suid=s144 participant=130530
+*pro* 帮 我 *PRO* 把 单程 的 那个 加上 个 回程
+suid=s145 participant=130530
+半 年 回程
+suid=s146 participant=130530
+*pro* 谢谢
+suid=s147 participant=138159
+嗯
+suid=s148 participant=138159
+*pro* 做 个 回程 行程单 *pro* 对 吗
+suid=s149 participant=130530
+*pro* 对 的
+suid=s150 participant=138159
+*pro* 选择 几号 呢 你 选 个 把 反正 *pro* 都 是 免费 的
+suid=s151 participant=130530
+*pro* 是 不 是 一般 都 这样 ?
+suid=s152 participant=130530
+*pro* 7月 23号 吧
+suid=s153 participant=138159
+*pro* ok
+suid=s154 participant=130530
+或者 7月 20号
+suid=s155 participant=138159
+*pro* ok
+suid=s156 participant=138159
+*pro* 选择 那 天
+suid=s157 participant=130530
+*pro* 都 行
+suid=s158 participant=130530
+*pro* 23号 吧
+suid=s159 participant=130530
+要是 *pro* 真 定 ， *pro* 能 订到 那 一 天 吗 ？
+suid=s160 participant=138159
+*pro* 都 没有 问题
+suid=s161 participant=130530
+*pro* 好 的
+suid=s162 participant=130530
+*pro* 只 看 得 到 回程 ， 看 不 到 去程
+suid=s163 participant=130530
+你 再 给 我 发 一 遍 ？
+suid=s164 participant=138159
+去程 *pro* 也 弄 一下 *T*-1
+suid=s165 participant=130530
+*pro* 是 的
+suid=s166 participant=130530
+这 是 电子 机票 吗 ？
+suid=s167 participant=130530
+你 还 另外 寄 票 给 我 吗 ？
+suid=s168 participant=130530
+*pro* 接收 失败
+suid=s169 participant=130530
+*pro* 请 *pro* 再 发 一 遍
+suid=s170 participant=130530
+那 你 还 邮寄 票 吗 ？
+suid=s171 participant=138159
+嗯 *pro* 是 的 *pro* 快递 发票
+suid=s172 participant=130530
+*pro* 好 的
+suid=s173 participant=130530
+另外 一 张
+suid=s174 participant=130530
+电子 行程单
+suid=s175 participant=138159
+*pro* 付款 后 *pro* 短信 或者 电话 告知 一 声 13774294563 手机 号 我 的
+suid=s176 participant=138159
+*pro* 请问 你 的 联系 方式 呢
+suid=s177 participant=138159
+*pro* ok
+suid=s178 participant=130530
+山东省 临沂市 人民 检察院
+suid=s179 participant=138159
+*pro* 请问 抬头 呢 发票
+suid=s180 participant=138159
+*pro* 请 留言 把 我 回来 *pro* 在 快递 发票 我 先 去 考试 去 了 *pro* 电话 联系
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="158" end="161" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="1341" end="1344" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我2" start="1579" end="1582" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我3" start="1703" end="1706" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我4" start="1959" end="1962" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我5" start="2238" end="2241" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我6" start="2276" end="2279" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我7" start="2392" end="2395" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我8" start="2403" end="2406" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我9" start="2514" end="2517" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我10" start="2531" end="2534" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我11" start="2671" end="2674" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我12" start="2795" end="2798" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我13" start="2904" end="2907" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我14" start="3546" end="3549" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我15" start="3801" end="3804" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我16" start="4430" end="4433" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我17" start="4679" end="4682" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我18" start="4727" end="4730" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我19" start="4863" end="4866" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我20" start="5167" end="5170" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我21" start="5414" end="5417" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我22" start="5625" end="5628" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我23" start="5934" end="5937" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我24" start="6738" end="6741" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我25" start="6807" end="6810" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我26" start="7306" end="7309" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我27" start="7368" end="7371" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我28" start="7450" end="7453" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我29" start="7555" end="7558" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我30" start="7774" end="7777" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我31" start="7881" end="7884" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我32" start="8116" end="8119" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我33" start="8248" end="8251" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我34" start="8312" end="8315" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你0" start="1588" end="1591" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你1" start="1632" end="1635" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你2" start="1655" end="1658" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你3" start="2290" end="2293" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你4" start="2465" end="2468" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你5" start="2683" end="2686" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你6" start="3278" end="3281" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你7" start="3507" end="3510" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你8" start="3702" end="3705" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你9" start="4412" end="4415" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你10" start="4482" end="4485" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你11" start="4772" end="4775" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你12" start="4872" end="4875" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你13" start="5069" end="5072" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你14" start="5670" end="5673" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你15" start="5688" end="5691" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你16" start="5809" end="5812" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你17" start="5825" end="5828" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你18" start="5867" end="5870" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你19" start="6159" end="6162" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你20" start="6286" end="6289" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你21" start="6420" end="6423" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你22" start="6518" end="6521" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你23" start="6542" end="6545" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你24" start="6558" end="6561" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你25" start="6639" end="6642" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你26" start="6902" end="6905" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你27" start="7181" end="7184" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你28" start="7318" end="7321" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你29" start="7782" end="7785" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你30" start="8033" end="8036" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你31" start="8044" end="8047" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你32" start="8294" end="8297" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="543" end="546" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它1" start="633" end="636" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它2" start="674" end="677" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它3" start="760" end="763" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它4" start="1062" end="1065" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它5" start="1108" end="1111" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它6" start="1284" end="1287" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它7" start="1867" end="1870" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它8" start="1890" end="1893" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它10" start="2131" end="2134" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它11" start="2599" end="2602" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它12" start="3015" end="3018" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它13" start="3317" end="3320" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它14" start="3358" end="3361" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它15" start="3395" end="3398" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它16" start="4067" end="4070" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它17" start="4162" end="4165" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它18" start="4917" end="4920" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它19" start="5031" end="5034" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它20" start="5128" end="5131" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它21" start="5208" end="5211" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它22" start="5297" end="5300" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它23" start="5335" end="5338" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它24" start="5988" end="5991" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它25" start="6077" end="6080" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它27" start="6247" end="6250" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它28" start="6332" end="6335" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它29" start="6371" end="6374" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它30" start="6435" end="6438" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它31" start="6475" end="6478" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它32" start="6600" end="6603" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它33" start="6824" end="6827" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它34" start="6863" end="6866" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它35" start="6927" end="6930" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它36" start="6971" end="6974" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它37" start="7066" end="7069" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它38" start="7143" end="7146" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它39" start="7411" end="7414" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它40" start="7603" end="7606" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它41" start="7733" end="7736" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它42" start="7871" end="7874" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它43" start="7922" end="7925" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它44" start="8166" end="8169" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<我们 id="我们0" start="8339" end="8342" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它们 id="它们0" start="7223" end="7226" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<形式主语 id="形0" start="319" end="322" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="1" />
+<形式主语 id="形1" start="432" end="435" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="1" />
+<形式主语 id="形2" start="879" end="882" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="1" />
+<形式主语 id="形3" start="941" end="944" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="1" />
+<形式主语 id="形4" start="1387" end="1390" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="1" />
+<形式主语 id="形5" start="1643" end="1646" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="1" />
+<形式主语 id="形6" start="1664" end="1667" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="1" />
+<形式主语 id="形7" start="1760" end="1763" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="1" />
+<形式主语 id="形8" start="2339" end="2342" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="1" existential="0" />
+<其它 id="其0" start="6114" end="6117" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<其它 id="其1" start="6207" end="6210" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<其它 id="其2" start="7022" end="7025" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<其它 id="其3" start="7262" end="7265" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

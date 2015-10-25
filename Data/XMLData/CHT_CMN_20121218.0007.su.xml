@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=133189
+晨曦 在 吗 ？
+suid=s1 participant=133148
+*pro* 在
+suid=s2 participant=133148
+我 去 找 你 吗 ？
+suid=s3 participant=133189
+*pro* 不 用 了 ， 稿件 *pro* 感觉 *-1 怎么样
+suid=s4 participant=133148
+那 个 “ 两 字 ” 的 还 不 如 “ 三 字 ” 的 ， *pro* 看 得 真是 头大 ， 呵呵
+suid=s5 participant=133189
+呵呵 ， *pro* 是 的 ， 我 都 处在 崩溃 的 边缘
+suid=s6 participant=133148
+我 很 担心 这 书 出来 后 的 情况 ， 这 种 书 的 质量 很 难 把握
+suid=s7 participant=133189
+*pro* 是 啊 ， 我 也 很 担心 的 ， 一 个 是 版权 问题 ， 一 个 是 文字 质量 问题
+suid=s8 participant=133148
+*pro* 是 的 ， 我 那 天 在 百度 上 搜 了 一下 ， 有些 就 是 *pro* 百度 知道 里面 别人 的 回答 ， 直接 抄 过来 *-1 的
+suid=s9 participant=133148
+嗯 ， *pro* 没 事 ， 我 也 是 *pro* 看 不 下去 之后 看 点 别的 清醒 清醒 再 看 的 ， 呵呵 。
+只是 *pro* 改 得 乱七八糟 的 ， *pro* 怕 你 后面 看 也 不 容易
+suid=s10 participant=133189
+*pro* 没 办法 ， 这 种 书 *pro* 看 一 遍 *T*-1 *pro* 哪里 能 放心
+suid=s11 participant=133189
+*pro* 好了 ， *pro* 不 聊 了 ， 你 忙 吧
+suid=s12 participant=133189
+我 下午 公休 ， 回头 再 聊 啊
+suid=s13 participant=133148
+*pro* 好 的 ， 你 也 不 要 太 累 ， 这 种 书 *pro* 其实 多 看 *T*-1 也 作用 不 大
+suid=s14 participant=133189
+嗯 ， 咱们 只是 尽力 ， *OP* *pro* 实在 看 不 出 *T*-1 的 东西 *pro* 也 没 办法 了 ， 咱们 也 不 是 *OP* *T*-2 万能 的
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="65" end="68" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="232" end="235" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我2" start="662" end="665" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我3" start="681" end="684" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我4" start="731" end="734" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我5" start="750" end="753" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我6" start="768" end="771" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我7" start="1024" end="1027" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我8" start="1050" end="1053" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你0" start="139" end="142" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你1" start="156" end="159" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你2" start="948" end="951" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他 id="他0" start="529" end="532" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="285" end="288" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它1" start="407" end="410" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它2" start="488" end="491" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它3" start="599" end="602" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它4" start="916" end="919" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<我们 id="我们0" start="821" end="824" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<形式主语 id="形0" start="810" end="813" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="1" existential="0" />
+<其它 id="其0" start="617" end="620" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

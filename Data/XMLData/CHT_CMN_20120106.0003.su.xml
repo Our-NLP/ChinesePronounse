@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=134220
+*pro* 就 发 过来 一 张 啊
+suid=s1 participant=134223
+舅母 ， 在 上班 吗 ？
+suid=s2 participant=134223
+我 现在 也 在 上班 呢 ， 在 一 家 小额 贷款 公司 上班
+]]></TEXT>
+<TAGS>
+<你 id="你0" start="29" end="32" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

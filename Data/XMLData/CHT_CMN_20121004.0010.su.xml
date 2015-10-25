@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=137016
+秋光 哥 在 么
+suid=s1 participant=136693
+？
+suid=s2 participant=136693
+*pro* 在
+suid=s3 participant=137016
+你 那里 能 办 二 级 证 么 *pro* 能 上网 查 的
+suid=s4 participant=136693
+我 只 认识 一 个 ， *pro* 太 贵 了 ， *pro* 不 推荐
+suid=s5 participant=137016
+*pro* 多 钱 啊
+suid=s6 participant=136693
+2w 我 记得 *pro* 是 *T*-1
+suid=s7 participant=136693
+*pro* 很 不 合适
+suid=s8 participant=136693
+*pro* 而且 不 是 济南 的
+suid=s9 participant=136693
+北京 的
+suid=s10 participant=137016
+哦 什么 项目 *pro* 都 能 做 *T*-1 么
+suid=s11 participant=136693
+*pro* 是
+suid=s12 participant=137016
+*pro* 多 长 时间 能 做 出来 啊
+suid=s13 participant=136693
+*pro* 是 真 证
+suid=s14 participant=136693
+这个 *pro* 得 问 *T*-1
+suid=s15 participant=136693
+*pro* 不 是 很 清楚
+suid=s16 participant=137016
+我 有 个 学生 想 *PRO* 报考 人大 或者 北科 的 高 水平 他们 分别 是 11月份 和 12月份 进行 测试 需要 二 级 证 我 问问 *pro* 能 办 呢 咱 济南 我 也 找 人 了 *pro* 有 几 个 还 没有 回信
+suid=s17 participant=136693
+价格 他 要是 觉得 *PRO* 可以 接受 *T*-1 *pro* 就 帮 他 *PRO* 办 就 是 了
+suid=s18 participant=137016
+问题 是 *pro* 需要 多久 能 办 出来 如果 *pro* 过 了 人家 报名 时间 *pro* 那 办 出来 就 没有用 了
+suid=s19 participant=136693
+就 *pro* 这 个 月 就 得 拿到 呗 ？
+suid=s20 participant=137016
+*pro* 能 再 网上 查到 编号 *pro* 是 么
+suid=s21 participant=136693
+*pro* 是 的 ， *pro* 是 真 证
+suid=s22 participant=137016
+你 问问 吧 *pro* *pro* 最 快 什么 时间 能 拿出 证 来 *pro* 好 么
+suid=s23 participant=136693
+*pro* 好 的 ， 我 帮 你 *PRO* 问问
+suid=s24 participant=137016
+*pro* 谢谢 你 啊
+suid=s25 participant=137016
+你 顺便 问问 你 那 朋友 能 操作 人大 么 呵呵
+suid=s26 participant=136693
+呵呵 ， *pro* 好
+suid=s27 participant=136693
+*pro* 一起 问
+suid=s28 participant=137016
+恩 就 是 啊 *pro* 一定 要 稳妥 别 让 人 *PRO* 骗 了 呵呵
+suid=s29 participant=136693
+这个 不 会 ， 自己人
+suid=s30 participant=137016
+哦 你 问问 吧 多少 钱 *pro* 问问 *T*-1 *pro* 先 给 你 部分 定金 等 *pro* 拿到 证 后 给齐
+suid=s31 participant=136693
+*pro* 好 滴
+suid=s32 participant=136693
+你 电话 多少
+suid=s33 participant=136693
+呵呵 ， 我 知道
+suid=s34 participant=137016
+嗯 你 抓紧 落实 我 现在 找 的 其他 人 *PRO* 操作 人大 但是 这个 要价 太 高 了 人家 就 不 想 *PRO* 去 了 你 看看 *OP* 你 找 *T*-1 的 这个 多少 钱 如果 *pro* 便宜 的话 *pro* 就 找 你
+suid=s35 participant=136693
+*pro* 好 的
+suid=s36 participant=136693
+我 也 不 知道 *pro* 能 不 能 操作
+suid=s37 participant=136693
+*pro* 只 能 问问 试试 看
+suid=s38 participant=137016
+嗯 你 先 确定 二 级 证 问问 *pro* 能 不 能 便宜 一点
+suid=s39 participant=136693
+*pro* 好
+suid=s40 participant=137016
+而且 *pro* 用 *OP* *T*-1 最 快 的 时间 给 办理 下来 是 需要 多 长 时间
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="94" end="97" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="215" end="218" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我2" start="644" end="647" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我3" start="688" end="691" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我4" start="911" end="914" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我5" start="1353" end="1356" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我6" start="1491" end="1494" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我7" start="1669" end="1672" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我8" start="1689" end="1692" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我9" start="1960" end="1963" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我10" start="2090" end="2093" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你0" start="1538" end="1541" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你1" start="1654" end="1657" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他 id="他0" start="2047" end="2050" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="146" end="149" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它1" start="201" end="204" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它2" start="253" end="256" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它3" start="300" end="303" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它4" start="341" end="344" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它5" start="381" end="384" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它6" start="467" end="470" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它7" start="515" end="518" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它8" start="551" end="554" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它9" start="601" end="604" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它10" start="807" end="810" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它11" start="970" end="973" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它12" start="992" end="995" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它13" start="1011" end="1014" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它14" start="1062" end="1065" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它15" start="1113" end="1116" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它16" start="1132" end="1135" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它17" start="1170" end="1173" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它18" start="1182" end="1185" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它19" start="1235" end="1238" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它20" start="1260" end="1263" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它21" start="1298" end="1301" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它22" start="1455" end="1458" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它23" start="1733" end="1736" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它24" start="1948" end="1951" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它25" start="2000" end="2003" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它26" start="2154" end="2157" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它27" start="2200" end="2203" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它28" start="2239" end="2242" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他们 id="他们0" start="834" end="837" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<其它 id="其0" start="1229" end="1232" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=132065
+你 好 巩 工 在 么
+suid=s1 participant=133497
+*pro* 在
+suid=s2 participant=132065
+这个 是 耳 鼻 喉 科 的 手术 申请 单
+suid=s3 participant=132065
+他们 说 *OP* *pro* *T*-1 以前 打印 的 时候 *pro* 没有 框 的 光 子
+suid=s4 participant=132065
+*pro* 光 字
+suid=s5 participant=132065
+*pro* 现在 带 框
+suid=s6 participant=132065
+*pro* 而且 以前 可以 选择 *pro* 从 第几 行 打印
+suid=s7 participant=132065
+*pro* 现在 都 是 *OP* *pro* 默认 *T*-1 的 -1 而且 *pro* 没 办法 改
+suid=s8 participant=133497
+程序 默认 就 是 -1
+suid=s9 participant=133497
+现在 打印 格式 错乱 ？
+suid=s10 participant=133497
+*pro* 有没有 试 过 *PRO* 在 别的 电脑 上 打印 ？
+suid=s11 participant=132065
+*pro* 主要 是 他们 说 *pro* 以前 能 改 现在 改 不 了
+suid=s12 participant=132065
+*OP* *pro* 调 出来 *T*-1 的 面 上 没 显示 框 但是 *pro* 一 打印 *pro* 在 打印 预览 上 九 幽
+suid=s13 participant=132065
+*pro* 就 有
+suid=s14 participant=132065
+*pro* 在 他 对面 的 机器 上 也 试 了 下 *pro* 一样 的
+suid=s15 participant=133497
+*OP* *T*-1 默认 是 -1 的 先 要 序打 *pro* 只 需要 在 其他 空格 单击 下
+suid=s16 participant=133497
+*pro* 想 *PRO* 从 那 开始 打 *pro* 就 单击 哪 个 单元格
+suid=s17 participant=132065
+*OP* *pro* 现在 单击 出来 *T*-1 的 一 个 框 里面 显示 -1 *pro* 没法 修改
+suid=s18 participant=133497
+-1 是 *OP* *T*-1 正确 的
+suid=s19 participant=133497
+*pro* 默认 就 是
+suid=s20 participant=133497
+我 让 人 *PRO* 给 远程 下
+suid=s21 participant=133497
+现在 *pro* 能 远程 吧
+suid=s22 participant=132065
+恩 那 个 框 怎么 改 ？
+suid=s23 participant=132065
+主任 的 机器 空 着
+suid=s24 participant=133497
+*pro* 远程 看看
+suid=s25 participant=133497
+*pro* 能 远程 了 *pro* 直接 找 我 就 行
+suid=s26 participant=132065
+恩 马上 我 就 过去
+suid=s27 participant=133497
+你 好 麻烦 *pro* 给 登陆 下 病历 。
+suid=s28 participant=133497
+我 不 清楚 管理员 密码
+suid=s29 participant=133497
+*pro* 在 么 ？
+suid=s30 participant=133497
+原来 所有 的 同意 书 *pro* 打印 都 没有 边框 ？
+suid=s31 participant=132065
+恩 科室 的 人 说 *pro* 没有
+suid=s32 participant=133497
+*pro* 稍等 我 让 技术 人员 *PRO* 看 下
+suid=s33 participant=133497
+技术 人员 稍等 会 联系 王 主任 的 QQ
+suid=s34 participant=133497
+*pro* 麻烦 您 *PRO* 过去 给 开 下 远程
+suid=s35 participant=133497
+我 打开 他 的 Q 放 在 桌面 上
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="68" end="71" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="795" end="798" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我2" start="890" end="893" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我3" start="942" end="945" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我4" start="965" end="968" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我5" start="1017" end="1020" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我6" start="1055" end="1058" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我9" start="1849" end="1852" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你1" start="531" end="534" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你2" start="1235" end="1238" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你3" start="1359" end="1362" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你4" start="1399" end="1402" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你5" start="1412" end="1415" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你6" start="1504" end="1507" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你7" start="1592" end="1595" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你8" start="1645" end="1648" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你9" start="1740" end="1743" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="163" end="166" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它1" start="186" end="189" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它2" start="267" end="270" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它3" start="307" end="310" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它4" start="325" end="328" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它5" start="368" end="371" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它6" start="386" end="389" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它7" start="409" end="412" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它8" start="594" end="597" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它9" start="610" end="613" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它10" start="665" end="668" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它11" start="698" end="701" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它12" start="709" end="712" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它13" start="757" end="760" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它14" start="823" end="826" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它15" start="1144" end="1147" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它16" start="1703" end="1706" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<其它 id="其0" start="230" end="233" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

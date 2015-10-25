@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=137903
+玮 姐 ， 我 同事 下午 大约 2点半 过去 找 你 *PRO* 拿 水宝宝
+suid=s1 participant=137980
+*pro* 能否 早 点 ？
+suid=s2 participant=137903
+大约 几点
+suid=s3 participant=137980
+2点 前 行 不 ， 我 下午 2点 有 个 培训
+suid=s4 participant=137903
+*pro* 好 ， 我 问问 她
+suid=s5 participant=137980
+你 是 不 是 还 要 2 盒 孕妇 dha ？
+suid=s6 participant=137903
+*pro* 是 的
+suid=s7 participant=137980
+正巧 那 天 糖 多 给 我 了 2 盒 我 还 没 给 她 拿 回去
+suid=s8 participant=137980
+*pro* 那 一起 正好 都 给 你
+suid=s9 participant=137903
+*pro* 好 的 呢
+suid=s10 participant=137903
+我 给 她 说 了 ， 她 看看 要是 2点 前 *pro* 能 赶 过去 *pro* 就 去 拿 ， 要不然 就 *OP* 我 *T*-1 过去 的 时候 *pro* 再 去 拿
+suid=s11 participant=137980
+亲 ， *pro* 本来 拜托 巧 总 *PRO* 转交 给 你 同事 的
+suid=s12 participant=137980
+刚 巧 总 说 她 下午 有 事 要 出去 ， 所以 就 把 东西 放 *-1 在 c 座 前台 了
+suid=s13 participant=137903
+哦 ， *pro* 好 的 ， 我 给 我 同事 说 一 声
+suid=s14 participant=137903
+*pro* 直接 过去 拿 就 可以 了 吗
+suid=s15 participant=137903
+*pro* 好 的 呢
+suid=s16 participant=137903
+*pro* 谢谢
+suid=s17 participant=137980
+这样 你 同事 几点 过去 都 行 ， *pro* 从 前台 ， 说 张文娟 的 名字 就 行 了
+suid=s18 participant=137980
+c 座 的 前台 哈
+suid=s19 participant=137980
+*pro* 不好意思 哈
+suid=s20 participant=137903
+*pro* 没 事 ， *pro* 每 次 都 麻烦 你们 的
+suid=s21 participant=137980
+*pro* 今天 正好 赶巧 了 ， *pro* 一 天 的 培训
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="420" end="423" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="586" end="589" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我2" start="630" end="633" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我3" start="921" end="924" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我4" start="1075" end="1078" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我5" start="1128" end="1131" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我6" start="1176" end="1179" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我7" start="1195" end="1198" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<她 id="她0" start="96" end="99" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<她 id="她1" start="532" end="535" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<她 id="她2" start="545" end="548" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<她 id="她3" start="830" end="833" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<她 id="她4" start="978" end="981" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="224" end="227" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它1" start="320" end="323" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它2" start="467" end="470" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它3" start="775" end="778" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它4" start="881" end="884" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它5" start="1116" end="1119" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

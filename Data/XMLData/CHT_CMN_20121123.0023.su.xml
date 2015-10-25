@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=137701
+你 要 我 *PRO* 帮 你 *PRO* 带 一 个 iphone 回去 吗 ？
+suid=s1 participant=137701
+你 的 kindle 还 在 不 在 ？
+还有 我 的 手机 你 会 不 会 还给 我 *T*-1 ？
+suid=s2 participant=131603
+*pro* 会 ！
+suid=s3 participant=131603
+*pro* 要 的
+suid=s4 participant=131603
+你 要不 就 帮 我 *PRO* 带 一 个 iphone5
+suid=s5 participant=131603
+正好 ， 你 帮 我 *PRO* 看看 好多 钱
+suid=s6 participant=137701
+所以 *pro* 暂时 没 办法 回答 你 好多 钱
+suid=s7 participant=131603
+[ 表情 ] *pro* 好 的 *pro* 好 的 ， 你 真 是 好 孩子 ！！
+suid=s8 participant=131603
+我们 得 见 个 面
+suid=s9 participant=131603
+或者 我 把 手机 寄给 你 妈妈 *-1
+suid=s10 participant=137701
+*pro* 好 ， *pro* 麻烦 你 *PRO* 寄给 我 老妈 好了 ， 我 回去 *pro* 还 早
+suid=s11 participant=137701
+美国 这里 ， *OP* *T*-1 unlocked 的 iphone5 ， 在 Ebay 上市 925
+suid=s12 participant=137701
+所以 你 看 *pro* 还 要 考虑 下 吗 ？
+suid=s13 participant=137701
+*pro* 还 有 800 的 ， 775 的
+suid=s14 participant=137701
+我 觉得 *pro* 略 贵 呀
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="177" end="180" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="214" end="217" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我2" start="364" end="367" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我3" start="583" end="586" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你0" start="745" end="748" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="422" end="425" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它1" start="432" end="435" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它2" start="573" end="576" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它们 id="它们0" start="792" end="795" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它们 id="它们1" start="849" end="852" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<形式主语 id="形0" start="618" end="621" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="1" existential="0" />
+</TAGS>
+</ProTask>

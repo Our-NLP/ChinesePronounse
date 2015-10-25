@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=133413
+你 在 路上 了 么
+suid=s1 participant=133482
+我 到 了
+suid=s2 participant=133413
+*pro* 这么 快 *pro* 好 的 我 抓紧 时间 我 刚 在 给 朋友 做 题目 她 周一 要 把 这 个 comps 的 试卷 交 上去 *-1
+suid=s3 participant=133482
+你 说 得 11点 ？
+suid=s4 participant=133482
+我 还 以为 我 晚 了
+suid=s5 participant=133413
+*pro* 不 是 啊 *OP* 你 说 *T*-1 的 是 11点半
+suid=s6 participant=133413
+我 说 11点半
+suid=s7 participant=133482
+我 从来 只 看 一半 。。。
+suid=s8 participant=133413
+明天 啥 时候 吖
+suid=s9 participant=133482
+我们 到 了
+suid=s10 participant=133482
+你们 呢
+]]></TEXT>
+<TAGS>
+<它 id="它0" start="284" end="287" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<形式主语 id="形0" start="100" end="103" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="1" existential="0" />
+<形式主语 id="形1" start="111" end="114" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="1" existential="0" />
+</TAGS>
+</ProTask>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=137670
+*pro* 还 在 新东方 吗
+suid=s1 participant=131603
+*pro* 怎么 了
+suid=s2 participant=137670
+*pro* 没有 ， 什么 ， *pro* 问问 你 的 工作 近况
+suid=s3 participant=131603
+哦 ， *pro* 是 的 ， 我 还 在 。
+你 想 *PRO* 给 我 介绍 工作 吗 ？
+[ 表情 ]
+suid=s4 participant=137670
+呵呵 ， 我们 律师 纯属 屌丝
+suid=s5 participant=131603
+嗯 ， 各 行 各 业 都 有 不容易 ， 你 知道 吗 ？
+秦颖 在 年前 辞职 了
+suid=s6 participant=131603
+*OP* 我 *T*-1 在 君泽君 玩 得 好 的 都 辞职 了
+suid=s7 participant=137670
+我 晓得
+suid=s8 participant=137670
+我们 经常 见面
+suid=s9 participant=131603
+明天 我们 会 举行 聚会
+suid=s10 participant=131603
+*pro* 经常 见面 ？？
+suid=s11 participant=131603
+你 不 是 在 深圳 吗 ？？
+suid=s12 participant=137670
+我 有时 来 北京 出差
+suid=s13 participant=131603
+哦 ， 那 挺 好 的 呀 [ 表情 ] 。
+还是 你 后来 工作 找 的 好 *-1
+suid=s14 participant=137670
+呵呵 ， *pro* 还 好
+suid=s15 participant=131603
+我 觉得 *pro* 能 经常 来 北京 很 不错 ， *pro* 为什么 说 律师 就 是 屌丝 呢 ？
+suid=s16 participant=137670
+*pro* 辛苦 呗
+suid=s17 participant=137670
+*pro* 没有 假日
+suid=s18 participant=131603
+嗯 ， *pro* 有 价值 就 是 好 的 ， *OP* *pro* *T*-1 年轻 的 时候 *pro* 多 累计 些 经验
+suid=s19 participant=137670
+*pro* 对头
+suid=s20 participant=131603
+你 现在 在 北京 吗 ？
+suid=s21 participant=137670
+*pro* 没有
+suid=s22 participant=137670
+*pro* 郑州 出差
+suid=s23 participant=131603
+哦 ， 明天 我们 聚会 ， 如果 你 在 ， *pro* 就 邀请 你 *PRO* 过来
+suid=s24 participant=137670
+呵呵 ， 下 次 ， 你们 开心 吧 ， *pro* 难得
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="126" end="129" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="865" end="868" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我2" start="904" end="907" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我3" start="1117" end="1120" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我4" start="1154" end="1157" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我5" start="1218" end="1221" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你0" start="29" end="32" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你1" start="788" end="791" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你2" start="811" end="814" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你3" start="948" end="951" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你4" start="974" end="977" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你5" start="994" end="997" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="110" end="113" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它1" start="176" end="179" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它2" start="745" end="748" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它3" start="1038" end="1041" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<你们 id="你们0" start="540" end="543" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<其它 id="其0" start="72" end="75" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<其它 id="其1" start="1289" end="1292" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

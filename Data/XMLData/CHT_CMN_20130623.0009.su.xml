@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=134687
+*pro* 在 吗 ？
+*pro* 有 个 问题 想 *PRO* 问 一下 [ 表情 ]
+suid=s1 participant=134167
+*pro* 请 讲
+suid=s2 participant=134687
+呵呵 ， *pro* 是 关于 “ 浙江 大学 资助 博士 研究生 *PRO* 开展 国际 合作 研究 与 交流 ”
+suid=s3 participant=134167
+嗯
+suid=s4 participant=134687
+*OP* *pro* *T*-2 这个 申请 *-1 的 时候 *pro* 是 不 是 只 能 申请 半 年 ？
+suid=s5 participant=134167
+*pro* 可以 申请 一 年 ， 只是 *pro* 只 有 半 年 的 钱
+suid=s6 participant=134687
+*pro* 即便 是 想 *PRO* 延长 *pro* 也 是 只 有 半 年 的 钱 ？
+suid=s7 participant=134167
+*pro* 对
+suid=s8 participant=134687
+第七 条 派出 时间 为 *OP* *pro* *T*-1 申请 当年 。
+派出 期限 一般 为 6 个 月 。
+suid=s9 participant=134687
+确 因 研究 需要 *pro* 可 申请 *PRO* 延长 留学 期限 ， 延长 期限 *PRO* 最 长 不 超过 6 个 月 。
+suid=s10 participant=134687
+*OP* *T*-1 申请 *PRO* 延长 留学 期限 的 派出 人员 应 于 留学 期限 结束 前 2 个 月 提出 申请 ， 并 办理 有关 手续 。
+suid=s11 participant=134687
+实际 选派 人数 *pro* 根据 每 年 申请 情况 确定 *T*-1 。
+suid=s12 participant=134167
+这个 你 预期 *T*-1 就 是 一 年 ， *pro* 直接 申请 一 年 就 行 了
+suid=s13 participant=134167
+中间 *pro* 就 不 用 有 个 *OP* *pro* *T*-1 延期 的 手续
+suid=s14 participant=134167
+但是 钱 ， *pro* 只 能 有 半 年 的 *T*-1
+suid=s15 participant=134687
+*pro* 好 的 [ 表情 ]
+suid=s16 participant=134687
+你 是 你们 老板 帮 *PRO* 出 的 另 半 年 的 钱 ？
+suid=s17 participant=134167
+*pro* 是 的 ~~ *pro* 是 比较 郁闷
+suid=s18 participant=134687
+半 年 *pro* 估计 也 要 5 - 6w 吧
+suid=s19 participant=134687
+哎 ， 我 真 不 敢 跟 老板 提 这个 了
+suid=s20 participant=134687
+*pro* 有点 多 *pro* 感觉 *T*-1
+suid=s21 participant=134167
+你 准备 *PRO* 去 哪 个 城市
+suid=s22 participant=134167
+如果 自己 不 怎么 买 东西 ， 消费 也 不 高 的
+suid=s23 participant=134687
+匹兹堡 大学
+suid=s24 participant=134687
+*pro* 好像 也 在 宾大 那 个 洲
+suid=s25 participant=134167
+东部 的 二线 城市 ， 自己 开锅 ，
+suid=s26 participant=134167
+吃喝 200 就 已经 很 好 了
+suid=s27 participant=134687
+*pro* 这么 少 ？
+那 房租 呢 ？
+suid=s28 participant=134167
+房租 *pro* 要 帮 你 *PRO* 问问 *T*-1 ， *pro* 基本 在 500 左右
+suid=s29 participant=134167
+反正 1000 肯定 能够 解决 你 的 问题
+suid=s30 participant=134167
+所以 *pro* 别 担心
+suid=s31 participant=134687
+你们 一 个 月 补助 多少 能 ？
+suid=s32 participant=134167
+*pro* 尽管 申请 吧
+suid=s33 participant=134687
+恩 ， 我 先 试试 吧
+suid=s34 participant=134167
+*pro* 一共 就 9600 美金 ， 国内 老板 给 了 一点 ，
+suid=s35 participant=134687
+9600 是 学校 给 的 ？
+suid=s36 participant=134167
+你 先 把 名额 争取 到 了 *-1 再说 吧
+suid=s37 participant=134687
+恩 ， *pro* 好 的
+suid=s38 participant=134167
+这 个 钱 *pro* 在 宾州 生活 ， 够 的
+suid=s39 participant=134687
+嗯 ， *pro* 好 的
+suid=s40 participant=134687
+*pro* 谢 啦
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="41" end="44" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="258" end="261" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我2" start="285" end="288" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我4" start="1189" end="1192" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我5" start="1235" end="1238" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我6" start="1348" end="1351" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我7" start="1729" end="1732" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我8" start="2327" end="2330" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你0" start="29" end="32" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你1" start="101" end="104" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你2" start="337" end="340" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你3" start="888" end="891" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你4" start="941" end="944" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你5" start="962" end="965" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你7" start="1859" end="1862" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你8" start="1945" end="1948" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你9" start="2237" end="2240" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他 id="他0" start="529" end="532" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他 id="他1" start="605" end="608" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="143" end="146" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它1" start="358" end="361" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它2" start="403" end="406" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它3" start="425" end="428" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它4" start="476" end="479" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它5" start="806" end="809" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它6" start="1017" end="1020" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它7" start="1069" end="1072" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它8" start="1176" end="1179" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它9" start="1337" end="1340" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它10" start="1531" end="1534" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它11" start="1676" end="1679" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它12" start="1758" end="1761" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它13" start="2028" end="2031" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它14" start="2193" end="2196" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它15" start="2289" end="2292" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

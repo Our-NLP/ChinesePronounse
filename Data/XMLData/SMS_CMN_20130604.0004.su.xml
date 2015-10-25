@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=135608
+嗨 ， 亲爱 的 ~ 我 下课 啦 ~ 你 方便 *PRO* 打 电话 吗 ？
+suid=s1 participant=135920
+我 等 下 电话 你 可以 吗 ？
+*pro* 还 在 诊所
+suid=s2 participant=135920
+*pro* 不好意思 哦 *pro* 现在 才 看到 你 短信
+suid=s3 participant=135608
+哦 ， 不过 我 今晚 要 做 作业 额 ， 要不 你 告诉 我 你 什么 时候 有空 ， 我 给 你 打 电话 ？
+suid=s4 participant=135920
+*pro* 抱歉 哦 ， 我 才 看到 你 短信 。
+我 回家 晚 了 。
+不如 你 有 时间 了 就 直接 电话 我 吧
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="114" end="117" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="154" end="157" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我2" start="167" end="170" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我3" start="299" end="302" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

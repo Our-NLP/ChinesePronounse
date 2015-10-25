@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=137850
+boy 的 复数 形式 [ 表情 ]
+suid=s1 participant=137803
+哈哈哈 *pro* 太 有才 了
+suid=s2 participant=137850
+*pro* 回家 啦 ？
+suid=s3 participant=137803
+*pro* 对 呀 *pro* 在 吃饭 呢
+suid=s4 participant=137850
+*pro* 笑 死 我 了 ~
+suid=s5 participant=137803
+你 看 *OP* 我 再 微博 上 转 *T*-1 的 那个
+suid=s6 participant=137850
+*pro* 好
+suid=s7 participant=137850
+~~
+suid=s8 participant=137803
+哈哈 谁 贴 墙 上 的 *pro* 太 缺德 了
+suid=s9 participant=137850
+*pro* 就 是 就 是 ， 我 看 了 两 遍 ， *pro* 笑喷 了 ~
+suid=s10 participant=137850
+那 个 女 的 太 强 了 ， *pro* 简直 是 凤姐 二 代 ~
+suid=s11 participant=137803
+她 还 很 陶醉 哈哈哈哈
+suid=s12 participant=137803
+我靠 gameboy ！
+suid=s13 participant=137850
+那个 一 出来 我 饭 都 快 喷 出来 *-1 咯 ~
+suid=s14 participant=137850
+*pro* 再 给 你 *pro* 看 一 个 ~
+suid=s15 participant=137850
+麦兜 附身 ~~
+suid=s16 participant=137803
+*pro* 好 呀 ~
+suid=s17 participant=137803
+这个 太 搞笑 了 ！！
+suid=s18 participant=137803
+我 去 洗 个 碗 哈 ~
+suid=s19 participant=137850
+我 也 去 洗 碗 ~~
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="169" end="172" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="456" end="459" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我2" start="701" end="704" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你0" start="79" end="82" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你1" start="119" end="122" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你2" start="209" end="212" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他 id="他0" start="388" end="391" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<她 id="她0" start="513" end="516" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="159" end="162" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它1" start="310" end="313" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它2" start="428" end="431" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它4" start="792" end="795" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<其它 id="其0" start="713" end="716" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

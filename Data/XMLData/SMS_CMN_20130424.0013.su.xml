@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=131857
+旭旭 ， 有 答案 么 。。。 *pro* 有 的话 *pro* 给 我 发 份 *pro* 好 么 。
+*pro* 谢谢 。。。
+suid=s1 participant=131938
+你 是 ， 我 没有 答案 正 找 呢
+suid=s2 participant=131938
+二哥 ， 我 没 答案 ， 小强 有
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="82" end="85" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你0" start="45" end="48" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你1" start="56" end="59" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="70" end="73" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

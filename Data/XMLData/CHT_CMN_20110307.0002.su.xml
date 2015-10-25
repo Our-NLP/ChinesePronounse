@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=135882
+*pro* 在 ？
+suid=s1 participant=138473
+*pro* 在
+suid=s2 participant=135882
+你 有 无 win7 的 镜像 文件
+suid=s3 participant=138473
+*pro* 有
+suid=s4 participant=135882
+*pro* 发给 我 吧
+suid=s5 participant=135882
+*pro* 要 不 要 *OP* *T*-1 激活 的
+suid=s6 participant=135882
+*pro* 是 旗舰 版 还是 家庭 版 ？
+suid=s7 participant=138473
+这 是 原版 的
+suid=s8 participant=138473
+旗舰
+suid=s9 participant=135882
+*pro* 要 激活 码 ？
+suid=s10 participant=138473
+*pro* 要 激活
+suid=s11 participant=138473
+....
+suid=s12 participant=138473
+我 这里 没有
+suid=s13 participant=138473
+你 先 装 吧
+suid=s14 participant=135882
+*pro* 上网 找 激活 码 那些 可以 么
+suid=s15 participant=138473
+*pro* 不 可以
+suid=s16 participant=135882
+*pro* 不 激活 *pro* 用 不 了 的 喔
+suid=s17 participant=135882
+我 不 是 现在 装 ， 可能 明天 或者 后天
+suid=s18 participant=138473
+*pro* 用 的 了 ， 你 先 不 要 激活 ， *pro* 可以 用 30 天
+suid=s19 participant=138473
+等 我 帮 庞洁 *PRO* 重装 完 ， 拿回 移动 硬盘 *pro* 就 有 了
+suid=s20 participant=135882
+*pro* 不 是 我 要 装 ， 我 是 帮 别人 *PRO* 装
+suid=s21 participant=135882
+你 几时 拿回 移动 硬盘 ？
+suid=s22 participant=138473
+*pro* 等 下
+suid=s23 participant=135882
+庞洁 的 电脑 也 要 重装 ？
+suid=s24 participant=138473
+恩
+suid=s25 participant=135882
+我 明晚 用
+suid=s26 participant=138473
+激活 工具
+suid=s27 participant=138473
+*pro* 用 管理员 权限 运行
+suid=s28 participant=135882
+就是 *pro* 解压 了 镜像 之后
+suid=s29 participant=135882
+然后 *pro* 用 loader ？
+suid=s30 participant=138473
+*pro* *pro* 安装 好 系统 之后 才 用 loader
+suid=s31 participant=138473
+loader 是 用来 *pro* 激活 的
+suid=s32 participant=135882
+那 个 镜像 是 不 是 *pro* 解压 完 之后 ， 就 有 个 autorun 或者 setup 可以 选 的 ？
+suid=s33 participant=135882
+在 D 盘 这些 解压 也 行 的 吧
+suid=s34 participant=138473
+这个 。。
+suid=s35 participant=138473
+硬盘 安装 比较 麻烦
+suid=s36 participant=135882
+*pro* 不 是 要 虚拟 光驱 吧
+suid=s37 participant=138473
+虚拟 光驱 也 装 不 到 的
+suid=s38 participant=135882
+这个 怎么办 ？
+suid=s39 participant=138473
+*pro* 是 在 什么 系统 装 的
+suid=s40 participant=135882
+我 不 知道
+suid=s41 participant=135882
+*pro* 有 什么 不同 ？
+suid=s42 participant=138473
+*pro* XP 的话 *pro* 就 复制 就 行
+suid=s43 participant=138473
+*pro* 以上 的话 *pro* 要 用 管理员 帐号 登录 来 复制
+suid=s44 participant=135882
+win7 呢
+suid=s45 participant=135882
+一般 *pro* 进去 *pro* 就 是 管理员 账号 的 吧
+suid=s46 participant=138473
+*pro* 一般 是
+suid=s47 participant=138473
+*pro* 实在 不 行 的话 *pro* 就 用 administrator
+suid=s48 participant=135882
+那 win7 也 复制 ？
+suid=s49 participant=138473
+*pro* 也 是
+suid=s50 participant=135882
+*pro* 用 administrator 啥 意思 ……
+suid=s51 participant=138473
+用户 名
+suid=s52 participant=135882
+*pro* 不 明白 。
+我 觉得 *PRO* 一般 不 会 设 guest 账户 吧
+suid=s53 participant=138473
+不过 user 账户 也 是 不 行 的
+suid=s54 participant=138473
+一般来说 *pro* 没 问题 的 啦
+suid=s55 participant=135882
+你 明晚 十点 后 有空 不 ？
+suid=s56 participant=135882
+如果 我 搞 不 定 *pro* 就 打给 你 ……
+suid=s57 participant=138473
+恩
+suid=s58 participant=138473
+*pro* 解压 就 行 了
+suid=s59 participant=135882
+*pro* 在 C 盘 解压 ？
+suid=s60 participant=138473
+D 盘
+suid=s61 participant=135882
+哦哦 ， *pro* 看错 了
+suid=s62 participant=135882
+loder 有 规定 *pro* 装 在 哪 个 盘 吗
+suid=s63 participant=135882
+*pro* 双击 exe 文件 就 可以 了 吧
+suid=s64 participant=138473
+*pro* 没有
+suid=s65 participant=138473
+右键 ， *pro* 用 管理员 方式 运行
+suid=s66 participant=135882
+O（∩＿∩）O *pro* 谢谢
+suid=s67 participant=135882
+*pro* 有 无 规定 他 的 D 盘 要 *OP* *T*-1 多 大 的 ？
+suid=s68 participant=135882
+网上 说 *pro* 要 25 G
+suid=s69 participant=138473
+D 盘 没 关系
+suid=s70 participant=135882
+C ？
+suid=s71 participant=138473
+恩
+suid=s72 participant=135882
+甘 C 盘 是 不 是 得 有 25 G ？
+suid=s73 participant=138473
+*pro* 最 好
+suid=s74 participant=135882
+[ 图片 ] 如果 他 没 25 G 我 就 给 他 装 XP ……
+suid=s75 participant=138473
+. 恩
+suid=s76 participant=135882
+可素 *pro* 米有 XP 的 镜像 ……
+suid=s77 participant=138473
+*pro* 如果 太 小 的话 不 行
+suid=s78 participant=138473
+。。 我 也 木有
+suid=s79 participant=135882
+*pro* 在 ？
+suid=s80 participant=135882
+*pro* 突然 想到 一 个 问题 ， 就是 那 个 *OP* *T*-1 叫 我 *PRO* 重装 电脑 的 ， 他 说 他 的 电脑 中毒 了 ， 那 我 的 U盘 *pro* 插 进去 岂 不 是 完蛋 了 ？
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="66" end="69" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="147" end="150" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我2" start="222" end="225" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我4" start="580" end="583" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我5" start="682" end="685" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我6" start="881" end="884" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我7" start="1259" end="1262" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我8" start="1307" end="1310" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我9" start="2090" end="2093" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我10" start="2335" end="2338" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我11" start="2426" end="2429" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我12" start="2651" end="2654" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我13" start="2768" end="2771" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我14" start="2850" end="2853" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我15" start="2900" end="2903" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我16" start="3095" end="3098" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我17" start="3534" end="3537" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我18" start="3706" end="3709" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你0" start="29" end="32" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你1" start="182" end="185" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你2" start="779" end="782" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你3" start="806" end="809" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你4" start="1028" end="1031" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你5" start="1210" end="1213" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你7" start="1352" end="1355" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你8" start="1805" end="1808" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你9" start="1944" end="1947" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你10" start="1999" end="2002" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你11" start="2187" end="2190" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你12" start="2203" end="2206" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你13" start="2725" end="2728" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你14" start="2946" end="2949" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你15" start="3041" end="3044" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你16" start="3668" end="3671" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="277" end="280" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它1" start="393" end="396" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它2" start="436" end="439" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它3" start="632" end="635" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它4" start="671" end="674" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它5" start="921" end="924" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它6" start="1478" end="1481" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它7" start="1676" end="1679" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它8" start="2148" end="2151" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它9" start="2297" end="2300" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它10" start="2552" end="2555" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它11" start="2999" end="3002" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它12" start="3132" end="3135" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它13" start="3207" end="3210" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它14" start="3398" end="3401" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它15" start="3582" end="3585" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它们 id="它们0" start="1888" end="1891" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<其它 id="其0" start="1358" end="1361" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<其它 id="其1" start="1426" end="1429" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<其它 id="其2" start="1932" end="1935" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<其它 id="其3" start="1987" end="1990" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<其它 id="其4" start="2099" end="2102" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<其它 id="其5" start="3792" end="3795" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

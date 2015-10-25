@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=137803
+我 来 了 ~
+suid=s1 participant=137821
+大梁 ？
+（ *pro* 来自 QQ for iPhone : http:／／mobile.qq.com ）
+suid=s2 participant=137821
+吹波易大
+suid=s3 participant=137803
+龙 哥 ？
+suid=s4 participant=137803
+*pro* 不 行 不 行 画面 都 不 动 了
+suid=s5 participant=137821
+FaceTime ?
+suid=s6 participant=137803
+哦 *pro* 等 我 换 个 电脑
+suid=s7 participant=137821
+Visionace
+suid=s8 participant=137803
+*pro* 好像 又 断 了 ……
+suid=s9 participant=137803
+啊 ？
+suid=s10 participant=137821
+*pro* 能 接 吗 ？
+suid=s11 participant=137803
+我 接 了 呀
+suid=s12 participant=137803
+*pro* 再 连 一 次
+suid=s13 participant=137821
+*pro* 再 来 一 回
+suid=s14 participant=137803
+*pro* 好
+suid=s15 participant=137803
+*pro* 要 不 要 试试 skype ？
+suid=s16 participant=137821
+*pro* 好
+suid=s17 participant=137821
+*pro* 等等
+suid=s18 participant=137821
+我 木有 skype
+suid=s19 participant=137821
+*pro* 得 现装
+suid=s20 participant=137803
+哦哦
+suid=s21 participant=137821
+FaceTime ?
+suid=s22 participant=137803
+啊 *pro* 等等 哈
+suid=s23 participant=137803
+你 facetime 的 email 是 神马
+suid=s24 participant=137821
+你 的 是 神马 我 不 知道 *T*-1 我 的 是 神马
+suid=s25 participant=137803
+gepeng＿bell@yahoo.com.cn
+suid=s26 participant=137803
+反正 她 刚刚 还 在 说 你 怎么 这么 狠心 把 谷雨 甩 *-1 了
+suid=s27 participant=137821
+手机 QQ 视频 ， 让 我们 彼此 的 心 *PRO* 更 近 了 ， 全新 沟通 ， 全新 生活 ， *pro* 赶紧 邀请 好友 *PRO* 一起 视频 吧 ！
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="71" end="74" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="822" end="825" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你0" start="303" end="306" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你1" start="461" end="464" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你2" start="659" end="662" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你3" start="746" end="749" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你4" start="933" end="936" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你5" start="1255" end="1258" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="211" end="214" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它1" start="384" end="387" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它2" start="623" end="626" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<它 id="它3" start="710" end="713" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<我们 id="我们0" start="539" end="542" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我们 id="我们1" start="581" end="584" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

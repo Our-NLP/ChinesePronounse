@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=134098
+今天 的 课件 *pro* 给 我 一 份 *T*-1 我 学习 学习
+suid=s1 participant=134098
+*pro* 在
+suid=s2 participant=134098
+*pro* 课件 吧
+suid=s3 participant=131226
+*pro* 在 不 ？
+suid=s4 participant=134098
+还有 模板
+suid=s5 participant=131226
+课件 ？
+PPT ?
+suid=s6 participant=131226
+但是 PPT 上 没有 东西 。
+suid=s7 participant=134098
+*pro* 行 我 看看 咱 的 岗位 阶梯
+suid=s8 participant=131226
+空白 模板 *pro* 可以 给 你 *T*-1
+suid=s9 participant=134098
+还有 组织 架构
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="92" end="95" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="375" end="378" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你0" start="37" end="40" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你1" start="165" end="168" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="319" end="322" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
+<其它 id="其0" start="127" end="130" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

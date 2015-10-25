@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=131705
+hmart 有 鲥鱼 ， 你们 买 过 吗 ？
+shadfish
+suid=s1 participant=130521
+*pro* 没有 。
+我们 在 hmart 买 过 cod , snapper , 什么 的 。
+鲥鱼 *pro* 不 知道 *T*-1 长 什么样
+suid=s2 participant=131705
+*pro* 就 是 shadfish 。
+下 回 *pro* 可以 试试 ， 国内 卖 2krmb 一 斤 呢
+suid=s3 participant=131705
+*pro* 号称 *pro* 很 鲜美
+]]></TEXT>
+<TAGS>
+<它 id="它0" start="191" end="194" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它1" start="274" end="277" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它2" start="283" end="286" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我们 id="我们0" start="89" end="92" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我们 id="我们1" start="141" end="144" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你们 id="你们0" start="216" end="219" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

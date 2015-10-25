@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=135907
+阿姐 我 想 *PRO* 知道 *pro* 用 ip 可以 看 电脑 上 的 ppt 之类 的 office 软件 吗
+suid=s1 participant=135907
+*pro* 没 破解
+suid=s2 participant=135608
+这些 软件 大部分 收钱 的
+suid=s3 participant=135907
+那 我 去 哪里 把 电脑 上 的 放进 手机 ？
+suid=s4 participant=135907
+*pro* 把 ppt 的 资料 放 进去 *-1 ？
+suid=s5 participant=135608
+但是 如果 你 的 机子 破解 了 。。。 那 *pro* 可以 试试 smart office 2
+suid=s6 participant=135608
+那 你 搜搜 那 个 软件 ， *pro* 可能 有 免费 版 的 ， 只是 *pro* 不 能 编辑
+suid=s7 participant=135608
+但是 *pro* 能 看
+suid=s8 participant=135608
+前阵子 感恩节 的 时候 这 个 软件 限免 ， 然后 我 就 下 了
+suid=s9 participant=135608
+*pro* 传到 手机 里 ， 或者 使用 dropbox 网络 硬盘
+suid=s10 participant=135608
+我 都 是 用 网络 硬盘 的
+suid=s11 participant=135608
+dropbox 和 googledoc *pro* 都 有 在 用 *T*-1 ， 但是 国内 用 不 了 googledoc ， 好像
+suid=s12 participant=135608
+可是 *pro* 可以 用 dropbox
+suid=s13 participant=135907
+网络 硬盘
+suid=s14 participant=135608
+这个 很 好用
+suid=s15 participant=135608
+要不 你 就 直接 传 手机 咯
+suid=s16 participant=135907
+*pro* 传 手机 我 也 不 会
+suid=s17 participant=135907
+网盘 *pro* 怎么 申请 *T*-1
+suid=s18 participant=135608
+*pro* 接 数据线 ， 然后 用 itunes 放 进去 。。。 我 也 没 试 过 ， 因为 我 都 是 用 网盘 的
+suid=s19 participant=135907
+嗯嗯
+suid=s20 participant=135608
+*pro* 就 当 *pro* 练习 四 级 吧
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="45" end="48" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我1" start="116" end="119" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我2" start="249" end="252" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我3" start="564" end="567" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我4" start="692" end="695" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我5" start="772" end="775" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我6" start="934" end="937" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我7" start="984" end="987" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你0" start="328" end="331" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你1" start="464" end="467" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你2" start="1030" end="1033" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你3" start="1152" end="1155" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你4" start="1162" end="1165" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="398" end="401" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它1" start="421" end="424" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+</TAGS>
+</ProTask>

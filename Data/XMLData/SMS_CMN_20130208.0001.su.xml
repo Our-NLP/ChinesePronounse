@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProTask>
+<TEXT><![CDATA[
+suid=s0 participant=131913
+二哥 ， 我 想 她 也 不 应该 是 那样 的 人 ，
+suid=s1 participant=131913
+*pro* 年后 见面 你 就 说 *OP* *pro* 先 要来 *T*-1 的 两 套 你们 一 人 一 套 ， *OP* *T*-2 剩下 的 *pro* 该 怎么办 再 怎么办 ， 你 说 *pro* 可 否
+suid=s2 participant=131857
+嗯 我 就 是 这么 想 的 她 刚 给 我 发完 我 就 给 你 发 过去 了
+suid=s3 participant=131857
+*pro* 见面 之前 咱 俩 先 沟通 我 觉得 她 发 这 个 信息 和 上 我 家 来 是 *pro* 有 想法 的 不然 她 不 会 不 给 你 联系 自己 来 的
+suid=s4 participant=131913
+他 去 给 我 说 了 ， *pro* 说 *pro* 给 你 送 菜 ， 我 知道
+suid=s5 participant=131857
+反正 你 心里 有 个 数 ！
+我 是 为 你 考虑 的 ！
+suid=s6 participant=131913
+春节 到 了 ， 思念 是 我 的 牵盼 ， 短信 是 我 的 书笺 ， 清风 是 我 的 拥抱 ， 美酒 是 我 的 衷肠 ， 钟声 是 我 的 问候 ， 礼花 是 我 的 祝愿 ， 雪花 是 我 的 贺卡 ， 快乐 是 我 的 祝福 ！
+*pro* 愿 你 天天 快乐 ， 幸福 永远 。。。。。。
+]]></TEXT>
+<TAGS>
+<我 id="我0" start="652" end="655" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他 id="他0" start="417" end="420" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他 id="他1" start="425" end="428" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<她 id="她0" start="338" end="341" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<它 id="它0" start="184" end="187" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
+<我们 id="我们0" start="289" end="292" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你们 id="你们0" start="108" end="111" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你们 id="你们1" start="160" end="163" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<形式主语 id="形0" start="85" end="88" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="1" existential="0" />
+</TAGS>
+</ProTask>
