@@ -1,7 +1,7 @@
 import subprocess
 if __name__=="__main__":
     mallet_bin="../mallet-2.0.8RC2/bin/"
-    train_data="../Data/vectors/train.dat"
+    train_data="../Data/Features/features.fb"
     mallet_data="../Data/vectors/train.mallet"
 
 #Import Data
