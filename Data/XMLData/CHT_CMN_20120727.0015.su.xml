@@ -61,12 +61,14 @@ suid=s22 participant=137903
 <我 id="我9" start="1186" end="1189" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
 <我 id="我11" start="1264" end="1267" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
 <我 id="我12" start="1286" end="1289" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我 id="我10" start="591" end="594" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
 <你 id="你0" start="369" end="372" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
 <你 id="你1" start="394" end="397" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
 <你 id="你2" start="480" end="483" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
 <你 id="你3" start="1075" end="1078" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
 <你 id="你4" start="1095" end="1098" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
 <你 id="你6" start="1296" end="1299" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你 id="你5" start="641" end="644" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
 <它 id="它0" start="145" end="148" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />
 <它 id="它1" start="381" end="384" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
 <它 id="它2" start="757" end="760" text="pro" generic="0" referential="1" event="1" pre_utter="0" pleonastic="0" existential="0" />

@@ -1,27 +1,27 @@
-CHT_CMN_20120109.0000.su.xml	NONE	-1	-1	你 妈 还 在 做事 吗	s0	132614
-CHT_CMN_20120109.0000.su.xml	NONE	-1	-1	她 前 一 段 时间 在 幼儿园 打工	s1	130521
-CHT_CMN_20120109.0000.su.xml	NONE	-1	-1	半 个 月 前 我 姨夫 出 车祸 过世 了	s2	130521
-CHT_CMN_20120109.0000.su.xml	NONE	-1	-1	她 要 照顾 我 小姨 ， 辞工 了	s3	130521
-CHT_CMN_20120109.0000.su.xml	NONE	-1	-1	哦	s4	132614
-CHT_CMN_20120109.0000.su.xml	NONE	-1	-1	我 嫂子 可能 怀孕 了	s5	130521
-CHT_CMN_20120109.0000.su.xml	我	1028	0	未必 要 去 上海	s6	132614
-CHT_CMN_20120109.0000.su.xml	NONE	-1	-1	所以 我 爸妈 可能 会 去 上海	s7	130521
-CHT_CMN_20120109.0000.su.xml	它	480	0	现在 还 不 确定	s8	130521
-CHT_CMN_20120109.0000.su.xml	NONE	-1	-1	他们 想 *PRO* 去 ， 我 让 他们 *PRO* 征求 ### 的 意见	s9	130521
-CHT_CMN_20120109.0000.su.xml	它	724	0	就 是	s10	132614
-CHT_CMN_20120109.0000.su.xml	它	905	11	要是 他们 不 喜欢 就 别 去 了	s11	132614
-CHT_CMN_20120109.0000.su.xml	它	1230	0	上 次 去 上海 跟 嫂子 闹 得 很 僵 ， 嫂子 未必 想 *PRO* 让 他们 *PRO* 去	s12	130521
-CHT_CMN_20120109.0000.su.xml	他们	281	19	他们 很 想 *PRO* 去 的 ， 抱 孙子 的 愿望 很 强烈	s13	130521
-CHT_CMN_20120109.0000.su.xml	他们	369	0	就 是 啊	s14	132614
-CHT_CMN_20120109.0000.su.xml	NONE	-1	-1	老人 啊	s15	132614
-CHT_CMN_20120109.0000.su.xml	他们	571	25	我 是 觉得 他们 关系 已经 那么 僵 了 ， 没 必要 去	s16	130521
-CHT_CMN_20120109.0000.su.xml	NONE	-1	-1	媳妇 自己 妈妈 更 合适	s17	130521
-CHT_CMN_20120109.0000.su.xml	他们	675	0	就 是	s18	132614
-CHT_CMN_20120109.0000.su.xml	他们	822	0	吃苦 不 讨好	s19	132614
-CHT_CMN_20120109.0000.su.xml	NONE	-1	-1	我 会 跟 他们 讲明 利害	s20	130521
-CHT_CMN_20120109.0000.su.xml	他们	943	0	劝 他们 *PRO* 别 去	s21	130521
-CHT_CMN_20120109.0000.su.xml	他们	1126	9	如果 他们 需要 可以	s22	132614
-CHT_CMN_20120109.0000.su.xml	他们	1144	3	如果 不 喜欢 他们 去 ， 就 别 去	s23	132614
-CHT_CMN_20120109.0000.su.xml	他们	1190	21	如果 不 喜欢 他们 去 ， 就 别 去	s23	132614
-CHT_CMN_20120109.0000.su.xml	其	1086	6	免得 以后 有 话 说	s24	132614
-CHT_CMN_20120109.0000.su.xml	NONE	-1	-1	*pro* 也 是	s25	130521
+CHT_CMN_20120109.0000.su.xml	NONE	-1	-1	你 妈 还 在 做事 吗	s0	132614	你#PN 妈#NN 还#AD 在#AD 做事#VV 吗#SP
+CHT_CMN_20120109.0000.su.xml	NONE	-1	-1	她 前 一 段 时间 在 幼儿园 打工	s1	130521	她#PN 前#DT 一#CD 段#M 时间#NN 在#P 幼儿园#NN 打工#VV
+CHT_CMN_20120109.0000.su.xml	NONE	-1	-1	半 个 月 前 我 姨夫 出 车祸 过世 了	s2	130521	半#CD 个#M 月#NN 前#LC 我#PN 姨夫#VV 出#VV 车祸#NN 过世#VV 了#AS
+CHT_CMN_20120109.0000.su.xml	NONE	-1	-1	她 要 照顾 我 小姨 ， 辞工 了	s3	130521	她#PN 要#VV 照顾#VV 我#PN 小姨#NN ，#PU 辞工#VV 了#AS
+CHT_CMN_20120109.0000.su.xml	NONE	-1	-1	哦	s4	132614	哦#IJ
+CHT_CMN_20120109.0000.su.xml	NONE	-1	-1	我 嫂子 可能 怀孕 了	s5	130521	我#PN 嫂子#NN 可能#VV 怀孕#VV 了#SP
+CHT_CMN_20120109.0000.su.xml	我	1028	0	未必 要 去 上海	s6	132614	未必#AD 要#VV 去#VV 上海#NR
+CHT_CMN_20120109.0000.su.xml	NONE	-1	-1	所以 我 爸妈 可能 会 去 上海	s7	130521	所以#AD 我#PN 爸妈#NN 可能#VV 会#VV 去#VV 上海#NR
+CHT_CMN_20120109.0000.su.xml	它	480	0	现在 还 不 确定	s8	130521	现在#NT 还#AD 不#AD 确定#VA
+CHT_CMN_20120109.0000.su.xml	NONE	-1	-1	他们 想 *PRO* 去 ， 我 让 他们 *PRO* 征求 ### 的 意见	s9	130521	他们#PN 想#VV *PRO*#VV 去#VV ，#PU 我#PN 让#VV 他们#PN *PRO*#VV 征求#VV ####NN 的#DEG 意见#NN
+CHT_CMN_20120109.0000.su.xml	它	724	0	就 是	s10	132614	就#AD 是#VC
+CHT_CMN_20120109.0000.su.xml	它	905	11	要是 他们 不 喜欢 就 别 去 了	s11	132614	要是#CS 他们#PN 不#AD 喜欢#VV 就#AD 别#AD 去#VV 了#SP
+CHT_CMN_20120109.0000.su.xml	它	1230	0	上 次 去 上海 跟 嫂子 闹 得 很 僵 ， 嫂子 未必 想 *PRO* 让 他们 *PRO* 去	s12	130521	上#DT 次#M 去#VV 上海#NR 跟#CC 嫂子#NN 闹#VV 得#DER 很#AD 僵#VA ，#PU 嫂子#NN 未必#AD 想#VV *PRO*#VV 让#VV 他们#PN *PRO*#VV 去#VV
+CHT_CMN_20120109.0000.su.xml	他们	281	19	他们 很 想 *PRO* 去 的 ， 抱 孙子 的 愿望 很 强烈	s13	130521	他们#PN 很#AD 想#VV *PRO*#VV 去#VV 的#DEC ，#PU 抱#VV 孙子#NN 的#DEC 愿望#NN 很#AD 强烈#VA
+CHT_CMN_20120109.0000.su.xml	他们	369	0	就 是 啊	s14	132614	就#AD 是#VC 啊#SP
+CHT_CMN_20120109.0000.su.xml	NONE	-1	-1	老人 啊	s15	132614	老人#NN 啊#SP
+CHT_CMN_20120109.0000.su.xml	他们	571	25	我 是 觉得 他们 关系 已经 那么 僵 了 ， 没 必要 去	s16	130521	我#PN 是#VC 觉得#VV 他们#PN 关系#NN 已经#AD 那么#AD 僵#VA 了#SP ，#PU 没#VE 必要#NN 去#VV
+CHT_CMN_20120109.0000.su.xml	NONE	-1	-1	媳妇 自己 妈妈 更 合适	s17	130521	媳妇#NN 自己#PN 妈妈#NN 更#AD 合适#VA
+CHT_CMN_20120109.0000.su.xml	他们	675	0	就 是	s18	132614	就#AD 是#VC
+CHT_CMN_20120109.0000.su.xml	他们	822	0	吃苦 不 讨好	s19	132614	吃苦#VV 不#AD 讨好#VA
+CHT_CMN_20120109.0000.su.xml	NONE	-1	-1	我 会 跟 他们 讲明 利害	s20	130521	我#PN 会#VV 跟#P 他们#PN 讲明#VV 利害#NN
+CHT_CMN_20120109.0000.su.xml	他们	943	0	劝 他们 *PRO* 别 去	s21	130521	劝#VV 他们#PN *PRO*#AD 别#AD 去#VV
+CHT_CMN_20120109.0000.su.xml	他们	1126	9	如果 他们 需要 可以	s22	132614	如果#CS 他们#PN 需要#VV 可以#VV
+CHT_CMN_20120109.0000.su.xml	他们	1144	3	如果 不 喜欢 他们 去 ， 就 别 去	s23	132614	如果#CS 不#AD 喜欢#VV 他们#PN 去#VV ，#PU 就#AD 别#AD 去#VV
+CHT_CMN_20120109.0000.su.xml	他们	1190	21	如果 不 喜欢 他们 去 ， 就 别 去	s23	132614	如果#CS 不#AD 喜欢#VV 他们#PN 去#VV ，#PU 就#AD 别#AD 去#VV
+CHT_CMN_20120109.0000.su.xml	他们	529	6	免得 以后 有 话 说	s24	132614	免得#VV 以后#LC 有#VE 话#NN 说#VV
+CHT_CMN_20120109.0000.su.xml	其	1086	0	也 是	s25	130521	也#AD 是#VC

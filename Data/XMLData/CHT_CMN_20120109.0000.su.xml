@@ -69,6 +69,7 @@ suid=s25 participant=130521
 <他们 id="他们6" start="1126" end="1129" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
 <他们 id="他们7" start="1144" end="1147" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
 <他们 id="他们8" start="1190" end="1193" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<他们 id="他们9" start="529" end="532" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
 <其它 id="其0" start="1086" end="1089" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="0" />
 </TAGS>
 </ProTask>

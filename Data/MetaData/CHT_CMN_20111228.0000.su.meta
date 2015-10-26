@@ -1,22 +1,22 @@
-CHT_CMN_20111228.0000.su.xml	NONE	-1	-1	你 在 吗	s0	134220
-CHT_CMN_20111228.0000.su.xml	我	62	0	在 呀 我 隐身	s1	134224
-CHT_CMN_20111228.0000.su.xml	NONE	-1	-1	我 看 出来 了	s2	134220
-CHT_CMN_20111228.0000.su.xml	NONE	-1	-1	你 不 要 问 王勇 了	s3	134220
-CHT_CMN_20111228.0000.su.xml	NONE	-1	-1	事情 有 变化	s4	134220
-CHT_CMN_20111228.0000.su.xml	我	355	2	哦 好	s5	134224
-CHT_CMN_20111228.0000.su.xml	NONE	-1	-1	你 还 没 问 他 吧	s6	134220
-CHT_CMN_20111228.0000.su.xml	NONE	-1	-1	*OP* *T*-1 条件 太 好 的 容易 把 他 吓到 *-2 呵呵	s7	134224
-CHT_CMN_20111228.0000.su.xml	我	364	0	没有 压根 没 见到 他	s8	134224
-CHT_CMN_20111228.0000.su.xml	你	493	9	没有 压根 没 见到 他	s8	134224
-CHT_CMN_20111228.0000.su.xml	你	701	0	不 是 的	s9	134220
-CHT_CMN_20111228.0000.su.xml	NONE	-1	-1	我 打 电话 告诉 你 吧	s10	134220
-CHT_CMN_20111228.0000.su.xml	NONE	-1	-1	啊 ？	s11	134224
-CHT_CMN_20111228.0000.su.xml	你	774	0	不 用 打 电话 浪费 话费	s11	134224
-CHT_CMN_20111228.0000.su.xml	它	217	15	不 用 打 电话 浪费 话费	s11	134224
-CHT_CMN_20111228.0000.su.xml	它	407	0	没 事	s12	134220
-CHT_CMN_20111228.0000.su.xml	它	508	0	跟 我 没 关系 吧	s13	134224
-CHT_CMN_20111228.0000.su.xml	它	548	0	没有	s14	134220
-CHT_CMN_20111228.0000.su.xml	NONE	-1	-1	电话 号	s15	134220
-CHT_CMN_20111228.0000.su.xml	它	586	0	发 过来	s16	134220
-CHT_CMN_20111228.0000.su.xml	NONE	-1	-1	你 的	s17	134220
-CHT_CMN_20111228.0000.su.xml	它	631	2	那 就 更 不 用 打 电话 了 明天 我 去 找 你 聊天 反正 我 中午 就 去 你们 办公室 找 崔 吃饭	s18	134224
+CHT_CMN_20111228.0000.su.xml	NONE	-1	-1	你 在 吗	s0	134220	你#PN 在#VV 吗#SP
+CHT_CMN_20111228.0000.su.xml	我	62	0	在 呀 我 隐身	s1	134224	在#P 呀#SP 我#PN 隐身#NN
+CHT_CMN_20111228.0000.su.xml	NONE	-1	-1	我 看 出来 了	s2	134220	我#PN 看#VV 出来#VV 了#AS
+CHT_CMN_20111228.0000.su.xml	NONE	-1	-1	你 不 要 问 王勇 了	s3	134220	你#PN 不#AD 要#VV 问#VV 王勇#NR 了#SP
+CHT_CMN_20111228.0000.su.xml	NONE	-1	-1	事情 有 变化	s4	134220	事情#NN 有#VE 变化#NN
+CHT_CMN_20111228.0000.su.xml	我	355	2	哦 好	s5	134224	哦#IJ 好#VA
+CHT_CMN_20111228.0000.su.xml	NONE	-1	-1	你 还 没 问 他 吧	s6	134220	你#PN 还#AD 没#AD 问#VV 他#PN 吧#SP
+CHT_CMN_20111228.0000.su.xml	NONE	-1	-1	*OP* *T*-1 条件 太 好 的 容易 把 他 吓到 *-2 呵呵	s7	134224	*OP*#NR *T*-1#NN 条件#NN 太#AD 好#VA 的#DEC 容易#AD 把#BA 他#PN 吓到#VV *-2#CD 呵呵#IJ
+CHT_CMN_20111228.0000.su.xml	我	364	0	没有 压根 没 见到 他	s8	134224	没有#VE 压根#AD 没#VE 见到#VV 他#PN
+CHT_CMN_20111228.0000.su.xml	你	493	9	没有 压根 没 见到 他	s8	134224	没有#VE 压根#AD 没#VE 见到#VV 他#PN
+CHT_CMN_20111228.0000.su.xml	你	701	0	不 是 的	s9	134220	不#AD 是#VC 的#SP
+CHT_CMN_20111228.0000.su.xml	NONE	-1	-1	我 打 电话 告诉 你 吧	s10	134220	我#PN 打#VV 电话#NN 告诉#VV 你#PN 吧#SP
+CHT_CMN_20111228.0000.su.xml	NONE	-1	-1	啊 ？	s11	134224	啊#IJ ？#PU
+CHT_CMN_20111228.0000.su.xml	你	774	0	不 用 打 电话 浪费 话费	s11	134224	不#AD 用#VV 打#VV 电话#NN 浪费#VV 话费#NN
+CHT_CMN_20111228.0000.su.xml	它	217	15	不 用 打 电话 浪费 话费	s11	134224	不#AD 用#VV 打#VV 电话#NN 浪费#VV 话费#NN
+CHT_CMN_20111228.0000.su.xml	它	407	0	没 事	s12	134220	没#VE 事#NN
+CHT_CMN_20111228.0000.su.xml	它	508	0	跟 我 没 关系 吧	s13	134224	跟#P 我#PN 没#VE 关系#NN 吧#SP
+CHT_CMN_20111228.0000.su.xml	它	548	0	没有	s14	134220	没有#VE
+CHT_CMN_20111228.0000.su.xml	NONE	-1	-1	电话 号	s15	134220	电话#NN 号#NN
+CHT_CMN_20111228.0000.su.xml	它	586	0	发 过来	s16	134220	发#VV 过来#VV
+CHT_CMN_20111228.0000.su.xml	NONE	-1	-1	你 的	s17	134220	你#PN 的#DEG
+CHT_CMN_20111228.0000.su.xml	它	631	2	那 就 更 不 用 打 电话 了 明天 我 去 找 你 聊天 反正 我 中午 就 去 你们 办公室 找 崔 吃饭	s18	134224	那#AD 就#AD 更#AD 不#AD 用#VV 打#VV 电话#NN 了#SP 明天#NT 我#PN 去#VV 找#VV 你#PN 聊天#VV 反正#AD 我#PN 中午#NT 就#AD 去#VV 你们#PN 办公室#NN 找#VV 崔#NR 吃饭#VV

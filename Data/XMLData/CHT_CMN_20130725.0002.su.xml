@@ -225,5 +225,6 @@ suid=s74 participant=133148
 <你们 id="你们0" start="1108" end="1111" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
 <你们 id="你们1" start="2930" end="2933" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
 <他们 id="他们0" start="3654" end="3657" text="pro" generic="1" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<其它 id="其0" start="29" end="32" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="0" />
 </TAGS>
 </ProTask>

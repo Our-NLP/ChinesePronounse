@@ -1,22 +1,22 @@
-CHT_CMN_20120511.0012.su.xml	NONE	-1	-1	丫头 ， 在 吗 ， 我 回家 了 ， 妈妈 要 跟 你 说话 呢 。	s0	138194
-CHT_CMN_20120511.0012.su.xml	我	97	5	haha 在 我 在 网上 找 房子	s1	138246
-CHT_CMN_20120511.0012.su.xml	我	229	0	能 视频 吗	s2	138246
-CHT_CMN_20120511.0012.su.xml	NONE	-1	-1	你 准备 *PRO* 搬家 啊 ？	s3	138194
-CHT_CMN_20120511.0012.su.xml	我	279	0	不 能 视频 我 打 电话 回来	s4	138246
-CHT_CMN_20120511.0012.su.xml	我	687	0	吃 的 蛮 好 的	s5	138246
-CHT_CMN_20120511.0012.su.xml	NONE	-1	-1	你 早点 休息	s6	138194
-CHT_CMN_20120511.0012.su.xml	NONE	-1	-1	我 在 炒菜 ， 去 下 厨房 ， 你 爸 下午 在 提交 有 个 培训 ， 所以 要 早点 吃饭	s7	138194
-CHT_CMN_20120511.0012.su.xml	NONE	-1	-1	你 去 吧	s8	138246
-CHT_CMN_20120511.0012.su.xml	NONE	-1	-1	我 在 看 下子 房子 的 信息	s9	138246
-CHT_CMN_20120511.0012.su.xml	NONE	-1	-1	你 爸 下去 洗 车 去 了	s10	138194
-CHT_CMN_20120511.0012.su.xml	NONE	-1	-1	丹蕾 ， 你 就 在 学校 里 找 房 算了	s11	138194
-CHT_CMN_20120511.0012.su.xml	你	144	0	是 的	s12	138246
-CHT_CMN_20120511.0012.su.xml	NONE	-1	-1	我 晓得 你 赶紧 去 炒菜	s13	138246
-CHT_CMN_20120511.0012.su.xml	你	839	0	不 和 你 说 了	s14	138246
-CHT_CMN_20120511.0012.su.xml	NONE	-1	-1	那 你 今天 也 做 不 了 ， 明天 再 找	s15	138194
-CHT_CMN_20120511.0012.su.xml	它	606	0	好 的 我 知道 了 我 关 视频 了 啊	s16	138246
-CHT_CMN_20120511.0012.su.xml	它	783	0	早点 回家 家 休息	s17	138194
-CHT_CMN_20120511.0012.su.xml	它	884	0	好 ， 明天 见	s18	138194
-CHT_CMN_20120511.0012.su.xml	我们	894	10	好 ， 明天 见	s18	138194
-CHT_CMN_20120511.0012.su.xml	NONE	-1	-1	你 赶紧 做菜 去 啊	s19	138246
-CHT_CMN_20120511.0012.su.xml	我们	973	0	拜拜	s20	138194
+CHT_CMN_20120511.0012.su.xml	NONE	-1	-1	丫头 ， 在 吗 ， 我 回家 了 ， 妈妈 要 跟 你 说话 呢 。	s0	138194	丫头#NN ，#PU 在#P 吗#SP ，#PU 我#PN 回家#VV 了#AS ，#PU 妈妈#NN 要#VV 跟#P 你#PN 说话#VV 呢#SP 。#PU
+CHT_CMN_20120511.0012.su.xml	我	97	5	haha 在 我 在 网上 找 房子	s1	138246	haha#NR 在#P 我#PN 在#P 网上#NN 找#VV 房子#NN
+CHT_CMN_20120511.0012.su.xml	我	229	0	能 视频 吗	s2	138246	能#VV 视频#VV 吗#SP
+CHT_CMN_20120511.0012.su.xml	NONE	-1	-1	你 准备 *PRO* 搬家 啊 ？	s3	138194	你#PN 准备#VV *PRO*#NR 搬家#VV 啊#SP ？#PU
+CHT_CMN_20120511.0012.su.xml	我	279	0	不 能 视频 我 打 电话 回来	s4	138246	不#AD 能#VV 视频#VV 我#PN 打#VV 电话#NN 回来#VV
+CHT_CMN_20120511.0012.su.xml	我	687	0	吃 的 蛮 好 的	s5	138246	吃#VV 的#DEC 蛮#AD 好#VA 的#SP
+CHT_CMN_20120511.0012.su.xml	NONE	-1	-1	你 早点 休息	s6	138194	你#PN 早点#AD 休息#VV
+CHT_CMN_20120511.0012.su.xml	NONE	-1	-1	我 在 炒菜 ， 去 下 厨房 ， 你 爸 下午 在 提交 有 个 培训 ， 所以 要 早点 吃饭	s7	138194	我#PN 在#AD 炒菜#VV ，#PU 去#VV 下#VV 厨房#NN ，#PU 你#PN 爸#NN 下午#NT 在#P 提交#VV 有#VE 个#M 培训#NN ，#PU 所以#AD 要#VV 早点#AD 吃饭#VV
+CHT_CMN_20120511.0012.su.xml	NONE	-1	-1	你 去 吧	s8	138246	你#PN 去#VV 吧#SP
+CHT_CMN_20120511.0012.su.xml	NONE	-1	-1	我 在 看 下子 房子 的 信息	s9	138246	我#PN 在#P 看#VV 下子#NN 房子#NN 的#DEG 信息#NN
+CHT_CMN_20120511.0012.su.xml	NONE	-1	-1	你 爸 下去 洗 车 去 了	s10	138194	你#PN 爸#NN 下去#VV 洗#VV 车#NN 去#VV 了#AS
+CHT_CMN_20120511.0012.su.xml	NONE	-1	-1	丹蕾 ， 你 就 在 学校 里 找 房 算了	s11	138194	丹蕾#NN ，#PU 你#PN 就#AD 在#P 学校#NN 里#LC 找#VV 房#NN 算了#VV
+CHT_CMN_20120511.0012.su.xml	你	144	0	是 的	s12	138246	是#VC 的#SP
+CHT_CMN_20120511.0012.su.xml	NONE	-1	-1	我 晓得 你 赶紧 去 炒菜	s13	138246	我#PN 晓得#VV 你#PN 赶紧#AD 去#VV 炒菜#VV
+CHT_CMN_20120511.0012.su.xml	你	839	0	不 和 你 说 了	s14	138246	不#AD 和#P 你#PN 说#VV 了#AS
+CHT_CMN_20120511.0012.su.xml	NONE	-1	-1	那 你 今天 也 做 不 了 ， 明天 再 找	s15	138194	那#AD 你#PN 今天#NT 也#AD 做#VV 不#AD 了#VV ，#PU 明天#NT 再#AD 找#VV
+CHT_CMN_20120511.0012.su.xml	它	606	0	好 的 我 知道 了 我 关 视频 了 啊	s16	138246	好#VA 的#DEC 我#PN 知道#VV 了#AS 我#PN 关#VV 视频#NN 了#SP 啊#SP
+CHT_CMN_20120511.0012.su.xml	它	783	0	早点 回家 家 休息	s17	138194	早点#AD 回家#VV 家#NN 休息#VV
+CHT_CMN_20120511.0012.su.xml	它	884	0	好 ， 明天 见	s18	138194	好#VA ，#PU 明天#NT 见#VV
+CHT_CMN_20120511.0012.su.xml	我们	894	10	好 ， 明天 见	s18	138194	好#VA ，#PU 明天#NT 见#VV
+CHT_CMN_20120511.0012.su.xml	NONE	-1	-1	你 赶紧 做菜 去 啊	s19	138246	你#PN 赶紧#AD 做菜#VV 去#VV 啊#SP
+CHT_CMN_20120511.0012.su.xml	我们	973	0	拜拜	s20	138194	拜拜#NN

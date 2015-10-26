@@ -1,23 +1,23 @@
-CHT_CMN_20120127.0002.su.xml	NONE	-1	-1	[ 表情 ] 我 31号 回 广州	s0	135882
-CHT_CMN_20120127.0002.su.xml	我	169	0	这么 早	s1	138501
-CHT_CMN_20120127.0002.su.xml	NONE	-1	-1	我 要 2.2 才 回 [ 表情 ]	s2	138501
-CHT_CMN_20120127.0002.su.xml	我	412	11	[ 表情 ] 没 ， 实在 太 有 罪恶感 了 ， 毕业 设计 都 没 动 过	s3	135882
-CHT_CMN_20120127.0002.su.xml	我	640	7	[ 表情 ] 什么 时候 要 交	s4	138501
-CHT_CMN_20120127.0002.su.xml	我	683	5	*OP* *T*-1 开学 第二 周 交 初稿 ， 4月 定稿	s5	135882
-CHT_CMN_20120127.0002.su.xml	我	747	25	*OP* *T*-1 开学 第二 周 交 初稿 ， 4月 定稿	s5	135882
-CHT_CMN_20120127.0002.su.xml	我	896	41	*OP* *T*-1 开学 第二 周 交 初稿 ， 4月 定稿	s5	135882
-CHT_CMN_20120127.0002.su.xml	我	1014	2	那 就 是 剩下 一 个 月 左右	s6	138501
-CHT_CMN_20120127.0002.su.xml	你	820	3	所以 很 紧张 啊	s7	135882
-CHT_CMN_20120127.0002.su.xml	NONE	-1	-1	你 是 要 做 动画 ？	s8	138501
-CHT_CMN_20120127.0002.su.xml	NONE	-1	-1	恩恩 ，	s9	135882
-CHT_CMN_20120127.0002.su.xml	NONE	-1	-1	3D 动画	s10	135882
-CHT_CMN_20120127.0002.su.xml	NONE	-1	-1	那 剧本 你 写好 了 *T*-1 没	s11	138501
-CHT_CMN_20120127.0002.su.xml	NONE	-1	-1	没 ..	s12	135882
-CHT_CMN_20120127.0002.su.xml	它	238	0	这 几 天 想想	s13	135882
-CHT_CMN_20120127.0002.su.xml	它	306	0	打算 *PRO* 做 *OP* *T*-1 愤怒 的 小鸟	s14	135882
-CHT_CMN_20120127.0002.su.xml	它	322	0	让 *OP* *T*-1 愤怒 的 小鸟 *PRO* 教 小孩 英语	s15	135882
-CHT_CMN_20120127.0002.su.xml	它	878	4	呃 ， 要 先 画好 剧本 ， 然后 还 要 分镜 吧	s16	138501
-CHT_CMN_20120127.0002.su.xml	形	286	0	这么 详细 么 ... 不 可以 直接 动手 么	s17	135882
-CHT_CMN_20120127.0002.su.xml	形	360	18	这么 详细 么 ... 不 可以 直接 动手 么	s17	135882
-CHT_CMN_20120127.0002.su.xml	NONE	-1	-1	前戏 太 长 了 ..	s18	135882
-CHT_CMN_20120127.0002.su.xml	其	74	31	呃 ， 当初 *OP* 柳薇 *T*-1 教 我们 的 时候 就 是 这样 一 步 一 步 来 的	s19	138501
+CHT_CMN_20120127.0002.su.xml	NONE	-1	-1	[ 表情 ] 我 31号 回 广州	s0	135882	[#PU 表情#NN ]#PU 我#PN 31号#NT 回#VV 广州#NR
+CHT_CMN_20120127.0002.su.xml	我	169	0	这么 早	s1	138501	这么#AD 早#VA
+CHT_CMN_20120127.0002.su.xml	NONE	-1	-1	我 要 2.2 才 回 [ 表情 ]	s2	138501	我#PN 要#VV 2.2#CD 才#AD 回#VV [#PU 表情#NN ]#PU
+CHT_CMN_20120127.0002.su.xml	我	412	11	[ 表情 ] 没 ， 实在 太 有 罪恶感 了 ， 毕业 设计 都 没 动 过	s3	135882	[#PU 表情#NN ]#PU 没#AD ，#PU 实在#AD 太#AD 有#VE 罪恶感#NN 了#SP ，#PU 毕业#VV 设计#NN 都#AD 没#AD 动#VV 过#AS
+CHT_CMN_20120127.0002.su.xml	我	640	7	[ 表情 ] 什么 时候 要 交	s4	138501	[#PU 表情#NN ]#PU 什么#DT 时候#NN 要#VV 交#VV
+CHT_CMN_20120127.0002.su.xml	我	683	5	*OP* *T*-1 开学 第二 周 交 初稿 ， 4月 定稿	s5	135882	*OP*#NR *T*-1#NR 开学#VV 第二#OD 周#M 交#VV 初稿#NN ，#PU 4月#NT 定稿#NN
+CHT_CMN_20120127.0002.su.xml	我	747	25	*OP* *T*-1 开学 第二 周 交 初稿 ， 4月 定稿	s5	135882	*OP*#NR *T*-1#NR 开学#VV 第二#OD 周#M 交#VV 初稿#NN ，#PU 4月#NT 定稿#NN
+CHT_CMN_20120127.0002.su.xml	我	896	41	*OP* *T*-1 开学 第二 周 交 初稿 ， 4月 定稿	s5	135882	*OP*#NR *T*-1#NR 开学#VV 第二#OD 周#M 交#VV 初稿#NN ，#PU 4月#NT 定稿#NN
+CHT_CMN_20120127.0002.su.xml	我	1014	2	那 就 是 剩下 一 个 月 左右	s6	138501	那#PN 就#AD 是#VC 剩下#VV 一#CD 个#M 月#NN 左右#LC
+CHT_CMN_20120127.0002.su.xml	你	820	3	所以 很 紧张 啊	s7	135882	所以#AD 很#AD 紧张#VA 啊#SP
+CHT_CMN_20120127.0002.su.xml	NONE	-1	-1	你 是 要 做 动画 ？	s8	138501	你#PN 是#VC 要#VV 做#VV 动画#NN ？#PU
+CHT_CMN_20120127.0002.su.xml	NONE	-1	-1	恩恩 ，	s9	135882	恩恩#NR ，#PU
+CHT_CMN_20120127.0002.su.xml	NONE	-1	-1	3D 动画	s10	135882	3D#NN 动画#NN
+CHT_CMN_20120127.0002.su.xml	NONE	-1	-1	那 剧本 你 写好 了 *T*-1 没	s11	138501	那#AD 剧本#NN 你#PN 写好#VV 了#AS *T*-1#NN 没#VE
+CHT_CMN_20120127.0002.su.xml	NONE	-1	-1	没 ..	s12	135882	没#AD ..#VV
+CHT_CMN_20120127.0002.su.xml	它	238	0	这 几 天 想想	s13	135882	这#DT 几#CD 天#M 想想#VV
+CHT_CMN_20120127.0002.su.xml	它	306	0	打算 *PRO* 做 *OP* *T*-1 愤怒 的 小鸟	s14	135882	打算#VV *PRO*#VV 做#VV *OP*#NN *T*-1#NN 愤怒#VA 的#DEC 小鸟#NN
+CHT_CMN_20120127.0002.su.xml	它	322	0	让 *OP* *T*-1 愤怒 的 小鸟 *PRO* 教 小孩 英语	s15	135882	让#VV *OP*#NR *T*-1#VV 愤怒#NN 的#DEC 小鸟#NN *PRO*#NN 教#VV 小孩#NN 英语#NN
+CHT_CMN_20120127.0002.su.xml	它	878	4	呃 ， 要 先 画好 剧本 ， 然后 还 要 分镜 吧	s16	138501	呃#IJ ，#PU 要#VV 先#AD 画好#VV 剧本#NN ，#PU 然后#AD 还#AD 要#VV 分镜#VV 吧#SP
+CHT_CMN_20120127.0002.su.xml	形	286	0	这么 详细 么 ... 不 可以 直接 动手 么	s17	135882	这么#AD 详细#AD 么#SP ...#PU 不#AD 可以#VV 直接#AD 动手#VV 么#SP
+CHT_CMN_20120127.0002.su.xml	形	360	18	这么 详细 么 ... 不 可以 直接 动手 么	s17	135882	这么#AD 详细#AD 么#SP ...#PU 不#AD 可以#VV 直接#AD 动手#VV 么#SP
+CHT_CMN_20120127.0002.su.xml	NONE	-1	-1	前戏 太 长 了 ..	s18	135882	前戏#NN 太#AD 长#VA 了#AS ..#NN
+CHT_CMN_20120127.0002.su.xml	其	74	31	呃 ， 当初 *OP* 柳薇 *T*-1 教 我们 的 时候 就 是 这样 一 步 一 步 来 的	s19	138501	呃#IJ ，#PU 当初#AD *OP*#VV 柳薇#NN *T*-1#NN 教#VV 我们#PN 的#DEC 时候#NN 就#AD 是#VC 这样#JJ 一#CD 步#M 一#CD 步#M 来#VV 的#SP

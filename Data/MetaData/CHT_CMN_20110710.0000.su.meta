@@ -1,11 +1,11 @@
-CHT_CMN_20110710.0000.su.xml	我	72	4	你 好 在 么 ？	s0	132065
-CHT_CMN_20110710.0000.su.xml	我	457	0	有 点 事情 想 *PRO* 咨询 下	s1	132065
-CHT_CMN_20110710.0000.su.xml	NONE	-1	-1	我们 医院 的 外网 及其 是 通过 2 个 端口 连接 的	s2	132065
-CHT_CMN_20110710.0000.su.xml	NONE	-1	-1	*OP* *T*-1 通过 这 2 个 端口 的 机器 互相 之间 PING 不 通 也 连接 不 上 同 一 端口 下 的 机器 就 可以 PING 同 也 能 连接 上	s3	132065
-CHT_CMN_20110710.0000.su.xml	NONE	-1	-1	这个 应该 怎么 处理 呢 ？	s4	132065
-CHT_CMN_20110710.0000.su.xml	NONE	-1	-1	*OP* *T*-1 比较 急 的 应用	s5	132065
-CHT_CMN_20110710.0000.su.xml	我	472	0	作 一 条 *OP* *T*-1 trust 到 trust 的 放行	s6	133498
-CHT_CMN_20110710.0000.su.xml	你	33	0	怎么 做 呢 ？	s7	132065
-CHT_CMN_20110710.0000.su.xml	你	388	0	不 会 啊 。。。	s7	132065
-CHT_CMN_20110710.0000.su.xml	NONE	-1	-1	*OP* *T*-1 ID 是 1 的 这 条 是 做 什么 用 的 ？	s8	132065
-CHT_CMN_20110710.0000.su.xml	你	609	30	平台 的 试用期 到 了 我们 准备 *PRO* 招标 了 能 把 设备 的 参数 说 下 *-1 么 我们 好 在 标书 上 注明	s9	132065
+CHT_CMN_20110710.0000.su.xml	我	72	4	你 好 在 么 ？	s0	132065	你#PN 好#AD 在#AD 么#SP ？#PU
+CHT_CMN_20110710.0000.su.xml	我	457	0	有 点 事情 想 *PRO* 咨询 下	s1	132065	有#VE 点#CD 事情#NN 想#VV *PRO*#NR 咨询#NN 下#LC
+CHT_CMN_20110710.0000.su.xml	NONE	-1	-1	我们 医院 的 外网 及其 是 通过 2 个 端口 连接 的	s2	132065	我们#PN 医院#NN 的#DEG 外网#NN 及其#CC 是#VC 通过#P 2#CD 个#M 端口#NN 连接#VV 的#SP
+CHT_CMN_20110710.0000.su.xml	NONE	-1	-1	*OP* *T*-1 通过 这 2 个 端口 的 机器 互相 之间 PING 不 通 也 连接 不 上 同 一 端口 下 的 机器 就 可以 PING 同 也 能 连接 上	s3	132065	*OP*#NR *T*-1#AD 通过#P 这#DT 2#CD 个#M 端口#NN 的#DEG 机器#NN 互相#AD 之间#LC PING#NR 不#AD 通#VV 也#AD 连接#VV 不#AD 上#VV 同#DT 一#CD 端口#NN 下#LC 的#DEG 机器#NN 就#AD 可以#VV PING#NR 同#AD 也#AD 能#VV 连接#VV 上#VV
+CHT_CMN_20110710.0000.su.xml	NONE	-1	-1	这个 应该 怎么 处理 呢 ？	s4	132065	这个#PN 应该#VV 怎么#AD 处理#VV 呢#SP ？#PU
+CHT_CMN_20110710.0000.su.xml	NONE	-1	-1	*OP* *T*-1 比较 急 的 应用	s5	132065	*OP*#NR *T*-1#NN 比较#AD 急#VA 的#DEC 应用#NN
+CHT_CMN_20110710.0000.su.xml	我	472	0	作 一 条 *OP* *T*-1 trust 到 trust 的 放行	s6	133498	作#VV 一#CD 条#M *OP*#NN *T*-1#AD trust#VV 到#VV trust#NN 的#DEC 放行#VV
+CHT_CMN_20110710.0000.su.xml	你	33	0	怎么 做 呢 ？	s7	132065	怎么#AD 做#VV 呢#SP ？#PU
+CHT_CMN_20110710.0000.su.xml	你	388	0	不 会 啊 。。。	s7	132065	不#AD 会#VV 啊#SP 。。。#PU
+CHT_CMN_20110710.0000.su.xml	NONE	-1	-1	*OP* *T*-1 ID 是 1 的 这 条 是 做 什么 用 的 ？	s8	132065	*OP*#NR *T*-1#NN ID#NN 是#VC 1#CD 的#DEG 这#DT 条#M 是#VC 做#VV 什么#PN 用#VV 的#SP ？#PU
+CHT_CMN_20110710.0000.su.xml	你	609	30	平台 的 试用期 到 了 我们 准备 *PRO* 招标 了 能 把 设备 的 参数 说 下 *-1 么 我们 好 在 标书 上 注明	s9	132065	平台#NN 的#DEG 试用期#NN 到#VV 了#AS 我们#PN 准备#VV *PRO*#NR 招标#VV 了#AS 能#VV 把#BA 设备#NN 的#DEG 参数#NN 说#VV 下#LC *-1#NR 么#SP 我们#PN 好#AD 在#P 标书#NN 上#LC 注明#VV

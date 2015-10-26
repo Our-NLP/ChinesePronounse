@@ -1,23 +1,23 @@
-CHT_CMN_20120211.0003.su.xml	NONE	-1	-1	angel 都 木有 反应 啊	s0	138194
-CHT_CMN_20120211.0003.su.xml	我	72	0	咋整	s1	138194
-CHT_CMN_20120211.0003.su.xml	NONE	-1	-1	呃 。。。 要不 我 来 发 短信 吧	s2	138375
-CHT_CMN_20120211.0003.su.xml	NONE	-1	-1	安琪 我 待会儿 大概 5点 多 去 GSE 我 能 先 看看 那 个 教材 吗 ？	s3	138194
-CHT_CMN_20120211.0003.su.xml	NONE	-1	-1	你 没有 教材 ？？？	s4	138375
-CHT_CMN_20120211.0003.su.xml	我	361	0	好 呀	s5	138375
-CHT_CMN_20120211.0003.su.xml	NONE	-1	-1	我 找 那 个 袁存伟 学姐 买 的 教材 现在 还 没 去 拿	s6	138194
-CHT_CMN_20120211.0003.su.xml	我	583	0	汗 死 了	s7	138194
-CHT_CMN_20120211.0003.su.xml	我	903	0	就 是 教会 那 个 学姐	s8	138194
-CHT_CMN_20120211.0003.su.xml	NONE	-1	-1	正好 我 也 去 那边 讨论 就 给 你 *PRO* 看 。	s9	138375
-CHT_CMN_20120211.0003.su.xml	NONE	-1	-1	哦 。。。 哈哈哈啊	s9	138375
-CHT_CMN_20120211.0003.su.xml	你	531	0	好 吧 。。。 是 挺 [ 表情 ] [ 表情 ]	s10	138375
-CHT_CMN_20120211.0003.su.xml	你	770	14	好 吧 。。。 是 挺 [ 表情 ] [ 表情 ]	s10	138375
-CHT_CMN_20120211.0003.su.xml	她	400	0	掩面 [ 表情 ]	s11	138194
-CHT_CMN_20120211.0003.su.xml	NONE	-1	-1	哎 那 个 短文 改错 改 的 我 。。。 果然 专八 好 难 啊	s12	138194
-CHT_CMN_20120211.0003.su.xml	它	264	0	是 呀 哈哈哈	s13	138375
-CHT_CMN_20120211.0003.su.xml	NONE	-1	-1	你 还 在 fb ?	s14	138194
-CHT_CMN_20120211.0003.su.xml	它	517	0	太 淡定 了	s15	138194
-CHT_CMN_20120211.0003.su.xml	NONE	-1	-1	我 刚 上来 。。。 嘿嘿	s16	138375
-CHT_CMN_20120211.0003.su.xml	它	689	2	我 上 厕所 时 看 的	s17	138194
-CHT_CMN_20120211.0003.su.xml	其	855	3	结果 一 不 小心 腿 坐 麻 了	s18	138194
-CHT_CMN_20120211.0003.su.xml	NONE	-1	-1	。。。。。。。。。 你 上 的 厕所 好 长 呀 。。。。。。。	s19	138375
-CHT_CMN_20120211.0003.su.xml	NONE	-1	-1	哈哈哈哈哈哈哈	s20	138375
+CHT_CMN_20120211.0003.su.xml	NONE	-1	-1	angel 都 木有 反应 啊	s0	138194	angel#NR 都#AD 木有#VV 反应#NN 啊#SP
+CHT_CMN_20120211.0003.su.xml	我	72	0	咋整	s1	138194	咋整#NN
+CHT_CMN_20120211.0003.su.xml	NONE	-1	-1	呃 。。。 要不 我 来 发 短信 吧	s2	138375	呃#IJ 。。。#PU 要不#AD 我#PN 来#VV 发#VV 短信#NN 吧#SP
+CHT_CMN_20120211.0003.su.xml	NONE	-1	-1	安琪 我 待会儿 大概 5点 多 去 GSE 我 能 先 看看 那 个 教材 吗 ？	s3	138194	安琪#NR 我#PN 待会儿#AD 大概#AD 5点#NT 多#AD 去#VV GSE#VV 我#PN 能#VV 先#AD 看看#VV 那#DT 个#M 教材#NN 吗#SP ？#PU
+CHT_CMN_20120211.0003.su.xml	NONE	-1	-1	你 没有 教材 ？？？	s4	138375	你#PN 没有#VE 教材#NN ？？？#NN
+CHT_CMN_20120211.0003.su.xml	我	361	0	好 呀	s5	138375	好#VA 呀#SP
+CHT_CMN_20120211.0003.su.xml	NONE	-1	-1	我 找 那 个 袁存伟 学姐 买 的 教材 现在 还 没 去 拿	s6	138194	我#PN 找#VV 那#DT 个#M 袁存伟#NN 学姐#NN 买#VV 的#DEC 教材#NN 现在#NT 还#AD 没#AD 去#VV 拿#VV
+CHT_CMN_20120211.0003.su.xml	我	583	0	汗 死 了	s7	138194	汗#NN 死#VV 了#AS
+CHT_CMN_20120211.0003.su.xml	我	903	0	就 是 教会 那 个 学姐	s8	138194	就#AD 是#VC 教会#NN 那#DT 个#M 学姐#NN
+CHT_CMN_20120211.0003.su.xml	NONE	-1	-1	正好 我 也 去 那边 讨论 就 给 你 *PRO* 看 。	s9	138375	正好#AD 我#PN 也#AD 去#VV 那边#PN 讨论#VV 就#AD 给#P 你#PN *PRO*#VV 看#VV 。#PU
+CHT_CMN_20120211.0003.su.xml	NONE	-1	-1	哦 。。。 哈哈哈啊	s9	138375	哦#IJ 。。。#PU 哈哈哈啊#VV
+CHT_CMN_20120211.0003.su.xml	你	531	0	好 吧 。。。 是 挺 [ 表情 ] [ 表情 ]	s10	138375	好#VA 吧#SP 。。。#PU 是#VC 挺#AD [#PU 表情#NN ]#PU [#PU 表情#NN ]#PU
+CHT_CMN_20120211.0003.su.xml	你	770	14	好 吧 。。。 是 挺 [ 表情 ] [ 表情 ]	s10	138375	好#VA 吧#SP 。。。#PU 是#VC 挺#AD [#PU 表情#NN ]#PU [#PU 表情#NN ]#PU
+CHT_CMN_20120211.0003.su.xml	她	400	0	掩面 [ 表情 ]	s11	138194	掩面#VV [#PU 表情#NN ]#PU
+CHT_CMN_20120211.0003.su.xml	NONE	-1	-1	哎 那 个 短文 改错 改 的 我 。。。 果然 专八 好 难 啊	s12	138194	哎#IJ 那#DT 个#M 短文#NN 改错#VV 改#VV 的#DEC 我#PN 。。。#PU 果然#AD 专八#NN 好#AD 难#VA 啊#SP
+CHT_CMN_20120211.0003.su.xml	它	264	0	是 呀 哈哈哈	s13	138375	是#VC 呀#SP 哈哈哈#IJ
+CHT_CMN_20120211.0003.su.xml	NONE	-1	-1	你 还 在 fb ?	s14	138194	你#PN 还#AD 在#AD fb#VV ?#PU
+CHT_CMN_20120211.0003.su.xml	它	517	0	太 淡定 了	s15	138194	太#AD 淡定#VA 了#SP
+CHT_CMN_20120211.0003.su.xml	NONE	-1	-1	我 刚 上来 。。。 嘿嘿	s16	138375	我#PN 刚#AD 上来#VV 。。。#PU 嘿嘿#IJ
+CHT_CMN_20120211.0003.su.xml	它	689	2	我 上 厕所 时 看 的	s17	138194	我#PN 上#VV 厕所#NN 时#LC 看#VV 的#DEC
+CHT_CMN_20120211.0003.su.xml	其	855	3	结果 一 不 小心 腿 坐 麻 了	s18	138194	结果#AD 一#AD 不#AD 小心#VV 腿#NN 坐#VV 麻#VV 了#SP
+CHT_CMN_20120211.0003.su.xml	NONE	-1	-1	。。。。。。。。。 你 上 的 厕所 好 长 呀 。。。。。。。	s19	138375	。。。。。。。。。#NN 你#PN 上#VV 的#DEC 厕所#NN 好#AD 长#VA 呀#SP 。。。。。。。#VA
+CHT_CMN_20120211.0003.su.xml	NONE	-1	-1	哈哈哈哈哈哈哈	s20	138375	哈哈哈哈哈哈哈#NR

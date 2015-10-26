@@ -223,5 +223,6 @@ suid=s78 participant=134624
 <形式主语 id="形1" start="2562" end="2565" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="1" existential="0" />
 <形式主语 id="形2" start="3682" end="3685" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="1" existential="0" />
 <其它 id="其0" start="1467" end="1470" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<其它 id="其1" start="1061" end="1064" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="0" />
 </TAGS>
 </ProTask>

@@ -179,7 +179,6 @@ suid=s69 participant=134220
 <它 id="它6" start="1415" end="1418" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
 <它 id="它7" start="1719" end="1722" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
 <它 id="它8" start="1757" end="1760" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
-<它 id="它9" start="2040" end="2043" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
 <它 id="它10" start="2343" end="2346" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
 <它 id="它11" start="2429" end="2432" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
 <它 id="它12" start="2498" end="2501" text="pro" generic="0" referential="1" event="0" pre_utter="1" pleonastic="0" existential="0" />
@@ -192,6 +191,8 @@ suid=s69 participant=134220
 <我们 id="我们2" start="2793" end="2796" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
 <我们 id="我们3" start="2889" end="2892" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
 <我们 id="我们4" start="2926" end="2929" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<我们 id="我们5" start="2040" end="2043" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
+<你们 id="你们0" start="1963" end="1966" text="pro" generic="0" referential="1" event="0" pre_utter="0" pleonastic="0" existential="0" />
 <形式主语 id="形0" start="605" end="608" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="1" existential="0" />
 <其它 id="其0" start="1169" end="1172" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="0" />
 <其它 id="其1" start="2460" end="2463" text="pro" generic="0" referential="0" event="0" pre_utter="0" pleonastic="0" existential="0" />
