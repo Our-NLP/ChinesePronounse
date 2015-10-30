@@ -1,70 +1,70 @@
-CHT_CMN_20120630.0002.su.xml	我	196	0	在 ， 陈 经理	s0	134102	在#P ，#PU 陈#NR 经理#NN
+CHT_CMN_20120630.0002.su.xml	你	29	0	在 ， 陈 经理	s0	134102	在#P ，#PU 陈#NR 经理#NN
 CHT_CMN_20120630.0002.su.xml	NONE	-1	-1	张强	s1	131226	张强#NR
-CHT_CMN_20120630.0002.su.xml	我	330	0	在 吗	s2	131226	在#VV 吗#SP
+CHT_CMN_20120630.0002.su.xml	你	101	0	在 吗	s2	131226	在#VV 吗#SP
 CHT_CMN_20120630.0002.su.xml	NONE	-1	-1	俺 这边 四 楼 女厕 的 人造 石 又 掉 了	s3	131226	俺#PN 这边#PN 四#CD 楼#M 女厕#NN 的#DEG 人造#JJ 石#NN 又#AD 掉#VV 了#AS
-CHT_CMN_20120630.0002.su.xml	我	486	6	奥 ， 那 周一 让 孙晓文 *PRO* 给 贴上	s4	134102	奥#NR ，#PU 那#DT 周一#NT 让#VV 孙晓文#NR *PRO*#VV 给#VV 贴上#VV
+CHT_CMN_20120630.0002.su.xml	我	196	6	奥 ， 那 周一 让 孙晓文 *PRO* 给 贴上	s4	134102	奥#NR ，#PU 那#DT 周一#NT 让#VV 孙晓文#NR *PRO*#VV 给#VV 贴上#VV
 CHT_CMN_20120630.0002.su.xml	NONE	-1	-1	人造 石 碎 了 吗	s5	134102	人造#JJ 石#NN 碎#VA 了#SP 吗#SP
-CHT_CMN_20120630.0002.su.xml	我	535	0	没 碎	s6	131226	没#VE 碎#VA
-CHT_CMN_20120630.0002.su.xml	我	572	6	奥 ， 那 让 他 *PRO* 给 粘上 就 可以	s7	134102	奥#NR ，#PU 那#AD 让#VV 他#PN *PRO*#VV 给#VV 粘上#VV 就#AD 可以#VV
-CHT_CMN_20120630.0002.su.xml	我	871	0	行 ， 你 安排 他 *PRO* 抽空 过来 给 俺 贴上 吧	s8	131226	行#VV ，#PU 你#PN 安排#VV 他#PN *PRO*#VV 抽空#VV 过来#VV 给#P 俺#PN 贴上#VV 吧#SP
-CHT_CMN_20120630.0002.su.xml	我	973	0	好 的	s9	131226	好#VA 的#SP
-CHT_CMN_20120630.0002.su.xml	我	1056	0	谢谢	s10	131226	谢谢#VV
-CHT_CMN_20120630.0002.su.xml	我	1096	0	好 的 ， 带到	s11	134102	好#VA 的#SP ，#PU 带到#VV
-CHT_CMN_20120630.0002.su.xml	我	1216	12	好 的 ， 带到	s11	134102	好#VA 的#SP ，#PU 带到#VV
-CHT_CMN_20120630.0002.su.xml	我1	1465	0	提前 也 谢谢 孙小文	s12	131226	提前#AD 也#AD 谢谢#VV 孙小文#NR
+CHT_CMN_20120630.0002.su.xml	它	287	0	没 碎	s6	131226	没#VE 碎#VA
+CHT_CMN_20120630.0002.su.xml	我	330	6	奥 ， 那 让 他 *PRO* 给 粘上 就 可以	s7	134102	奥#NR ，#PU 那#AD 让#VV 他#PN *PRO*#VV 给#VV 粘上#VV 就#AD 可以#VV
+CHT_CMN_20120630.0002.su.xml	它	383	0	行 ， 你 安排 他 *PRO* 抽空 过来 给 俺 贴上 吧	s8	131226	行#VV ，#PU 你#PN 安排#VV 他#PN *PRO*#VV 抽空#VV 过来#VV 给#P 俺#PN 贴上#VV 吧#SP
+CHT_CMN_20120630.0002.su.xml	它	448	0	好 的	s9	131226	好#VA 的#SP
+CHT_CMN_20120630.0002.su.xml	我	486	0	谢谢	s10	131226	谢谢#VV
+CHT_CMN_20120630.0002.su.xml	它	523	0	好 的 ， 带到	s11	134102	好#VA 的#SP ，#PU 带到#VV
+CHT_CMN_20120630.0002.su.xml	我	535	12	好 的 ， 带到	s11	134102	好#VA 的#SP ，#PU 带到#VV
+CHT_CMN_20120630.0002.su.xml	我	572	0	提前 也 谢谢 孙小文	s12	131226	提前#AD 也#AD 谢谢#VV 孙小文#NR
 CHT_CMN_20120630.0002.su.xml	NONE	-1	-1	庄 经理 今天 去 办公室 了 吗	s13	134102	庄#NR 经理#NN 今天#NT 去#VV 办公室#NN 了#SP 吗#SP
-CHT_CMN_20120630.0002.su.xml	我1	2092	0	没有	s14	131226	没有#VE
-CHT_CMN_20120630.0002.su.xml	我1	2185	0	没 见 ， 可能 还 没 来	s15	134102	没#AD 见#VV ，#PU 可能#VV 还#AD 没#AD 来#VV
-CHT_CMN_20120630.0002.su.xml	我1	2215	12	没 见 ， 可能 还 没 来	s15	134102	没#AD 见#VV ，#PU 可能#VV 还#AD 没#AD 来#VV
+CHT_CMN_20120630.0002.su.xml	他	664	0	没有	s14	131226	没有#VE
+CHT_CMN_20120630.0002.su.xml	你	701	0	没 见 ， 可能 还 没 来	s15	134102	没#AD 见#VV ，#PU 可能#VV 还#AD 没#AD 来#VV
+CHT_CMN_20120630.0002.su.xml	他	713	12	没 见 ， 可能 还 没 来	s15	134102	没#AD 见#VV ，#PU 可能#VV 还#AD 没#AD 来#VV
 CHT_CMN_20120630.0002.su.xml	NONE	-1	-1	他 回来 了 吗 ？	s16	131226	他#PN 回来#VV 了#AS 吗#SP ？#PU
 CHT_CMN_20120630.0002.su.xml	NONE	-1	-1	你 不 说 ， 我 都 忘 了	s17	131226	你#PN 不#AD 说#VV ，#PU 我#PN 都#AD 忘#VV 了#AS
 CHT_CMN_20120630.0002.su.xml	NONE	-1	-1	嗯	s18	134102	嗯#IJ
-CHT_CMN_20120630.0002.su.xml	我1	2239	2	那 毁 了 ， 卢 总 知道 又 得 生气	s19	131226	那#AD 毁#VV 了#AS ，#PU 卢#NR 总#AD 知道#VV 又#AD 得#VV 生气#VV
+CHT_CMN_20120630.0002.su.xml	我	871	2	那 毁 了 ， 卢 总 知道 又 得 生气	s19	131226	那#AD 毁#VV 了#AS ，#PU 卢#NR 总#AD 知道#VV 又#AD 得#VV 生气#VV
 CHT_CMN_20120630.0002.su.xml	NONE	-1	-1	我 再 给 他 打 个 电话 问问 你	s20	131226	我#PN 再#AD 给#P 他#PN 打#VV 个#M 电话#NN 问问#VV 你#PN
-CHT_CMN_20120630.0002.su.xml	我1	2638	0	打完 了	s21	131226	打完#VV 了#AS
-CHT_CMN_20120630.0002.su.xml	我1	2685	0	又 不 接	s22	131226	又#AD 不#AD 接#VV
-CHT_CMN_20120630.0002.su.xml	你	29	4	你 说 怎么办 嘛	s23	131226	你#PN 说#VV 怎么办#VV 嘛#SP
-CHT_CMN_20120630.0002.su.xml	你	101	0	估计 没 来	s24	134102	估计#VV 没#AD 来#VV
-CHT_CMN_20120630.0002.su.xml	你	701	9	估计 没 来	s24	134102	估计#VV 没#AD 来#VV
+CHT_CMN_20120630.0002.su.xml	我	973	0	打完 了	s21	131226	打完#VV 了#AS
+CHT_CMN_20120630.0002.su.xml	他	1012	0	又 不 接	s22	131226	又#AD 不#AD 接#VV
+CHT_CMN_20120630.0002.su.xml	我	1056	4	你 说 怎么办 嘛	s23	131226	你#PN 说#VV 怎么办#VV 嘛#SP
+CHT_CMN_20120630.0002.su.xml	我	1096	0	估计 没 来	s24	134102	估计#VV 没#AD 来#VV
+CHT_CMN_20120630.0002.su.xml	他	1105	9	估计 没 来	s24	134102	估计#VV 没#AD 来#VV
 CHT_CMN_20120630.0002.su.xml	NONE	-1	-1	这 个 庄 经理 也 真 是 的 ， 一 次 又 一 次 的 ， 难怪 卢 总 生气 呀	s25	131226	这#DT 个#M 庄#NN 经理#NN 也#AD 真#AD 是#VC 的#SP ，#PU 一#CD 次#M 又#AD 一#CD 次#M 的#SP ，#PU 难怪#AD 卢#NR 总#AD 生气#VV 呀#SP
-CHT_CMN_20120630.0002.su.xml	你	1660	0	那 天 打 电话 给 我 说 的 可 好 啦 ， 不 再 和 公司 玩 啦 ， 说 月底 来 辞职	s26	134102	那#DT 天#M 打#VV 电话#NN 给#P 我#PN 说#VV 的#DEC 可#VV 好#VA 啦#SP ，#PU 不#AD 再#AD 和#P 公司#NN 玩#VV 啦#SP ，#PU 说#VV 月底#NT 来#LC 辞职#VV
-CHT_CMN_20120630.0002.su.xml	你	2292	15	那 天 打 电话 给 我 说 的 可 好 啦 ， 不 再 和 公司 玩 啦 ， 说 月底 来 辞职	s26	134102	那#DT 天#M 打#VV 电话#NN 给#P 我#PN 说#VV 的#DEC 可#VV 好#VA 啦#SP ，#PU 不#AD 再#AD 和#P 公司#NN 玩#VV 啦#SP ，#PU 说#VV 月底#NT 来#LC 辞职#VV
-CHT_CMN_20120630.0002.su.xml	你	2737	37	那 天 打 电话 给 我 说 的 可 好 啦 ， 不 再 和 公司 玩 啦 ， 说 月底 来 辞职	s26	134102	那#DT 天#M 打#VV 电话#NN 给#P 我#PN 说#VV 的#DEC 可#VV 好#VA 啦#SP ，#PU 不#AD 再#AD 和#P 公司#NN 玩#VV 啦#SP ，#PU 说#VV 月底#NT 来#LC 辞职#VV
-CHT_CMN_20120630.0002.su.xml	他	664	58	那 天 打 电话 给 我 说 的 可 好 啦 ， 不 再 和 公司 玩 啦 ， 说 月底 来 辞职	s26	134102	那#DT 天#M 打#VV 电话#NN 给#P 我#PN 说#VV 的#DEC 可#VV 好#VA 啦#SP ，#PU 不#AD 再#AD 和#P 公司#NN 玩#VV 啦#SP ，#PU 说#VV 月底#NT 来#LC 辞职#VV
-CHT_CMN_20120630.0002.su.xml	他	713	69	那 天 打 电话 给 我 说 的 可 好 啦 ， 不 再 和 公司 玩 啦 ， 说 月底 来 辞职	s26	134102	那#DT 天#M 打#VV 电话#NN 给#P 我#PN 说#VV 的#DEC 可#VV 好#VA 啦#SP ，#PU 不#AD 再#AD 和#P 公司#NN 玩#VV 啦#SP ，#PU 说#VV 月底#NT 来#LC 辞职#VV
-CHT_CMN_20120630.0002.su.xml	他	1012	4	谁 说 不 是 呀 ！	s27	131226	谁#PN 说#VV 不#AD 是#VC 呀#SP ！#PU
+CHT_CMN_20120630.0002.su.xml	我	1216	0	那 天 打 电话 给 我 说 的 可 好 啦 ， 不 再 和 公司 玩 啦 ， 说 月底 来 辞职	s26	134102	那#DT 天#M 打#VV 电话#NN 给#P 我#PN 说#VV 的#DEC 可#VV 好#VA 啦#SP ，#PU 不#AD 再#AD 和#P 公司#NN 玩#VV 啦#SP ，#PU 说#VV 月底#NT 来#LC 辞职#VV
+CHT_CMN_20120630.0002.su.xml	他	1231	15	那 天 打 电话 给 我 说 的 可 好 啦 ， 不 再 和 公司 玩 啦 ， 说 月底 来 辞职	s26	134102	那#DT 天#M 打#VV 电话#NN 给#P 我#PN 说#VV 的#DEC 可#VV 好#VA 啦#SP ，#PU 不#AD 再#AD 和#P 公司#NN 玩#VV 啦#SP ，#PU 说#VV 月底#NT 来#LC 辞职#VV
+CHT_CMN_20120630.0002.su.xml	他	1253	37	那 天 打 电话 给 我 说 的 可 好 啦 ， 不 再 和 公司 玩 啦 ， 说 月底 来 辞职	s26	134102	那#DT 天#M 打#VV 电话#NN 给#P 我#PN 说#VV 的#DEC 可#VV 好#VA 啦#SP ，#PU 不#AD 再#AD 和#P 公司#NN 玩#VV 啦#SP ，#PU 说#VV 月底#NT 来#LC 辞职#VV
+CHT_CMN_20120630.0002.su.xml	他	1274	58	那 天 打 电话 给 我 说 的 可 好 啦 ， 不 再 和 公司 玩 啦 ， 说 月底 来 辞职	s26	134102	那#DT 天#M 打#VV 电话#NN 给#P 我#PN 说#VV 的#DEC 可#VV 好#VA 啦#SP ，#PU 不#AD 再#AD 和#P 公司#NN 玩#VV 啦#SP ，#PU 说#VV 月底#NT 来#LC 辞职#VV
+CHT_CMN_20120630.0002.su.xml	他	1285	69	那 天 打 电话 给 我 说 的 可 好 啦 ， 不 再 和 公司 玩 啦 ， 说 月底 来 辞职	s26	134102	那#DT 天#M 打#VV 电话#NN 给#P 我#PN 说#VV 的#DEC 可#VV 好#VA 啦#SP ，#PU 不#AD 再#AD 和#P 公司#NN 玩#VV 啦#SP ，#PU 说#VV 月底#NT 来#LC 辞职#VV
+CHT_CMN_20120630.0002.su.xml	它	1328	4	谁 说 不 是 呀 ！	s27	131226	谁#PN 说#VV 不#AD 是#VC 呀#SP ！#PU
 CHT_CMN_20120630.0002.su.xml	NONE	-1	-1	他 这 个 人 真 是 ， 我 都 烦 了	s28	131226	他#PN 这#DT 个#M 人#NN 真#AD 是#VC ，#PU 我#PN 都#AD 烦#VV 了#AS
-CHT_CMN_20120630.0002.su.xml	他	1105	0	折腾 一 个 月 了	s29	131226	折腾#VV 一#CD 个#M 月#NN 了#SP
-CHT_CMN_20120630.0002.su.xml	他	1231	0	从 6月 初 就 给 他 打 电话 说 了	s30	131226	从#P 6月#NT 初#LC 就#AD 给#P 他#PN 打#VV 电话#NN 说#VV 了#AS
-CHT_CMN_20120630.0002.su.xml	他	1253	0	弄来弄去 还 不 见 人影	s31	131226	弄来弄去#VV 还#AD 不#AD 见#VV 人影#NN
-CHT_CMN_20120630.0002.su.xml	他	1274	11	弄来弄去 还 不 见 人影	s31	131226	弄来弄去#VV 还#AD 不#AD 见#VV 人影#NN
+CHT_CMN_20120630.0002.su.xml	他	1420	0	折腾 一 个 月 了	s29	131226	折腾#VV 一#CD 个#M 月#NN 了#SP
+CHT_CMN_20120630.0002.su.xml	我1	1465	0	从 6月 初 就 给 他 打 电话 说 了	s30	131226	从#P 6月#NT 初#LC 就#AD 给#P 他#PN 打#VV 电话#NN 说#VV 了#AS
+CHT_CMN_20120630.0002.su.xml	他	1521	0	弄来弄去 还 不 见 人影	s31	131226	弄来弄去#VV 还#AD 不#AD 见#VV 人影#NN
+CHT_CMN_20120630.0002.su.xml	他1	1532	11	弄来弄去 还 不 见 人影	s31	131226	弄来弄去#VV 还#AD 不#AD 见#VV 人影#NN
 CHT_CMN_20120630.0002.su.xml	NONE	-1	-1	我 都 不 敢 给 卢 总 说 这 事 了	s32	131226	我#PN 都#AD 不#AD 敢#VV 给#P 卢#NR 总#AD 说#VV 这#DT 事#NN 了#SP
 CHT_CMN_20120630.0002.su.xml	NONE	-1	-1	呵呵 哎 ，	s33	134102	呵呵#IJ 哎#IJ ，#PU
-CHT_CMN_20120630.0002.su.xml	他	1285	0	在 吗	s34	134102	在#VV 吗#SP
+CHT_CMN_20120630.0002.su.xml	你	1660	0	在 吗	s34	134102	在#VV 吗#SP
 CHT_CMN_20120630.0002.su.xml	NONE	-1	-1	那 个 王路 周一 还 去 办公楼 吗	s35	134102	那#DT 个#M 王路#NR 周一#NT 还#AD 去#VV 办公楼#NN 吗#SP
-CHT_CMN_20120630.0002.su.xml	他	1420	4	奥 ， 好 的	s36	134102	奥#NR ，#PU 好#VA 的#SP
+CHT_CMN_20120630.0002.su.xml	它	1750	4	奥 ， 好 的	s36	134102	奥#NR ，#PU 好#VA 的#SP
 CHT_CMN_20120630.0002.su.xml	NONE	-1	-1	恩	s37	131226	恩#IJ
-CHT_CMN_20120630.0002.su.xml	他	1521	0	不 用	s38	131226	不#AD 用#VV
-CHT_CMN_20120630.0002.su.xml	他1	1532	0	交接 完 就 行 了	s39	131226	交接#NN 完#VV 就#AD 行#VV 了#AS
+CHT_CMN_20120630.0002.su.xml	他1	1818	0	不 用	s38	131226	不#AD 用#VV
+CHT_CMN_20120630.0002.su.xml	他1	1856	0	交接 完 就 行 了	s39	131226	交接#NN 完#VV 就#AD 行#VV 了#AS
 CHT_CMN_20120630.0002.su.xml	NONE	-1	-1	你 住 在 哪里 ？	s40	131226	你#PN 住#VV 在#P 哪里#PN ？#PU
 CHT_CMN_20120630.0002.su.xml	NONE	-1	-1	下 周一 早上 你 先 到 公司 领取 工作 日志 笔记本 。	s41	131226	下#DT 周一#NT 早上#NT 你#PN 先#AD 到#P 公司#NN 领取#VV 工作#NN 日志#NN 笔记本#NN 。#PU
-CHT_CMN_20120630.0002.su.xml	他1	1818	0	好 吗	s41	131226	好#VA 吗#SP
+CHT_CMN_20120630.0002.su.xml	它	1972	0	好 吗	s41	131226	好#VA 吗#SP
 CHT_CMN_20120630.0002.su.xml	NONE	-1	-1	我 下班 去 三上店 ， 让 卢莹 *PRO* 帮 我 *PRO* 把 工作 日志 本子 带 过去 *-1	s42	134102	我#PN 下班#VV 去#VV 三上店#NR ，#PU 让#VV 卢莹#NR *PRO*#VV 帮#VV 我#PN *PRO*#VV 把#BA 工作#NN 日志#NN 本子#NN 带#VV 过去#NT *-1#NN
-CHT_CMN_20120630.0002.su.xml	他1	1856	0	没 听懂	s43	131226	没#AD 听懂#VV
+CHT_CMN_20120630.0002.su.xml	我1	2092	0	没 听懂	s43	131226	没#AD 听懂#VV
 CHT_CMN_20120630.0002.su.xml	NONE	-1	-1	卢莹 现在 在 哪 ？	s44	131226	卢莹#NR 现在#NT 在#P 哪#PN ？#PU
-CHT_CMN_20120630.0002.su.xml	它	287	14	他 不 在 办公楼 吧 ， 让 她 *PRO* 帮 我 *PRO* 领 ， 下 了 班 她 也 去 三上店 ， 让 他 *PRO* 给 我 带 过去	s45	134102	他#PN 不#AD 在#VV 办公楼#NN 吧#SP ，#PU 让#VV 她#PN *PRO*#VV 帮#VV 我#PN *PRO*#VV 领#VV ，#PU 下#VV 了#AS 班#NN 她#PN 也#AD 去#VV 三上店#NR ，#PU 让#VV 他#PN *PRO*#VV 给#P 我#PN 带#VV 过去#NT
-CHT_CMN_20120630.0002.su.xml	它	383	44	他 不 在 办公楼 吧 ， 让 她 *PRO* 帮 我 *PRO* 领 ， 下 了 班 她 也 去 三上店 ， 让 他 *PRO* 给 我 带 过去	s45	134102	他#PN 不#AD 在#VV 办公楼#NN 吧#SP ，#PU 让#VV 她#PN *PRO*#VV 帮#VV 我#PN *PRO*#VV 领#VV ，#PU 下#VV 了#AS 班#NN 她#PN 也#AD 去#VV 三上店#NR ，#PU 让#VV 他#PN *PRO*#VV 给#P 我#PN 带#VV 过去#NT
-CHT_CMN_20120630.0002.su.xml	它	448	68	他 不 在 办公楼 吧 ， 让 她 *PRO* 帮 我 *PRO* 领 ， 下 了 班 她 也 去 三上店 ， 让 他 *PRO* 给 我 带 过去	s45	134102	他#PN 不#AD 在#VV 办公楼#NN 吧#SP ，#PU 让#VV 她#PN *PRO*#VV 帮#VV 我#PN *PRO*#VV 领#VV ，#PU 下#VV 了#AS 班#NN 她#PN 也#AD 去#VV 三上店#NR ，#PU 让#VV 他#PN *PRO*#VV 给#P 我#PN 带#VV 过去#NT
-CHT_CMN_20120630.0002.su.xml	它	523	0	都 写 吗 ？	s46	134102	都#AD 写#VV 吗#SP ？#PU
+CHT_CMN_20120630.0002.su.xml	我1	2185	14	他 不 在 办公楼 吧 ， 让 她 *PRO* 帮 我 *PRO* 领 ， 下 了 班 她 也 去 三上店 ， 让 他 *PRO* 给 我 带 过去	s45	134102	他#PN 不#AD 在#VV 办公楼#NN 吧#SP ，#PU 让#VV 她#PN *PRO*#VV 帮#VV 我#PN *PRO*#VV 领#VV ，#PU 下#VV 了#AS 班#NN 她#PN 也#AD 去#VV 三上店#NR ，#PU 让#VV 他#PN *PRO*#VV 给#P 我#PN 带#VV 过去#NT
+CHT_CMN_20120630.0002.su.xml	我1	2215	44	他 不 在 办公楼 吧 ， 让 她 *PRO* 帮 我 *PRO* 领 ， 下 了 班 她 也 去 三上店 ， 让 他 *PRO* 给 我 带 过去	s45	134102	他#PN 不#AD 在#VV 办公楼#NN 吧#SP ，#PU 让#VV 她#PN *PRO*#VV 帮#VV 我#PN *PRO*#VV 领#VV ，#PU 下#VV 了#AS 班#NN 她#PN 也#AD 去#VV 三上店#NR ，#PU 让#VV 他#PN *PRO*#VV 给#P 我#PN 带#VV 过去#NT
+CHT_CMN_20120630.0002.su.xml	我1	2239	68	他 不 在 办公楼 吧 ， 让 她 *PRO* 帮 我 *PRO* 领 ， 下 了 班 她 也 去 三上店 ， 让 他 *PRO* 给 我 带 过去	s45	134102	他#PN 不#AD 在#VV 办公楼#NN 吧#SP ，#PU 让#VV 她#PN *PRO*#VV 帮#VV 我#PN *PRO*#VV 领#VV ，#PU 下#VV 了#AS 班#NN 她#PN 也#AD 去#VV 三上店#NR ，#PU 让#VV 他#PN *PRO*#VV 给#P 我#PN 带#VV 过去#NT
+CHT_CMN_20120630.0002.su.xml	你	2292	0	都 写 吗 ？	s46	134102	都#AD 写#VV 吗#SP ？#PU
 CHT_CMN_20120630.0002.su.xml	NONE	-1	-1	我 下班 也 要 去 三上店 的	s47	131226	我#PN 下班#VV 也#AD 要#VV 去#VV 三上店#NR 的#SP
 CHT_CMN_20120630.0002.su.xml	NONE	-1	-1	我 给 你 打 过去 就 是	s48	131226	我#PN 给#P 你#PN 打#VV 过去#NT 就#AD 是#VC
 CHT_CMN_20120630.0002.su.xml	NONE	-1	-1	带	s49	131226	带#VV
 CHT_CMN_20120630.0002.su.xml	NONE	-1	-1	你 那边 一共 是 几 个 ？	s50	131226	你#PN 那边#PN 一共#AD 是#VC 几#CD 个#M ？#PU
-CHT_CMN_20120630.0002.su.xml	它	1328	0	是 的	s51	131226	是#VC 的#SP
+CHT_CMN_20120630.0002.su.xml	它	2496	0	是 的	s51	131226	是#VC 的#SP
 CHT_CMN_20120630.0002.su.xml	NONE	-1	-1	7 个	s52	134102	7#CD 个#M
-CHT_CMN_20120630.0002.su.xml	它	1750	0	对 的	s53	134102	对#VA 的#SP
+CHT_CMN_20120630.0002.su.xml	它	2566	0	对 的	s53	134102	对#VA 的#SP
 CHT_CMN_20120630.0002.su.xml	NONE	-1	-1	7 个 ？	s54	131226	7#CD 个#M ？#PU
-CHT_CMN_20120630.0002.su.xml	它	1972	0	谢谢	s55	134102	谢谢#VV
-CHT_CMN_20120630.0002.su.xml	它	2496	0	好 ， 下班 我 给 你 带到 三上店 去	s56	131226	好#VA ，#PU 下班#VV 我#PN 给#P 你#PN 带到#VV 三上店#NR 去#VV
-CHT_CMN_20120630.0002.su.xml	它	2566	10	好 ， 下班 我 给 你 带到 三上店 去	s56	131226	好#VA ，#PU 下班#VV 我#PN 给#P 你#PN 带到#VV 三上店#NR 去#VV
-CHT_CMN_20120630.0002.su.xml	它	2675	0	不 谢	s57	131226	不#AD 谢#NR
+CHT_CMN_20120630.0002.su.xml	我1	2638	0	谢谢	s55	134102	谢谢#VV
+CHT_CMN_20120630.0002.su.xml	它	2675	0	好 ， 下班 我 给 你 带到 三上店 去	s56	131226	好#VA ，#PU 下班#VV 我#PN 给#P 你#PN 带到#VV 三上店#NR 去#VV
+CHT_CMN_20120630.0002.su.xml	我1	2685	10	好 ， 下班 我 给 你 带到 三上店 去	s56	131226	好#VA ，#PU 下班#VV 我#PN 给#P 你#PN 带到#VV 三上店#NR 去#VV
+CHT_CMN_20120630.0002.su.xml	你	2737	0	不 谢	s57	131226	不#AD 谢#NR

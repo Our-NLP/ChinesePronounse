@@ -4,114 +4,114 @@ CHT_CMN_20110806.0000.su.xml	NONE	-1	-1	你 吃饭 了 啊	s2	134229	你#PN 吃�
 CHT_CMN_20110806.0000.su.xml	NONE	-1	-1	我 啊 看 电视 的 啊	s3	134220	我#PN 啊#IJ 看#VV 电视#NN 的#DEG 啊#SP
 CHT_CMN_20110806.0000.su.xml	我	179	0	吃 了	s4	134220	吃#VV 了#AS
 CHT_CMN_20110806.0000.su.xml	NONE	-1	-1	俺 大爷爷 那	s5	134229	俺#PN 大爷爷#NN 那#SP
-CHT_CMN_20110806.0000.su.xml	我	332	0	去 散步 了	s6	134220	去#VV 散步#VV 了#SP
+CHT_CMN_20110806.0000.su.xml	他	251	0	去 散步 了	s6	134220	去#VV 散步#VV 了#SP
 CHT_CMN_20110806.0000.su.xml	NONE	-1	-1	你 给 她 买 药 了 吗	s7	134229	你#PN 给#P 她#PN 买#VV 药#NN 了#SP 吗#SP
-CHT_CMN_20110806.0000.su.xml	我	512	0	买 了 啊	s8	134220	买#VV 了#AS 啊#SP
-CHT_CMN_20110806.0000.su.xml	我	643	0	吃 了	s9	134220	吃#VV 了#AS
+CHT_CMN_20110806.0000.su.xml	我	332	0	买 了 啊	s8	134220	买#VV 了#AS 啊#SP
+CHT_CMN_20110806.0000.su.xml	他	371	0	吃 了	s9	134220	吃#VV 了#AS
 CHT_CMN_20110806.0000.su.xml	NONE	-1	-1	奥	s10	134229	奥#NR
 CHT_CMN_20110806.0000.su.xml	NONE	-1	-1	我 去 看 电视 了	s11	134220	我#PN 去#VV 看#VV 电视#NN 了#SP
 CHT_CMN_20110806.0000.su.xml	NONE	-1	-1	你 真 好	s12	134229	你#PN 真#AD 好#VA
-CHT_CMN_20110806.0000.su.xml	我	1180	0	还 可以 吧	s13	134220	还#AD 可以#VV 吧#SP
-CHT_CMN_20110806.0000.su.xml	我	1698	6	我 是 说 对 俺 大爷爷 真 好	s14	134229	我#PN 是#VC 说#VV 对#P 俺#PN 大爷爷#NN 真#AD 好#VA
-CHT_CMN_20110806.0000.su.xml	我	2364	0	是 啊	s15	134220	是#VC 啊#SP
-CHT_CMN_20110806.0000.su.xml	我	2720	0	应该 的 啊	s16	134220	应该#VV 的#SP 啊#SP
-CHT_CMN_20110806.0000.su.xml	我	2923	0	是 的	s17	134229	是#VC 的#SP
+CHT_CMN_20110806.0000.su.xml	我	512	0	还 可以 吧	s13	134220	还#AD 可以#VV 吧#SP
+CHT_CMN_20110806.0000.su.xml	你	559	6	我 是 说 对 俺 大爷爷 真 好	s14	134229	我#PN 是#VC 说#VV 对#P 俺#PN 大爷爷#NN 真#AD 好#VA
+CHT_CMN_20110806.0000.su.xml	它	605	0	是 啊	s15	134220	是#VC 啊#SP
+CHT_CMN_20110806.0000.su.xml	我	643	0	应该 的 啊	s16	134220	应该#VV 的#SP 啊#SP
+CHT_CMN_20110806.0000.su.xml	它	684	0	是 的	s17	134229	是#VC 的#SP
 CHT_CMN_20110806.0000.su.xml	NONE	-1	-1	我 以后 向 你 学习	s18	134229	我#PN 以后#AD 向#P 你#PN 学习#VV
 CHT_CMN_20110806.0000.su.xml	NONE	-1	-1	你 已经 很 优秀 了 啊	s19	134220	你#PN 已经#AD 很#AD 优秀#VA 了#SP 啊#SP
 CHT_CMN_20110806.0000.su.xml	NONE	-1	-1	哎 大奶奶 你 可 别 这样 说	s20	134229	哎#IJ 大奶奶#AD 你#PN 可#AD 别#AD 这样#AD 说#VV
-CHT_CMN_20110806.0000.su.xml	我1	3203	0	是 *OP* *T*-1 真 的 啊	s21	134220	是#VC *OP*#NN *T*-1#NN 真#VA 的#DEC 啊#SP
-CHT_CMN_20110806.0000.su.xml	我1	3622	2	我 跟 你 谈话 真 舒服	s22	134229	我#PN 跟#P 你#PN 谈话#VV 真#AD 舒服#VA
+CHT_CMN_20110806.0000.su.xml	它	849	0	是 *OP* *T*-1 真 的 啊	s21	134220	是#VC *OP*#NN *T*-1#NN 真#VA 的#DEC 啊#SP
+CHT_CMN_20110806.0000.su.xml	其	904	2	我 跟 你 谈话 真 舒服	s22	134229	我#PN 跟#P 你#PN 谈话#VV 真#AD 舒服#VA
 CHT_CMN_20110806.0000.su.xml	NONE	-1	-1	*OP* 我 说 *T*-1 的 都 是 实话 啊	s23	134220	*OP*#NR 我#PN 说#VV *T*-1#NR 的#DEG 都#AD 是#VC 实话#NN 啊#SP
 CHT_CMN_20110806.0000.su.xml	NONE	-1	-1	你 孙女 是 个 大老粗	s24	134229	你#PN 孙女#NN 是#VC 个#M 大老粗#NN
 CHT_CMN_20110806.0000.su.xml	NONE	-1	-1	你 以后 多 指点 我	s25	134229	你#PN 以后#AD 多#AD 指点#VV 我#PN
-CHT_CMN_20110806.0000.su.xml	我1	3708	43	*OP* 你 讲 *T*-1 的 都 很 实在 ， 只是 你们 家 的 琐事 多 ， 不 好 理 。	s26	134220	*OP*#NR 你#PN 讲#VV *T*-1#NN 的#DEC 都#AD 很#AD 实在#VA ，#PU 只是#AD 你们#PN 家#NN 的#DEG 琐事#NN 多#VA ，#PU 不#AD 好#JJ 理#NN 。#PU
-CHT_CMN_20110806.0000.su.xml	我1	4010	0	是 的 没 办法 的	s27	134229	是#VC 的#DEC 没#VE 办法#NN 的#SP
-CHT_CMN_20110806.0000.su.xml	我1	4025	10	是 的 没 办法 的	s27	134229	是#VC 的#DEC 没#VE 办法#NN 的#SP
+CHT_CMN_20110806.0000.su.xml	它	1128	43	*OP* 你 讲 *T*-1 的 都 很 实在 ， 只是 你们 家 的 琐事 多 ， 不 好 理 。	s26	134220	*OP*#NR 你#PN 讲#VV *T*-1#NN 的#DEC 都#AD 很#AD 实在#VA ，#PU 只是#AD 你们#PN 家#NN 的#DEG 琐事#NN 多#VA ，#PU 不#AD 好#JJ 理#NN 。#PU
+CHT_CMN_20110806.0000.su.xml	它	1170	0	是 的 没 办法 的	s27	134229	是#VC 的#DEC 没#VE 办法#NN 的#SP
+CHT_CMN_20110806.0000.su.xml	我	1180	10	是 的 没 办法 的	s27	134229	是#VC 的#DEC 没#VE 办法#NN 的#SP
 CHT_CMN_20110806.0000.su.xml	NONE	-1	-1	我 可以 把 我 的 看法 说 出来 *-1 ， 你 根据 情况 办理 。	s28	134220	我#PN 可以#VV 把#BA 我#PN 的#DEG 看法#NN 说#VV 出来#VV *-1#NR ，#PU 你#PN 根据#P 情况#NN 办理#VV 。#PU
-CHT_CMN_20110806.0000.su.xml	我1	4178	0	行 啊	s29	134229	行#VV 啊#SP
+CHT_CMN_20110806.0000.su.xml	它	1287	0	行 啊	s29	134229	行#VV 啊#SP
 CHT_CMN_20110806.0000.su.xml	NONE	-1	-1	人 多 点子 就 多	s30	134220	人#NN 多#AD 点子#NN 就#AD 多#VA
-CHT_CMN_20110806.0000.su.xml	我1	4452	0	是 的	s31	134229	是#VC 的#SP
-CHT_CMN_20110806.0000.su.xml	你	559	3	以后 有 事 就 告诉 我 啊	s32	134220	以后#AD 有#VE 事#NN 就#AD 告诉#VV 我#PN 啊#SP
+CHT_CMN_20110806.0000.su.xml	它	1364	0	是 的	s31	134229	是#VC 的#SP
+CHT_CMN_20110806.0000.su.xml	其	1405	3	以后 有 事 就 告诉 我 啊	s32	134220	以后#AD 有#VE 事#NN 就#AD 告诉#VV 我#PN 啊#SP
 CHT_CMN_20110806.0000.su.xml	你	1411	9	以后 有 事 就 告诉 我 啊	s32	134220	以后#AD 有#VE 事#NN 就#AD 告诉#VV 我#PN 啊#SP
-CHT_CMN_20110806.0000.su.xml	你	1515	0	好 只是 现在 我 还 有点 没有 调整 好	s33	134229	好#JJ 只是#AD 现在#NT 我#PN 还#AD 有点#AD 没有#AD 调整#VV 好#VA
-CHT_CMN_20110806.0000.su.xml	你	1736	0	慢慢 的 来 吧 ，	s34	134220	慢慢#VA 的#DEV 来#VV 吧#SP ，#PU
-CHT_CMN_20110806.0000.su.xml	你	1872	0	5 年 了 我 把 自己 封闭 *-1 了	s35	134229	5#CD 年#M 了#AS 我#PN 把#BA 自己#PN 封闭#VV *-1#NN 了#SP
+CHT_CMN_20110806.0000.su.xml	它	1458	0	好 只是 现在 我 还 有点 没有 调整 好	s33	134229	好#JJ 只是#AD 现在#NT 我#PN 还#AD 有点#AD 没有#AD 调整#VV 好#VA
+CHT_CMN_20110806.0000.su.xml	你	1515	0	慢慢 的 来 吧 ，	s34	134220	慢慢#VA 的#DEV 来#VV 吧#SP ，#PU
+CHT_CMN_20110806.0000.su.xml	形	1560	0	5 年 了 我 把 自己 封闭 *-1 了	s35	134229	5#CD 年#M 了#AS 我#PN 把#BA 自己#PN 封闭#VV *-1#NN 了#SP
 CHT_CMN_20110806.0000.su.xml	NONE	-1	-1	人 要 学会 *PRO* 放下	s36	134220	人#NN 要#VV 学会#VV *PRO*#NR 放下#VV
 CHT_CMN_20110806.0000.su.xml	NONE	-1	-1	你 别 怪 我 啊	s37	134229	你#PN 别#AD 怪#VV 我#PN 啊#SP
-CHT_CMN_20110806.0000.su.xml	你	2031	0	不 怪	s38	134220	不#AD 怪#VA
-CHT_CMN_20110806.0000.su.xml	你	2047	0	现在 知道 还 不 晚 啊	s39	134220	现在#NT 知道#VV 还#AD 不#AD 晚#VA 啊#SP
+CHT_CMN_20110806.0000.su.xml	我	1698	0	不 怪	s38	134220	不#AD 怪#VA
+CHT_CMN_20110806.0000.su.xml	你	1736	0	现在 知道 还 不 晚 啊	s39	134220	现在#NT 知道#VV 还#AD 不#AD 晚#VA 啊#SP
 CHT_CMN_20110806.0000.su.xml	NONE	-1	-1	我 以前 真的 以为 你 上 上海 了	s40	134229	我#PN 以前#NT 真的#AD 以为#VV 你#PN 上#VV 上海#NR 了#SP
 CHT_CMN_20110806.0000.su.xml	NONE	-1	-1	该死 的 庄国强 骗子	s41	134229	该死#JJ 的#DEG 庄国强#NR 骗子#NN
-CHT_CMN_20110806.0000.su.xml	你	2249	0	也 不 能 全 怨 他 啊	s42	134220	也#AD 不#AD 能#VV 全#AD 怨#VV 他#PN 啊#SP
-CHT_CMN_20110806.0000.su.xml	你	2270	0	是 的	s43	134229	是#VC 的#SP
+CHT_CMN_20110806.0000.su.xml	你	1872	0	也 不 能 全 怨 他 啊	s42	134220	也#AD 不#AD 能#VV 全#AD 怨#VV 他#PN 啊#SP
+CHT_CMN_20110806.0000.su.xml	它	1920	0	是 的	s43	134229	是#VC 的#SP
 CHT_CMN_20110806.0000.su.xml	NONE	-1	-1	这 都 是 命 啊	s44	134220	这#PN 都#AD 是#VC 命#NN 啊#SP
 CHT_CMN_20110806.0000.su.xml	NONE	-1	-1	我 知错 了	s45	134229	我#PN 知错#VV 了#AS
-CHT_CMN_20110806.0000.su.xml	你	2803	0	该着 走 弯路 ， 不 走 也 不 行 啊	s46	134220	该着#AD 走#VV 弯路#NN ，#PU 不#AD 走#VV 也#AD 不#AD 行#VV 啊#SP
-CHT_CMN_20110806.0000.su.xml	你1	3286	16	该着 走 弯路 ， 不 走 也 不 行 啊	s46	134220	该着#AD 走#VV 弯路#NN ，#PU 不#AD 走#VV 也#AD 不#AD 行#VV 啊#SP
+CHT_CMN_20110806.0000.su.xml	你	2031	0	该着 走 弯路 ， 不 走 也 不 行 啊	s46	134220	该着#AD 走#VV 弯路#NN ，#PU 不#AD 走#VV 也#AD 不#AD 行#VV 啊#SP
+CHT_CMN_20110806.0000.su.xml	你	2047	16	该着 走 弯路 ， 不 走 也 不 行 啊	s46	134220	该着#AD 走#VV 弯路#NN ，#PU 不#AD 走#VV 也#AD 不#AD 行#VV 啊#SP
 CHT_CMN_20110806.0000.su.xml	NONE	-1	-1	命运 捉能 人 啊	s47	134220	命运#NN 捉能#VV 人#NN 啊#SP
-CHT_CMN_20110806.0000.su.xml	你1	3372	0	就 这样 啊	s48	134220	就#AD 这样#AD 啊#SP
+CHT_CMN_20110806.0000.su.xml	它	2131	0	就 这样 啊	s48	134220	就#AD 这样#AD 啊#SP
 CHT_CMN_20110806.0000.su.xml	NONE	-1	-1	这 跟 我 从 小 到 大 环境 是	s49	134229	这#PN 跟#P 我#PN 从#P 小#NN 到#P 大#JJ 环境#NN 是#VC
-CHT_CMN_20110806.0000.su.xml	你1	3396	0	是 的 ， *OP* *T*-2 过去 的 事 不 要 后悔 *T*-1 ， 要 往前 看 啊 。	s50	134220	是#VC 的#SP ，#PU *OP*#NN *T*-2#VV 过去#NT 的#DEG 事#NN 不#AD 要#VV 后悔#VV *T*-1#NN ，#PU 要#VV 往前#AD 看#VV 啊#SP 。#PU
-CHT_CMN_20110806.0000.su.xml	你1	3492	30	是 的 ， *OP* *T*-2 过去 的 事 不 要 后悔 *T*-1 ， 要 往前 看 啊 。	s50	134220	是#VC 的#SP ，#PU *OP*#NN *T*-2#VV 过去#NT 的#DEG 事#NN 不#AD 要#VV 后悔#VV *T*-1#NN ，#PU 要#VV 往前#AD 看#VV 啊#SP 。#PU
-CHT_CMN_20110806.0000.su.xml	你1	3507	51	是 的 ， *OP* *T*-2 过去 的 事 不 要 后悔 *T*-1 ， 要 往前 看 啊 。	s50	134220	是#VC 的#SP ，#PU *OP*#NN *T*-2#VV 过去#NT 的#DEG 事#NN 不#AD 要#VV 后悔#VV *T*-1#NN ，#PU 要#VV 往前#AD 看#VV 啊#SP 。#PU
+CHT_CMN_20110806.0000.su.xml	它1	2219	0	是 的 ， *OP* *T*-2 过去 的 事 不 要 后悔 *T*-1 ， 要 往前 看 啊 。	s50	134220	是#VC 的#SP ，#PU *OP*#NN *T*-2#VV 过去#NT 的#DEG 事#NN 不#AD 要#VV 后悔#VV *T*-1#NN ，#PU 要#VV 往前#AD 看#VV 啊#SP 。#PU
+CHT_CMN_20110806.0000.su.xml	你	2249	30	是 的 ， *OP* *T*-2 过去 的 事 不 要 后悔 *T*-1 ， 要 往前 看 啊 。	s50	134220	是#VC 的#SP ，#PU *OP*#NN *T*-2#VV 过去#NT 的#DEG 事#NN 不#AD 要#VV 后悔#VV *T*-1#NN ，#PU 要#VV 往前#AD 看#VV 啊#SP 。#PU
+CHT_CMN_20110806.0000.su.xml	你	2270	51	是 的 ， *OP* *T*-2 过去 的 事 不 要 后悔 *T*-1 ， 要 往前 看 啊 。	s50	134220	是#VC 的#SP ，#PU *OP*#NN *T*-2#VV 过去#NT 的#DEG 事#NN 不#AD 要#VV 后悔#VV *T*-1#NN ，#PU 要#VV 往前#AD 看#VV 啊#SP 。#PU
 CHT_CMN_20110806.0000.su.xml	NONE	-1	-1	前边 的 路 更 长 啊	s51	134220	前边#NN 的#DEG 路#NN 更#AD 长#VA 啊#SP
-CHT_CMN_20110806.0000.su.xml	你1	3757	0	行 听 你 老人家 的	s52	134229	行#VV 听#VV 你#PN 老人家#NN 的#SP
-CHT_CMN_20110806.0000.su.xml	你1	3815	8	行 听 你 老人家 的	s52	134229	行#VV 听#VV 你#PN 老人家#NN 的#SP
-CHT_CMN_20110806.0000.su.xml	你1	3906	0	是 的	s53	134229	是#VC 的#SP
+CHT_CMN_20110806.0000.su.xml	它1	2356	0	行 听 你 老人家 的	s52	134229	行#VV 听#VV 你#PN 老人家#NN 的#SP
+CHT_CMN_20110806.0000.su.xml	我	2364	8	行 听 你 老人家 的	s52	134229	行#VV 听#VV 你#PN 老人家#NN 的#SP
+CHT_CMN_20110806.0000.su.xml	它1	2408	0	是 的	s53	134229	是#VC 的#SP
 CHT_CMN_20110806.0000.su.xml	NONE	-1	-1	你 一定 要 好好 的 生活	s54	134220	你#PN 一定#AD 要#VV 好好#AD 的#DEV 生活#VV
 CHT_CMN_20110806.0000.su.xml	NONE	-1	-1	奥	s55	134229	奥#NR
-CHT_CMN_20110806.0000.su.xml	你1	3964	6	以后 我们 在 临沂 有 什么 事 相互 商量 商量 啊	s56	134229	以后#AD 我们#PN 在#P 临沂#NR 有#VE 什么#DT 事#NN 相互#AD 商量#VV 商量#VV 啊#SP
+CHT_CMN_20110806.0000.su.xml	其	2525	6	以后 我们 在 临沂 有 什么 事 相互 商量 商量 啊	s56	134229	以后#AD 我们#PN 在#P 临沂#NR 有#VE 什么#DT 事#NN 相互#AD 商量#VV 商量#VV 啊#SP
 CHT_CMN_20110806.0000.su.xml	NONE	-1	-1	生命 比 什么 都 重要 ， 身体 是 1 成绩 是 0 , 100 减 1 是 0	s57	134220	生命#NN 比#P 什么#PN 都#AD 重要#VA ，#PU 身体#NN 是#VC 1#CD 成绩#NN 是#VC 0#CD ,#PU 100#CD 减#VV 1#CD 是#VC 0#CD
 CHT_CMN_20110806.0000.su.xml	NONE	-1	-1	这样 最 好 了	s58	134220	这样#AD 最#AD 好#VA 了#SP
 CHT_CMN_20110806.0000.su.xml	NONE	-1	-1	奥	s59	134229	奥#NR
-CHT_CMN_20110806.0000.su.xml	你1	4105	0	毕竟 见 得 多 啊	s60	134220	毕竟#AD 见#VV 得#DER 多#VA 啊#SP
-CHT_CMN_20110806.0000.su.xml	你2	4138	0	是 的	s61	134229	是#VC 的#SP
-CHT_CMN_20110806.0000.su.xml	你2	4314	0	有 事 倾诉 也 是 一 种 解脱 啊	s62	134220	有#VE 事#NN 倾诉#VV 也#AD 是#VC 一#CD 种#M 解脱#VV 啊#SP
-CHT_CMN_20110806.0000.su.xml	你2	4334	10	有 事 倾诉 也 是 一 种 解脱 啊	s62	134220	有#VE 事#NN 倾诉#VV 也#AD 是#VC 一#CD 种#M 解脱#VV 啊#SP
-CHT_CMN_20110806.0000.su.xml	你2	4498	0	也 可以 减轻 压力	s63	134220	也#AD 可以#VV 减轻#VV 压力#NN
-CHT_CMN_20110806.0000.su.xml	你2	4605	0	是 这么 多 年 只是 向 你 诉说 的	s64	134229	是#VC 这么#AD 多#CD 年#M 只是#AD 向#P 你#PN 诉说#VV 的#SP
-CHT_CMN_20110806.0000.su.xml	他	251	15	是 这么 多 年 只是 向 你 诉说 的	s64	134229	是#VC 这么#AD 多#CD 年#M 只是#AD 向#P 你#PN 诉说#VV 的#SP
-CHT_CMN_20110806.0000.su.xml	他	371	14	我们 要 经常 聚 啊 ， 聊聊 家常 也 好 啊	s65	134220	我们#PN 要#VV 经常#AD 聚#VV 啊#SP ，#PU 聊聊#VV 家常#NN 也#AD 好#VA 啊#SP
-CHT_CMN_20110806.0000.su.xml	它	605	0	是 的 。	s66	134229	是#VC 的#SP 。#PU
-CHT_CMN_20110806.0000.su.xml	它	684	0	应该 经常 聊聊 。	s66	134229	应该#VV 经常#AD 聊聊#VV 。#PU
-CHT_CMN_20110806.0000.su.xml	它	849	0	说 实在 话 我 跟 你 三 孙子 家 我 不 受 一点 气 的 。	s67	134229	说#VV 实在#AD 话#NN 我#PN 跟#P 你#PN 三#CD 孙子#NN 家#NN 我#PN 不#AD 受#VV 一点#CD 气#NN 的#SP 。#PU
+CHT_CMN_20110806.0000.su.xml	我	2720	0	毕竟 见 得 多 啊	s60	134220	毕竟#AD 见#VV 得#DER 多#VA 啊#SP
+CHT_CMN_20110806.0000.su.xml	它1	2765	0	是 的	s61	134229	是#VC 的#SP
+CHT_CMN_20110806.0000.su.xml	你	2803	0	有 事 倾诉 也 是 一 种 解脱 啊	s62	134220	有#VE 事#NN 倾诉#VV 也#AD 是#VC 一#CD 种#M 解脱#VV 啊#SP
+CHT_CMN_20110806.0000.su.xml	其	2813	10	有 事 倾诉 也 是 一 种 解脱 啊	s62	134220	有#VE 事#NN 倾诉#VV 也#AD 是#VC 一#CD 种#M 解脱#VV 啊#SP
+CHT_CMN_20110806.0000.su.xml	它1	2863	0	也 可以 减轻 压力	s63	134220	也#AD 可以#VV 减轻#VV 压力#NN
+CHT_CMN_20110806.0000.su.xml	形	2908	0	是 这么 多 年 只是 向 你 诉说 的	s64	134229	是#VC 这么#AD 多#CD 年#M 只是#AD 向#P 你#PN 诉说#VV 的#SP
+CHT_CMN_20110806.0000.su.xml	我	2923	15	是 这么 多 年 只是 向 你 诉说 的	s64	134229	是#VC 这么#AD 多#CD 年#M 只是#AD 向#P 你#PN 诉说#VV 的#SP
+CHT_CMN_20110806.0000.su.xml	我们	2983	14	我们 要 经常 聚 啊 ， 聊聊 家常 也 好 啊	s65	134220	我们#PN 要#VV 经常#AD 聚#VV 啊#SP ，#PU 聊聊#VV 家常#NN 也#AD 好#VA 啊#SP
+CHT_CMN_20110806.0000.su.xml	它1	3029	0	是 的 。	s66	134229	是#VC 的#SP 。#PU
+CHT_CMN_20110806.0000.su.xml	我们	3041	0	应该 经常 聊聊 。	s66	134229	应该#VV 经常#AD 聊聊#VV 。#PU
+CHT_CMN_20110806.0000.su.xml	形	3086	0	说 实在 话 我 跟 你 三 孙子 家 我 不 受 一点 气 的 。	s67	134229	说#VV 实在#AD 话#NN 我#PN 跟#P 你#PN 三#CD 孙子#NN 家#NN 我#PN 不#AD 受#VV 一点#CD 气#NN 的#SP 。#PU
 CHT_CMN_20110806.0000.su.xml	NONE	-1	-1	他 很 好 啊 ， 你 应该 知足 啊	s68	134220	他#PN 很#AD 好#VA 啊#SP ，#PU 你#PN 应该#VV 知足#VV 啊#SP
-CHT_CMN_20110806.0000.su.xml	它	1128	0	就 受 娘家 的 气	s69	134229	就#AD 受#VV 娘家#NN 的#DEC 气#NN
+CHT_CMN_20110806.0000.su.xml	我1	3203	0	就 受 娘家 的 气	s69	134229	就#AD 受#VV 娘家#NN 的#DEC 气#NN
 CHT_CMN_20110806.0000.su.xml	NONE	-1	-1	那 不 算 事 的	s70	134220	那#AD 不#AD 算#VV 事#NN 的#SP
-CHT_CMN_20110806.0000.su.xml	它	1170	0	也 不 经常 去	s71	134220	也#AD 不#AD 经常#AD 去#VV
+CHT_CMN_20110806.0000.su.xml	你1	3286	0	也 不 经常 去	s71	134220	也#AD 不#AD 经常#AD 去#VV
 CHT_CMN_20110806.0000.su.xml	NONE	-1	-1	哈哈 。。。	s72	134229	哈哈#IJ 。。。#PU
-CHT_CMN_20110806.0000.su.xml	它	1287	0	好 就 多 去 ， 不 好 就 少 去 。	s73	134220	好#VA 就#AD 多#AD 去#VV ，#PU 不#AD 好#VA 就#AD 少#AD 去#VV 。#PU
-CHT_CMN_20110806.0000.su.xml	它	1364	8	好 就 多 去 ， 不 好 就 少 去 。	s73	134220	好#VA 就#AD 多#AD 去#VV ，#PU 不#AD 好#VA 就#AD 少#AD 去#VV 。#PU
-CHT_CMN_20110806.0000.su.xml	它	1458	22	好 就 多 去 ， 不 好 就 少 去 。	s73	134220	好#VA 就#AD 多#AD 去#VV ，#PU 不#AD 好#VA 就#AD 少#AD 去#VV 。#PU
-CHT_CMN_20110806.0000.su.xml	它	1920	32	好 就 多 去 ， 不 好 就 少 去 。	s73	134220	好#VA 就#AD 多#AD 去#VV ，#PU 不#AD 好#VA 就#AD 少#AD 去#VV 。#PU
-CHT_CMN_20110806.0000.su.xml	它	2131	5	我 从前 有 一点 空 都 会 去 的	s74	134229	我#PN 从前#NT 有#VE 一点#CD 空#NN 都#AD 会#VV 去#VV 的#SP
-CHT_CMN_20110806.0000.su.xml	它1	2219	0	走 自己 的 路 让 她们 *PRO* 说去 吧	s75	134220	走#VV 自己#PN 的#DEG 路#NN 让#VV 她们#PN *PRO*#VV 说去#VV 吧#SP
-CHT_CMN_20110806.0000.su.xml	它1	2356	15	走 自己 的 路 让 她们 *PRO* 说去 吧	s75	134220	走#VV 自己#PN 的#DEG 路#NN 让#VV 她们#PN *PRO*#VV 说去#VV 吧#SP
+CHT_CMN_20110806.0000.su.xml	他们	3364	0	好 就 多 去 ， 不 好 就 少 去 。	s73	134220	好#VA 就#AD 多#AD 去#VV ，#PU 不#AD 好#VA 就#AD 少#AD 去#VV 。#PU
+CHT_CMN_20110806.0000.su.xml	你1	3372	8	好 就 多 去 ， 不 好 就 少 去 。	s73	134220	好#VA 就#AD 多#AD 去#VV ，#PU 不#AD 好#VA 就#AD 少#AD 去#VV 。#PU
+CHT_CMN_20110806.0000.su.xml	他们	3386	22	好 就 多 去 ， 不 好 就 少 去 。	s73	134220	好#VA 就#AD 多#AD 去#VV ，#PU 不#AD 好#VA 就#AD 少#AD 去#VV 。#PU
+CHT_CMN_20110806.0000.su.xml	你1	3396	32	好 就 多 去 ， 不 好 就 少 去 。	s73	134220	好#VA 就#AD 多#AD 去#VV ，#PU 不#AD 好#VA 就#AD 少#AD 去#VV 。#PU
+CHT_CMN_20110806.0000.su.xml	其	3443	5	我 从前 有 一点 空 都 会 去 的	s74	134229	我#PN 从前#NT 有#VE 一点#CD 空#NN 都#AD 会#VV 去#VV 的#SP
+CHT_CMN_20110806.0000.su.xml	你1	3492	0	走 自己 的 路 让 她们 *PRO* 说去 吧	s75	134220	走#VV 自己#PN 的#DEG 路#NN 让#VV 她们#PN *PRO*#VV 说去#VV 吧#SP
+CHT_CMN_20110806.0000.su.xml	你1	3507	15	走 自己 的 路 让 她们 *PRO* 说去 吧	s75	134220	走#VV 自己#PN 的#DEG 路#NN 让#VV 她们#PN *PRO*#VV 说去#VV 吧#SP
 CHT_CMN_20110806.0000.su.xml	NONE	-1	-1	我 知道 是么 都 能 等 只有 孝水 不 能 等	s76	134229	我#PN 知道#VV 是么#NN 都#AD 能#VV 等#P 只有#AD 孝水#VV 不#AD 能#VV 等#VV
-CHT_CMN_20110806.0000.su.xml	它1	2408	11	我 不 会 计较 的 只是 赌气	s77	134229	我#PN 不#AD 会#VV 计较#VV 的#DEC 只是#AD 赌气#VA
+CHT_CMN_20110806.0000.su.xml	我1	3622	11	我 不 会 计较 的 只是 赌气	s77	134229	我#PN 不#AD 会#VV 计较#VV 的#DEC 只是#AD 赌气#VA
 CHT_CMN_20110806.0000.su.xml	NONE	-1	-1	你 已经 很 孝顺 了	s78	134220	你#PN 已经#AD 很#AD 孝顺#VA 了#SP
-CHT_CMN_20110806.0000.su.xml	它1	2765	6	有的 地方 做 得 不 够	s79	134229	有的#DT 地方#NN 做#VV 得#DER 不#AD 够#VA
-CHT_CMN_20110806.0000.su.xml	它1	2863	7	她们 说 你 不 要 往 心 里 去 就 是 了	s80	134220	她们#PN 说#VV 你#PN 不#AD 要#VV 往#P 心#NN 里#LC 去#VV 就#AD 是#VC 了#SP
-CHT_CMN_20110806.0000.su.xml	它1	3029	6	一 句 话 不 要 生气	s81	134220	一#CD 句#M 话#NN 不#AD 要#VV 生气#VV
+CHT_CMN_20110806.0000.su.xml	我1	3708	6	有的 地方 做 得 不 够	s79	134229	有的#DT 地方#NN 做#VV 得#DER 不#AD 够#VA
+CHT_CMN_20110806.0000.su.xml	你1	3757	7	她们 说 你 不 要 往 心 里 去 就 是 了	s80	134220	她们#PN 说#VV 你#PN 不#AD 要#VV 往#P 心#NN 里#LC 去#VV 就#AD 是#VC 了#SP
+CHT_CMN_20110806.0000.su.xml	你1	3815	6	一 句 话 不 要 生气	s81	134220	一#CD 句#M 话#NN 不#AD 要#VV 生气#VV
 CHT_CMN_20110806.0000.su.xml	它1	3856	0	是 我 不 往 心 里 去 的	s82	134229	是#VC 我#PN 不#AD 往#P 心#NN 里#LC 去#VV 的#SP
-CHT_CMN_20110806.0000.su.xml	它1	4442	0	一 个 耳朵 听 一 个 耳朵 冒 就 行 了	s83	134220	一#CD 个#M 耳朵#NN 听#VV 一#CD 个#M 耳朵#NN 冒#VV 就#AD 行#VV 了#AS
-CHT_CMN_20110806.0000.su.xml	它1	4567	0	学会 *PRO* 消化	s84	134220	学会#NN *PRO*#NN 消化#VV
-CHT_CMN_20110806.0000.su.xml	它1	4693	0	给 你 讲完 了 就 感觉 娘家人 有 *OP* *T*-1 理解 我 的 了	s85	134229	给#P 你#PN 讲完#VV 了#AS 就#AD 感觉#VV 娘家人#NN 有#VE *OP*#CD *T*-1#M 理解#VV 我#PN 的#DEG 了#SP
-CHT_CMN_20110806.0000.su.xml	它2	4758	15	给 你 讲完 了 就 感觉 娘家人 有 *OP* *T*-1 理解 我 的 了	s85	134229	给#P 你#PN 讲完#VV 了#AS 就#AD 感觉#VV 娘家人#NN 有#VE *OP*#CD *T*-1#M 理解#VV 我#PN 的#DEG 了#SP
-CHT_CMN_20110806.0000.su.xml	我们	2983	15	*OP* *T*-1 好 的 留 着 *T*-2 *OP* *T*-3 不 好 的 就 忘 它	s86	134220	*OP*#NR *T*-1#AD 好#VA 的#DEV 留#VV 着#AS *T*-2#CD *OP*#M *T*-3#NN 不#AD 好#VA 的#DEC 就#AD 忘#VV 它#PN
-CHT_CMN_20110806.0000.su.xml	我们	3041	48	*OP* *T*-1 好 的 留 着 *T*-2 *OP* *T*-3 不 好 的 就 忘 它	s86	134220	*OP*#NR *T*-1#AD 好#VA 的#DEV 留#VV 着#AS *T*-2#CD *OP*#M *T*-3#NN 不#AD 好#VA 的#DEC 就#AD 忘#VV 它#PN
-CHT_CMN_20110806.0000.su.xml	我们	4719	0	在 王清华 面前 好 有 面子 了	s87	134229	在#P 王清华#NR 面前#NN 好#AD 有#VE 面子#NN 了#SP
+CHT_CMN_20110806.0000.su.xml	你1	3906	0	一 个 耳朵 听 一 个 耳朵 冒 就 行 了	s83	134220	一#CD 个#M 耳朵#NN 听#VV 一#CD 个#M 耳朵#NN 冒#VV 就#AD 行#VV 了#AS
+CHT_CMN_20110806.0000.su.xml	你1	3964	0	学会 *PRO* 消化	s84	134220	学会#NN *PRO*#NN 消化#VV
+CHT_CMN_20110806.0000.su.xml	我1	4010	0	给 你 讲完 了 就 感觉 娘家人 有 *OP* *T*-1 理解 我 的 了	s85	134229	给#P 你#PN 讲完#VV 了#AS 就#AD 感觉#VV 娘家人#NN 有#VE *OP*#CD *T*-1#M 理解#VV 我#PN 的#DEG 了#SP
+CHT_CMN_20110806.0000.su.xml	我1	4025	15	给 你 讲完 了 就 感觉 娘家人 有 *OP* *T*-1 理解 我 的 了	s85	134229	给#P 你#PN 讲完#VV 了#AS 就#AD 感觉#VV 娘家人#NN 有#VE *OP*#CD *T*-1#M 理解#VV 我#PN 的#DEG 了#SP
+CHT_CMN_20110806.0000.su.xml	你1	4105	15	*OP* *T*-1 好 的 留 着 *T*-2 *OP* *T*-3 不 好 的 就 忘 它	s86	134220	*OP*#NR *T*-1#AD 好#VA 的#DEV 留#VV 着#AS *T*-2#CD *OP*#M *T*-3#NN 不#AD 好#VA 的#DEC 就#AD 忘#VV 它#PN
+CHT_CMN_20110806.0000.su.xml	你2	4138	48	*OP* *T*-1 好 的 留 着 *T*-2 *OP* *T*-3 不 好 的 就 忘 它	s86	134220	*OP*#NR *T*-1#AD 好#VA 的#DEV 留#VV 着#AS *T*-2#CD *OP*#M *T*-3#NN 不#AD 好#VA 的#DEC 就#AD 忘#VV 它#PN
+CHT_CMN_20110806.0000.su.xml	我1	4178	0	在 王清华 面前 好 有 面子 了	s87	134229	在#P 王清华#NR 面前#NN 好#AD 有#VE 面子#NN 了#SP
 CHT_CMN_20110806.0000.su.xml	NONE	-1	-1	我 觉得 *OP* 你 说 *T*-1 的 在理	s88	134220	我#PN 觉得#VV *OP*#NR 你#PN 说#VV *T*-1#NR 的#DEG 在理#NN
-CHT_CMN_20110806.0000.su.xml	我们	4768	31	你 是 个 *OP* *T*-1 要强 的 人 啊 ， 什么 都 要 人 *PRO* 说 好 才 行 。	s89	134220	你#PN 是#VC 个#M *OP*#NN *T*-1#NN 要强#VA 的#DEC 人#NN 啊#SP ，#PU 什么#PN 都#AD 要#VV 人#NN *PRO*#NR 说#VV 好#VA 才#AD 行#VV 。#PU
-CHT_CMN_20110806.0000.su.xml	他们	3364	51	你 是 个 *OP* *T*-1 要强 的 人 啊 ， 什么 都 要 人 *PRO* 说 好 才 行 。	s89	134220	你#PN 是#VC 个#M *OP*#NN *T*-1#NN 要强#VA 的#DEC 人#NN 啊#SP ，#PU 什么#PN 都#AD 要#VV 人#NN *PRO*#NR 说#VV 好#VA 才#AD 行#VV 。#PU
+CHT_CMN_20110806.0000.su.xml	你2	4314	31	你 是 个 *OP* *T*-1 要强 的 人 啊 ， 什么 都 要 人 *PRO* 说 好 才 行 。	s89	134220	你#PN 是#VC 个#M *OP*#NN *T*-1#NN 要强#VA 的#DEC 人#NN 啊#SP ，#PU 什么#PN 都#AD 要#VV 人#NN *PRO*#NR 说#VV 好#VA 才#AD 行#VV 。#PU
+CHT_CMN_20110806.0000.su.xml	你2	4334	51	你 是 个 *OP* *T*-1 要强 的 人 啊 ， 什么 都 要 人 *PRO* 说 好 才 行 。	s89	134220	你#PN 是#VC 个#M *OP*#NN *T*-1#NN 要强#VA 的#DEC 人#NN 啊#SP ，#PU 什么#PN 都#AD 要#VV 人#NN *PRO*#NR 说#VV 好#VA 才#AD 行#VV 。#PU
 CHT_CMN_20110806.0000.su.xml	NONE	-1	-1	*T*-1 真 的 *OP* 我 说 *T*-2 得 都 是 个 大 实话	s90	134229	*T*-1#NR 真#JJ 的#DEG *OP*#NN 我#PN 说#VV *T*-2#CD 得#VV 都#AD 是#VC 个#M 大#JJ 实话#NN
-CHT_CMN_20110806.0000.su.xml	他们	3386	0	是 的 从 小 要 面子	s91	134229	是#VC 的#DEG 从#P 小#NN 要#VV 面子#NN
-CHT_CMN_20110806.0000.su.xml	形	1560	10	是 的 从 小 要 面子	s91	134229	是#VC 的#DEG 从#P 小#NN 要#VV 面子#NN
-CHT_CMN_20110806.0000.su.xml	形	2908	3	以后 不 要 这样 ， 人 都 是 要 缺点 的 ， 人 无 完人 吗	s92	134220	以后#AD 不#AD 要#VV 这样#AD ，#PU 人#NN 都#AD 是#VC 要#VV 缺点#NN 的#SP ，#PU 人#NN 无#VE 完人#NN 吗#SP
-CHT_CMN_20110806.0000.su.xml	形	3086	2	嗯 是 的	s93	134229	嗯#IJ 是#VC 的#SP
-CHT_CMN_20110806.0000.su.xml	其	904	0	不 要 看 的 那么 重 ， 你 就 轻松 了	s94	134220	不#AD 要#VV 看#VV 的#DEC 那么#AD 重#VA ，#PU 你#PN 就#AD 轻松#VA 了#SP
+CHT_CMN_20110806.0000.su.xml	它1	4442	0	是 的 从 小 要 面子	s91	134229	是#VC 的#DEG 从#P 小#NN 要#VV 面子#NN
+CHT_CMN_20110806.0000.su.xml	我1	4452	10	是 的 从 小 要 面子	s91	134229	是#VC 的#DEG 从#P 小#NN 要#VV 面子#NN
+CHT_CMN_20110806.0000.su.xml	你2	4498	3	以后 不 要 这样 ， 人 都 是 要 缺点 的 ， 人 无 完人 吗	s92	134220	以后#AD 不#AD 要#VV 这样#AD ，#PU 人#NN 都#AD 是#VC 要#VV 缺点#NN 的#SP ，#PU 人#NN 无#VE 完人#NN 吗#SP
+CHT_CMN_20110806.0000.su.xml	它1	4567	2	嗯 是 的	s93	134229	嗯#IJ 是#VC 的#SP
+CHT_CMN_20110806.0000.su.xml	你2	4605	0	不 要 看 的 那么 重 ， 你 就 轻松 了	s94	134220	不#AD 要#VV 看#VV 的#DEC 那么#AD 重#VA ，#PU 你#PN 就#AD 轻松#VA 了#SP
 CHT_CMN_20110806.0000.su.xml	NONE	-1	-1	奥	s95	134229	奥#NR
-CHT_CMN_20110806.0000.su.xml	其	1405	0	好了 ， 我们 就 聊到 这里 吧 。	s96	134220	好了#AD ，#PU 我们#PN 就#AD 聊到#VV 这里#PN 吧#SP 。#PU
-CHT_CMN_20110806.0000.su.xml	其	2525	0	再会 。	s96	134220	再会#VV 。#PU
-CHT_CMN_20110806.0000.su.xml	其	2813	0	好 的 再见	s97	134229	好#VA 的#DEC 再见#VV
-CHT_CMN_20110806.0000.su.xml	其	3443	10	好 的 再见	s97	134229	好#VA 的#DEC 再见#VV
+CHT_CMN_20110806.0000.su.xml	它1	4693	0	好了 ， 我们 就 聊到 这里 吧 。	s96	134220	好了#AD ，#PU 我们#PN 就#AD 聊到#VV 这里#PN 吧#SP 。#PU
+CHT_CMN_20110806.0000.su.xml	我们	4719	0	再会 。	s96	134220	再会#VV 。#PU
+CHT_CMN_20110806.0000.su.xml	它2	4758	0	好 的 再见	s97	134229	好#VA 的#DEC 再见#VV
+CHT_CMN_20110806.0000.su.xml	我们	4768	10	好 的 再见	s97	134229	好#VA 的#DEC 再见#VV

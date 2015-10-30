@@ -1,11 +1,11 @@
-CHT_CMN_20110818.0000.su.xml	我	67	0	在线 吗	s0	134227	在线#NN 吗#SP
-CHT_CMN_20110818.0000.su.xml	我	150	0	在 啊	s1	134220	在#P 啊#SP
-CHT_CMN_20110818.0000.su.xml	我	234	6	什么 时间 喝 喜酒 呀	s2	134227	什么#DT 时间#NN 喝#VV 喜酒#NN 呀#SP
-CHT_CMN_20110818.0000.su.xml	我	413	0	没 打算 啊	s3	134220	没#AD 打算#VV 啊#SP
-CHT_CMN_20110818.0000.su.xml	你	29	0	应该 庆贺 一下 呀	s4	134227	应该#VV 庆贺#VV 一下#AD 呀#SP
-CHT_CMN_20110818.0000.su.xml	你	110	0	不 庆祝 了	s5	134220	不#AD 庆祝#VV 了#SP
-CHT_CMN_20110818.0000.su.xml	你	190	21	*OP* *T*-1 这么 大 的 喜事 不 张罗 一下 *T*-2 ， 是 那么 回 事 吗	s6	134227	*OP*#NR *T*-1#NN 这么#AD 大#VA 的#DEC 喜事#NN 不#AD 张罗#VV 一下#AD *T*-2#VV ，#PU 是#VC 那么#JJ 回#M 事#NN 吗#SP
-CHT_CMN_20110818.0000.su.xml	你	295	0	办 的话 别 漏 了 我 和 孟凡林	s7	134227	办#VV 的话#SP 别#AD 漏#VV 了#AS 我#PN 和#CC 孟凡林#NR
-CHT_CMN_20110818.0000.su.xml	你	355	11	办 的话 别 漏 了 我 和 孟凡林	s7	134227	办#VV 的话#SP 别#AD 漏#VV 了#AS 我#PN 和#CC 孟凡林#NR
-CHT_CMN_20110818.0000.su.xml	你	366	0	不 办 了	s8	134220	不#AD 办#VV 了#SP
+CHT_CMN_20110818.0000.su.xml	你	29	0	在线 吗	s0	134227	在线#NN 吗#SP
+CHT_CMN_20110818.0000.su.xml	我	67	0	在 啊	s1	134220	在#P 啊#SP
+CHT_CMN_20110818.0000.su.xml	你	110	6	什么 时间 喝 喜酒 呀	s2	134227	什么#DT 时间#NN 喝#VV 喜酒#NN 呀#SP
+CHT_CMN_20110818.0000.su.xml	我	150	0	没 打算 啊	s3	134220	没#AD 打算#VV 啊#SP
+CHT_CMN_20110818.0000.su.xml	你	190	0	应该 庆贺 一下 呀	s4	134227	应该#VV 庆贺#VV 一下#AD 呀#SP
+CHT_CMN_20110818.0000.su.xml	我	234	0	不 庆祝 了	s5	134220	不#AD 庆祝#VV 了#SP
+CHT_CMN_20110818.0000.su.xml	你	295	21	*OP* *T*-1 这么 大 的 喜事 不 张罗 一下 *T*-2 ， 是 那么 回 事 吗	s6	134227	*OP*#NR *T*-1#NN 这么#AD 大#VA 的#DEC 喜事#NN 不#AD 张罗#VV 一下#AD *T*-2#VV ，#PU 是#VC 那么#JJ 回#M 事#NN 吗#SP
+CHT_CMN_20110818.0000.su.xml	你	355	0	办 的话 别 漏 了 我 和 孟凡林	s7	134227	办#VV 的话#SP 别#AD 漏#VV 了#AS 我#PN 和#CC 孟凡林#NR
+CHT_CMN_20110818.0000.su.xml	你	366	11	办 的话 别 漏 了 我 和 孟凡林	s7	134227	办#VV 的话#SP 别#AD 漏#VV 了#AS 我#PN 和#CC 孟凡林#NR
+CHT_CMN_20110818.0000.su.xml	我	413	0	不 办 了	s8	134220	不#AD 办#VV 了#SP
 CHT_CMN_20110818.0000.su.xml	你	455	3	按说 应该 庆贺 呀	s9	134227	按说#AD 应该#VV 庆贺#VV 呀#SP

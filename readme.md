@@ -31,6 +31,19 @@
 - Check missing pro
 	Check if the annotator missed any pro. Using stdout to show result.
 	- python CheckPro.py
-##Modify
+##Feature:
+- f1: pre is #NN or #PN, next is #V or #P
+- f2: current is at head(after , .)
+- f3: current is at head, and followed #V or #P
+- f4: next is #NN or #PN
+- f6: pre is #NN or #PN
+- f7: pre pre is #NN or #PN
+- f8: pre pre pre is #N or #PN
+- f9: next is #V or #P
+- f10: next next is #V or #P
+- f11: next next next is #V or #P
+
+##recourse
+- Postag : http://www.cis.upenn.edu/~chinese/posguide.3rd.ch.pdf
 
 

@@ -1,65 +1,65 @@
-CHT_CMN_20120412.0000.su.xml	我	277	0	有没有 我们 的 项目	s0	133525	有没有#AD 我们#PN 的#DEG 项目#NN
+CHT_CMN_20120412.0000.su.xml	形	29	0	有没有 我们 的 项目	s0	133525	有没有#AD 我们#PN 的#DEG 项目#NN
 CHT_CMN_20120412.0000.su.xml	NONE	-1	-1	我 不 知道	s1	133485	我#PN 不#AD 知道#VV
-CHT_CMN_20120412.0000.su.xml	我	379	11	你 自己 要是 知道 有 *OP* 我们 院 设计 *T*-1 的 项目	s2	133485	你#PN 自己#PN 要是#CS 知道#VV 有#VE *OP*#NR 我们#PN 院#NN 设计#VV *T*-1#NN 的#DEC 项目#NN
+CHT_CMN_20120412.0000.su.xml	形	119	11	你 自己 要是 知道 有 *OP* 我们 院 设计 *T*-1 的 项目	s2	133485	你#PN 自己#PN 要是#CS 知道#VV 有#VE *OP*#NR 我们#PN 院#NN 设计#VV *T*-1#NN 的#DEC 项目#NN
 CHT_CMN_20120412.0000.su.xml	NONE	-1	-1	我们 做 弱电 系统	s3	133525	我们#PN 做#VV 弱电#NN 系统#NN
 CHT_CMN_20120412.0000.su.xml	NONE	-1	-1	你 负责 哪 一 块 的 ？	s4	133525	你#PN 负责#VV 哪#DT 一#CD 块#M 的#SP ？#PU
-CHT_CMN_20120412.0000.su.xml	我	510	0	假如 有 项目 介绍 ， 搞定 了 肯定 少 不 了 同学 的 一 份	s5	133525	假如#CS 有#VE 项目#NN 介绍#VV ，#PU 搞定#VV 了#AS 肯定#AD 少#AD 不#AD 了#VV 同学#NN 的#DEG 一#CD 份#M
-CHT_CMN_20120412.0000.su.xml	我	1455	19	假如 有 项目 介绍 ， 搞定 了 肯定 少 不 了 同学 的 一 份	s5	133525	假如#CS 有#VE 项目#NN 介绍#VV ，#PU 搞定#VV 了#AS 肯定#AD 少#AD 不#AD 了#VV 同学#NN 的#DEG 一#CD 份#M
-CHT_CMN_20120412.0000.su.xml	我	2549	30	假如 有 项目 介绍 ， 搞定 了 肯定 少 不 了 同学 的 一 份	s5	133525	假如#CS 有#VE 项目#NN 介绍#VV ，#PU 搞定#VV 了#AS 肯定#AD 少#AD 不#AD 了#VV 同学#NN 的#DEG 一#CD 份#M
+CHT_CMN_20120412.0000.su.xml	形	258	0	假如 有 项目 介绍 ， 搞定 了 肯定 少 不 了 同学 的 一 份	s5	133525	假如#CS 有#VE 项目#NN 介绍#VV ，#PU 搞定#VV 了#AS 肯定#AD 少#AD 不#AD 了#VV 同学#NN 的#DEG 一#CD 份#M
+CHT_CMN_20120412.0000.su.xml	我	277	19	假如 有 项目 介绍 ， 搞定 了 肯定 少 不 了 同学 的 一 份	s5	133525	假如#CS 有#VE 项目#NN 介绍#VV ，#PU 搞定#VV 了#AS 肯定#AD 少#AD 不#AD 了#VV 同学#NN 的#DEG 一#CD 份#M
+CHT_CMN_20120412.0000.su.xml	它	288	30	假如 有 项目 介绍 ， 搞定 了 肯定 少 不 了 同学 的 一 份	s5	133525	假如#CS 有#VE 项目#NN 介绍#VV ，#PU 搞定#VV 了#AS 肯定#AD 少#AD 不#AD 了#VV 同学#NN 的#DEG 一#CD 份#M
 CHT_CMN_20120412.0000.su.xml	NONE	-1	-1	我 现在 从事 管理 了	s6	133485	我#PN 现在#NT 从事#VV 管理#VV 了#SP
-CHT_CMN_20120412.0000.su.xml	我	2604	0	没有 搞 设计 了	s7	133485	没有#AD 搞#VV 设计#NN 了#SP
+CHT_CMN_20120412.0000.su.xml	我	379	0	没有 搞 设计 了	s7	133485	没有#AD 搞#VV 设计#NN 了#SP
 CHT_CMN_20120412.0000.su.xml	NONE	-1	-1	不过 我 以前 的 同事 很 好	s8	133485	不过#AD 我#PN 以前#NT 的#DEG 同事#NN 很#AD 好#VA
 CHT_CMN_20120412.0000.su.xml	你	466	0	可以 介绍 下 啊	s9	133525	可以#VV 介绍#VV 下#LC 啊#SP
-CHT_CMN_20120412.0000.su.xml	你	643	0	可以 呀	s10	133485	可以#VV 呀#SP
+CHT_CMN_20120412.0000.su.xml	我	510	0	可以 呀	s10	133485	可以#VV 呀#SP
 CHT_CMN_20120412.0000.su.xml	NONE	-1	-1	你 来 呀	s11	133485	你#PN 来#VV 呀#SP
 CHT_CMN_20120412.0000.su.xml	NONE	-1	-1	我 跟 你 引荐	s12	133485	我#PN 跟#P 你#PN 引荐#VV
-CHT_CMN_20120412.0000.su.xml	你	925	0	好 的 ， 有 机会 来	s13	133525	好#VA 的#SP ，#PU 有#VE 机会#NN 来#VV
-CHT_CMN_20120412.0000.su.xml	你	1167	12	好 的 ， 有 机会 来	s13	133525	好#VA 的#SP ，#PU 有#VE 机会#NN 来#VV
-CHT_CMN_20120412.0000.su.xml	你	1208	23	好 的 ， 有 机会 来	s13	133525	好#VA 的#SP ，#PU 有#VE 机会#NN 来#VV
-CHT_CMN_20120412.0000.su.xml	你	2351	5	关键 是 有没有 *OP* 我们 这里 设计 *T*-1 的 项目	s14	133485	关键#NN 是#VC 有没有#AD *OP*#VV 我们#PN 这里#PN 设计#VV *T*-1#NN 的#DEC 项目#NN
+CHT_CMN_20120412.0000.su.xml	它	620	0	好 的 ， 有 机会 来	s13	133525	好#VA 的#SP ，#PU 有#VE 机会#NN 来#VV
+CHT_CMN_20120412.0000.su.xml	形	632	12	好 的 ， 有 机会 来	s13	133525	好#VA 的#SP ，#PU 有#VE 机会#NN 来#VV
+CHT_CMN_20120412.0000.su.xml	你	643	23	好 的 ， 有 机会 来	s13	133525	好#VA 的#SP ，#PU 有#VE 机会#NN 来#VV
+CHT_CMN_20120412.0000.su.xml	它	684	5	关键 是 有没有 *OP* 我们 这里 设计 *T*-1 的 项目	s14	133485	关键#NN 是#VC 有没有#AD *OP*#VV 我们#PN 这里#PN 设计#VV *T*-1#NN 的#DEC 项目#NN
 CHT_CMN_20120412.0000.su.xml	NONE	-1	-1	你 是 负责 哪 个 区域 的 ？	s15	133485	你#PN 是#VC 负责#VV 哪#DT 个#M 区域#NN 的#SP ？#PU
 CHT_CMN_20120412.0000.su.xml	NONE	-1	-1	闭路 电视 监控 ， 门禁 系统 是 我们 专业 设计 的	s16	133485	闭路#JJ 电视#NN 监控#VV ，#PU 门禁#NN 系统#NN 是#VC 我们#PN 专业#JJ 设计#NN 的#SP
-CHT_CMN_20120412.0000.su.xml	你	2641	0	不 是 ， 是 你们 有 关于 弱电 项目 设计 ， 然后 告诉 我们 或 把 我们 公司 推荐 *-1 给 甲方 。	s17	133525	不#AD 是#VC ，#PU 是#VC 你们#PN 有#VE 关于#P 弱电#NN 项目#NN 设计#VV ，#PU 然后#AD 告诉#VV 我们#PN 或#CC 把#BA 我们#PN 公司#NN 推荐#VV *-1#NN 给#VV 甲方#NN 。#PU
-CHT_CMN_20120412.0000.su.xml	它	288	12	不 是 ， 是 你们 有 关于 弱电 项目 设计 ， 然后 告诉 我们 或 把 我们 公司 推荐 *-1 给 甲方 。	s17	133525	不#AD 是#VC ，#PU 是#VC 你们#PN 有#VE 关于#P 弱电#NN 项目#NN 设计#VV ，#PU 然后#AD 告诉#VV 我们#PN 或#CC 把#BA 我们#PN 公司#NN 推荐#VV *-1#NN 给#VV 甲方#NN 。#PU
-CHT_CMN_20120412.0000.su.xml	它	620	2	或 按 我们 的 思路 进行 设计	s17	133525	或#CC 按#P 我们#PN 的#DEG 思路#NN 进行#VV 设计#NN
-CHT_CMN_20120412.0000.su.xml	它	684	0	就 是 这 一 块 的	s18	133525	就#AD 是#VC 这#DT 一#CD 块#M 的#SP
-CHT_CMN_20120412.0000.su.xml	它	851	0	就 是 闭路 电视 监控 ， 门禁 系统 ， 停车场 对讲 系统	s19	133525	就#AD 是#VC 闭路#JJ 电视#NN 监控#VV ，#PU 门禁#NN 系统#NN ，#PU 停车场#NN 对讲#NN 系统#NN
+CHT_CMN_20120412.0000.su.xml	它	851	0	不 是 ， 是 你们 有 关于 弱电 项目 设计 ， 然后 告诉 我们 或 把 我们 公司 推荐 *-1 给 甲方 。	s17	133525	不#AD 是#VC ，#PU 是#VC 你们#PN 有#VE 关于#P 弱电#NN 项目#NN 设计#VV ，#PU 然后#AD 告诉#VV 我们#PN 或#CC 把#BA 我们#PN 公司#NN 推荐#VV *-1#NN 给#VV 甲方#NN 。#PU
+CHT_CMN_20120412.0000.su.xml	它	863	12	不 是 ， 是 你们 有 关于 弱电 项目 设计 ， 然后 告诉 我们 或 把 我们 公司 推荐 *-1 给 甲方 。	s17	133525	不#AD 是#VC ，#PU 是#VC 你们#PN 有#VE 关于#P 弱电#NN 项目#NN 设计#VV ，#PU 然后#AD 告诉#VV 我们#PN 或#CC 把#BA 我们#PN 公司#NN 推荐#VV *-1#NN 给#VV 甲方#NN 。#PU
+CHT_CMN_20120412.0000.su.xml	你	925	2	或 按 我们 的 思路 进行 设计	s17	133525	或#CC 按#P 我们#PN 的#DEG 思路#NN 进行#VV 设计#NN
+CHT_CMN_20120412.0000.su.xml	它	975	0	就 是 这 一 块 的	s18	133525	就#AD 是#VC 这#DT 一#CD 块#M 的#SP
+CHT_CMN_20120412.0000.su.xml	它	1021	0	就 是 闭路 电视 监控 ， 门禁 系统 ， 停车场 对讲 系统	s19	133525	就#AD 是#VC 闭路#JJ 电视#NN 监控#VV ，#PU 门禁#NN 系统#NN ，#PU 停车场#NN 对讲#NN 系统#NN
 CHT_CMN_20120412.0000.su.xml	NONE	-1	-1	还有 综合 布线	s20	133525	还有#AD 综合#JJ 布线#NN
-CHT_CMN_20120412.0000.su.xml	它	863	2	那 太 多 了	s21	133485	那#PN 太#AD 多#VA 了#SP
-CHT_CMN_20120412.0000.su.xml	它	975	0	还 不 介绍	s22	133525	还#AD 不#AD 介绍#VV
-CHT_CMN_20120412.0000.su.xml	它	1021	0	搞定 了 不 会 亏待 你 的	s23	133525	搞定#VV 了#AS 不#AD 会#VV 亏待#VV 你#PN 的#SP
-CHT_CMN_20120412.0000.su.xml	它	1127	11	搞定 了 不 会 亏待 你 的	s23	133525	搞定#VV 了#AS 不#AD 会#VV 亏待#VV 你#PN 的#SP
+CHT_CMN_20120412.0000.su.xml	它	1127	2	那 太 多 了	s21	133485	那#PN 太#AD 多#VA 了#SP
+CHT_CMN_20120412.0000.su.xml	你	1167	0	还 不 介绍	s22	133525	还#AD 不#AD 介绍#VV
+CHT_CMN_20120412.0000.su.xml	你	1208	0	搞定 了 不 会 亏待 你 的	s23	133525	搞定#VV 了#AS 不#AD 会#VV 亏待#VV 你#PN 的#SP
+CHT_CMN_20120412.0000.su.xml	我们	1219	11	搞定 了 不 会 亏待 你 的	s23	133525	搞定#VV 了#AS 不#AD 会#VV 亏待#VV 你#PN 的#SP
 CHT_CMN_20120412.0000.su.xml	NONE	-1	-1	我们 有 资质 的	s24	133525	我们#PN 有#VE 资质#NN 的#SP
 CHT_CMN_20120412.0000.su.xml	NONE	-1	-1	很多 项目	s25	133485	很多#CD 项目#NN
 CHT_CMN_20120412.0000.su.xml	NONE	-1	-1	你 来 一 趟 吧	s26	133485	你#PN 来#VV 一#CD 趟#M 吧#SP
-CHT_CMN_20120412.0000.su.xml	它	1417	0	联络 一下 感情	s27	133485	联络#VV 一下#AD 感情#NN
-CHT_CMN_20120412.0000.su.xml	它	1633	0	好 啊	s28	133525	好#VA 啊#SP
-CHT_CMN_20120412.0000.su.xml	它1	1697	0	跟 我们 同事 介绍	s29	133485	跟#P 我们#PN 同事#NN 介绍#VV
+CHT_CMN_20120412.0000.su.xml	我们	1374	0	联络 一下 感情	s27	133485	联络#VV 一下#AD 感情#NN
+CHT_CMN_20120412.0000.su.xml	它	1417	0	好 啊	s28	133525	好#VA 啊#SP
+CHT_CMN_20120412.0000.su.xml	我	1455	0	跟 我们 同事 介绍	s29	133485	跟#P 我们#PN 同事#NN 介绍#VV
 CHT_CMN_20120412.0000.su.xml	NONE	-1	-1	以前 的 同事 关系 跟 我 都 蛮 好 的	s30	133485	以前#NT 的#DEG 同事#NN 关系#NN 跟#CC 我#PN 都#AD 蛮#AD 好#VA 的#SP
 CHT_CMN_20120412.0000.su.xml	NONE	-1	-1	你们 设计院 应该 给 甲方 很 熟 吧	s31	133525	你们#PN 设计院#NN 应该#VV 给#VV 甲方#NN 很#AD 熟#VA 吧#SP
 CHT_CMN_20120412.0000.su.xml	NONE	-1	-1	那 当然	s32	133485	那#PN 当然#AD
-CHT_CMN_20120412.0000.su.xml	它1	1970	0	有没有 甲方 要求 你们 *PRO* 介绍 工程 公司 的	s33	133525	有没有#AD 甲方#VV 要求#VV 你们#PN *PRO*#AD 介绍#VV 工程#NN 公司#NN 的#DEG
-CHT_CMN_20120412.0000.su.xml	它1	2395	0	也 有	s34	133485	也#AD 有#VE
+CHT_CMN_20120412.0000.su.xml	它	1633	0	有没有 甲方 要求 你们 *PRO* 介绍 工程 公司 的	s33	133525	有没有#AD 甲方#VV 要求#VV 你们#PN *PRO*#AD 介绍#VV 工程#NN 公司#NN 的#DEG
+CHT_CMN_20120412.0000.su.xml	它1	1697	0	也 有	s34	133485	也#AD 有#VE
 CHT_CMN_20120412.0000.su.xml	NONE	-1	-1	很多 厂家 也 会 做 甲方 的 工作	s35	133485	很多#CD 厂家#NN 也#AD 会#VV 做#VV 甲方#NN 的#DEC 工作#NN
 CHT_CMN_20120412.0000.su.xml	NONE	-1	-1	这个 很 关键	s36	133485	这个#PN 很#AD 关键#VA
 CHT_CMN_20120412.0000.su.xml	NONE	-1	-1	如果 甲方 推荐 ， 设计院 没 提 反对 意见	s37	133485	如果#CS 甲方#NN 推荐#VV ，#PU 设计院#NN 没#AD 提#VV 反对#NN 意见#NN
 CHT_CMN_20120412.0000.su.xml	NONE	-1	-1	这个 一般 就 没有 问题 了	s38	133485	这个#DT 一般#AD 就#AD 没有#VE 问题#NN 了#SP
 CHT_CMN_20120412.0000.su.xml	NONE	-1	-1	或者 设计院 推荐 ， 甲方 没有 提 反对 意见	s39	133485	或者#CC 设计院#NN 推荐#VV ，#PU 甲方#NN 没有#AD 提#VV 反对#NN 意见#NN
-CHT_CMN_20120412.0000.su.xml	它1	2592	0	也 一般 都 成 了	s40	133485	也#AD 一般#AD 都#AD 成#VV 了#AS
+CHT_CMN_20120412.0000.su.xml	它1	1970	0	也 一般 都 成 了	s40	133485	也#AD 一般#AD 都#AD 成#VV 了#AS
 CHT_CMN_20120412.0000.su.xml	NONE	-1	-1	哦	s41	133525	哦#IJ
 CHT_CMN_20120412.0000.su.xml	NONE	-1	-1	深圳 有 项目 吗	s42	133525	深圳#NR 有#VE 项目#NN 吗#SP
-CHT_CMN_20120412.0000.su.xml	我们	1219	0	没有	s43	133485	没有#VE
+CHT_CMN_20120412.0000.su.xml	形	2083	0	没有	s43	133485	没有#VE
 CHT_CMN_20120412.0000.su.xml	NONE	-1	-1	一般 哪里 的 多	s44	133525	一般#AD 哪里#PN 的#DEG 多#VA
 CHT_CMN_20120412.0000.su.xml	NONE	-1	-1	最近 国外	s45	133485	最近#NT 国外#NN
 CHT_CMN_20120412.0000.su.xml	NONE	-1	-1	国内 的 不 定	s46	133485	国内#NN 的#DEG 不#AD 定#VV
 CHT_CMN_20120412.0000.su.xml	NONE	-1	-1	但是 深圳 的 好像 没有	s47	133485	但是#AD 深圳#NR 的#DEG 好像#AD 没有#VE
-CHT_CMN_20120412.0000.su.xml	我们	1374	0	有 一 个 中山 燃机	s48	133485	有#VE 一#CD 个#M 中山#NR 燃机#NN
+CHT_CMN_20120412.0000.su.xml	形	2271	0	有 一 个 中山 燃机	s48	133485	有#VE 一#CD 个#M 中山#NR 燃机#NN
 CHT_CMN_20120412.0000.su.xml	NONE	-1	-1	这个 可以	s49	133525	这个#PN 可以#VV
-CHT_CMN_20120412.0000.su.xml	形	29	0	有 机会 介绍 吗	s50	133525	有#VE 机会#NN 介绍#VV 吗#SP
-CHT_CMN_20120412.0000.su.xml	形	119	0	也 是 要 做 监控 和 门禁 吗	s51	133525	也#AD 是#VC 要#VV 做#VV 监控#NN 和#CC 门禁#NN 吗#SP
-CHT_CMN_20120412.0000.su.xml	形	258	0	有 一些 项目	s52	133485	有#VE 一些#CD 项目#NN
-CHT_CMN_20120412.0000.su.xml	形	632	2	等 有 机会 我 找 主任 *PRO* 了解 一下	s53	133485	等#VV 有#VE 机会#NN 我#PN 找#VV 主任#NN *PRO*#NR 了解#VV 一下#AD
-CHT_CMN_20120412.0000.su.xml	形	2083	0	再 跟 你 汇报	s54	133485	再#AD 跟#P 你#PN 汇报#VV
-CHT_CMN_20120412.0000.su.xml	形	2271	0	好 的 ， 多谢	s55	133525	好#VA 的#SP ，#PU 多谢#VV
-CHT_CMN_20120412.0000.su.xml	形	2447	12	好 的 ， 多谢	s55	133525	好#VA 的#SP ，#PU 多谢#VV
-CHT_CMN_20120412.0000.su.xml	形	2491	0	不 客气	s56	133485	不#AD 客气#VA
+CHT_CMN_20120412.0000.su.xml	你	2351	0	有 机会 介绍 吗	s50	133525	有#VE 机会#NN 介绍#VV 吗#SP
+CHT_CMN_20120412.0000.su.xml	它1	2395	0	也 是 要 做 监控 和 门禁 吗	s51	133525	也#AD 是#VC 要#VV 做#VV 监控#NN 和#CC 门禁#NN 吗#SP
+CHT_CMN_20120412.0000.su.xml	形	2447	0	有 一些 项目	s52	133485	有#VE 一些#CD 项目#NN
+CHT_CMN_20120412.0000.su.xml	形	2491	2	等 有 机会 我 找 主任 *PRO* 了解 一下	s53	133485	等#VV 有#VE 机会#NN 我#PN 找#VV 主任#NN *PRO*#NR 了解#VV 一下#AD
+CHT_CMN_20120412.0000.su.xml	我	2549	0	再 跟 你 汇报	s54	133485	再#AD 跟#P 你#PN 汇报#VV
+CHT_CMN_20120412.0000.su.xml	它1	2592	0	好 的 ， 多谢	s55	133525	好#VA 的#SP ，#PU 多谢#VV
+CHT_CMN_20120412.0000.su.xml	我	2604	12	好 的 ， 多谢	s55	133525	好#VA 的#SP ，#PU 多谢#VV
+CHT_CMN_20120412.0000.su.xml	你	2641	0	不 客气	s56	133485	不#AD 客气#VA

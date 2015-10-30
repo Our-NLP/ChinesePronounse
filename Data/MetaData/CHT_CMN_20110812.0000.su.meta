@@ -1,78 +1,78 @@
 CHT_CMN_20110812.0000.su.xml	NONE	-1	-1	大奶奶 在 吗	s0	134229	大奶奶#NR 在#VV 吗#SP
 CHT_CMN_20110812.0000.su.xml	我	64	0	在 啊	s1	134220	在#P 啊#SP
 CHT_CMN_20110812.0000.su.xml	NONE	-1	-1	俺 大婶子 生 了 吗	s2	134229	俺#PN 大婶子#NN 生#VV 了#AS 吗#SP
-CHT_CMN_20110812.0000.su.xml	我	461	0	没有	s3	134220	没有#VE
+CHT_CMN_20110812.0000.su.xml	她	140	0	没有	s3	134220	没有#VE
 CHT_CMN_20110812.0000.su.xml	NONE	-1	-1	俺 大爷爷 拉肚子 好 点 了 吗	s4	134229	俺#PN 大爷爷#NN 拉肚子#VV 好#VA 点#AD 了#SP 吗#SP
-CHT_CMN_20110812.0000.su.xml	我	719	7	要 减半 ， 好 多 了	s5	134220	要#VV 减半#VV ，#PU 好#AD 多#VA 了#SP
+CHT_CMN_20110812.0000.su.xml	他	228	7	要 减半 ， 好 多 了	s5	134220	要#VV 减半#VV ，#PU 好#AD 多#VA 了#SP
 CHT_CMN_20110812.0000.su.xml	NONE	-1	-1	奥	s6	134229	奥#NR
 CHT_CMN_20110812.0000.su.xml	NONE	-1	-1	那 挺 好 的	s7	134229	那#AD 挺#AD 好#VA 的#SP
-CHT_CMN_20110812.0000.su.xml	我	1372	0	该 吃 汤药 了 吗	s8	134220	该#DT 吃#VV 汤药#NN 了#SP 吗#SP
+CHT_CMN_20110812.0000.su.xml	他	331	0	该 吃 汤药 了 吗	s8	134220	该#DT 吃#VV 汤药#NN 了#SP 吗#SP
 CHT_CMN_20110812.0000.su.xml	NONE	-1	-1	俺 大婶子 咋 还 不 生 啊	s9	134229	俺#PN 大婶子#NN 咋#AD 还#AD 不#AD 生#VV 啊#SP
-CHT_CMN_20110812.0000.su.xml	我	1563	0	吃 吧	s10	134229	吃#VV 吧#SP
-CHT_CMN_20110812.0000.su.xml	我	1638	4	奥 ， 怎么 去 拿 啊	s11	134220	奥#NR ，#PU 怎么#AD 去#VV 拿#VV 啊#SP
-CHT_CMN_20110812.0000.su.xml	我	1918	3	到时 就 催生	s12	134220	到时#AD 就#AD 催生#VV
-CHT_CMN_20110812.0000.su.xml	我	2078	0	让 你 孙子 *PRO* 再 给 把把脉	s13	134229	让#VV 你#PN 孙子#NN *PRO*#NN 再#AD 给#VV 把把脉#NN
-CHT_CMN_20110812.0000.su.xml	我	2187	4	奥 ， 什么 时间 啊	s14	134220	奥#NR ，#PU 什么#DT 时间#NN 啊#SP
-CHT_CMN_20110812.0000.su.xml	我	2441	0	不 刨妇产 啊	s15	134229	不#AD 刨妇产#VV 啊#SP
+CHT_CMN_20110812.0000.su.xml	他	419	0	吃 吧	s10	134229	吃#VV 吧#SP
+CHT_CMN_20110812.0000.su.xml	我	461	4	奥 ， 怎么 去 拿 啊	s11	134220	奥#NR ，#PU 怎么#AD 去#VV 拿#VV 啊#SP
+CHT_CMN_20110812.0000.su.xml	她	507	3	到时 就 催生	s12	134220	到时#AD 就#AD 催生#VV
+CHT_CMN_20110812.0000.su.xml	你	546	0	让 你 孙子 *PRO* 再 给 把把脉	s13	134229	让#VV 你#PN 孙子#NN *PRO*#NN 再#AD 给#VV 把把脉#NN
+CHT_CMN_20110812.0000.su.xml	形	605	4	奥 ， 什么 时间 啊	s14	134220	奥#NR ，#PU 什么#DT 时间#NN 啊#SP
+CHT_CMN_20110812.0000.su.xml	她	647	0	不 刨妇产 啊	s15	134229	不#AD 刨妇产#VV 啊#SP
 CHT_CMN_20110812.0000.su.xml	NONE	-1	-1	不	s16	134220	不#AD
-CHT_CMN_20110812.0000.su.xml	我1	2698	0	抽 你 和 俺 大爷爷 的 空 摆	s17	134229	抽#VV 你#PN 和#CC 俺#PN 大爷爷#NN 的#DEG 空#NN 摆#VV
-CHT_CMN_20110812.0000.su.xml	你	546	4	奥 ， 电话 联系 吧	s18	134220	奥#NR ，#PU 电话#NN 联系#NN 吧#SP
-CHT_CMN_20110812.0000.su.xml	你	1076	0	不 刨妇产 好 啊 顺其自然 吧	s19	134229	不#AD 刨妇产#VV 好#VA 啊#SP 顺其自然#VV 吧#SP
-CHT_CMN_20110812.0000.su.xml	你	1229	16	不 刨妇产 好 啊 顺其自然 吧	s19	134229	不#AD 刨妇产#VV 好#VA 啊#SP 顺其自然#VV 吧#SP
-CHT_CMN_20110812.0000.su.xml	你	2577	0	是 啊 ，	s20	134220	是#VC 啊#SP ，#PU
-CHT_CMN_20110812.0000.su.xml	你	2806	0	好 的 电话 联系	s21	134229	好#VA 的#DEC 电话#NN 联系#NN
-CHT_CMN_20110812.0000.su.xml	他	228	10	好 的 电话 联系	s21	134229	好#VA 的#DEC 电话#NN 联系#NN
+CHT_CMN_20110812.0000.su.xml	我	719	0	抽 你 和 俺 大爷爷 的 空 摆	s17	134229	抽#VV 你#PN 和#CC 俺#PN 大爷爷#NN 的#DEG 空#NN 摆#VV
+CHT_CMN_20110812.0000.su.xml	我们	775	4	奥 ， 电话 联系 吧	s18	134220	奥#NR ，#PU 电话#NN 联系#NN 吧#SP
+CHT_CMN_20110812.0000.su.xml	她	817	0	不 刨妇产 好 啊 顺其自然 吧	s19	134229	不#AD 刨妇产#VV 好#VA 啊#SP 顺其自然#VV 吧#SP
+CHT_CMN_20110812.0000.su.xml	它	833	16	不 刨妇产 好 啊 顺其自然 吧	s19	134229	不#AD 刨妇产#VV 好#VA 啊#SP 顺其自然#VV 吧#SP
+CHT_CMN_20110812.0000.su.xml	它	874	0	是 啊 ，	s20	134220	是#VC 啊#SP ，#PU
+CHT_CMN_20110812.0000.su.xml	它	914	0	好 的 电话 联系	s21	134229	好#VA 的#DEC 电话#NN 联系#NN
+CHT_CMN_20110812.0000.su.xml	我们	924	10	好 的 电话 联系	s21	134229	好#VA 的#DEC 电话#NN 联系#NN
 CHT_CMN_20110812.0000.su.xml	NONE	-1	-1	你 还 喝 吧	s22	134229	你#PN 还#AD 喝#VV 吧#SP
 CHT_CMN_20110812.0000.su.xml	NONE	-1	-1	我 过 几 天 吧	s23	134220	我#PN 过#VV 几#CD 天#M 吧#SP
-CHT_CMN_20110812.0000.su.xml	他	331	0	行 啊	s24	134229	行#VV 啊#SP
-CHT_CMN_20110812.0000.su.xml	他	419	0	等 你 大爷爷 喝完 了 吧	s25	134220	等#P 你#PN 大爷爷#NN 喝完#VV 了#AS 吧#SP
-CHT_CMN_20110812.0000.su.xml	他	1272	2	奥 行	s26	134229	奥#NR 行#VV
-CHT_CMN_20110812.0000.su.xml	他	2298	6	俺 大爷爷 吃 过 药 后 舒服 吗	s27	134229	俺#PN 大爷爷#NN 吃#VV 过#AS 药#NN 后#LC 舒服#VA 吗#SP
-CHT_CMN_20110812.0000.su.xml	她	140	13	你 去 买 个 耳曼 ， 上 视频 快 啊	s28	134220	你#PN 去#VV 买#VV 个#M 耳曼#NN ，#PU 上#VV 视频#NN 快#VA 啊#SP
-CHT_CMN_20110812.0000.su.xml	她	507	0	舒服 啊	s29	134220	舒服#VA 啊#SP
+CHT_CMN_20110812.0000.su.xml	它	1038	0	行 啊	s24	134229	行#VV 啊#SP
+CHT_CMN_20110812.0000.su.xml	你	1076	0	等 你 大爷爷 喝完 了 吧	s25	134220	等#P 你#PN 大爷爷#NN 喝完#VV 了#AS 吧#SP
+CHT_CMN_20110812.0000.su.xml	它	1127	2	奥 行	s26	134229	奥#NR 行#VV
+CHT_CMN_20110812.0000.su.xml	其	1169	6	俺 大爷爷 吃 过 药 后 舒服 吗	s27	134229	俺#PN 大爷爷#NN 吃#VV 过#AS 药#NN 后#LC 舒服#VA 吗#SP
+CHT_CMN_20110812.0000.su.xml	你	1229	13	你 去 买 个 耳曼 ， 上 视频 快 啊	s28	134220	你#PN 去#VV 买#VV 个#M 耳曼#NN ，#PU 上#VV 视频#NN 快#VA 啊#SP
+CHT_CMN_20110812.0000.su.xml	他	1272	0	舒服 啊	s29	134220	舒服#VA 啊#SP
 CHT_CMN_20110812.0000.su.xml	NONE	-1	-1	头上 比 从前 舒服 多 了	s30	134220	头上#NN 比#P 从前#NT 舒服#VA 多#VA 了#SP
-CHT_CMN_20110812.0000.su.xml	她	647	8	我 有 个 来 坏 了 明天 再 买 个	s31	134229	我#PN 有#VE 个#M 来#MSP 坏#VV 了#AS 明天#NT 再#AD 买#VV 个#M
-CHT_CMN_20110812.0000.su.xml	她	817	18	我 有 个 来 坏 了 明天 再 买 个	s31	134229	我#PN 有#VE 个#M 来#MSP 坏#VV 了#AS 明天#NT 再#AD 买#VV 个#M
-CHT_CMN_20110812.0000.su.xml	她	2288	0	好 啊	s32	134220	好#VA 啊#SP
+CHT_CMN_20110812.0000.su.xml	它	1362	8	我 有 个 来 坏 了 明天 再 买 个	s31	134229	我#PN 有#VE 个#M 来#MSP 坏#VV 了#AS 明天#NT 再#AD 买#VV 个#M
+CHT_CMN_20110812.0000.su.xml	我	1372	18	我 有 个 来 坏 了 明天 再 买 个	s31	134229	我#PN 有#VE 个#M 来#MSP 坏#VV 了#AS 明天#NT 再#AD 买#VV 个#M
+CHT_CMN_20110812.0000.su.xml	它	1415	0	好 啊	s32	134220	好#VA 啊#SP
 CHT_CMN_20110812.0000.su.xml	NONE	-1	-1	噢	s33	134229	噢#IJ
 CHT_CMN_20110812.0000.su.xml	NONE	-1	-1	那 就 好 我 放心 了	s34	134229	那#AD 就#AD 好#VA 我#PN 放心#VV 了#AS
 CHT_CMN_20110812.0000.su.xml	NONE	-1	-1	你 那 有 视频 啊	s35	134229	你#PN 那#AD 有#VE 视频#NN 啊#SP
-CHT_CMN_20110812.0000.su.xml	它	833	0	有 啊	s36	134220	有#VE 啊#SP
+CHT_CMN_20110812.0000.su.xml	我	1563	0	有 啊	s36	134220	有#VE 啊#SP
 CHT_CMN_20110812.0000.su.xml	NONE	-1	-1	耳脉 也 有 啊	s37	134229	耳脉#NN 也#AD 有#VE 啊#SP
-CHT_CMN_20110812.0000.su.xml	它	874	0	都 有	s38	134220	都#AD 有#VE
+CHT_CMN_20110812.0000.su.xml	我	1638	0	都 有	s38	134220	都#AD 有#VE
 CHT_CMN_20110812.0000.su.xml	NONE	-1	-1	那 好 明天 我 也 去 买	s39	134229	那#AD 好#AD 明天#NT 我#PN 也#AD 去#VV 买#VV
-CHT_CMN_20110812.0000.su.xml	它	914	0	好 的	s40	134220	好#VA 的#SP
-CHT_CMN_20110812.0000.su.xml	它	1038	0	方便	s41	134220	方便#VA
+CHT_CMN_20110812.0000.su.xml	它	1719	0	好 的	s40	134220	好#VA 的#SP
+CHT_CMN_20110812.0000.su.xml	它	1757	0	方便	s41	134220	方便#VA
 CHT_CMN_20110812.0000.su.xml	NONE	-1	-1	我 在 看 电视 啊	s42	134220	我#PN 在#P 看#VV 电视#NN 啊#SP
 CHT_CMN_20110812.0000.su.xml	NONE	-1	-1	《 美人 心计 》	s43	134220	《#PU 美人#NN 心计#NN 》#PU
 CHT_CMN_20110812.0000.su.xml	NONE	-1	-1	你 天天 和 俺 大叔 那边 聊 吗	s44	134229	你#PN 天天#AD 和#P 俺#PN 大叔#NN 那边#PN 聊#VV 吗#SP
-CHT_CMN_20110812.0000.su.xml	它	1127	0	在 网上 搜 的	s45	134220	在#P 网上#NN 搜#VV 的#SP
-CHT_CMN_20110812.0000.su.xml	它	1362	2	奥 好 吗	s46	134229	奥#NR 好#VA 吗#SP
+CHT_CMN_20110812.0000.su.xml	我	1918	0	在 网上 搜 的	s45	134220	在#P 网上#NN 搜#VV 的#SP
+CHT_CMN_20110812.0000.su.xml	你们	1963	2	奥 好 吗	s46	134229	奥#NR 好#VA 吗#SP
 CHT_CMN_20110812.0000.su.xml	NONE	-1	-1	不 他 不 经常 上	s47	134220	不#AD 他#PN 不#AD 经常#AD 上#VV
-CHT_CMN_20110812.0000.su.xml	它	1415	0	好 啊	s48	134220	好#VA 啊#SP
-CHT_CMN_20110812.0000.su.xml	它	1719	0	消磨 时间 啊	s49	134220	消磨#VV 时间#NN 啊#SP
+CHT_CMN_20110812.0000.su.xml	我们	2040	0	好 啊	s48	134220	好#VA 啊#SP
+CHT_CMN_20110812.0000.su.xml	我	2078	0	消磨 时间 啊	s49	134220	消磨#VV 时间#NN 啊#SP
 CHT_CMN_20110812.0000.su.xml	NONE	-1	-1	哦	s50	134229	哦#IJ
 CHT_CMN_20110812.0000.su.xml	NONE	-1	-1	你 也 看看 吧	s51	134220	你#PN 也#AD 看看#VV 吧#SP
-CHT_CMN_20110812.0000.su.xml	它	1757	0	在 百度 上 搜 的	s52	134220	在#P 百度#NR 上#LC 搜#VV 的#DEC
+CHT_CMN_20110812.0000.su.xml	我	2187	0	在 百度 上 搜 的	s52	134220	在#P 百度#NR 上#LC 搜#VV 的#DEC
 CHT_CMN_20110812.0000.su.xml	NONE	-1	-1	这 几 天 你 得 多 和 他们 联系 着 点	s53	134229	这#DT 几#CD 天#M 你#PN 得#VV 多#VA 和#P 他们#PN 联系#VV 着#AS 点#M
-CHT_CMN_20110812.0000.su.xml	它1	2343	4	他 说 生 了 就 告诉 我 啊	s54	134220	他#PN 说#VV 生#VV 了#AS 就#AD 告诉#VV 我#PN 啊#SP
-CHT_CMN_20110812.0000.su.xml	它1	2429	14	他 说 生 了 就 告诉 我 啊	s54	134220	他#PN 说#VV 生#VV 了#AS 就#AD 告诉#VV 我#PN 啊#SP
-CHT_CMN_20110812.0000.su.xml	它1	2498	2	奥 是 电视 连续剧 啊	s55	134229	奥#NR 是#VC 电视#NN 连续剧#NN 啊#SP
+CHT_CMN_20110812.0000.su.xml	她	2288	4	他 说 生 了 就 告诉 我 啊	s54	134220	他#PN 说#VV 生#VV 了#AS 就#AD 告诉#VV 我#PN 啊#SP
+CHT_CMN_20110812.0000.su.xml	他	2298	14	他 说 生 了 就 告诉 我 啊	s54	134220	他#PN 说#VV 生#VV 了#AS 就#AD 告诉#VV 我#PN 啊#SP
+CHT_CMN_20110812.0000.su.xml	它1	2343	2	奥 是 电视 连续剧 啊	s55	134229	奥#NR 是#VC 电视#NN 连续剧#NN 啊#SP
 CHT_CMN_20110812.0000.su.xml	NONE	-1	-1	哦 那 你 也 告诉 我	s56	134229	哦#IJ 那#AD 你#PN 也#AD 告诉#VV 我#PN
-CHT_CMN_20110812.0000.su.xml	它1	2616	0	是 啊 ， 打上 《 美人 心计 》 就 出	s57	134220	是#VC 啊#SP ，#PU 打上#VV 《#PU 美人#NN 心计#NN 》#PU 就#AD 出#VV
-CHT_CMN_20110812.0000.su.xml	它1	2657	12	是 啊 ， 打上 《 美人 心计 》 就 出	s57	134220	是#VC 啊#SP ，#PU 打上#VV 《#PU 美人#NN 心计#NN 》#PU 就#AD 出#VV
-CHT_CMN_20110812.0000.su.xml	它1	2747	31	是 啊 ， 打上 《 美人 心计 》 就 出	s57	134220	是#VC 啊#SP ，#PU 打上#VV 《#PU 美人#NN 心计#NN 》#PU 就#AD 出#VV
-CHT_CMN_20110812.0000.su.xml	它1	2851	0	行	s58	134220	行#VA
+CHT_CMN_20110812.0000.su.xml	它1	2429	0	是 啊 ， 打上 《 美人 心计 》 就 出	s57	134220	是#VC 啊#SP ，#PU 打上#VV 《#PU 美人#NN 心计#NN 》#PU 就#AD 出#VV
+CHT_CMN_20110812.0000.su.xml	我	2441	12	是 啊 ， 打上 《 美人 心计 》 就 出	s57	134220	是#VC 啊#SP ，#PU 打上#VV 《#PU 美人#NN 心计#NN 》#PU 就#AD 出#VV
+CHT_CMN_20110812.0000.su.xml	其	2460	31	是 啊 ， 打上 《 美人 心计 》 就 出	s57	134220	是#VC 啊#SP ，#PU 打上#VV 《#PU 美人#NN 心计#NN 》#PU 就#AD 出#VV
+CHT_CMN_20110812.0000.su.xml	它1	2498	0	行	s58	134220	行#VA
 CHT_CMN_20110812.0000.su.xml	NONE	-1	-1	[ 表情 ] 哦 我 看 啊	s59	134229	[#PU 表情#NN ]#PU 哦#IJ 我#PN 看#VV 啊#SP
-CHT_CMN_20110812.0000.su.xml	我们	775	0	看看 吧	s60	134220	看看#VV 吧#SP
-CHT_CMN_20110812.0000.su.xml	我们	924	0	很 好看 的	s61	134220	很#AD 好看#VA 的#SP
-CHT_CMN_20110812.0000.su.xml	我们	2793	0	好 的	s62	134229	好#VA 的#SP
-CHT_CMN_20110812.0000.su.xml	我们	2889	3	明天 把 视频 耳麦 安上 *-1	s63	134229	明天#NT 把#BA 视频#NN 耳麦#NN 安上#VV *-1#NN
-CHT_CMN_20110812.0000.su.xml	我们	2926	0	好 的	s64	134220	好#VA 的#SP
+CHT_CMN_20110812.0000.su.xml	你	2577	0	看看 吧	s60	134220	看看#VV 吧#SP
+CHT_CMN_20110812.0000.su.xml	它1	2616	0	很 好看 的	s61	134220	很#AD 好看#VA 的#SP
+CHT_CMN_20110812.0000.su.xml	它1	2657	0	好 的	s62	134229	好#VA 的#SP
+CHT_CMN_20110812.0000.su.xml	我1	2698	3	明天 把 视频 耳麦 安上 *-1	s63	134229	明天#NT 把#BA 视频#NN 耳麦#NN 安上#VV *-1#NN
+CHT_CMN_20110812.0000.su.xml	它1	2747	0	好 的	s64	134220	好#VA 的#SP
 CHT_CMN_20110812.0000.su.xml	NONE	-1	-1	我 看 了 。	s65	134229	我#PN 看#VV 了#AS 。#PU
-CHT_CMN_20110812.0000.su.xml	我们	2040	0	明天 聊 啊 不 到饶 你 了 啊	s65	134229	明天#NT 聊#VV 啊#SP 不#AD 到饶#VV 你#PN 了#SP 啊#SP
-CHT_CMN_20110812.0000.su.xml	你们	1963	13	明天 聊 啊 不 到饶 你 了 啊	s65	134229	明天#NT 聊#VV 啊#SP 不#AD 到饶#VV 你#PN 了#SP 啊#SP
-CHT_CMN_20110812.0000.su.xml	形	605	0	好 的	s66	134220	好#VA 的#SP
-CHT_CMN_20110812.0000.su.xml	其	1169	0	再见	s67	134220	再见#VV
-CHT_CMN_20110812.0000.su.xml	其	2460	0	再见	s68	134229	再见#VV
+CHT_CMN_20110812.0000.su.xml	我们	2793	0	明天 聊 啊 不 到饶 你 了 啊	s65	134229	明天#NT 聊#VV 啊#SP 不#AD 到饶#VV 你#PN 了#SP 啊#SP
+CHT_CMN_20110812.0000.su.xml	你	2806	13	明天 聊 啊 不 到饶 你 了 啊	s65	134229	明天#NT 聊#VV 啊#SP 不#AD 到饶#VV 你#PN 了#SP 啊#SP
+CHT_CMN_20110812.0000.su.xml	它1	2851	0	好 的	s66	134220	好#VA 的#SP
+CHT_CMN_20110812.0000.su.xml	我们	2889	0	再见	s67	134220	再见#VV
+CHT_CMN_20110812.0000.su.xml	我们	2926	0	再见	s68	134229	再见#VV
 CHT_CMN_20110812.0000.su.xml	NONE	-1	-1	红花 你 今天 添 了 个 小弟弟 啊 ， 7 斤 半 。	s69	134220	红花#NN 你#PN 今天#NT 添#VV 了#AS 个#M 小弟弟#NN 啊#SP ，#PU 7#CD 斤#M 半#CD 。#PU

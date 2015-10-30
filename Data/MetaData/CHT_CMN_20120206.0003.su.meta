@@ -3,49 +3,49 @@ CHT_CMN_20120206.0003.su.xml	NONE	-1	-1	您 这 现在 还 有 袁 经理 的 �
 CHT_CMN_20120206.0003.su.xml	我	140	0	有 啊 ， 你 有 事 找 他 ？	s2	138194	有#VE 啊#SP ，#PU 你#PN 有#VE 事#NN 找#VV 他#PN ？#PU
 CHT_CMN_20120206.0003.su.xml	我	191	0	想 *PRO* 问 他 个 事	s3	138207	想#VV *PRO*#AD 问#VV 他#PN 个#M 事#NN
 CHT_CMN_20120206.0003.su.xml	NONE	-1	-1	他 现在 还 在 做 迪拜 的 业务 吗 ？	s4	138207	他#PN 现在#NT 还#AD 在#AD 做#VV 迪拜#NR 的#DEG 业务#NN 吗#SP ？#PU
-CHT_CMN_20120206.0003.su.xml	我	492	3	还是 已经 改行 了 呢 ？	s4	138207	还是#AD 已经#AD 改行#VV 了#AS 呢#SP ？#PU
-CHT_CMN_20120206.0003.su.xml	我	593	0	还 在 做 业务	s5	138194	还#AD 在#AD 做#VV 业务#NN
+CHT_CMN_20120206.0003.su.xml	他	266	3	还是 已经 改行 了 呢 ？	s4	138207	还是#AD 已经#AD 改行#VV 了#AS 呢#SP ？#PU
+CHT_CMN_20120206.0003.su.xml	他	311	0	还 在 做 业务	s5	138194	还#AD 在#AD 做#VV 业务#NN
 CHT_CMN_20120206.0003.su.xml	NONE	-1	-1	你 有 朋友 想 *PRO* 去 迪拜 ？	s6	138194	你#PN 有#VE 朋友#NN 想#VV *PRO*#VV 去#VV 迪拜#NR ？#PU
 CHT_CMN_20120206.0003.su.xml	NONE	-1	-1	我 爸 学校 的 学生 ，	s7	138207	我#PN 爸#NN 学校#NN 的#DEG 学生#NN ，#PU
 CHT_CMN_20120206.0003.su.xml	NONE	-1	-1	哦 ， 那 你 直接 跟 他 联系 吧 。	s8	138194	哦#IJ ，#PU 那#AD 你#PN 直接#AD 跟#P 他#PN 联系#VV 吧#SP 。#PU
-CHT_CMN_20120206.0003.su.xml	我	751	0	直接 联系 他 没 关系 吧	s9	138207	直接#AD 联系#VV 他#PN 没#VE 关系#NN 吧#SP
+CHT_CMN_20120206.0003.su.xml	我	492	0	直接 联系 他 没 关系 吧	s9	138207	直接#AD 联系#VV 他#PN 没#VE 关系#NN 吧#SP
 CHT_CMN_20120206.0003.su.xml	NONE	-1	-1	你 就 说 我 给 你 的 电话 号码	s10	138194	你#PN 就#AD 说#VV 我#PN 给#P 你#PN 的#DEG 电话#NN 号码#NN
-CHT_CMN_20120206.0003.su.xml	我	879	4	恩 ， 多谢 陈 老师	s11	138207	恩#IJ ，#PU 多谢#VV 陈#NR 老师#NN
-CHT_CMN_20120206.0003.su.xml	我	1428	0	不 谢 。	s12	138194	不#AD 谢#VV 。#PU
-CHT_CMN_20120206.0003.su.xml	我	1647	2	你 这么 早 就 回 黄石 上班 了 呢 ？	s13	138207	你#PN 这么#AD 早#AD 就#AD 回#VV 黄石#NR 上班#VV 了#AS 呢#SP ？#PU
+CHT_CMN_20120206.0003.su.xml	我	593	4	恩 ， 多谢 陈 老师	s11	138207	恩#IJ ，#PU 多谢#VV 陈#NR 老师#NN
+CHT_CMN_20120206.0003.su.xml	你	635	0	不 谢 。	s12	138194	不#AD 谢#VV 。#PU
+CHT_CMN_20120206.0003.su.xml	其	677	2	你 这么 早 就 回 黄石 上班 了 呢 ？	s13	138207	你#PN 这么#AD 早#AD 就#AD 回#VV 黄石#NR 上班#VV 了#AS 呢#SP ？#PU
 CHT_CMN_20120206.0003.su.xml	NONE	-1	-1	我 先 给 他 发 给 信息 吧 。	s14	138194	我#PN 先#AD 给#P 他#PN 发#VV 给#VV 信息#NN 吧#SP 。#PU
-CHT_CMN_20120206.0003.su.xml	我1	1663	0	以免 唐突 。	s14	138194	以免#AD 唐突#VV 。#PU
-CHT_CMN_20120206.0003.su.xml	我1	2000	0	好 的	s15	138207	好#VA 的#SP
+CHT_CMN_20120206.0003.su.xml	我	751	0	以免 唐突 。	s14	138194	以免#AD 唐突#VV 。#PU
+CHT_CMN_20120206.0003.su.xml	它	793	0	好 的	s15	138207	好#VA 的#SP
 CHT_CMN_20120206.0003.su.xml	NONE	-1	-1	我 已经 在 黄石 上班 了 。	s16	138194	我#PN 已经#AD 在#P 黄石#NR 上班#VV 了#AS 。#PU
-CHT_CMN_20120206.0003.su.xml	我1	2019	3	如果 想 *PRO* 跟 他 合作 的话 ， 具体 是 怎么 操作 的 呢 ？	s17	138207	如果#CS 想#VV *PRO*#VV 跟#P 他#PN 合作#VV 的话#SP ，#PU 具体#AD 是#VC 怎么#AD 操作#VV 的#SP 呢#SP ？#PU
-CHT_CMN_20120206.0003.su.xml	你	635	32	如果 想 *PRO* 跟 他 合作 的话 ， 具体 是 怎么 操作 的 呢 ？	s17	138207	如果#CS 想#VV *PRO*#VV 跟#P 他#PN 合作#VV 的话#SP ，#PU 具体#AD 是#VC 怎么#AD 操作#VV 的#SP 呢#SP ？#PU
+CHT_CMN_20120206.0003.su.xml	我	879	3	如果 想 *PRO* 跟 他 合作 的话 ， 具体 是 怎么 操作 的 呢 ？	s17	138207	如果#CS 想#VV *PRO*#VV 跟#P 他#PN 合作#VV 的话#SP ，#PU 具体#AD 是#VC 怎么#AD 操作#VV 的#SP 呢#SP ？#PU
+CHT_CMN_20120206.0003.su.xml	它	908	32	如果 想 *PRO* 跟 他 合作 的话 ， 具体 是 怎么 操作 的 呢 ？	s17	138207	如果#CS 想#VV *PRO*#VV 跟#P 他#PN 合作#VV 的话#SP ，#PU 具体#AD 是#VC 怎么#AD 操作#VV 的#SP 呢#SP ？#PU
 CHT_CMN_20120206.0003.su.xml	NONE	-1	-1	你 先 跟 她 联系 上 ， 看 他 如何 回复 你 。	s18	138194	你#PN 先#AD 跟#P 她#PN 联系#VV 上#VV ，#PU 看#VV 他#PN 如何#AD 回复#VV 你#PN 。#PU
-CHT_CMN_20120206.0003.su.xml	你	1480	21	你 爸爸 学校 学生 的 英语 怎样 ， 愿意 *PRO* 从事 酒店 这 个 行业 吗 ？	s18	138194	你#PN 爸爸#NN 学校#NN 学生#NN 的#DEG 英语#NN 怎样#VA ，#PU 愿意#VV *PRO*#VV 从事#VV 酒店#NN 这#DT 个#M 行业#NN 吗#SP ？#PU
-CHT_CMN_20120206.0003.su.xml	你	1491	0	也 是 旅游 专业 的 学生	s19	138207	也#AD 是#VC 旅游#VV 专业#NN 的#DEC 学生#NN
-CHT_CMN_20120206.0003.su.xml	你	1577	0	出国 的话 应该 还是 蛮 有 吸引力 的	s20	138207	出国#VV 的话#SP 应该#VV 还是#AD 蛮#AD 有#VE 吸引力#NN 的#SP
-CHT_CMN_20120206.0003.su.xml	他	266	12	出国 的话 应该 还是 蛮 有 吸引力 的	s20	138207	出国#VV 的话#SP 应该#VV 还是#AD 蛮#AD 有#VE 吸引力#NN 的#SP
+CHT_CMN_20120206.0003.su.xml	他们	1006	21	你 爸爸 学校 学生 的 英语 怎样 ， 愿意 *PRO* 从事 酒店 这 个 行业 吗 ？	s18	138194	你#PN 爸爸#NN 学校#NN 学生#NN 的#DEG 英语#NN 怎样#VA ，#PU 愿意#VV *PRO*#VV 从事#VV 酒店#NN 这#DT 个#M 行业#NN 吗#SP ？#PU
+CHT_CMN_20120206.0003.su.xml	他们	1066	0	也 是 旅游 专业 的 学生	s19	138207	也#AD 是#VC 旅游#VV 专业#NN 的#DEC 学生#NN
+CHT_CMN_20120206.0003.su.xml	他们	1115	0	出国 的话 应该 还是 蛮 有 吸引力 的	s20	138207	出国#VV 的话#SP 应该#VV 还是#AD 蛮#AD 有#VE 吸引力#NN 的#SP
+CHT_CMN_20120206.0003.su.xml	它	1127	12	出国 的话 应该 还是 蛮 有 吸引力 的	s20	138207	出国#VV 的话#SP 应该#VV 还是#AD 蛮#AD 有#VE 吸引力#NN 的#SP
 CHT_CMN_20120206.0003.su.xml	NONE	-1	-1	哦 ， 他们 学校 对 学生 的 出国 教育 有没有 基础 。	s21	138194	哦#IJ ，#PU 他们#PN 学校#NN 对#P 学生#NN 的#DEG 出国#NN 教育#NN 有没有#AD 基础#NN 。#PU
 CHT_CMN_20120206.0003.su.xml	NONE	-1	-1	这个 很 重要 的 。	s21	138194	这个#PN 很#AD 重要#VA 的#SP 。#PU
-CHT_CMN_20120206.0003.su.xml	他	311	0	刚 开始 的话 ， 我 想 应该 一 *RNR*-1 两 个 出去 是 应该 没 问题 ， 先 坐下 招牌 就 是 。	s22	138207	刚#AD 开始#VV 的话#SP ，#PU 我#PN 想#VV 应该#VV 一#CD *RNR*-1#M 两#CD 个#M 出去#VV 是#VV 应该#VV 没#VE 问题#NN ，#PU 先#AD 坐下#VV 招牌#NN 就#AD 是#VC 。#PU
-CHT_CMN_20120206.0003.su.xml	它	793	20	刚 开始 的话 ， 我 想 应该 一 *RNR*-1 两 个 出去 是 应该 没 问题 ， 先 坐下 招牌 就 是 。	s22	138207	刚#AD 开始#VV 的话#SP ，#PU 我#PN 想#VV 应该#VV 一#CD *RNR*-1#M 两#CD 个#M 出去#VV 是#VV 应该#VV 没#VE 问题#NN ，#PU 先#AD 坐下#VV 招牌#NN 就#AD 是#VC 。#PU
-CHT_CMN_20120206.0003.su.xml	它	908	58	刚 开始 的话 ， 我 想 应该 一 *RNR*-1 两 个 出去 是 应该 没 问题 ， 先 坐下 招牌 就 是 。	s22	138207	刚#AD 开始#VV 的话#SP ，#PU 我#PN 想#VV 应该#VV 一#CD *RNR*-1#M 两#CD 个#M 出去#VV 是#VV 应该#VV 没#VE 问题#NN ，#PU 先#AD 坐下#VV 招牌#NN 就#AD 是#VC 。#PU
-CHT_CMN_20120206.0003.su.xml	它	1127	0	是 的 ， 你 直接 跟 他 谈 吧 。	s23	138194	是#VC 的#SP ，#PU 你#PN 直接#AD 跟#P 他#PN 谈#VV 吧#SP 。#PU
-CHT_CMN_20120206.0003.su.xml	它	1249	0	行 ， 我 看看 现在 能 不 能 搞 下 副业 。	s24	138207	行#VV ，#PU 我#PN 看看#VV 现在#NT 能#VV 不#AD 能#VV 搞#VV 下#LC 副业#NN 。#PU
-CHT_CMN_20120206.0003.su.xml	它	1269	18	行 ， 我 看看 现在 能 不 能 搞 下 副业 。	s24	138207	行#VV ，#PU 我#PN 看看#VV 现在#NT 能#VV 不#AD 能#VV 搞#VV 下#LC 副业#NN 。#PU
+CHT_CMN_20120206.0003.su.xml	它	1249	0	刚 开始 的话 ， 我 想 应该 一 *RNR*-1 两 个 出去 是 应该 没 问题 ， 先 坐下 招牌 就 是 。	s22	138207	刚#AD 开始#VV 的话#SP ，#PU 我#PN 想#VV 应该#VV 一#CD *RNR*-1#M 两#CD 个#M 出去#VV 是#VV 应该#VV 没#VE 问题#NN ，#PU 先#AD 坐下#VV 招牌#NN 就#AD 是#VC 。#PU
+CHT_CMN_20120206.0003.su.xml	它	1269	20	刚 开始 的话 ， 我 想 应该 一 *RNR*-1 两 个 出去 是 应该 没 问题 ， 先 坐下 招牌 就 是 。	s22	138207	刚#AD 开始#VV 的话#SP ，#PU 我#PN 想#VV 应该#VV 一#CD *RNR*-1#M 两#CD 个#M 出去#VV 是#VV 应该#VV 没#VE 问题#NN ，#PU 先#AD 坐下#VV 招牌#NN 就#AD 是#VC 。#PU
+CHT_CMN_20120206.0003.su.xml	它	1307	58	刚 开始 的话 ， 我 想 应该 一 *RNR*-1 两 个 出去 是 应该 没 问题 ， 先 坐下 招牌 就 是 。	s22	138207	刚#AD 开始#VV 的话#SP ，#PU 我#PN 想#VV 应该#VV 一#CD *RNR*-1#M 两#CD 个#M 出去#VV 是#VV 应该#VV 没#VE 问题#NN ，#PU 先#AD 坐下#VV 招牌#NN 就#AD 是#VC 。#PU
+CHT_CMN_20120206.0003.su.xml	它	1355	0	是 的 ， 你 直接 跟 他 谈 吧 。	s23	138194	是#VC 的#SP ，#PU 你#PN 直接#AD 跟#P 他#PN 谈#VV 吧#SP 。#PU
+CHT_CMN_20120206.0003.su.xml	它	1410	0	行 ， 我 看看 现在 能 不 能 搞 下 副业 。	s24	138207	行#VV ，#PU 我#PN 看看#VV 现在#NT 能#VV 不#AD 能#VV 搞#VV 下#LC 副业#NN 。#PU
+CHT_CMN_20120206.0003.su.xml	我	1428	18	行 ， 我 看看 现在 能 不 能 搞 下 副业 。	s24	138207	行#VV ，#PU 我#PN 看看#VV 现在#NT 能#VV 不#AD 能#VV 搞#VV 下#LC 副业#NN 。#PU
 CHT_CMN_20120206.0003.su.xml	NONE	-1	-1	呵呵	s24	138207	呵呵#IJ
-CHT_CMN_20120206.0003.su.xml	它	1355	0	有 时间 可以 做 啊 。	s25	138194	有#VE 时间#NN 可以#VV 做#VV 啊#SP 。#PU
-CHT_CMN_20120206.0003.su.xml	它	1307	11	有 时间 可以 做 啊 。	s25	138194	有#VE 时间#NN 可以#VV 做#VV 啊#SP 。#PU
+CHT_CMN_20120206.0003.su.xml	你	1480	0	有 时间 可以 做 啊 。	s25	138194	有#VE 时间#NN 可以#VV 做#VV 啊#SP 。#PU
+CHT_CMN_20120206.0003.su.xml	你	1491	11	有 时间 可以 做 啊 。	s25	138194	有#VE 时间#NN 可以#VV 做#VV 啊#SP 。#PU
 CHT_CMN_20120206.0003.su.xml	NONE	-1	-1	目前 时间 还 蛮 充沛 的	s26	138207	目前#NT 时间#NN 还#AD 蛮#AD 充沛#VA 的#SP
-CHT_CMN_20120206.0003.su.xml	它	1410	0	先 尝试 吧 。	s27	138194	先#AD 尝试#VV 吧#SP 。#PU
+CHT_CMN_20120206.0003.su.xml	你	1577	0	先 尝试 吧 。	s27	138194	先#AD 尝试#VV 吧#SP 。#PU
 CHT_CMN_20120206.0003.su.xml	它	1592	0	都 有 个 过程 。	s27	138194	都#AD 有#VE 个#M 过程#NN 。#PU
 CHT_CMN_20120206.0003.su.xml	它	1637	0	对 ， 说说 很 容易 ， 实际 操作 应该 并 不 那么 容易	s28	138207	对#VA ，#PU 说说#VV 很#AD 容易#VA ，#PU 实际#AD 操作#VV 应该#VV 并#AD 不#AD 那么#AD 容易#VA
-CHT_CMN_20120206.0003.su.xml	它1	1729	10	对 ， 说说 很 容易 ， 实际 操作 应该 并 不 那么 容易	s28	138207	对#VA ，#PU 说说#VV 很#AD 容易#VA ，#PU 实际#AD 操作#VV 应该#VV 并#AD 不#AD 那么#AD 容易#VA
-CHT_CMN_20120206.0003.su.xml	它1	1916	26	对 ， 说说 很 容易 ， 实际 操作 应该 并 不 那么 容易	s28	138207	对#VA ，#PU 说说#VV 很#AD 容易#VA ，#PU 实际#AD 操作#VV 应该#VV 并#AD 不#AD 那么#AD 容易#VA
-CHT_CMN_20120206.0003.su.xml	他们	1006	13	学生 思想 理顺 了 ， 就 好 操作 了 。	s29	138194	学生#NN 思想#NN 理顺#VV 了#AS ，#PU 就#AD 好#AD 操作#VV 了#SP 。#PU
-CHT_CMN_20120206.0003.su.xml	他们	1066	0	还 有 一 系列 的 培训 要 实施 ， 学生 的 水平 应该 跟 省 旅游 的 学生 差不多 ， 都 需要 培训	s30	138207	还#AD 有#VE 一#CD 系列#M 的#DEG 培训#NN 要#VV 实施#VV ，#PU 学生#NN 的#DEG 水平#NN 应该#VV 跟#P 省#NN 旅游#VV 的#DEC 学生#NN 差不多#VA ，#PU 都#AD 需要#VV 培训#VV
-CHT_CMN_20120206.0003.su.xml	他们	1115	56	还 有 一 系列 的 培训 要 实施 ， 学生 的 水平 应该 跟 省 旅游 的 学生 差不多 ， 都 需要 培训	s30	138207	还#AD 有#VE 一#CD 系列#M 的#DEG 培训#NN 要#VV 实施#VV ，#PU 学生#NN 的#DEG 水平#NN 应该#VV 跟#P 省#NN 旅游#VV 的#DEC 学生#NN 差不多#VA ，#PU 都#AD 需要#VV 培训#VV
+CHT_CMN_20120206.0003.su.xml	我	1647	10	对 ， 说说 很 容易 ， 实际 操作 应该 并 不 那么 容易	s28	138207	对#VA ，#PU 说说#VV 很#AD 容易#VA ，#PU 实际#AD 操作#VV 应该#VV 并#AD 不#AD 那么#AD 容易#VA
+CHT_CMN_20120206.0003.su.xml	我1	1663	26	对 ， 说说 很 容易 ， 实际 操作 应该 并 不 那么 容易	s28	138207	对#VA ，#PU 说说#VV 很#AD 容易#VA ，#PU 实际#AD 操作#VV 应该#VV 并#AD 不#AD 那么#AD 容易#VA
+CHT_CMN_20120206.0003.su.xml	它1	1729	13	学生 思想 理顺 了 ， 就 好 操作 了 。	s29	138194	学生#NN 思想#NN 理顺#VV 了#AS ，#PU 就#AD 好#AD 操作#VV 了#SP 。#PU
+CHT_CMN_20120206.0003.su.xml	形	1774	0	还 有 一 系列 的 培训 要 实施 ， 学生 的 水平 应该 跟 省 旅游 的 学生 差不多 ， 都 需要 培训	s30	138207	还#AD 有#VE 一#CD 系列#M 的#DEG 培训#NN 要#VV 实施#VV ，#PU 学生#NN 的#DEG 水平#NN 应该#VV 跟#P 省#NN 旅游#VV 的#DEC 学生#NN 差不多#VA ，#PU 都#AD 需要#VV 培训#VV
+CHT_CMN_20120206.0003.su.xml	他们	1830	56	还 有 一 系列 的 培训 要 实施 ， 学生 的 水平 应该 跟 省 旅游 的 学生 差不多 ， 都 需要 培训	s30	138207	还#AD 有#VE 一#CD 系列#M 的#DEG 培训#NN 要#VV 实施#VV ，#PU 学生#NN 的#DEG 水平#NN 应该#VV 跟#P 省#NN 旅游#VV 的#DEC 学生#NN 差不多#VA ，#PU 都#AD 需要#VV 培训#VV
 CHT_CMN_20120206.0003.su.xml	NONE	-1	-1	你 爸爸 可以 帮 你 的 。	s31	138194	你#PN 爸爸#NN 可以#VV 帮#VV 你#PN 的#SP 。#PU
-CHT_CMN_20120206.0003.su.xml	他们	1830	0	应该 都 要 通过 袁 经理 那边 吧 ？	s32	138207	应该#VV 都#AD 要#VV 通过#P 袁#NR 经理#NN 那边#PN 吧#SP ？#PU
+CHT_CMN_20120206.0003.su.xml	它1	1916	0	应该 都 要 通过 袁 经理 那边 吧 ？	s32	138207	应该#VV 都#AD 要#VV 通过#P 袁#NR 经理#NN 那边#PN 吧#SP ？#PU
 CHT_CMN_20120206.0003.su.xml	NONE	-1	-1	您 这边 还 有 其他 中介 有 合作 过 的 吗 ？	s32	138207	您#PN 这边#PN 还#AD 有#VE 其他#DT 中介#NN 有#VE 合作#NN 过#VV 的#SP 吗#SP ？#PU
-CHT_CMN_20120206.0003.su.xml	形	1774	0	有 过 ， 但 *OP* *T*-1 和 袁 经理 合作 的 时间 最 长 。	s33	138194	有#VE 过#AS ，#PU 但#AD *OP*#NN *T*-1#NN 和#CC 袁#NR 经理#NN 合作#VV 的#DEC 时间#NN 最#AD 长#VA 。#PU
-CHT_CMN_20120206.0003.su.xml	其	677	19	有 过 ， 但 *OP* *T*-1 和 袁 经理 合作 的 时间 最 长 。	s33	138194	有#VE 过#AS ，#PU 但#AD *OP*#NN *T*-1#NN 和#CC 袁#NR 经理#NN 合作#VV 的#DEC 时间#NN 最#AD 长#VA 。#PU
+CHT_CMN_20120206.0003.su.xml	我1	2000	0	有 过 ， 但 *OP* *T*-1 和 袁 经理 合作 的 时间 最 长 。	s33	138194	有#VE 过#AS ，#PU 但#AD *OP*#NN *T*-1#NN 和#CC 袁#NR 经理#NN 合作#VV 的#DEC 时间#NN 最#AD 长#VA 。#PU
+CHT_CMN_20120206.0003.su.xml	我1	2019	19	有 过 ， 但 *OP* *T*-1 和 袁 经理 合作 的 时间 最 长 。	s33	138194	有#VE 过#AS ，#PU 但#AD *OP*#NN *T*-1#NN 和#CC 袁#NR 经理#NN 合作#VV 的#DEC 时间#NN 最#AD 长#VA 。#PU

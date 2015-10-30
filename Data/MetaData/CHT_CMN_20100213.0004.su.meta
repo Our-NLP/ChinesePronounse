@@ -6,35 +6,35 @@ CHT_CMN_20100213.0004.su.xml	NONE	-1	-1	我 这 也 是 ， 只 能 听 *OP* QQ 
 CHT_CMN_20100213.0004.su.xml	我	250	4	那 天 能 听见 啊	s5	130530	那#DT 天#M 能#VV 听见#VV 啊#SP
 CHT_CMN_20100213.0004.su.xml	NONE	-1	-1	你 测试 下 语音	s6	130530	你#PN 测试#NN 下#LC 语音#NN
 CHT_CMN_20100213.0004.su.xml	我	341	14	耳麦 红线 要 断 了 ， 换 *OP* *T*-1 新 的 可能 就 好	s7	138156	耳麦#NN 红线#NN 要#VV 断#VV 了#SP ，#PU 换#VV *OP*#NN *T*-1#VV 新#VA 的#DEC 可能#NN 就#AD 好#VA
-CHT_CMN_20100213.0004.su.xml	我	655	0	有 *OP* *T*-1 新 的 吗 ？	s8	130530	有#VE *OP*#NN *T*-1#VV 新#VA 的#DEC 吗#SP ？#PU
-CHT_CMN_20100213.0004.su.xml	我	742	0	不 是 有 音响 吗 ？	s9	130530	不#AD 是#VC 有#VE 音响#NN 吗#SP ？#PU
+CHT_CMN_20100213.0004.su.xml	你	398	0	有 *OP* *T*-1 新 的 吗 ？	s8	130530	有#VE *OP*#NN *T*-1#VV 新#VA 的#DEC 吗#SP ？#PU
+CHT_CMN_20100213.0004.su.xml	你	452	0	不 是 有 音响 吗 ？	s9	130530	不#AD 是#VC 有#VE 音响#NN 吗#SP ？#PU
 CHT_CMN_20100213.0004.su.xml	NONE	-1	-1	音箱 开 了 吗 ？	s10	130530	音箱#NN 开#VV 了#AS 吗#SP ？#PU
-CHT_CMN_20100213.0004.su.xml	我	925	0	或者 换 个 插孔	s11	130530	或者#AD 换#VV 个#M 插孔#NN
-CHT_CMN_20100213.0004.su.xml	我	1125	0	好 了 吗 ？	s12	130530	好#VA 了#SP 吗#SP ？#PU
+CHT_CMN_20100213.0004.su.xml	你	538	0	或者 换 个 插孔	s11	130530	或者#AD 换#VV 个#M 插孔#NN
+CHT_CMN_20100213.0004.su.xml	它	582	0	好 了 吗 ？	s12	130530	好#VA 了#SP 吗#SP ？#PU
 CHT_CMN_20100213.0004.su.xml	NONE	-1	-1	hi	s13	130530	hi#NR
-CHT_CMN_20100213.0004.su.xml	我	1182	0	听 不 见 啊	s14	130530	听#VV 不#AD 见#VV 啊#SP
-CHT_CMN_20100213.0004.su.xml	我	1298	0	还 听 不 见 ??	s15	138156	还#AD 听#VV 不#AD 见#VV ??#PU
-CHT_CMN_20100213.0004.su.xml	你	398	0	听 不 见	s16	130530	听#VV 不#AD 见#VV
+CHT_CMN_20100213.0004.su.xml	我	655	0	听 不 见 啊	s14	130530	听#VV 不#AD 见#VV 啊#SP
+CHT_CMN_20100213.0004.su.xml	你	697	0	还 听 不 见 ??	s15	138156	还#AD 听#VV 不#AD 见#VV ??#PU
+CHT_CMN_20100213.0004.su.xml	我	742	0	听 不 见	s16	130530	听#VV 不#AD 见#VV
 CHT_CMN_20100213.0004.su.xml	NONE	-1	-1	要不 你 重启 一下 那 个 计算机 ， 让 他 *PRO* 记住 密码	s17	130530	要不#AD 你#PN 重启#VV 一下#AD 那#DT 个#M 计算机#NN ，#PU 让#VV 他#PN *PRO*#VV 记住#VV 密码#NN
 CHT_CMN_20100213.0004.su.xml	NONE	-1	-1	你 等 下	s18	138156	你#PN 等#VV 下#VV
 CHT_CMN_20100213.0004.su.xml	NONE	-1	-1	你 能 听见 我 说话 吗 ？	s19	130530	你#PN 能#VV 听见#VV 我#PN 说话#VV 吗#SP ？#PU
-CHT_CMN_20100213.0004.su.xml	你	452	0	听 不	s20	138156	听#VV 不#AD
+CHT_CMN_20100213.0004.su.xml	我	925	0	听 不	s20	138156	听#VV 不#AD
 CHT_CMN_20100213.0004.su.xml	NONE	-1	-1	我 重启 下	s21	138156	我#PN 重启#VV 下#VV
-CHT_CMN_20100213.0004.su.xml	你	538	0	好 的	s22	130530	好#VA 的#SP
-CHT_CMN_20100213.0004.su.xml	你	697	0	能 听见 了 吗 ？	s23	130530	能#VV 听见#VV 了#SP 吗#SP ？#PU
-CHT_CMN_20100213.0004.su.xml	你	1036	0	还 听 不 见 ？	s24	138156	还#AD 听#VV 不#AD 见#VV ？#PU
-CHT_CMN_20100213.0004.su.xml	你	1081	0	听 不 见 ， 你 能 听见 我 吗 啊 ？	s25	130530	听#VV 不#AD 见#VV ，#PU 你#PN 能#VV 听见#VV 我#PN 吗#SP 啊#SP ？#PU
-CHT_CMN_20100213.0004.su.xml	你	1561	0	也 听 不 见	s26	138156	也#AD 听#VV 不#AD 见#VV
+CHT_CMN_20100213.0004.su.xml	它	998	0	好 的	s22	130530	好#VA 的#SP
+CHT_CMN_20100213.0004.su.xml	你	1036	0	能 听见 了 吗 ？	s23	130530	能#VV 听见#VV 了#SP 吗#SP ？#PU
+CHT_CMN_20100213.0004.su.xml	你	1081	0	还 听 不 见 ？	s24	138156	还#AD 听#VV 不#AD 见#VV ？#PU
+CHT_CMN_20100213.0004.su.xml	我	1125	0	听 不 见 ， 你 能 听见 我 吗 啊 ？	s25	130530	听#VV 不#AD 见#VV ，#PU 你#PN 能#VV 听见#VV 我#PN 吗#SP 啊#SP ？#PU
+CHT_CMN_20100213.0004.su.xml	我	1182	0	也 听 不 见	s26	138156	也#AD 听#VV 不#AD 见#VV
 CHT_CMN_20100213.0004.su.xml	NONE	-1	-1	怎么 回 事	s27	130530	怎么#JJ 回#M 事#NN
-CHT_CMN_20100213.0004.su.xml	它	582	0	要命 了	s28	130530	要命#VV 了#AS
-CHT_CMN_20100213.0004.su.xml	它	998	0	那 天 还 能 听见	s29	130530	那#DT 天#M 还#AD 能#VV 听见#VV
-CHT_CMN_20100213.0004.su.xml	它	1259	0	插错 了 ？	s30	130530	插错#VV 了#AS ？#PU
+CHT_CMN_20100213.0004.su.xml	它	1259	0	要命 了	s28	130530	要命#VV 了#AS
+CHT_CMN_20100213.0004.su.xml	我	1298	0	那 天 还 能 听见	s29	130530	那#DT 天#M 还#AD 能#VV 听见#VV
+CHT_CMN_20100213.0004.su.xml	它	1343	0	插错 了 ？	s30	130530	插错#VV 了#AS ？#PU
 CHT_CMN_20100213.0004.su.xml	NONE	-1	-1	我 再 试 下	s31	138156	我#PN 再#AD 试#VV 下#VV
-CHT_CMN_20100213.0004.su.xml	它	1343	0	好 的	s32	130530	好#VA 的#SP
-CHT_CMN_20100213.0004.su.xml	它	1420	0	听 音乐 很 好 ， 应该 没 插错 [ 表情 ]	s33	138156	听#VV 音乐#NN 很#AD 好#VA ，#PU 应该#VV 没#AD 插错#VV [#PU 表情#NN ]#PU
-CHT_CMN_20100213.0004.su.xml	它	1458	17	听 音乐 很 好 ， 应该 没 插错 [ 表情 ]	s33	138156	听#VV 音乐#NN 很#AD 好#VA ，#PU 应该#VV 没#AD 插错#VV [#PU 表情#NN ]#PU
+CHT_CMN_20100213.0004.su.xml	它	1420	0	好 的	s32	130530	好#VA 的#SP
+CHT_CMN_20100213.0004.su.xml	它	1458	0	听 音乐 很 好 ， 应该 没 插错 [ 表情 ]	s33	138156	听#VV 音乐#NN 很#AD 好#VA ，#PU 应该#VV 没#AD 插错#VV [#PU 表情#NN ]#PU
+CHT_CMN_20100213.0004.su.xml	它	1475	17	听 音乐 很 好 ， 应该 没 插错 [ 表情 ]	s33	138156	听#VV 音乐#NN 很#AD 好#VA ，#PU 应该#VV 没#AD 插错#VV [#PU 表情#NN ]#PU
 CHT_CMN_20100213.0004.su.xml	NONE	-1	-1	那 怎么 回 事	s34	130530	那#AD 怎么#JJ 回#M 事#NN
-CHT_CMN_20100213.0004.su.xml	它	1475	0	换 个 qq 号 试试	s35	130530	换#VV 个#M qq#OD 号#NN 试试#VV
+CHT_CMN_20100213.0004.su.xml	你	1561	0	换 个 qq 号 试试	s35	130530	换#VV 个#M qq#OD 号#NN 试试#VV
 CHT_CMN_20100213.0004.su.xml	NONE	-1	-1	你 有 吗 ？	s36	130530	你#PN 有#VE 吗#SP ？#PU
 CHT_CMN_20100213.0004.su.xml	NONE	-1	-1	我 登 我 的 看看	s37	138156	我#PN 登#VV 我#PN 的#DEG 看看#VV
 CHT_CMN_20100213.0004.su.xml	它	1682	0	好 的 ， 多少 ？	s38	130530	好#VA 的#SP ，#PU 多少#CD ？#PU

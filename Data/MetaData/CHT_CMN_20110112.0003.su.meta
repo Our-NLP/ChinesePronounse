@@ -1,30 +1,30 @@
 CHT_CMN_20110112.0003.su.xml	NONE	-1	-1	智障 玲 在 不 ？	s0	135882	智障#NN 玲#VV 在#VV 不#AD ？#PU
-CHT_CMN_20110112.0003.su.xml	我	184	0	在 啊	s1	138459	在#P 啊#SP
+CHT_CMN_20110112.0003.su.xml	她	67	0	在 啊	s1	138459	在#P 啊#SP
 CHT_CMN_20110112.0003.su.xml	NONE	-1	-1	他 在 看 叮当	s2	138459	他#PN 在#P 看#VV 叮当#NN
-CHT_CMN_20110112.0003.su.xml	我	405	0	笑 的 半死 在 那	s3	138459	笑#VV 的#DEC 半死#VV 在#VV 那#PN
-CHT_CMN_20110112.0003.su.xml	我	599	0	都 不 知道 有 什么 *OP* *T*-1 好笑 的	s4	138459	都#AD 不#AD 知道#VV 有#VE 什么#DT *OP*#NN *T*-1#NN 好笑#VA 的#SP
-CHT_CMN_20110112.0003.su.xml	我	706	13	都 不 知道 有 什么 *OP* *T*-1 好笑 的	s4	138459	都#AD 不#AD 知道#VV 有#VE 什么#DT *OP*#NN *T*-1#NN 好笑#VA 的#SP
+CHT_CMN_20110112.0003.su.xml	她	140	0	笑 的 半死 在 那	s3	138459	笑#VV 的#DEC 半死#VV 在#VV 那#PN
+CHT_CMN_20110112.0003.su.xml	我	184	0	都 不 知道 有 什么 *OP* *T*-1 好笑 的	s4	138459	都#AD 不#AD 知道#VV 有#VE 什么#DT *OP*#NN *T*-1#NN 好笑#VA 的#SP
+CHT_CMN_20110112.0003.su.xml	她	197	13	都 不 知道 有 什么 *OP* *T*-1 好笑 的	s4	138459	都#AD 不#AD 知道#VV 有#VE 什么#DT *OP*#NN *T*-1#NN 好笑#VA 的#SP
 CHT_CMN_20110112.0003.su.xml	NONE	-1	-1	我 晕	s5	135882	我#PN 晕#VA
 CHT_CMN_20110112.0003.su.xml	NONE	-1	-1	我 的 舍友 今晚 没有 回来 睡 耶	s6	135882	我#PN 的#DEG 舍友#NN 今晚#NT 没有#AD 回来#VV 睡#VV 耶#NN
 CHT_CMN_20110112.0003.su.xml	NONE	-1	-1	哦 ?	s7	138459	哦#IJ ?#PU
-CHT_CMN_20110112.0003.su.xml	我	851	0	去 男人 宿舍 了 ?	s8	138459	去#VV 男人#NN 宿舍#NN 了#SP ?#PU
-CHT_CMN_20110112.0003.su.xml	我	869	0	不 知道 哦	s9	135882	不#AD 知道#VV 哦#SP
+CHT_CMN_20110112.0003.su.xml	她	360	0	去 男人 宿舍 了 ?	s8	138459	去#VV 男人#NN 宿舍#NN 了#SP ?#PU
+CHT_CMN_20110112.0003.su.xml	我	405	0	不 知道 哦	s9	135882	不#AD 知道#VV 哦#SP
 CHT_CMN_20110112.0003.su.xml	NONE	-1	-1	你们 宿舍 有 门禁 吗 ?	s10	138459	你们#PN 宿舍#NN 有#VE 门禁#NN 吗#SP ?#PU
-CHT_CMN_20110112.0003.su.xml	我	1061	0	回来 了	s11	135882	回来#VV 了#AS
+CHT_CMN_20110112.0003.su.xml	她	489	0	回来 了	s11	135882	回来#VV 了#AS
 CHT_CMN_20110112.0003.su.xml	NONE	-1	-1	噢噢	s12	138459	噢噢#NN
-CHT_CMN_20110112.0003.su.xml	你	662	0	没有 门禁	s13	135882	没有#VE 门禁#NN
-CHT_CMN_20110112.0003.su.xml	你	996	0	好 烦 啊 , 我 不 想 *PRO* 复习 了 555	s14	138459	好#VA 烦#VA 啊#SP ,#PU 我#PN 不#AD 想#VV *PRO*#VV 复习#VV 了#AS 555#CD
-CHT_CMN_20110112.0003.su.xml	她	67	0	今天 吃 什么 了	s15	138459	今天#NT 吃#VV 什么#PN 了#SP
-CHT_CMN_20110112.0003.su.xml	她	140	0	吃 了 意大利 面 ， 免费 的 。	s16	135882	吃#VV 了#AS 意大利#NR 面#NN ，#PU 免费#JJ 的#DEG 。#PU
-CHT_CMN_20110112.0003.su.xml	她	360	18	吃 了 意大利 面 ， 免费 的 。	s16	135882	吃#VV 了#AS 意大利#NR 面#NN ，#PU 免费#JJ 的#DEG 。#PU
-CHT_CMN_20110112.0003.su.xml	她	489	0	是 一 个 教会 的 人 提供 的 ， 每 周二 都 有 免费 晚餐	s16	135882	是#VC 一#CD 个#M 教会#NN 的#DEC 人#NN 提供#VV 的#SP ，#PU 每#DT 周二#NT 都#AD 有#VE 免费#JJ 晚餐#NN
-CHT_CMN_20110112.0003.su.xml	她	197	26	是 一 个 教会 的 人 提供 的 ， 每 周二 都 有 免费 晚餐	s16	135882	是#VC 一#CD 个#M 教会#NN 的#DEC 人#NN 提供#VV 的#SP ，#PU 每#DT 周二#NT 都#AD 有#VE 免费#JJ 晚餐#NN
-CHT_CMN_20110112.0003.su.xml	它	559	0	很 好吃	s17	135882	很#AD 好吃#VA
-CHT_CMN_20110112.0003.su.xml	它	724	0	来 了 这里 这么 久 吃 得 最 好 就 是 今晚 了	s18	135882	来#VV 了#AS 这里#PN 这么#AD 久#AD 吃#VV 得#DER 最#AD 好#VA 就#AD 是#VC 今晚#NT 了#SP
-CHT_CMN_20110112.0003.su.xml	它	737	18	来 了 这里 这么 久 吃 得 最 好 就 是 今晚 了	s18	135882	来#VV 了#AS 这里#PN 这么#AD 久#AD 吃#VV 得#DER 最#AD 好#VA 就#AD 是#VC 今晚#NT 了#SP
-CHT_CMN_20110112.0003.su.xml	它	812	32	来 了 这里 这么 久 吃 得 最 好 就 是 今晚 了	s18	135882	来#VV 了#AS 这里#PN 这么#AD 久#AD 吃#VV 得#DER 最#AD 好#VA 就#AD 是#VC 今晚#NT 了#SP
+CHT_CMN_20110112.0003.su.xml	它	559	0	没有 门禁	s13	135882	没有#VE 门禁#NN
+CHT_CMN_20110112.0003.su.xml	我	599	0	好 烦 啊 , 我 不 想 *PRO* 复习 了 555	s14	138459	好#VA 烦#VA 啊#SP ,#PU 我#PN 不#AD 想#VV *PRO*#VV 复习#VV 了#AS 555#CD
+CHT_CMN_20110112.0003.su.xml	你	662	0	今天 吃 什么 了	s15	138459	今天#NT 吃#VV 什么#PN 了#SP
+CHT_CMN_20110112.0003.su.xml	我	706	0	吃 了 意大利 面 ， 免费 的 。	s16	135882	吃#VV 了#AS 意大利#NR 面#NN ，#PU 免费#JJ 的#DEG 。#PU
+CHT_CMN_20110112.0003.su.xml	它	724	18	吃 了 意大利 面 ， 免费 的 。	s16	135882	吃#VV 了#AS 意大利#NR 面#NN ，#PU 免费#JJ 的#DEG 。#PU
+CHT_CMN_20110112.0003.su.xml	它	737	0	是 一 个 教会 的 人 提供 的 ， 每 周二 都 有 免费 晚餐	s16	135882	是#VC 一#CD 个#M 教会#NN 的#DEC 人#NN 提供#VV 的#SP ，#PU 每#DT 周二#NT 都#AD 有#VE 免费#JJ 晚餐#NN
+CHT_CMN_20110112.0003.su.xml	它	763	26	是 一 个 教会 的 人 提供 的 ， 每 周二 都 有 免费 晚餐	s16	135882	是#VC 一#CD 个#M 教会#NN 的#DEC 人#NN 提供#VV 的#SP ，#PU 每#DT 周二#NT 都#AD 有#VE 免费#JJ 晚餐#NN
+CHT_CMN_20110112.0003.su.xml	它	812	0	很 好吃	s17	135882	很#AD 好吃#VA
+CHT_CMN_20110112.0003.su.xml	我	851	0	来 了 这里 这么 久 吃 得 最 好 就 是 今晚 了	s18	135882	来#VV 了#AS 这里#PN 这么#AD 久#AD 吃#VV 得#DER 最#AD 好#VA 就#AD 是#VC 今晚#NT 了#SP
+CHT_CMN_20110112.0003.su.xml	我	869	18	来 了 这里 这么 久 吃 得 最 好 就 是 今晚 了	s18	135882	来#VV 了#AS 这里#PN 这么#AD 久#AD 吃#VV 得#DER 最#AD 好#VA 就#AD 是#VC 今晚#NT 了#SP
+CHT_CMN_20110112.0003.su.xml	它	883	32	来 了 这里 这么 久 吃 得 最 好 就 是 今晚 了	s18	135882	来#VV 了#AS 这里#PN 这么#AD 久#AD 吃#VV 得#DER 最#AD 好#VA 就#AD 是#VC 今晚#NT 了#SP
 CHT_CMN_20110112.0003.su.xml	NONE	-1	-1	哈哈哈 ~~	s19	138459	哈哈哈#IJ ~~#NN
 CHT_CMN_20110112.0003.su.xml	NONE	-1	-1	那 不错 啊	s20	138459	那#AD 不错#VA 啊#SP
-CHT_CMN_20110112.0003.su.xml	它	883	0	平时 上 什么 课 的 啊 ?	s21	138459	平时#AD 上#VV 什么#DT 课#NN 的#DEG 啊#SP ?#PU
-CHT_CMN_20110112.0003.su.xml	它	763	15	计算机 有 3 门 ， 然后 还 有 一 门 英语 必修 ， 一 门 accounting	s22	135882	计算机#NN 有#VE 3#CD 门#M ，#PU 然后#AD 还#AD 有#VE 一#CD 门#M 英语#NN 必修#JJ ，#PU 一#CD 门#M accounting#NR
+CHT_CMN_20110112.0003.su.xml	你	996	0	平时 上 什么 课 的 啊 ?	s21	138459	平时#AD 上#VV 什么#DT 课#NN 的#DEG 啊#SP ?#PU
+CHT_CMN_20110112.0003.su.xml	我	1061	15	计算机 有 3 门 ， 然后 还 有 一 门 英语 必修 ， 一 门 accounting	s22	135882	计算机#NN 有#VE 3#CD 门#M ，#PU 然后#AD 还#AD 有#VE 一#CD 门#M 英语#NN 必修#JJ ，#PU 一#CD 门#M accounting#NR
 CHT_CMN_20110112.0003.su.xml	NONE	-1	-1	噢噢	s23	138459	噢噢#NN

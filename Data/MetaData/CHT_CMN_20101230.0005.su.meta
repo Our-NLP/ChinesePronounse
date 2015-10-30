@@ -1,22 +1,22 @@
 CHT_CMN_20101230.0005.su.xml	我	35	6	你 好 ， 请问 什么 事 ？	s0	135882	你#PN 好#VA ，#PU 请问#VV 什么#DT 事#NN ？#PU
-CHT_CMN_20101230.0005.su.xml	我	165	15	你 好 ， 请问 什么 事 ？	s0	135882	你#PN 好#VA ，#PU 请问#VV 什么#DT 事#NN ？#PU
-CHT_CMN_20101230.0005.su.xml	我	596	0	要 上报 到 学院 哪里 去 ？	s1	135882	要#VV 上报#VV 到#VV 学院#NN 哪里#PN 去#VV ？#PU
-CHT_CMN_20101230.0005.su.xml	你	44	31	其实 我 也 不 太 清楚 ， 教务处 的 罗 处长 说 ， 上报 给 你们 的 学院 主管 ， 貌似 是 副院长	s2	138507	其实#AD 我#PN 也#AD 不#AD 太#AD 清楚#VA ，#PU 教务处#NN 的#DEG 罗#NR 处长#NN 说#VV ，#PU 上报#VV 给#VV 你们#PN 的#DEC 学院#NN 主管#NN ，#PU 貌似#VV 是#VC 副院长#NN
-CHT_CMN_20101230.0005.su.xml	你	84	55	其实 我 也 不 太 清楚 ， 教务处 的 罗 处长 说 ， 上报 给 你们 的 学院 主管 ， 貌似 是 副院长	s2	138507	其实#AD 我#PN 也#AD 不#AD 太#AD 清楚#VA ，#PU 教务处#NN 的#DEG 罗#NR 处长#NN 说#VV ，#PU 上报#VV 给#VV 你们#PN 的#DEC 学院#NN 主管#NN ，#PU 貌似#VV 是#VC 副院长#NN
+CHT_CMN_20101230.0005.su.xml	你	44	15	你 好 ， 请问 什么 事 ？	s0	135882	你#PN 好#VA ，#PU 请问#VV 什么#DT 事#NN ？#PU
+CHT_CMN_20101230.0005.su.xml	你	84	0	要 上报 到 学院 哪里 去 ？	s1	135882	要#VV 上报#VV 到#VV 学院#NN 哪里#PN 去#VV ？#PU
+CHT_CMN_20101230.0005.su.xml	我	165	31	其实 我 也 不 太 清楚 ， 教务处 的 罗 处长 说 ， 上报 给 你们 的 学院 主管 ， 貌似 是 副院长	s2	138507	其实#AD 我#PN 也#AD 不#AD 太#AD 清楚#VA ，#PU 教务处#NN 的#DEG 罗#NR 处长#NN 说#VV ，#PU 上报#VV 给#VV 你们#PN 的#DEC 学院#NN 主管#NN ，#PU 貌似#VV 是#VC 副院长#NN
+CHT_CMN_20101230.0005.su.xml	他	189	55	其实 我 也 不 太 清楚 ， 教务处 的 罗 处长 说 ， 上报 给 你们 的 学院 主管 ， 貌似 是 副院长	s2	138507	其实#AD 我#PN 也#AD 不#AD 太#AD 清楚#VA ，#PU 教务处#NN 的#DEG 罗#NR 处长#NN 说#VV ，#PU 上报#VV 给#VV 你们#PN 的#DEC 学院#NN 主管#NN ，#PU 貌似#VV 是#VC 副院长#NN
 CHT_CMN_20101230.0005.su.xml	你	241	10	[ 表情 ] 可是 没有 文件 什么 的 要 签名 的 吗 ？	s3	135882	[#PU 表情#NN ]#PU 可是#AD 没有#VE 文件#NN 什么#PN 的#DEG 要#VV 签名#VV 的#SP 吗#SP ？#PU
-CHT_CMN_20101230.0005.su.xml	你	275	27	[ 表情 ] 可是 没有 文件 什么 的 要 签名 的 吗 ？	s3	135882	[#PU 表情#NN ]#PU 可是#AD 没有#VE 文件#NN 什么#PN 的#DEG 要#VV 签名#VV 的#SP 吗#SP ？#PU
-CHT_CMN_20101230.0005.su.xml	你	685	0	直接 跟 副院长 说说 可能 不 管用 的 哦 。	s3	135882	直接#AD 跟#P 副院长#NN 说说#VV 可能#VV 不#AD 管用#VV 的#DEC 哦#SP 。#PU
+CHT_CMN_20101230.0005.su.xml	其	258	27	[ 表情 ] 可是 没有 文件 什么 的 要 签名 的 吗 ？	s3	135882	[#PU 表情#NN ]#PU 可是#AD 没有#VE 文件#NN 什么#PN 的#DEG 要#VV 签名#VV 的#SP 吗#SP ？#PU
+CHT_CMN_20101230.0005.su.xml	你	275	0	直接 跟 副院长 说说 可能 不 管用 的 哦 。	s3	135882	直接#AD 跟#P 副院长#NN 说说#VV 可能#VV 不#AD 管用#VV 的#DEC 哦#SP 。#PU
 CHT_CMN_20101230.0005.su.xml	NONE	-1	-1	而且 副院长 是 *OP* *T*-1 管 教学 的 ， 跟 这些 好像 没 啥 关系 。	s4	135882	而且#AD 副院长#NN 是#VC *OP*#NN *T*-1#NN 管#VV 教学#NN 的#DEC ，#PU 跟#P 这些#DT 好像#AD 没#AD 啥#DT 关系#NN 。#PU
 CHT_CMN_20101230.0005.su.xml	NONE	-1	-1	你 可以 问 清楚 一点 那 位 罗 处长 吗 ？	s5	135882	你#PN 可以#VV 问#VV 清楚#VA 一点#AD 那#DT 位#M 罗#NR 处长#NN 吗#SP ？#PU
 CHT_CMN_20101230.0005.su.xml	NONE	-1	-1	那 我 问 清楚 ， 再 找 你 吧	s6	138507	那#AD 我#PN 问#VV 清楚#VA ，#PU 再#AD 找#VV 你#PN 吧#SP
-CHT_CMN_20101230.0005.su.xml	你	725	18	因为 明天 是 周五 下午 又 是 放假 前 ， 可能 院长 不 在 的	s7	135882	因为#P 明天#NT 是#VC 周五#NT 下午#NT 又#AD 是#VC 放假#VV 前#LC ，#PU 可能#VV 院长#NN 不#AD 在#VV 的#SP
-CHT_CMN_20101230.0005.su.xml	他	189	20	其实 我 之前 问 了 ， 他 就 说 报给 你们 学院 ， 他 自己 都 不 知道 我们 学院 谁 管 这个	s8	138507	其实#AD 我#PN 之前#AD 问#VV 了#AS ，#PU 他#PN 就#AD 说#VV 报给#VV 你们#PN 学院#NN ，#PU 他#PN 自己#PN 都#AD 不#AD 知道#VV 我们#PN 学院#NN 谁#PN 管#VV 这个#PN
+CHT_CMN_20101230.0005.su.xml	形	524	18	因为 明天 是 周五 下午 又 是 放假 前 ， 可能 院长 不 在 的	s7	135882	因为#P 明天#NT 是#VC 周五#NT 下午#NT 又#AD 是#VC 放假#VV 前#LC ，#PU 可能#VV 院长#NN 不#AD 在#VV 的#SP
+CHT_CMN_20101230.0005.su.xml	我	596	20	其实 我 之前 问 了 ， 他 就 说 报给 你们 学院 ， 他 自己 都 不 知道 我们 学院 谁 管 这个	s8	138507	其实#AD 我#PN 之前#AD 问#VV 了#AS ，#PU 他#PN 就#AD 说#VV 报给#VV 你们#PN 学院#NN ，#PU 他#PN 自己#PN 都#AD 不#AD 知道#VV 我们#PN 学院#NN 谁#PN 管#VV 这个#PN
 CHT_CMN_20101230.0005.su.xml	NONE	-1	-1	我 晕 ， 这样 都 行 。	s9	135882	我#PN 晕#VA ，#PU 这样#AD 都#AD 行#VV 。#PU
-CHT_CMN_20101230.0005.su.xml	他	713	5	还是 等 明天 确定 一下 我 再 报 上去 吧 。	s9	135882	还是#AD 等#VV 明天#NT 确定#VV 一下#AD 我#PN 再#AD 报#VV 上去#VV 吧#SP 。#PU
-CHT_CMN_20101230.0005.su.xml	它	841	0	有没有 说 要 在 几号 之前 要 上报 完 ？	s9	135882	有没有#AD 说#VV 要#VV 在#P 几号#NN 之前#LC 要#VV 上报#VV 完#VV ？#PU
-CHT_CMN_20101230.0005.su.xml	它	883	12	有没有 说 要 在 几号 之前 要 上报 完 ？	s9	135882	有没有#AD 说#VV 要#VV 在#P 几号#NN 之前#LC 要#VV 上报#VV 完#VV ？#PU
+CHT_CMN_20101230.0005.su.xml	你	685	5	还是 等 明天 确定 一下 我 再 报 上去 吧 。	s9	135882	还是#AD 等#VV 明天#NT 确定#VV 一下#AD 我#PN 再#AD 报#VV 上去#VV 吧#SP 。#PU
+CHT_CMN_20101230.0005.su.xml	他	713	0	有没有 说 要 在 几号 之前 要 上报 完 ？	s9	135882	有没有#AD 说#VV 要#VV 在#P 几号#NN 之前#LC 要#VV 上报#VV 完#VV ？#PU
+CHT_CMN_20101230.0005.su.xml	你	725	12	有没有 说 要 在 几号 之前 要 上报 完 ？	s9	135882	有没有#AD 说#VV 要#VV 在#P 几号#NN 之前#LC 要#VV 上报#VV 完#VV ？#PU
 CHT_CMN_20101230.0005.su.xml	NONE	-1	-1	1月 4号 吧	s10	138507	1月#NT 4号#NT 吧#SP
-CHT_CMN_20101230.0005.su.xml	形	524	4	噢 ， 放 元旦 放到 3号 哦 ， 那 还 挺 急 的	s11	135882	噢#IJ ，#PU 放#VV 元旦#NT 放到#VV 3号#NT 哦#SP ，#PU 那#PN 还#AD 挺#AD 急#VA 的#SP
-CHT_CMN_20101230.0005.su.xml	形	818	27	噢 ， 放 元旦 放到 3号 哦 ， 那 还 挺 急 的	s11	135882	噢#IJ ，#PU 放#VV 元旦#NT 放到#VV 3号#NT 哦#SP ，#PU 那#PN 还#AD 挺#AD 急#VA 的#SP
-CHT_CMN_20101230.0005.su.xml	其	258	0	其实 是 我 一直 不 知到 *PRO* 找 谁 *PRO* 报 这个	s12	138507	其实#AD 是#VC 我#PN 一直#AD 不#AD 知到#VV *PRO*#VV 找#VV 谁#PN *PRO*#VV 报#VV 这个#DT
+CHT_CMN_20101230.0005.su.xml	形	818	4	噢 ， 放 元旦 放到 3号 哦 ， 那 还 挺 急 的	s11	135882	噢#IJ ，#PU 放#VV 元旦#NT 放到#VV 3号#NT 哦#SP ，#PU 那#PN 还#AD 挺#AD 急#VA 的#SP
+CHT_CMN_20101230.0005.su.xml	它	841	27	噢 ， 放 元旦 放到 3号 哦 ， 那 还 挺 急 的	s11	135882	噢#IJ ，#PU 放#VV 元旦#NT 放到#VV 3号#NT 哦#SP ，#PU 那#PN 还#AD 挺#AD 急#VA 的#SP
+CHT_CMN_20101230.0005.su.xml	它	883	0	其实 是 我 一直 不 知到 *PRO* 找 谁 *PRO* 报 这个	s12	138507	其实#AD 是#VC 我#PN 一直#AD 不#AD 知到#VV *PRO*#VV 找#VV 谁#PN *PRO*#VV 报#VV 这个#DT
 CHT_CMN_20101230.0005.su.xml	NONE	-1	-1	呵呵 ， 我 明天 也 问问 范 院 吧	s13	135882	呵呵#IJ ，#PU 我#PN 明天#NT 也#AD 问问#VV 范#NR 院#NN 吧#SP

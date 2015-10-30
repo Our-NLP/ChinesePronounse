@@ -1,138 +1,138 @@
-CHT_CMN_20120327.0001.su.xml	我	129	0	在 吗 ？	s0	138194	在#VV 吗#SP ？#PU
+CHT_CMN_20120327.0001.su.xml	你	29	0	在 吗 ？	s0	138194	在#VV 吗#SP ？#PU
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	周旋 ， 上班 了 吗 ？	s1	138194	周旋#VV ，#PU 上班#VV 了#AS 吗#SP ？#PU
-CHT_CMN_20120327.0001.su.xml	我	171	0	感觉 *PRO* 如何 ？	s1	138194	感觉#VV *PRO*#NN 如何#VA ？#PU
-CHT_CMN_20120327.0001.su.xml	我	320	0	刚 在 做 运动	s2	138201	刚#AD 在#P 做#VV 运动#NN
-CHT_CMN_20120327.0001.su.xml	我	464	0	上班 了 ， 感觉 *PRO* 还 可以	s3	138201	上班#VV 了#AS ，#PU 感觉#VV *PRO*#VV 还#AD 可以#VV
+CHT_CMN_20120327.0001.su.xml	你	82	0	感觉 *PRO* 如何 ？	s1	138194	感觉#VV *PRO*#NN 如何#VA ？#PU
+CHT_CMN_20120327.0001.su.xml	我	129	0	刚 在 做 运动	s2	138201	刚#AD 在#P 做#VV 运动#NN
+CHT_CMN_20120327.0001.su.xml	我	171	0	上班 了 ， 感觉 *PRO* 还 可以	s3	138201	上班#VV 了#AS ，#PU 感觉#VV *PRO*#VV 还#AD 可以#VV
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	公司 的 福利 挺 好 的	s4	138201	公司#NN 的#DEG 福利#NN 挺#AD 好#VA 的#SP
-CHT_CMN_20120327.0001.su.xml	我	506	0	还 有 公积金	s5	138201	还#AD 有#VE 公积金#NN
-CHT_CMN_20120327.0001.su.xml	我	1143	13	就是 节奏 比较 快 ， 要 好好 干	s6	138201	就是#AD 节奏#NN 比较#AD 快#VA ，#PU 要#VV 好好#AD 干#VV
+CHT_CMN_20120327.0001.su.xml	它	266	0	还 有 公积金	s5	138201	还#AD 有#VE 公积金#NN
+CHT_CMN_20120327.0001.su.xml	我	320	13	就是 节奏 比较 快 ， 要 好好 干	s6	138201	就是#AD 节奏#NN 比较#AD 快#VA ，#PU 要#VV 好好#AD 干#VV
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	节奏 可能 跟 外企 的 差不多	s7	138201	节奏#NN 可能#AD 跟#P 外企#NN 的#DEG 差不多#VA
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	你 能 适应 就 好 。	s8	138194	你#PN 能#VV 适应#VV 就#AD 好#VA 。#PU
-CHT_CMN_20120327.0001.su.xml	我	1206	0	开心 最 重要 。	s8	138194	开心#VA 最#AD 重要#VA 。#PU
-CHT_CMN_20120327.0001.su.xml	我	1389	4	恩 ， 还 挺 好 的	s9	138201	恩#IJ ，#PU 还#AD 挺#AD 好#VA 的#SP
-CHT_CMN_20120327.0001.su.xml	我	1565	0	比较 喜欢 快 节奏 的 生活	s10	138201	比较#AD 喜欢#VV 快#JJ 节奏#NN 的#DEG 生活#NN
-CHT_CMN_20120327.0001.su.xml	我1	1974	5	公司 在 发展 当中 ， 现在 正在 建 办公 大楼	s11	138201	公司#NN 在#P 发展#VV 当中#LC ，#PU 现在#NT 正在#AD 建#VV 办公#NN 大楼#NN
-CHT_CMN_20120327.0001.su.xml	我1	2038	19	公司 在 发展 当中 ， 现在 正在 建 办公 大楼	s11	138201	公司#NN 在#P 发展#VV 当中#LC ，#PU 现在#NT 正在#AD 建#VV 办公#NN 大楼#NN
-CHT_CMN_20120327.0001.su.xml	我1	2166	0	以后 有 自己 的 公司 大楼 ， 不 用 租 写字楼	s12	138201	以后#AD 有#VE 自己#PN 的#DEG 公司#NN 大楼#NN ，#PU 不#AD 用#VV 租#VV 写字楼#NN
-CHT_CMN_20120327.0001.su.xml	我1	2985	24	以后 有 自己 的 公司 大楼 ， 不 用 租 写字楼	s12	138201	以后#AD 有#VE 自己#PN 的#DEG 公司#NN 大楼#NN ，#PU 不#AD 用#VV 租#VV 写字楼#NN
+CHT_CMN_20120327.0001.su.xml	你	417	0	开心 最 重要 。	s8	138194	开心#VA 最#AD 重要#VA 。#PU
+CHT_CMN_20120327.0001.su.xml	我	464	4	恩 ， 还 挺 好 的	s9	138201	恩#IJ ，#PU 还#AD 挺#AD 好#VA 的#SP
+CHT_CMN_20120327.0001.su.xml	我	506	0	比较 喜欢 快 节奏 的 生活	s10	138201	比较#AD 喜欢#VV 快#JJ 节奏#NN 的#DEG 生活#NN
+CHT_CMN_20120327.0001.su.xml	其	561	5	公司 在 发展 当中 ， 现在 正在 建 办公 大楼	s11	138201	公司#NN 在#P 发展#VV 当中#LC ，#PU 现在#NT 正在#AD 建#VV 办公#NN 大楼#NN
+CHT_CMN_20120327.0001.su.xml	它	575	19	公司 在 发展 当中 ， 现在 正在 建 办公 大楼	s11	138201	公司#NN 在#P 发展#VV 当中#LC ，#PU 现在#NT 正在#AD 建#VV 办公#NN 大楼#NN
+CHT_CMN_20120327.0001.su.xml	我们	623	0	以后 有 自己 的 公司 大楼 ， 不 用 租 写字楼	s12	138201	以后#AD 有#VE 自己#PN 的#DEG 公司#NN 大楼#NN ，#PU 不#AD 用#VV 租#VV 写字楼#NN
+CHT_CMN_20120327.0001.su.xml	我们	647	24	以后 有 自己 的 公司 大楼 ， 不 用 租 写字楼	s12	138201	以后#AD 有#VE 自己#PN 的#DEG 公司#NN 大楼#NN ，#PU 不#AD 用#VV 租#VV 写字楼#NN
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	你们 公司 叫 什么 名称	s13	138194	你们#PN 公司#NN 叫#VV 什么#PN 名称#NN
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	卓刀泉 离 我们 家 很 近 的 ， 我 有 时间 过来 看看	s14	138194	卓刀泉#NR 离#P 我们#PN 家#NN 很#AD 近#VA 的#SP ，#PU 我#PN 有#VE 时间#NN 过来#VV 看看#VV
-CHT_CMN_20120327.0001.su.xml	我1	3062	0	吃饭 的 问题 怎么 解决 呢 ？	s15	138194	吃饭#VV 的#DEC 问题#NN 怎么#AD 解决#VV 呢#SP ？#PU
+CHT_CMN_20120327.0001.su.xml	你	793	0	吃饭 的 问题 怎么 解决 呢 ？	s15	138194	吃饭#VV 的#DEC 问题#NN 怎么#AD 解决#VV 呢#SP ？#PU
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	每 天 往返 路程 需要 多 长 时间	s16	138194	每#DT 天#M 往返#VV 路程#NN 需要#VV 多#AD 长#JJ 时间#NN
-CHT_CMN_20120327.0001.su.xml	我1	3531	13	基本 工资 多少 呢 ， 都 有 哪些 福利 ？	s17	138194	基本#JJ 工资#NN 多少#CD 呢#SP ，#PU 都#AD 有#VE 哪些#DT 福利#NN ？#PU
+CHT_CMN_20120327.0001.su.xml	你	906	13	基本 工资 多少 呢 ， 都 有 哪些 福利 ？	s17	138194	基本#JJ 工资#NN 多少#CD 呢#SP ，#PU 都#AD 有#VE 哪些#DT 福利#NN ？#PU
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	武汉 力源 信息 科技 股份 有限 公司	s18	138201	武汉#NR 力源#NN 信息#NN 科技#NN 股份#NN 有限#JJ 公司#NN
-CHT_CMN_20120327.0001.su.xml	我1	3809	4	恩 ， 好 啊	s19	138201	恩#IJ ，#PU 好#VA 啊#SP
-CHT_CMN_20120327.0001.su.xml	我1	3865	0	包 中餐 的	s20	138201	包#VV 中餐#NN 的#SP
+CHT_CMN_20120327.0001.su.xml	它	1005	4	恩 ， 好 啊	s19	138201	恩#IJ ，#PU 好#VA 啊#SP
+CHT_CMN_20120327.0001.su.xml	它	1043	0	包 中餐 的	s20	138201	包#VV 中餐#NN 的#SP
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	往返 有 两 个 小时	s21	138201	往返#NN 有#VE 两#CD 个#M 小时#NN
-CHT_CMN_20120327.0001.su.xml	我1	4294	0	在 那 栋 大楼 啊 。	s22	138194	在#P 那#DT 栋#M 大楼#NN 啊#SP 。#PU
-CHT_CMN_20120327.0001.su.xml	我1	4409	0	坐 715 来 吗 ？	s22	138194	坐#VV 715#CD 来#VV 吗#SP ？#PU
-CHT_CMN_20120327.0001.su.xml	我2	4661	17	基本 工资 试用期 1800 ， 转正 2000多 。	s23	138201	基本#JJ 工资#NN 试用期#NN 1800#CD ，#PU 转正#VV 2000多#CD 。#PU
+CHT_CMN_20120327.0001.su.xml	它	1124	0	在 那 栋 大楼 啊 。	s22	138194	在#P 那#DT 栋#M 大楼#NN 啊#SP 。#PU
+CHT_CMN_20120327.0001.su.xml	我	1143	0	坐 715 来 吗 ？	s22	138194	坐#VV 715#CD 来#VV 吗#SP ？#PU
+CHT_CMN_20120327.0001.su.xml	我	1206	17	基本 工资 试用期 1800 ， 转正 2000多 。	s23	138201	基本#JJ 工资#NN 试用期#NN 1800#CD ，#PU 转正#VV 2000多#CD 。#PU
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	五 险 一 金	s23	138201	五#CD 险#NN 一#CD 金#NN
-CHT_CMN_20120327.0001.su.xml	我2	4760	0	过节 有 过节 费 。	s24	138201	过节#VV 有#VE 过节#VV 费#NN 。#PU
-CHT_CMN_20120327.0001.su.xml	我2	5016	9	过节 有 过节 费 。	s24	138201	过节#VV 有#VE 过节#VV 费#NN 。#PU
-CHT_CMN_20120327.0001.su.xml	我2	5037	7	每 个 季度 发 奖金 和 生活 用品	s24	138201	每#DT 个#M 季度#NN 发#VV 奖金#NN 和#CC 生活#NN 用品#NN
-CHT_CMN_20120327.0001.su.xml	我2	5162	0	休息 周末 两 天 吗 ？	s25	138194	休息#VV 周末#NT 两#CD 天#M 吗#SP ？#PU
-CHT_CMN_20120327.0001.su.xml	我2	5653	4	恩 ， 休 两 天	s26	138201	恩#IJ ，#PU 休#VV 两#CD 天#M
+CHT_CMN_20120327.0001.su.xml	形	1259	0	过节 有 过节 费 。	s24	138201	过节#VV 有#VE 过节#VV 费#NN 。#PU
+CHT_CMN_20120327.0001.su.xml	我们	1268	9	过节 有 过节 费 。	s24	138201	过节#VV 有#VE 过节#VV 费#NN 。#PU
+CHT_CMN_20120327.0001.su.xml	它	1290	7	每 个 季度 发 奖金 和 生活 用品	s24	138201	每#DT 个#M 季度#NN 发#VV 奖金#NN 和#CC 生活#NN 用品#NN
+CHT_CMN_20120327.0001.su.xml	你	1337	0	休息 周末 两 天 吗 ？	s25	138194	休息#VV 周末#NT 两#CD 天#M 吗#SP ？#PU
+CHT_CMN_20120327.0001.su.xml	我	1389	4	恩 ， 休 两 天	s26	138201	恩#IJ ，#PU 休#VV 两#CD 天#M
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	我 做 536	s27	138201	我#PN 做#VV 536#CD
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	早九晚五 工作制 吗 ？	s28	138194	早九晚五#NR 工作制#NN 吗#SP ？#PU
-CHT_CMN_20120327.0001.su.xml	你	29	0	就 在 昊宇 大厦 。	s29	138201	就#AD 在#P 昊宇#NR 大厦#NN 。#PU
+CHT_CMN_20120327.0001.su.xml	它	1506	0	就 在 昊宇 大厦 。	s29	138201	就#AD 在#P 昊宇#NR 大厦#NN 。#PU
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	附近 有 个 民生 银行	s29	138201	附近#NN 有#VE 个#M 民生#NN 银行#NN
-CHT_CMN_20120327.0001.su.xml	你	82	0	早 九 ， 我 五点半 下班	s30	138201	早#AD 九#CD ，#PU 我#PN 五点半#NT 下班#VV
-CHT_CMN_20120327.0001.su.xml	你	417	0	离 华师 很 近 是 吗	s31	138194	离#P 华师#NN 很#AD 近#VA 是#VC 吗#SP
+CHT_CMN_20120327.0001.su.xml	我	1565	0	早 九 ， 我 五点半 下班	s30	138201	早#AD 九#CD ，#PU 我#PN 五点半#NT 下班#VV
+CHT_CMN_20120327.0001.su.xml	它	1614	0	离 华师 很 近 是 吗	s31	138194	离#P 华师#NN 很#AD 近#VA 是#VC 吗#SP
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	广阜屯 前面 一 站	s32	138201	广阜屯#NR 前面#NN 一#CD 站#NN
-CHT_CMN_20120327.0001.su.xml	你	793	0	离 华师 挺 近 的	s33	138201	离#P 华师#NR 挺#AD 近#VA 的#SP
+CHT_CMN_20120327.0001.su.xml	它	1700	0	离 华师 挺 近 的	s33	138201	离#P 华师#NR 挺#AD 近#VA 的#SP
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	试用期 几 个 月 ？	s34	138194	试用期#NN 几#CD 个#M 月#NN ？#PU
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	2 *RNR*-1 至 6 个 月	s35	138201	2#CD *RNR*-1#NR 至#CC 6#CD 个#M 月#NN
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	你 看到 合同 了 没 ？	s36	138194	你#PN 看到#VV 合同#NN 了#SP 没#VE ？#PU
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	你 具体 负责 什么 工作 呢 ？	s37	138194	你#PN 具体#AD 负责#VV 什么#DT 工作#NN 呢#SP ？#PU
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	我 合同 已经 签 了 *-1 ， 三 年 的 合同	s38	138201	我#PN 合同#NN 已经#AD 签#VV 了#AS *-1#NN ，#PU 三#CD 年#M 的#DEC 合同#NN
-CHT_CMN_20120327.0001.su.xml	你	906	0	做 公司 绩效 的 ， 也 会 负责 人事 方面 的 事情	s39	138201	做#VV 公司#NN 绩效#NN 的#DEG ，#PU 也#AD 会#VV 负责#VV 人事#NN 方面#NN 的#DEG 事情#NN
-CHT_CMN_20120327.0001.su.xml	你	1337	0	主要 是 做 绩效	s40	138201	主要#AD 是#VC 做#VV 绩效#NN
+CHT_CMN_20120327.0001.su.xml	我1	1974	0	做 公司 绩效 的 ， 也 会 负责 人事 方面 的 事情	s39	138201	做#VV 公司#NN 绩效#NN 的#DEG ，#PU 也#AD 会#VV 负责#VV 人事#NN 方面#NN 的#DEG 事情#NN
+CHT_CMN_20120327.0001.su.xml	我1	2038	0	主要 是 做 绩效	s40	138201	主要#AD 是#VC 做#VV 绩效#NN
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	哦 ， 那 就 好 。	s41	138194	哦#IJ ，#PU 那#PN 就#AD 好#VA 。#PU
 CHT_CMN_20120327.0001.su.xml	你	2094	0	现在 在 准备 报考 人力 资源 师 的 培训 吗 ？	s41	138194	现在#NT 在#P 准备#VV 报考#VV 人力#NN 资源#NN 师#NN 的#DEG 培训#NN 吗#SP ？#PU
-CHT_CMN_20120327.0001.su.xml	你	2208	14	现在 在 准备 报考 人力 资源 师 的 培训 吗 ？	s41	138194	现在#NT 在#P 准备#VV 报考#VV 人力#NN 资源#NN 师#NN 的#DEG 培训#NN 吗#SP ？#PU
-CHT_CMN_20120327.0001.su.xml	你	2393	4	恩 ， 已经 报名 了	s42	138201	恩#IJ ，#PU 已经#AD 报名#VV 了#AS
-CHT_CMN_20120327.0001.su.xml	你	4109	0	什么 时候 考试 ？	s43	138194	什么#DT 时候#NN 考试#NN ？#PU
+CHT_CMN_20120327.0001.su.xml	其	2108	14	现在 在 准备 报考 人力 资源 师 的 培训 吗 ？	s41	138194	现在#NT 在#P 准备#VV 报考#VV 人力#NN 资源#NN 师#NN 的#DEG 培训#NN 吗#SP ？#PU
+CHT_CMN_20120327.0001.su.xml	我1	2166	4	恩 ， 已经 报名 了	s42	138201	恩#IJ ，#PU 已经#AD 报名#VV 了#AS
+CHT_CMN_20120327.0001.su.xml	你	2208	0	什么 时候 考试 ？	s43	138194	什么#DT 时候#NN 考试#NN ？#PU
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	五月份	s44	138201	五月份#NT
-CHT_CMN_20120327.0001.su.xml	你1	4129	0	还 分 等级 吗 ？	s45	138194	还#AD 分#VV 等级#NN 吗#SP ？#PU
-CHT_CMN_20120327.0001.su.xml	你1	4616	0	对 啊 ， 一 级 最 高	s46	138201	对#VA 啊#SP ，#PU 一#OD 级#M 最#AD 高#VA
-CHT_CMN_20120327.0001.su.xml	你1	4901	15	你 告诉 彭艺 了 没有 ， 让 他 *PRO* 也 考 个 证 。	s47	138194	你#PN 告诉#VV 彭艺#VV 了#AS 没有#AD ，#PU 让#VV 他#PN *PRO*#VV 也#AD 考#VV 个#M 证#NN 。#PU
+CHT_CMN_20120327.0001.su.xml	它	2285	0	还 分 等级 吗 ？	s45	138194	还#AD 分#VV 等级#NN 吗#SP ？#PU
+CHT_CMN_20120327.0001.su.xml	它1	2330	0	对 啊 ， 一 级 最 高	s46	138201	对#VA 啊#SP ，#PU 一#OD 级#M 最#AD 高#VA
+CHT_CMN_20120327.0001.su.xml	你	2393	15	你 告诉 彭艺 了 没有 ， 让 他 *PRO* 也 考 个 证 。	s47	138194	你#PN 告诉#VV 彭艺#VV 了#AS 没有#AD ，#PU 让#VV 他#PN *PRO*#VV 也#AD 考#VV 个#M 证#NN 。#PU
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	我 还 没 跟 他 说 ， 我 是 准备 *PRO* 跟 他 说 的 ， 他 只 能 报 三 级	s48	138201	我#PN 还#AD 没#AD 跟#P 他#PN 说#VV ，#PU 我#PN 是#VC 准备#VV *PRO*#NN 跟#P 他#PN 说#VV 的#SP ，#PU 他#PN 只#AD 能#VV 报#VV 三#CD 级#M
-CHT_CMN_20120327.0001.su.xml	你1	5085	14	我 早 就 跟 他 说 过 要 考证 的 。	s49	138194	我#PN 早#AD 就#AD 跟#P 他#PN 说#VV 过#AS 要#VV 考证#VV 的#SP 。#PU
+CHT_CMN_20120327.0001.su.xml	他	2538	14	我 早 就 跟 他 说 过 要 考证 的 。	s49	138194	我#PN 早#AD 就#AD 跟#P 他#PN 说#VV 过#AS 要#VV 考证#VV 的#SP 。#PU
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	年龄 不 够	s50	138201	年龄#NN 不#AD 够#VA
-CHT_CMN_20120327.0001.su.xml	你1	5206	0	有 年龄 要求 吗 ？	s51	138194	有#VE 年龄#NN 要求#VV 吗#SP ？#PU
+CHT_CMN_20120327.0001.su.xml	它1	2616	0	有 年龄 要求 吗 ？	s51	138194	有#VE 年龄#NN 要求#VV 吗#SP ？#PU
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	恩 ， 我 会 跟 他 说 的	s52	138201	恩#IJ ，#PU 我#PN 会#VV 跟#P 他#PN 说#VV 的#DEC
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	恩 ， 对 工作 年限 有 要求	s53	138201	恩#IJ ，#PU 对#P 工作#NN 年限#NN 有#VE 要求#NN
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	而且 他 是 大专 所以 不 能 报 二 级	s54	138201	而且#AD 他#PN 是#VC 大专#NN 所以#AD 不#AD 能#VV 报#VV 二#OD 级#M
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	他 现在 也 在 做 培训 ， 应该 很 忙 的 吧	s55	138201	他#PN 现在#NT 也#AD 在#AD 做#VV 培训#NN ，#PU 应该#VV 很#AD 忙#VA 的#SP 吧#SP
-CHT_CMN_20120327.0001.su.xml	你1	5273	4	哦 ， 现在 年轻 要 早 做 些 资历 上 得 准备 。	s56	138194	哦#IJ ，#PU 现在#NT 年轻#NN 要#VV 早#AD 做#VV 些#M 资历#NN 上#LC 得#VV 准备#VV 。#PU
+CHT_CMN_20120327.0001.su.xml	他	2861	4	哦 ， 现在 年轻 要 早 做 些 资历 上 得 准备 。	s56	138194	哦#IJ ，#PU 现在#NT 年轻#NN 要#VV 早#AD 做#VV 些#M 资历#NN 上#LC 得#VV 准备#VV 。#PU
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	我 刚才 给 他 发 信息 他 没有 回应	s57	138194	我#PN 刚才#AD 给#P 他#PN 发#VV 信息#NN 他#PN 没有#VE 回应#NN
-CHT_CMN_20120327.0001.su.xml	你1	5408	5	我 觉得 报班 不 知道 *T*-1 对 他 有没有 用 ， 因为 *OP* 我 报 *T*-2 的 那 个 班 ， 基本上 ， 老师 讲 的 特别 快 ， 不 知道 跟 不 跟 的 上	s58	138201	我#PN 觉得#VV 报班#VV 不#AD 知道#VV *T*-1#NN 对#P 他#PN 有没有#AD 用#VV ，#PU 因为#P *OP*#VV 我#PN 报#VV *T*-2#NR 的#DEC 那#DT 个#M 班#NN ，#PU 基本上#AD ，#PU 老师#NN 讲#VV 的#DEC 特别#AD 快#VA ，#PU 不#AD 知道#VV 跟#P 不#AD 跟#VV 的#DEC 上#NN
-CHT_CMN_20120327.0001.su.xml	你1	5421	14	我 觉得 报班 不 知道 *T*-1 对 他 有没有 用 ， 因为 *OP* 我 报 *T*-2 的 那 个 班 ， 基本上 ， 老师 讲 的 特别 快 ， 不 知道 跟 不 跟 的 上	s58	138201	我#PN 觉得#VV 报班#VV 不#AD 知道#VV *T*-1#NN 对#P 他#PN 有没有#AD 用#VV ，#PU 因为#P *OP*#VV 我#PN 报#VV *T*-2#NR 的#DEC 那#DT 个#M 班#NN ，#PU 基本上#AD ，#PU 老师#NN 讲#VV 的#DEC 特别#AD 快#VA ，#PU 不#AD 知道#VV 跟#P 不#AD 跟#VV 的#DEC 上#NN
-CHT_CMN_20120327.0001.su.xml	你1	5444	91	我 觉得 报班 不 知道 *T*-1 对 他 有没有 用 ， 因为 *OP* 我 报 *T*-2 的 那 个 班 ， 基本上 ， 老师 讲 的 特别 快 ， 不 知道 跟 不 跟 的 上	s58	138201	我#PN 觉得#VV 报班#VV 不#AD 知道#VV *T*-1#NN 对#P 他#PN 有没有#AD 用#VV ，#PU 因为#P *OP*#VV 我#PN 报#VV *T*-2#NR 的#DEC 那#DT 个#M 班#NN ，#PU 基本上#AD ，#PU 老师#NN 讲#VV 的#DEC 特别#AD 快#VA ，#PU 不#AD 知道#VV 跟#P 不#AD 跟#VV 的#DEC 上#NN
-CHT_CMN_20120327.0001.su.xml	你1	5466	102	我 觉得 报班 不 知道 *T*-1 对 他 有没有 用 ， 因为 *OP* 我 报 *T*-2 的 那 个 班 ， 基本上 ， 老师 讲 的 特别 快 ， 不 知道 跟 不 跟 的 上	s58	138201	我#PN 觉得#VV 报班#VV 不#AD 知道#VV *T*-1#NN 对#P 他#PN 有没有#AD 用#VV ，#PU 因为#P *OP*#VV 我#PN 报#VV *T*-2#NR 的#DEC 那#DT 个#M 班#NN ，#PU 基本上#AD ，#PU 老师#NN 讲#VV 的#DEC 特别#AD 快#VA ，#PU 不#AD 知道#VV 跟#P 不#AD 跟#VV 的#DEC 上#NN
-CHT_CMN_20120327.0001.su.xml	你2	5562	4	恩 ， 可能 在 忙	s59	138201	恩#IJ ，#PU 可能#VV 在#P 忙#VA
+CHT_CMN_20120327.0001.su.xml	他	2976	5	我 觉得 报班 不 知道 *T*-1 对 他 有没有 用 ， 因为 *OP* 我 报 *T*-2 的 那 个 班 ， 基本上 ， 老师 讲 的 特别 快 ， 不 知道 跟 不 跟 的 上	s58	138201	我#PN 觉得#VV 报班#VV 不#AD 知道#VV *T*-1#NN 对#P 他#PN 有没有#AD 用#VV ，#PU 因为#P *OP*#VV 我#PN 报#VV *T*-2#NR 的#DEC 那#DT 个#M 班#NN ，#PU 基本上#AD ，#PU 老师#NN 讲#VV 的#DEC 特别#AD 快#VA ，#PU 不#AD 知道#VV 跟#P 不#AD 跟#VV 的#DEC 上#NN
+CHT_CMN_20120327.0001.su.xml	我1	2985	14	我 觉得 报班 不 知道 *T*-1 对 他 有没有 用 ， 因为 *OP* 我 报 *T*-2 的 那 个 班 ， 基本上 ， 老师 讲 的 特别 快 ， 不 知道 跟 不 跟 的 上	s58	138201	我#PN 觉得#VV 报班#VV 不#AD 知道#VV *T*-1#NN 对#P 他#PN 有没有#AD 用#VV ，#PU 因为#P *OP*#VV 我#PN 报#VV *T*-2#NR 的#DEC 那#DT 个#M 班#NN ，#PU 基本上#AD ，#PU 老师#NN 讲#VV 的#DEC 特别#AD 快#VA ，#PU 不#AD 知道#VV 跟#P 不#AD 跟#VV 的#DEC 上#NN
+CHT_CMN_20120327.0001.su.xml	我1	3062	91	我 觉得 报班 不 知道 *T*-1 对 他 有没有 用 ， 因为 *OP* 我 报 *T*-2 的 那 个 班 ， 基本上 ， 老师 讲 的 特别 快 ， 不 知道 跟 不 跟 的 上	s58	138201	我#PN 觉得#VV 报班#VV 不#AD 知道#VV *T*-1#NN 对#P 他#PN 有没有#AD 用#VV ，#PU 因为#P *OP*#VV 我#PN 报#VV *T*-2#NR 的#DEC 那#DT 个#M 班#NN ，#PU 基本上#AD ，#PU 老师#NN 讲#VV 的#DEC 特别#AD 快#VA ，#PU 不#AD 知道#VV 跟#P 不#AD 跟#VV 的#DEC 上#NN
+CHT_CMN_20120327.0001.su.xml	他	3073	102	我 觉得 报班 不 知道 *T*-1 对 他 有没有 用 ， 因为 *OP* 我 报 *T*-2 的 那 个 班 ， 基本上 ， 老师 讲 的 特别 快 ， 不 知道 跟 不 跟 的 上	s58	138201	我#PN 觉得#VV 报班#VV 不#AD 知道#VV *T*-1#NN 对#P 他#PN 有没有#AD 用#VV ，#PU 因为#P *OP*#VV 我#PN 报#VV *T*-2#NR 的#DEC 那#DT 个#M 班#NN ，#PU 基本上#AD ，#PU 老师#NN 讲#VV 的#DEC 特别#AD 快#VA ，#PU 不#AD 知道#VV 跟#P 不#AD 跟#VV 的#DEC 上#NN
+CHT_CMN_20120327.0001.su.xml	他	3121	4	恩 ， 可能 在 忙	s59	138201	恩#IJ ，#PU 可能#VV 在#P 忙#VA
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	主要 还是 自己 要 利用 业余 时间 学习 ， 老师 只 是 辅导 性质 的 。	s60	138194	主要#AD 还是#AD 自己#PN 要#VV 利用#VV 业余#JJ 时间#NN 学习#VV ，#PU 老师#NN 只#AD 是#VC 辅导#NN 性质#NN 的#SP 。#PU
-CHT_CMN_20120327.0001.su.xml	你2	6006	0	对 啊	s61	138201	对#VA 啊#SP
+CHT_CMN_20120327.0001.su.xml	它1	3232	0	对 啊	s61	138201	对#VA 啊#SP
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	我 跟 他 讲 下 吧	s62	138201	我#PN 跟#P 他#PN 讲#VV 下#LC 吧#SP
-CHT_CMN_20120327.0001.su.xml	他	2538	41	其实 我们 公司 人事部 就 三 个 人 ， 制度 还是 很 完善 的 ， 但是 没有 培训	s63	138201	其实#AD 我们#PN 公司#NN 人事部#NN 就#AD 三#CD 个#M 人#NN ，#PU 制度#NN 还是#AD 很#AD 完善#VA 的#SP ，#PU 但是#AD 没有#VE 培训#NN
-CHT_CMN_20120327.0001.su.xml	他	2861	0	好 的 ， 现在 是 事业 的 起步 阶段 ， 要 一 步 一 个 脚印 ， 多 做 点 事情 没 关系 ， 权 当做 一 种 学习 。	s64	138194	好#VA 的#SP ，#PU 现在#NT 是#VC 事业#NN 的#DEG 起步#NN 阶段#NN ，#PU 要#VV 一#CD 步#M 一#CD 个#M 脚印#NN ，#PU 多#AD 做#VV 点#M 事情#NN 没#VE 关系#NN ，#PU 权#NN 当做#VV 一#CD 种#M 学习#NN 。#PU
-CHT_CMN_20120327.0001.su.xml	他	2976	15	好 的 ， 现在 是 事业 的 起步 阶段 ， 要 一 步 一 个 脚印 ， 多 做 点 事情 没 关系 ， 权 当做 一 种 学习 。	s64	138194	好#VA 的#SP ，#PU 现在#NT 是#VC 事业#NN 的#DEG 起步#NN 阶段#NN ，#PU 要#VV 一#CD 步#M 一#CD 个#M 脚印#NN ，#PU 多#AD 做#VV 点#M 事情#NN 没#VE 关系#NN ，#PU 权#NN 当做#VV 一#CD 种#M 学习#NN 。#PU
-CHT_CMN_20120327.0001.su.xml	他	3073	36	好 的 ， 现在 是 事业 的 起步 阶段 ， 要 一 步 一 个 脚印 ， 多 做 点 事情 没 关系 ， 权 当做 一 种 学习 。	s64	138194	好#VA 的#SP ，#PU 现在#NT 是#VC 事业#NN 的#DEG 起步#NN 阶段#NN ，#PU 要#VV 一#CD 步#M 一#CD 个#M 脚印#NN ，#PU 多#AD 做#VV 点#M 事情#NN 没#VE 关系#NN ，#PU 权#NN 当做#VV 一#CD 种#M 学习#NN 。#PU
-CHT_CMN_20120327.0001.su.xml	他	3121	57	好 的 ， 现在 是 事业 的 起步 阶段 ， 要 一 步 一 个 脚印 ， 多 做 点 事情 没 关系 ， 权 当做 一 种 学习 。	s64	138194	好#VA 的#SP ，#PU 现在#NT 是#VC 事业#NN 的#DEG 起步#NN 阶段#NN ，#PU 要#VV 一#CD 步#M 一#CD 个#M 脚印#NN ，#PU 多#AD 做#VV 点#M 事情#NN 没#VE 关系#NN ，#PU 权#NN 当做#VV 一#CD 种#M 学习#NN 。#PU
-CHT_CMN_20120327.0001.su.xml	他	3406	79	好 的 ， 现在 是 事业 的 起步 阶段 ， 要 一 步 一 个 脚印 ， 多 做 点 事情 没 关系 ， 权 当做 一 种 学习 。	s64	138194	好#VA 的#SP ，#PU 现在#NT 是#VC 事业#NN 的#DEG 起步#NN 阶段#NN ，#PU 要#VV 一#CD 步#M 一#CD 个#M 脚印#NN ，#PU 多#AD 做#VV 点#M 事情#NN 没#VE 关系#NN ，#PU 权#NN 当做#VV 一#CD 种#M 学习#NN 。#PU
-CHT_CMN_20120327.0001.su.xml	他	3427	13	恩 ， 我 跟 彭屹 说 要 他 *PRO* 报 三 级 吧	s65	138201	恩#IJ ，#PU 我#PN 跟#P 彭屹#NR 说#VV 要#VV 他#PN *PRO*#VV 报#VV 三#OD 级#NN 吧#SP
+CHT_CMN_20120327.0001.su.xml	它1	3351	41	其实 我们 公司 人事部 就 三 个 人 ， 制度 还是 很 完善 的 ， 但是 没有 培训	s63	138201	其实#AD 我们#PN 公司#NN 人事部#NN 就#AD 三#CD 个#M 人#NN ，#PU 制度#NN 还是#AD 很#AD 完善#VA 的#SP ，#PU 但是#AD 没有#VE 培训#NN
+CHT_CMN_20120327.0001.su.xml	它1	3391	0	好 的 ， 现在 是 事业 的 起步 阶段 ， 要 一 步 一 个 脚印 ， 多 做 点 事情 没 关系 ， 权 当做 一 种 学习 。	s64	138194	好#VA 的#SP ，#PU 现在#NT 是#VC 事业#NN 的#DEG 起步#NN 阶段#NN ，#PU 要#VV 一#CD 步#M 一#CD 个#M 脚印#NN ，#PU 多#AD 做#VV 点#M 事情#NN 没#VE 关系#NN ，#PU 权#NN 当做#VV 一#CD 种#M 学习#NN 。#PU
+CHT_CMN_20120327.0001.su.xml	他	3406	15	好 的 ， 现在 是 事业 的 起步 阶段 ， 要 一 步 一 个 脚印 ， 多 做 点 事情 没 关系 ， 权 当做 一 种 学习 。	s64	138194	好#VA 的#SP ，#PU 现在#NT 是#VC 事业#NN 的#DEG 起步#NN 阶段#NN ，#PU 要#VV 一#CD 步#M 一#CD 个#M 脚印#NN ，#PU 多#AD 做#VV 点#M 事情#NN 没#VE 关系#NN ，#PU 权#NN 当做#VV 一#CD 种#M 学习#NN 。#PU
+CHT_CMN_20120327.0001.su.xml	他	3427	36	好 的 ， 现在 是 事业 的 起步 阶段 ， 要 一 步 一 个 脚印 ， 多 做 点 事情 没 关系 ， 权 当做 一 种 学习 。	s64	138194	好#VA 的#SP ，#PU 现在#NT 是#VC 事业#NN 的#DEG 起步#NN 阶段#NN ，#PU 要#VV 一#CD 步#M 一#CD 个#M 脚印#NN ，#PU 多#AD 做#VV 点#M 事情#NN 没#VE 关系#NN ，#PU 权#NN 当做#VV 一#CD 种#M 学习#NN 。#PU
+CHT_CMN_20120327.0001.su.xml	他	3448	57	好 的 ， 现在 是 事业 的 起步 阶段 ， 要 一 步 一 个 脚印 ， 多 做 点 事情 没 关系 ， 权 当做 一 种 学习 。	s64	138194	好#VA 的#SP ，#PU 现在#NT 是#VC 事业#NN 的#DEG 起步#NN 阶段#NN ，#PU 要#VV 一#CD 步#M 一#CD 个#M 脚印#NN ，#PU 多#AD 做#VV 点#M 事情#NN 没#VE 关系#NN ，#PU 权#NN 当做#VV 一#CD 种#M 学习#NN 。#PU
+CHT_CMN_20120327.0001.su.xml	他	3470	79	好 的 ， 现在 是 事业 的 起步 阶段 ， 要 一 步 一 个 脚印 ， 多 做 点 事情 没 关系 ， 权 当做 一 种 学习 。	s64	138194	好#VA 的#SP ，#PU 现在#NT 是#VC 事业#NN 的#DEG 起步#NN 阶段#NN ，#PU 要#VV 一#CD 步#M 一#CD 个#M 脚印#NN ，#PU 多#AD 做#VV 点#M 事情#NN 没#VE 关系#NN ，#PU 权#NN 当做#VV 一#CD 种#M 学习#NN 。#PU
+CHT_CMN_20120327.0001.su.xml	我1	3531	13	恩 ， 我 跟 彭屹 说 要 他 *PRO* 报 三 级 吧	s65	138201	恩#IJ ，#PU 我#PN 跟#P 彭屹#NR 说#VV 要#VV 他#PN *PRO*#VV 报#VV 三#OD 级#NN 吧#SP
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	我 还 挺 喜欢 新 单位 的 感觉 ， 可能 我 更 喜欢 *OP* *T*-1 高效 的 企业 吧	s66	138201	我#PN 还#AD 挺#AD 喜欢#VV 新#JJ 单位#NN 的#DEG 感觉#NN ，#PU 可能#VV 我#PN 更#AD 喜欢#VV *OP*#NR *T*-1#VA 高效#VA 的#DEC 企业#NN 吧#SP
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	这 公司 整体 学历 都 比较 好 ， 所以 大家 都 一样	s67	138201	这#DT 公司#NN 整体#NN 学历#NN 都#AD 比较#AD 好#VA ，#PU 所以#AD 大家#PN 都#AD 一样#VA
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	但是 *OP* 我 以前 呆 *T*-1 的 企业 节奏 比较 慢 ， 所以 我 要 重新 调整	s68	138201	但是#AD *OP*#NR 我#PN 以前#NT 呆#VV *T*-1#VV 的#DEC 企业#NN 节奏#NN 比较#AD 慢#VA ，#PU 所以#AD 我#PN 要#VV 重新#AD 调整#VV
-CHT_CMN_20120327.0001.su.xml	他	3448	10	短期 目标 就 是 提高 工作 质量 跟 工作 效率	s69	138201	短期#JJ 目标#NN 就#AD 是#VC 提高#VV 工作#NN 质量#NN 跟#CC 工作#NN 效率#NN
-CHT_CMN_20120327.0001.su.xml	他	3470	5	*OP* 需要 学习 *T*-1 的 东西 太 多 了	s70	138201	*OP*#NR 需要#VV 学习#VV *T*-1#NN 的#DEC 东西#NN 太#AD 多#VA 了#SP
+CHT_CMN_20120327.0001.su.xml	我1	3809	10	短期 目标 就 是 提高 工作 质量 跟 工作 效率	s69	138201	短期#JJ 目标#NN 就#AD 是#VC 提高#VV 工作#NN 质量#NN 跟#CC 工作#NN 效率#NN
+CHT_CMN_20120327.0001.su.xml	我1	3865	5	*OP* 需要 学习 *T*-1 的 东西 太 多 了	s70	138201	*OP*#NR 需要#VV 学习#VV *T*-1#NN 的#DEC 东西#NN 太#AD 多#VA 了#SP
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	以后 的 公司 大楼 在 光谷 金融街 上面	s71	138201	以后#NT 的#DEG 公司#NN 大楼#NN 在#P 光谷#NR 金融街#NN 上面#NN
-CHT_CMN_20120327.0001.su.xml	它	266	0	离 我 家 就 更 远 了	s72	138201	离#P 我#PN 家#NN 就#AD 更#AD 远#VA 了#SP
-CHT_CMN_20120327.0001.su.xml	它	575	0	离 我们 这里 近 。	s73	138194	离#P 我们#PN 这里#PN 近#AD 。#PU
-CHT_CMN_20120327.0001.su.xml	它	1005	4	恩 ， 对 啊	s74	138201	恩#IJ ，#PU 对#VA 啊#SP
-CHT_CMN_20120327.0001.su.xml	它	1043	0	到时 再 想 办法 吧 。	s75	138194	到时#AD 再#AD 想#VV 办法#NN 吧#SP 。#PU
-CHT_CMN_20120327.0001.su.xml	它	1124	0	走 一 步 看 一 步 。	s75	138194	走#VV 一#CD 步#M 看#VV 一#CD 步#M 。#PU
-CHT_CMN_20120327.0001.su.xml	它	1290	0	好像 有 公司 的 车 可以 接 员工 *PRO* 上下班	s76	138201	好像#AD 有#VE 公司#NN 的#DEG 车#NN 可以#VV 接#VV 员工#NN *PRO*#NR 上下班#VV
-CHT_CMN_20120327.0001.su.xml	它	1506	13	到时候 有 地铁 了 ， 就 好 了	s77	138201	到时候#AD 有#VE 地铁#NN 了#SP ，#PU 就#AD 好#VA 了#SP
-CHT_CMN_20120327.0001.su.xml	它	1614	0	希望 有 班车 可以 接 人 *PRO* 上下班	s78	138201	希望#VV 有#VE 班车#NN 可以#VV 接#VV 人#NN *PRO*#VV 上下班#VV
-CHT_CMN_20120327.0001.su.xml	它	1700	9	希望 有 班车 可以 接 人 *PRO* 上下班	s78	138201	希望#VV 有#VE 班车#NN 可以#VV 接#VV 人#NN *PRO*#VV 上下班#VV
-CHT_CMN_20120327.0001.su.xml	它	2285	50	我 在 这 家 公司 算是 *OP* *T*-1 比较 弱 得 ， 之前 的 基础 没有 打好 ， 以后 要 更加 努力 才 行	s79	138201	我#PN 在#P 这#DT 家#M 公司#NN 算是#VV *OP*#NN *T*-1#NN 比较#AD 弱#VA 得#DER ，#PU 之前#NT 的#DEG 基础#NN 没有#AD 打好#VV ，#PU 以后#AD 要#VV 更加#AD 努力#VV 才#AD 行#VV
+CHT_CMN_20120327.0001.su.xml	它1	3973	0	离 我 家 就 更 远 了	s72	138201	离#P 我#PN 家#NN 就#AD 更#AD 远#VA 了#SP
+CHT_CMN_20120327.0001.su.xml	它1	4021	0	离 我们 这里 近 。	s73	138194	离#P 我们#PN 这里#PN 近#AD 。#PU
+CHT_CMN_20120327.0001.su.xml	它1	4071	4	恩 ， 对 啊	s74	138201	恩#IJ ，#PU 对#VA 啊#SP
+CHT_CMN_20120327.0001.su.xml	你	4109	0	到时 再 想 办法 吧 。	s75	138194	到时#AD 再#AD 想#VV 办法#NN 吧#SP 。#PU
+CHT_CMN_20120327.0001.su.xml	你1	4129	0	走 一 步 看 一 步 。	s75	138194	走#VV 一#CD 步#M 看#VV 一#CD 步#M 。#PU
+CHT_CMN_20120327.0001.su.xml	形	4177	0	好像 有 公司 的 车 可以 接 员工 *PRO* 上下班	s76	138201	好像#AD 有#VE 公司#NN 的#DEG 车#NN 可以#VV 接#VV 员工#NN *PRO*#NR 上下班#VV
+CHT_CMN_20120327.0001.su.xml	它1	4254	13	到时候 有 地铁 了 ， 就 好 了	s77	138201	到时候#AD 有#VE 地铁#NN 了#SP ，#PU 就#AD 好#VA 了#SP
+CHT_CMN_20120327.0001.su.xml	我1	4294	0	希望 有 班车 可以 接 人 *PRO* 上下班	s78	138201	希望#VV 有#VE 班车#NN 可以#VV 接#VV 人#NN *PRO*#VV 上下班#VV
+CHT_CMN_20120327.0001.su.xml	形	4303	9	希望 有 班车 可以 接 人 *PRO* 上下班	s78	138201	希望#VV 有#VE 班车#NN 可以#VV 接#VV 人#NN *PRO*#VV 上下班#VV
+CHT_CMN_20120327.0001.su.xml	我1	4409	50	我 在 这 家 公司 算是 *OP* *T*-1 比较 弱 得 ， 之前 的 基础 没有 打好 ， 以后 要 更加 努力 才 行	s79	138201	我#PN 在#P 这#DT 家#M 公司#NN 算是#VV *OP*#NN *T*-1#NN 比较#AD 弱#VA 得#DER ，#PU 之前#NT 的#DEG 基础#NN 没有#AD 打好#VV ，#PU 以后#AD 要#VV 更加#AD 努力#VV 才#AD 行#VV
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	地铁 可以 到 光谷 的 。	s80	138194	地铁#NN 可以#VV 到#VV 光谷#NR 的#SP 。#PU
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	这 是 家 *OP* *T*-1 上市 的 公司 ， 还 在 发展 壮大	s81	138201	这#PN 是#VC 家#NN *OP*#NN *T*-1#AD 上市#VV 的#DEC 公司#NN ，#PU 还#AD 在#AD 发展#VV 壮大#VV
-CHT_CMN_20120327.0001.su.xml	它1	2330	4	恩 ， 不 能 到 金融街 啊	s82	138201	恩#IJ ，#PU 不#AD 能#VV 到#VV 金融街#NN 啊#SP
-CHT_CMN_20120327.0001.su.xml	它1	2616	0	加油 啊 。	s83	138194	加油#VV 啊#SP 。#PU
-CHT_CMN_20120327.0001.su.xml	它1	3232	4	到时候 再 看 吧 。	s84	138201	到时候#AD 再#AD 看#VV 吧#SP 。#PU
+CHT_CMN_20120327.0001.su.xml	它2	4570	4	恩 ， 不 能 到 金融街 啊	s82	138201	恩#IJ ，#PU 不#AD 能#VV 到#VV 金融街#NN 啊#SP
+CHT_CMN_20120327.0001.su.xml	你1	4616	0	加油 啊 。	s83	138194	加油#VV 啊#SP 。#PU
+CHT_CMN_20120327.0001.su.xml	我2	4661	4	到时候 再 看 吧 。	s84	138201	到时候#AD 再#AD 看#VV 吧#SP 。#PU
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	我 就 等 着 *PRO* 拿 第一 个 月 的 工资 了 ， 到时候 你们 到 我 家 来 吃饭 吧	s84	138201	我#PN 就#AD 等#VV 着#AS *PRO*#NN 拿#VV 第一#OD 个#M 月#NN 的#DEG 工资#NN 了#SP ，#PU 到时候#AD 你们#PN 到#VV 我#PN 家#NN 来#VV 吃饭#VV 吧#SP
-CHT_CMN_20120327.0001.su.xml	它1	3351	5	呵呵 ， 希望 工资 也 能 半 年 加 一 次	s85	138201	呵呵#IJ ，#PU 希望#VV 工资#NN 也#AD 能#VV 半#CD 年#M 加#VV 一#CD 次#M
+CHT_CMN_20120327.0001.su.xml	我2	4760	5	呵呵 ， 希望 工资 也 能 半 年 加 一 次	s85	138201	呵呵#IJ ，#PU 希望#VV 工资#NN 也#AD 能#VV 半#CD 年#M 加#VV 一#CD 次#M
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	哈哈哈	s86	138201	哈哈哈#IJ
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	公司 没有 培训 所以 很多 的 东西 得 靠 自己	s87	138201	公司#NN 没有#AD 培训#VV 所以#AD 很多#CD 的#DEG 东西#NN 得#VV 靠#VV 自己#PN
-CHT_CMN_20120327.0001.su.xml	它1	3391	0	刚 入 职场 ， 工资 不 是 *OP* *T*-1 最 重要 的 。	s88	138194	刚#AD 入#VV 职场#NN ，#PU 工资#NN 不#AD 是#VC *OP*#NN *T*-1#NN 最#AD 重要#VA 的#DEC 。#PU
+CHT_CMN_20120327.0001.su.xml	你1	4901	0	刚 入 职场 ， 工资 不 是 *OP* *T*-1 最 重要 的 。	s88	138194	刚#AD 入#VV 职场#NN ，#PU 工资#NN 不#AD 是#VC *OP*#NN *T*-1#NN 最#AD 重要#VA 的#DEC 。#PU
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	我 已经 工作 三 年 了	s89	138201	我#PN 已经#AD 工作#VV 三#CD 年#M 了#SP
-CHT_CMN_20120327.0001.su.xml	它1	3973	3	但是 学习 还是 很 重要 的 ， 做 工作 要 做 专业 的	s90	138201	但是#AD 学习#NN 还是#AD 很#AD 重要#VA 的#DEC ，#PU 做#VV 工作#NN 要#VV 做#VV 专业#JJ 的#DEG
-CHT_CMN_20120327.0001.su.xml	它1	4021	24	但是 学习 还是 很 重要 的 ， 做 工作 要 做 专业 的	s90	138201	但是#AD 学习#NN 还是#AD 很#AD 重要#VA 的#DEC ，#PU 做#VV 工作#NN 要#VV 做#VV 专业#JJ 的#DEG
-CHT_CMN_20120327.0001.su.xml	它1	4071	0	尽量 将 小事 做好 *-1 ， 才 会 有 机会 做 大事 。	s91	138194	尽量#AD 将#BA 小事#NN 做好#VV *-1#NN ，#PU 才#AD 会#VV 有#VE 机会#NN 做#VV 大事#NN 。#PU
-CHT_CMN_20120327.0001.su.xml	它1	4254	0	对 ， 要 坚持 零 错误	s92	138201	对#VA ，#PU 要#VV 坚持#VV 零#CD 错误#VA
-CHT_CMN_20120327.0001.su.xml	它2	4570	10	对 ， 要 坚持 零 错误	s92	138201	对#VA ，#PU 要#VV 坚持#VV 零#CD 错误#VA
-CHT_CMN_20120327.0001.su.xml	它2	5152	0	还 要 注意 工作 效率 。	s93	138194	还#AD 要#VV 注意#VV 工作#NN 效率#NN 。#PU
+CHT_CMN_20120327.0001.su.xml	我2	5016	3	但是 学习 还是 很 重要 的 ， 做 工作 要 做 专业 的	s90	138201	但是#AD 学习#NN 还是#AD 很#AD 重要#VA 的#DEC ，#PU 做#VV 工作#NN 要#VV 做#VV 专业#JJ 的#DEG
+CHT_CMN_20120327.0001.su.xml	我2	5037	24	但是 学习 还是 很 重要 的 ， 做 工作 要 做 专业 的	s90	138201	但是#AD 学习#NN 还是#AD 很#AD 重要#VA 的#DEC ，#PU 做#VV 工作#NN 要#VV 做#VV 专业#JJ 的#DEG
+CHT_CMN_20120327.0001.su.xml	你1	5085	0	尽量 将 小事 做好 *-1 ， 才 会 有 机会 做 大事 。	s91	138194	尽量#AD 将#BA 小事#NN 做好#VV *-1#NN ，#PU 才#AD 会#VV 有#VE 机会#NN 做#VV 大事#NN 。#PU
+CHT_CMN_20120327.0001.su.xml	它2	5152	0	对 ， 要 坚持 零 错误	s92	138201	对#VA ，#PU 要#VV 坚持#VV 零#CD 错误#VA
+CHT_CMN_20120327.0001.su.xml	我2	5162	10	对 ， 要 坚持 零 错误	s92	138201	对#VA ，#PU 要#VV 坚持#VV 零#CD 错误#VA
+CHT_CMN_20120327.0001.su.xml	你1	5206	0	还 要 注意 工作 效率 。	s93	138194	还#AD 要#VV 注意#VV 工作#NN 效率#NN 。#PU
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	这样 别人 才 会 对 你 的 工作 能力 给予 *OP* *T*-1 充分 的 认可 。	s93	138194	这样#AD 别人#NN 才#AD 会#VV 对#P 你#PN 的#DEG 工作#NN 能力#NN 给予#VV *OP*#NN *T*-1#NN 充分#VA 的#DEC 认可#NN 。#PU
-CHT_CMN_20120327.0001.su.xml	它2	5641	0	切记 。	s93	138194	切记#VV 。#PU
+CHT_CMN_20120327.0001.su.xml	你1	5273	0	切记 。	s93	138194	切记#VV 。#PU
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	恩 ， 我 这 几 天 连 喝水 都 不 敢 喝 ， 基本 是 高 强度 的 在 工作 ， 我 会 记住 的 ， 效率 非常 的 重要	s94	138201	恩#IJ ，#PU 我#PN 这#DT 几#CD 天#M 连#AD 喝水#VV 都#AD 不#AD 敢#VV 喝#VV ，#PU 基本#AD 是#VC 高#JJ 强度#NN 的#DEG 在#P 工作#NN ，#PU 我#PN 会#VV 记住#VV 的#SP ，#PU 效率#NN 非常#AD 的#DEV 重要#VA
-CHT_CMN_20120327.0001.su.xml	它2	5719	0	与 人 相处 要 随和 ， 新人 要 主动 ， 搞好 人际 关系 是 *OP* *T*-1 搞好 工作 的 前提 和 基础 。	s95	138194	与#P 人#NN 相处#VV 要#VV 随和#VA ，#PU 新人#NN 要#VV 主动#AD ，#PU 搞好#VV 人际#JJ 关系#NN 是#VC *OP*#NN *T*-1#NN 搞好#VV 工作#NN 的#DEC 前提#NN 和#CC 基础#NN 。#PU
-CHT_CMN_20120327.0001.su.xml	它2	5748	13	与 人 相处 要 随和 ， 新人 要 主动 ， 搞好 人际 关系 是 *OP* *T*-1 搞好 工作 的 前提 和 基础 。	s95	138194	与#P 人#NN 相处#VV 要#VV 随和#VA ，#PU 新人#NN 要#VV 主动#AD ，#PU 搞好#VV 人际#JJ 关系#NN 是#VC *OP*#NN *T*-1#NN 搞好#VV 工作#NN 的#DEC 前提#NN 和#CC 基础#NN 。#PU
-CHT_CMN_20120327.0001.su.xml	它2	5965	36	与 人 相处 要 随和 ， 新人 要 主动 ， 搞好 人际 关系 是 *OP* *T*-1 搞好 工作 的 前提 和 基础 。	s95	138194	与#P 人#NN 相处#VV 要#VV 随和#VA ，#PU 新人#NN 要#VV 主动#AD ，#PU 搞好#VV 人际#JJ 关系#NN 是#VC *OP*#NN *T*-1#NN 搞好#VV 工作#NN 的#DEC 前提#NN 和#CC 基础#NN 。#PU
-CHT_CMN_20120327.0001.su.xml	我们	623	58	与 人 相处 要 随和 ， 新人 要 主动 ， 搞好 人际 关系 是 *OP* *T*-1 搞好 工作 的 前提 和 基础 。	s95	138194	与#P 人#NN 相处#VV 要#VV 随和#VA ，#PU 新人#NN 要#VV 主动#AD ，#PU 搞好#VV 人际#JJ 关系#NN 是#VC *OP*#NN *T*-1#NN 搞好#VV 工作#NN 的#DEC 前提#NN 和#CC 基础#NN 。#PU
+CHT_CMN_20120327.0001.su.xml	你1	5408	0	与 人 相处 要 随和 ， 新人 要 主动 ， 搞好 人际 关系 是 *OP* *T*-1 搞好 工作 的 前提 和 基础 。	s95	138194	与#P 人#NN 相处#VV 要#VV 随和#VA ，#PU 新人#NN 要#VV 主动#AD ，#PU 搞好#VV 人际#JJ 关系#NN 是#VC *OP*#NN *T*-1#NN 搞好#VV 工作#NN 的#DEC 前提#NN 和#CC 基础#NN 。#PU
+CHT_CMN_20120327.0001.su.xml	你1	5421	13	与 人 相处 要 随和 ， 新人 要 主动 ， 搞好 人际 关系 是 *OP* *T*-1 搞好 工作 的 前提 和 基础 。	s95	138194	与#P 人#NN 相处#VV 要#VV 随和#VA ，#PU 新人#NN 要#VV 主动#AD ，#PU 搞好#VV 人际#JJ 关系#NN 是#VC *OP*#NN *T*-1#NN 搞好#VV 工作#NN 的#DEC 前提#NN 和#CC 基础#NN 。#PU
+CHT_CMN_20120327.0001.su.xml	你1	5444	36	与 人 相处 要 随和 ， 新人 要 主动 ， 搞好 人际 关系 是 *OP* *T*-1 搞好 工作 的 前提 和 基础 。	s95	138194	与#P 人#NN 相处#VV 要#VV 随和#VA ，#PU 新人#NN 要#VV 主动#AD ，#PU 搞好#VV 人际#JJ 关系#NN 是#VC *OP*#NN *T*-1#NN 搞好#VV 工作#NN 的#DEC 前提#NN 和#CC 基础#NN 。#PU
+CHT_CMN_20120327.0001.su.xml	你1	5466	58	与 人 相处 要 随和 ， 新人 要 主动 ， 搞好 人际 关系 是 *OP* *T*-1 搞好 工作 的 前提 和 基础 。	s95	138194	与#P 人#NN 相处#VV 要#VV 随和#VA ，#PU 新人#NN 要#VV 主动#AD ，#PU 搞好#VV 人际#JJ 关系#NN 是#VC *OP*#NN *T*-1#NN 搞好#VV 工作#NN 的#DEC 前提#NN 和#CC 基础#NN 。#PU
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	恩 ， 我 会 的	s96	138201	恩#IJ ，#PU 我#PN 会#VV 的#DEC
-CHT_CMN_20120327.0001.su.xml	我们	647	0	每 天 要 保证 *OP* *T*-1 足够 的 营养 ， 身体 是 工作 的 本钱 。	s97	138194	每#DT 天#M 要#VV 保证#VV *OP*#NN *T*-1#VV 足够#VA 的#DEC 营养#NN ，#PU 身体#NN 是#VC 工作#NN 的#DEG 本钱#NN 。#PU
-CHT_CMN_20120327.0001.su.xml	我们	1268	0	好 的 ， 一定 啊 ， 公司 的 中餐 很 好吃 ， 我 都 吃 多 了	s98	138201	好#VA 的#SP ，#PU 一定#AD 啊#SP ，#PU 公司#NN 的#DEG 中餐#NN 很#AD 好吃#VA ，#PU 我#PN 都#AD 吃#VV 多#VA 了#SP
-CHT_CMN_20120327.0001.su.xml	我们	5860	12	好 的 ， 一定 啊 ， 公司 的 中餐 很 好吃 ， 我 都 吃 多 了	s98	138201	好#VA 的#SP ，#PU 一定#AD 啊#SP ，#PU 公司#NN 的#DEG 中餐#NN 很#AD 好吃#VA ，#PU 我#PN 都#AD 吃#VV 多#VA 了#SP
-CHT_CMN_20120327.0001.su.xml	形	1259	0	都 是 两 荤 两 素 ， 一 个 水果 。	s99	138201	都#AD 是#VC 两#CD 荤#M 两#CD 素#AD ，#PU 一#CD 个#M 水果#NN 。#PU
-CHT_CMN_20120327.0001.su.xml	形	4177	0	挺 好吃 的	s99	138201	挺#AD 好吃#VA 的#SP
+CHT_CMN_20120327.0001.su.xml	你2	5562	0	每 天 要 保证 *OP* *T*-1 足够 的 营养 ， 身体 是 工作 的 本钱 。	s97	138194	每#DT 天#M 要#VV 保证#VV *OP*#NN *T*-1#VV 足够#VA 的#DEC 营养#NN ，#PU 身体#NN 是#VC 工作#NN 的#DEG 本钱#NN 。#PU
+CHT_CMN_20120327.0001.su.xml	它2	5641	0	好 的 ， 一定 啊 ， 公司 的 中餐 很 好吃 ， 我 都 吃 多 了	s98	138201	好#VA 的#SP ，#PU 一定#AD 啊#SP ，#PU 公司#NN 的#DEG 中餐#NN 很#AD 好吃#VA ，#PU 我#PN 都#AD 吃#VV 多#VA 了#SP
+CHT_CMN_20120327.0001.su.xml	我2	5653	12	好 的 ， 一定 啊 ， 公司 的 中餐 很 好吃 ， 我 都 吃 多 了	s98	138201	好#VA 的#SP ，#PU 一定#AD 啊#SP ，#PU 公司#NN 的#DEG 中餐#NN 很#AD 好吃#VA ，#PU 我#PN 都#AD 吃#VV 多#VA 了#SP
+CHT_CMN_20120327.0001.su.xml	它2	5719	0	都 是 两 荤 两 素 ， 一 个 水果 。	s99	138201	都#AD 是#VC 两#CD 荤#M 两#CD 素#AD ，#PU 一#CD 个#M 水果#NN 。#PU
+CHT_CMN_20120327.0001.su.xml	它2	5748	0	挺 好吃 的	s99	138201	挺#AD 好吃#VA 的#SP
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	那 就 好 。	s100	138194	那#AD 就#AD 好#VA 。#PU
-CHT_CMN_20120327.0001.su.xml	形	4303	0	不 早 了 。	s100	138194	不#AD 早#VA 了#SP 。#PU
+CHT_CMN_20120327.0001.su.xml	形	5798	0	不 早 了 。	s100	138194	不#AD 早#VA 了#SP 。#PU
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	你 早点 休息 吧 。	s100	138194	你#PN 早点#AD 休息#VV 吧#SP 。#PU
-CHT_CMN_20120327.0001.su.xml	形	5798	7	[ 表情 ] 88	s101	138194	[#PU 表情#NN ]#PU 88#CD
+CHT_CMN_20120327.0001.su.xml	我们	5860	7	[ 表情 ] 88	s101	138194	[#PU 表情#NN ]#PU 88#CD
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	恩 ， 我 还 有 工作 要 做 ， 我 清明节 放假 再 跟 您 聊 啊	s102	138201	恩#IJ ，#PU 我#PN 还#AD 有#VE 工作#NN 要#VV 做#VV ，#PU 我#PN 清明节#NN 放假#VV 再#AD 跟#P 您#PN 聊#VV 啊#SP
-CHT_CMN_20120327.0001.su.xml	其	561	0	好 的 。	s103	138194	好#VA 的#SP 。#PU
-CHT_CMN_20120327.0001.su.xml	其	2108	0	天天 开心 很 重要 。	s104	138201	天天#AD 开心#VV 很#AD 重要#VA 。#PU
+CHT_CMN_20120327.0001.su.xml	它2	5965	0	好 的 。	s103	138194	好#VA 的#SP 。#PU
+CHT_CMN_20120327.0001.su.xml	你2	6006	0	天天 开心 很 重要 。	s104	138201	天天#AD 开心#VV 很#AD 重要#VA 。#PU
 CHT_CMN_20120327.0001.su.xml	NONE	-1	-1	嘿嘿	s104	138201	嘿嘿#IJ

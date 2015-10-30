@@ -1,40 +1,40 @@
 CHT_CMN_20110929.0003.su.xml	NONE	-1	-1	嫂子 你 知道 *OP* *T*-1 生病 *T*-1 身体 虚弱 的 人 可以 吃 西洋参 马	s0	137167	嫂子#NN 你#PN 知道#VV *OP*#NN *T*-1#NN 生病#VV *T*-1#NN 身体#NN 虚弱#VA 的#DEC 人#NN 可以#VV 吃#VV 西洋参#NN 马#NN
-CHT_CMN_20110929.0003.su.xml	我	168	16	你 打算 *PRO* 买给 谁 吃 还是 自己 吃 呀 ？	s1	137487	你#PN 打算#VV *PRO*#VV 买给#VV 谁#PN 吃#VV 还是#AD 自己#PN 吃#VV 呀#SP ？#PU
-CHT_CMN_20110929.0003.su.xml	我	288	0	卖给 我 姥爷 吃	s2	137167	卖给#VV 我#PN 姥爷#NN 吃#VV
-CHT_CMN_20110929.0003.su.xml	我	656	14	卖给 我 姥爷 吃	s2	137167	卖给#VV 我#PN 姥爷#NN 吃#VV
-CHT_CMN_20110929.0003.su.xml	我	680	17	他 有 心脏病 ， 总是 喘 ， 今年 没 少 住院 ， 感觉 身体 很 虚 ， 现在 又 长 疱疹 ， 很 想 *PRO* 买 些 什么 补部	s3	137167	他#PN 有#VE 心脏病#NN ，#PU 总是#AD 喘#VV ，#PU 今年#NT 没#AD 少#AD 住院#VV ，#PU 感觉#VV 身体#NN 很#AD 虚#VA ，#PU 现在#NT 又#AD 长#VA 疱疹#NN ，#PU 很#AD 想#VV *PRO*#AD 买#VV 些#M 什么#PN 补部#NN
-CHT_CMN_20110929.0003.su.xml	我	725	35	他 有 心脏病 ， 总是 喘 ， 今年 没 少 住院 ， 感觉 身体 很 虚 ， 现在 又 长 疱疹 ， 很 想 *PRO* 买 些 什么 补部	s3	137167	他#PN 有#VE 心脏病#NN ，#PU 总是#AD 喘#VV ，#PU 今年#NT 没#AD 少#AD 住院#VV ，#PU 感觉#VV 身体#NN 很#AD 虚#VA ，#PU 现在#NT 又#AD 长#VA 疱疹#NN ，#PU 很#AD 想#VV *PRO*#AD 买#VV 些#M 什么#PN 补部#NN
-CHT_CMN_20110929.0003.su.xml	我	774	56	他 有 心脏病 ， 总是 喘 ， 今年 没 少 住院 ， 感觉 身体 很 虚 ， 现在 又 长 疱疹 ， 很 想 *PRO* 买 些 什么 补部	s3	137167	他#PN 有#VE 心脏病#NN ，#PU 总是#AD 喘#VV ，#PU 今年#NT 没#AD 少#AD 住院#VV ，#PU 感觉#VV 身体#NN 很#AD 虚#VA ，#PU 现在#NT 又#AD 长#VA 疱疹#NN ，#PU 很#AD 想#VV *PRO*#AD 买#VV 些#M 什么#PN 补部#NN
-CHT_CMN_20110929.0003.su.xml	我	794	71	他 有 心脏病 ， 总是 喘 ， 今年 没 少 住院 ， 感觉 身体 很 虚 ， 现在 又 长 疱疹 ， 很 想 *PRO* 买 些 什么 补部	s3	137167	他#PN 有#VE 心脏病#NN ，#PU 总是#AD 喘#VV ，#PU 今年#NT 没#AD 少#AD 住院#VV ，#PU 感觉#VV 身体#NN 很#AD 虚#VA ，#PU 现在#NT 又#AD 长#VA 疱疹#NN ，#PU 很#AD 想#VV *PRO*#AD 买#VV 些#M 什么#PN 补部#NN
+CHT_CMN_20110929.0003.su.xml	其	121	16	你 打算 *PRO* 买给 谁 吃 还是 自己 吃 呀 ？	s1	137487	你#PN 打算#VV *PRO*#VV 买给#VV 谁#PN 吃#VV 还是#AD 自己#PN 吃#VV 呀#SP ？#PU
+CHT_CMN_20110929.0003.su.xml	我	168	0	卖给 我 姥爷 吃	s2	137167	卖给#VV 我#PN 姥爷#NN 吃#VV
+CHT_CMN_20110929.0003.su.xml	他	182	14	卖给 我 姥爷 吃	s2	137167	卖给#VV 我#PN 姥爷#NN 吃#VV
+CHT_CMN_20110929.0003.su.xml	他	234	17	他 有 心脏病 ， 总是 喘 ， 今年 没 少 住院 ， 感觉 身体 很 虚 ， 现在 又 长 疱疹 ， 很 想 *PRO* 买 些 什么 补部	s3	137167	他#PN 有#VE 心脏病#NN ，#PU 总是#AD 喘#VV ，#PU 今年#NT 没#AD 少#AD 住院#VV ，#PU 感觉#VV 身体#NN 很#AD 虚#VA ，#PU 现在#NT 又#AD 长#VA 疱疹#NN ，#PU 很#AD 想#VV *PRO*#AD 买#VV 些#M 什么#PN 补部#NN
+CHT_CMN_20110929.0003.su.xml	他	252	35	他 有 心脏病 ， 总是 喘 ， 今年 没 少 住院 ， 感觉 身体 很 虚 ， 现在 又 长 疱疹 ， 很 想 *PRO* 买 些 什么 补部	s3	137167	他#PN 有#VE 心脏病#NN ，#PU 总是#AD 喘#VV ，#PU 今年#NT 没#AD 少#AD 住院#VV ，#PU 感觉#VV 身体#NN 很#AD 虚#VA ，#PU 现在#NT 又#AD 长#VA 疱疹#NN ，#PU 很#AD 想#VV *PRO*#AD 买#VV 些#M 什么#PN 补部#NN
+CHT_CMN_20110929.0003.su.xml	他	273	56	他 有 心脏病 ， 总是 喘 ， 今年 没 少 住院 ， 感觉 身体 很 虚 ， 现在 又 长 疱疹 ， 很 想 *PRO* 买 些 什么 补部	s3	137167	他#PN 有#VE 心脏病#NN ，#PU 总是#AD 喘#VV ，#PU 今年#NT 没#AD 少#AD 住院#VV ，#PU 感觉#VV 身体#NN 很#AD 虚#VA ，#PU 现在#NT 又#AD 长#VA 疱疹#NN ，#PU 很#AD 想#VV *PRO*#AD 买#VV 些#M 什么#PN 补部#NN
+CHT_CMN_20110929.0003.su.xml	我	288	71	他 有 心脏病 ， 总是 喘 ， 今年 没 少 住院 ， 感觉 身体 很 虚 ， 现在 又 长 疱疹 ， 很 想 *PRO* 买 些 什么 补部	s3	137167	他#PN 有#VE 心脏病#NN ，#PU 总是#AD 喘#VV ，#PU 今年#NT 没#AD 少#AD 住院#VV ，#PU 感觉#VV 身体#NN 很#AD 虚#VA ，#PU 现在#NT 又#AD 长#VA 疱疹#NN ，#PU 很#AD 想#VV *PRO*#AD 买#VV 些#M 什么#PN 补部#NN
 CHT_CMN_20110929.0003.su.xml	NONE	-1	-1	邵 上 次 来 时 她 老板 周柔丽 让 我们 *PRO* 给 她 买 西洋参 ， 我 也 就 同时 给 我 公公 婆婆 和 爸妈 都 买 了 回去 让 他们 *PRO* 吃 。	s4	137487	邵#NR 上#DT 次#M 来#VV 时#LC 她#PN 老板#NN 周柔丽#NR 让#VV 我们#PN *PRO*#AD 给#P 她#PN 买#VV 西洋参#NN ，#PU 我#PN 也#AD 就#AD 同时#AD 给#P 我#PN 公公#NN 婆婆#NN 和#CC 爸妈#NN 都#AD 买#VV 了#AS 回去#VV 让#VV 他们#PN *PRO*#AD 吃#VV 。#PU
-CHT_CMN_20110929.0003.su.xml	我	971	10	我 现在 才 发现 吃 西洋参 也 挺 有 讲究 。	s4	137487	我#PN 现在#NT 才#AD 发现#VV 吃#VV 西洋参#NN 也#AD 挺#AD 有#VE 讲究#VV 。#PU
-CHT_CMN_20110929.0003.su.xml	我	1086	0	是 的 ， 我 什么 也 不 懂	s5	137167	是#VC 的#SP ，#PU 我#PN 什么#PN 也#AD 不#AD 懂#VV
+CHT_CMN_20110929.0003.su.xml	他们	441	10	我 现在 才 发现 吃 西洋参 也 挺 有 讲究 。	s4	137487	我#PN 现在#NT 才#AD 发现#VV 吃#VV 西洋参#NN 也#AD 挺#AD 有#VE 讲究#VV 。#PU
+CHT_CMN_20110929.0003.su.xml	它	491	0	是 的 ， 我 什么 也 不 懂	s5	137167	是#VC 的#SP ，#PU 我#PN 什么#PN 也#AD 不#AD 懂#VV
 CHT_CMN_20110929.0003.su.xml	NONE	-1	-1	你 姥爷 是 哪 种 心脏病 你 知道 *T*-1 吗 ？	s6	137487	你#PN 姥爷#NN 是#VC 哪#DT 种#M 心脏病#NN 你#PN 知道#VV *T*-1#NN 吗#SP ？#PU
-CHT_CMN_20110929.0003.su.xml	我	1170	3	例如 是 高血压性 心脏病 或是 肺心病 或是 风湿性 心脏病 或是 其他 ？	s6	137487	例如#AD 是#VC 高血压性#JJ 心脏病#NN 或是#CC 肺心病#NN 或是#CC 风湿性#NN 心脏病#NN 或是#CC 其他#DT ？#PU
-CHT_CMN_20110929.0003.su.xml	我1	1218	12	高血压 没有 ， 风湿 也 没有 听说 过 *T*-1 ， 经常 听说 呼吸 困难	s7	137167	高血压#NN 没有#VV ，#PU 风湿#NN 也#AD 没有#AD 听说#VV 过#AS *T*-1#NN ，#PU 经常#AD 听说#VV 呼吸#NN 困难#VA
-CHT_CMN_20110929.0003.su.xml	我1	1390	36	高血压 没有 ， 风湿 也 没有 听说 过 *T*-1 ， 经常 听说 呼吸 困难	s7	137167	高血压#NN 没有#VV ，#PU 风湿#NN 也#AD 没有#AD 听说#VV 过#AS *T*-1#NN ，#PU 经常#AD 听说#VV 呼吸#NN 困难#VA
-CHT_CMN_20110929.0003.su.xml	我1	1628	0	不 知道 是 什么	s8	137167	不#AD 知道#VV 是#VC 什么#PN
-CHT_CMN_20110929.0003.su.xml	我1	1675	11	不 知道 是 什么	s8	137167	不#AD 知道#VV 是#VC 什么#PN
-CHT_CMN_20110929.0003.su.xml	你	983	0	想 *PRO* 买 又 怕 坏事	s9	137167	想#VV *PRO*#AD 买#VV 又#AD 怕#VV 坏事#NN
-CHT_CMN_20110929.0003.su.xml	他	182	20	想 *PRO* 买 又 怕 坏事	s9	137167	想#VV *PRO*#AD 买#VV 又#AD 怕#VV 坏事#NN
-CHT_CMN_20110929.0003.su.xml	他	234	5	你 知道 还 有 什么 *OP* *T*-1 可以 补 身体 的 嘛	s10	137167	你#PN 知道#VV 还#AD 有#VE 什么#DT *OP*#NN *T*-1#NN 可以#VV 补#VV 身体#NN 的#DEG 嘛#SP
-CHT_CMN_20110929.0003.su.xml	他	252	24	我 也 不 知道 ， 若 她 身体 太 差 ， 还是 得 看看 中医 问问 看 她 是 不 是 适宜 *PRO* 服用 ， 否则 也 真 怕 好心 办 坏事 。	s11	137487	我#PN 也#AD 不#AD 知道#VV ，#PU 若#CS 她#PN 身体#NN 太#AD 差#VA ，#PU 还是#CC 得#VV 看看#VV 中医#NN 问问#VV 看#VV 她#PN 是#VC 不#AD 是#VC 适宜#VV *PRO*#NR 服用#VV ，#PU 否则#AD 也#AD 真#AD 怕#VV 好心#AD 办#VV 坏事#NN 。#PU
-CHT_CMN_20110929.0003.su.xml	他	273	71	我 也 不 知道 ， 若 她 身体 太 差 ， 还是 得 看看 中医 问问 看 她 是 不 是 适宜 *PRO* 服用 ， 否则 也 真 怕 好心 办 坏事 。	s11	137487	我#PN 也#AD 不#AD 知道#VV ，#PU 若#CS 她#PN 身体#NN 太#AD 差#VA ，#PU 还是#CC 得#VV 看看#VV 中医#NN 问问#VV 看#VV 她#PN 是#VC 不#AD 是#VC 适宜#VV *PRO*#NR 服用#VV ，#PU 否则#AD 也#AD 真#AD 怕#VV 好心#AD 办#VV 坏事#NN 。#PU
-CHT_CMN_20110929.0003.su.xml	他	574	83	我 也 不 知道 ， 若 她 身体 太 差 ， 还是 得 看看 中医 问问 看 她 是 不 是 适宜 *PRO* 服用 ， 否则 也 真 怕 好心 办 坏事 。	s11	137487	我#PN 也#AD 不#AD 知道#VV ，#PU 若#CS 她#PN 身体#NN 太#AD 差#VA ，#PU 还是#CC 得#VV 看看#VV 中医#NN 问问#VV 看#VV 她#PN 是#VC 不#AD 是#VC 适宜#VV *PRO*#NR 服用#VV ，#PU 否则#AD 也#AD 真#AD 怕#VV 好心#AD 办#VV 坏事#NN 。#PU
+CHT_CMN_20110929.0003.su.xml	他	574	3	例如 是 高血压性 心脏病 或是 肺心病 或是 风湿性 心脏病 或是 其他 ？	s6	137487	例如#AD 是#VC 高血压性#JJ 心脏病#NN 或是#CC 肺心病#NN 或是#CC 风湿性#NN 心脏病#NN 或是#CC 其他#DT ？#PU
+CHT_CMN_20110929.0003.su.xml	我	656	12	高血压 没有 ， 风湿 也 没有 听说 过 *T*-1 ， 经常 听说 呼吸 困难	s7	137167	高血压#NN 没有#VV ，#PU 风湿#NN 也#AD 没有#AD 听说#VV 过#AS *T*-1#NN ，#PU 经常#AD 听说#VV 呼吸#NN 困难#VA
+CHT_CMN_20110929.0003.su.xml	我	680	36	高血压 没有 ， 风湿 也 没有 听说 过 *T*-1 ， 经常 听说 呼吸 困难	s7	137167	高血压#NN 没有#VV ，#PU 风湿#NN 也#AD 没有#AD 听说#VV 过#AS *T*-1#NN ，#PU 经常#AD 听说#VV 呼吸#NN 困难#VA
+CHT_CMN_20110929.0003.su.xml	我	725	0	不 知道 是 什么	s8	137167	不#AD 知道#VV 是#VC 什么#PN
+CHT_CMN_20110929.0003.su.xml	它	736	11	不 知道 是 什么	s8	137167	不#AD 知道#VV 是#VC 什么#PN
+CHT_CMN_20110929.0003.su.xml	我	774	0	想 *PRO* 买 又 怕 坏事	s9	137167	想#VV *PRO*#AD 买#VV 又#AD 怕#VV 坏事#NN
+CHT_CMN_20110929.0003.su.xml	我	794	20	想 *PRO* 买 又 怕 坏事	s9	137167	想#VV *PRO*#AD 买#VV 又#AD 怕#VV 坏事#NN
+CHT_CMN_20110929.0003.su.xml	形	836	5	你 知道 还 有 什么 *OP* *T*-1 可以 补 身体 的 嘛	s10	137167	你#PN 知道#VV 还#AD 有#VE 什么#DT *OP*#NN *T*-1#NN 可以#VV 补#VV 身体#NN 的#DEG 嘛#SP
+CHT_CMN_20110929.0003.su.xml	他	924	24	我 也 不 知道 ， 若 她 身体 太 差 ， 还是 得 看看 中医 问问 看 她 是 不 是 适宜 *PRO* 服用 ， 否则 也 真 怕 好心 办 坏事 。	s11	137487	我#PN 也#AD 不#AD 知道#VV ，#PU 若#CS 她#PN 身体#NN 太#AD 差#VA ，#PU 还是#CC 得#VV 看看#VV 中医#NN 问问#VV 看#VV 她#PN 是#VC 不#AD 是#VC 适宜#VV *PRO*#NR 服用#VV ，#PU 否则#AD 也#AD 真#AD 怕#VV 好心#AD 办#VV 坏事#NN 。#PU
+CHT_CMN_20110929.0003.su.xml	我	971	71	我 也 不 知道 ， 若 她 身体 太 差 ， 还是 得 看看 中医 问问 看 她 是 不 是 适宜 *PRO* 服用 ， 否则 也 真 怕 好心 办 坏事 。	s11	137487	我#PN 也#AD 不#AD 知道#VV ，#PU 若#CS 她#PN 身体#NN 太#AD 差#VA ，#PU 还是#CC 得#VV 看看#VV 中医#NN 问问#VV 看#VV 她#PN 是#VC 不#AD 是#VC 适宜#VV *PRO*#NR 服用#VV ，#PU 否则#AD 也#AD 真#AD 怕#VV 好心#AD 办#VV 坏事#NN 。#PU
+CHT_CMN_20110929.0003.su.xml	你	983	83	我 也 不 知道 ， 若 她 身体 太 差 ， 还是 得 看看 中医 问问 看 她 是 不 是 适宜 *PRO* 服用 ， 否则 也 真 怕 好心 办 坏事 。	s11	137487	我#PN 也#AD 不#AD 知道#VV ，#PU 若#CS 她#PN 身体#NN 太#AD 差#VA ，#PU 还是#CC 得#VV 看看#VV 中医#NN 问问#VV 看#VV 她#PN 是#VC 不#AD 是#VC 适宜#VV *PRO*#NR 服用#VV ，#PU 否则#AD 也#AD 真#AD 怕#VV 好心#AD 办#VV 坏事#NN 。#PU
 CHT_CMN_20110929.0003.su.xml	NONE	-1	-1	*OP* 你 上 次 买 *T*-1 的 东西 寄 回去 了	s12	137167	*OP*#NR 你#PN 上#DT 次#M 买#VV *T*-1#NN 的#DEC 东西#NN 寄#VV 回去#VV 了#SP
-CHT_CMN_20110929.0003.su.xml	他	924	0	还 没有 ， 我 又 给 邵 买 了 两 个 *OP* 做 实验 用 *T*-1 的 匀浆器 ， 他 等 着 急 用 ， 我 打算 *PRO* 收到 后 把 它 包 在 衣服 里 *RNR*-3 寄 回去 *-2 。	s13	137487	还#AD 没有#AD ，#PU 我#PN 又#AD 给#P 邵#NR 买#VV 了#AS 两#CD 个#M *OP*#NN 做#VV 实验#NN 用#P *T*-1#NN 的#DEG 匀浆器#NN ，#PU 他#PN 等#VV 着#AS 急#AD 用#VV ，#PU 我#PN 打算#VV *PRO*#VV 收到#VV 后#LC 把#BA 它#PN 包#VV 在#P 衣服#NN 里#LC *RNR*-3#VV 寄#VV 回去#VV *-2#CD 。#PU
+CHT_CMN_20110929.0003.su.xml	我	1086	0	还 没有 ， 我 又 给 邵 买 了 两 个 *OP* 做 实验 用 *T*-1 的 匀浆器 ， 他 等 着 急 用 ， 我 打算 *PRO* 收到 后 把 它 包 在 衣服 里 *RNR*-3 寄 回去 *-2 。	s13	137487	还#AD 没有#AD ，#PU 我#PN 又#AD 给#P 邵#NR 买#VV 了#AS 两#CD 个#M *OP*#NN 做#VV 实验#NN 用#P *T*-1#NN 的#DEG 匀浆器#NN ，#PU 他#PN 等#VV 着#AS 急#AD 用#VV ，#PU 我#PN 打算#VV *PRO*#VV 收到#VV 后#LC 把#BA 它#PN 包#VV 在#P 衣服#NN 里#LC *RNR*-3#VV 寄#VV 回去#VV *-2#CD 。#PU
 CHT_CMN_20110929.0003.su.xml	他	1120	34	还 没有 ， 我 又 给 邵 买 了 两 个 *OP* 做 实验 用 *T*-1 的 匀浆器 ， 他 等 着 急 用 ， 我 打算 *PRO* 收到 后 把 它 包 在 衣服 里 *RNR*-3 寄 回去 *-2 。	s13	137487	还#AD 没有#AD ，#PU 我#PN 又#AD 给#P 邵#NR 买#VV 了#AS 两#CD 个#M *OP*#NN 做#VV 实验#NN 用#P *T*-1#NN 的#DEG 匀浆器#NN ，#PU 他#PN 等#VV 着#AS 急#AD 用#VV ，#PU 我#PN 打算#VV *PRO*#VV 收到#VV 后#LC 把#BA 它#PN 包#VV 在#P 衣服#NN 里#LC *RNR*-3#VV 寄#VV 回去#VV *-2#CD 。#PU
-CHT_CMN_20110929.0003.su.xml	它	491	84	还 没有 ， 我 又 给 邵 买 了 两 个 *OP* 做 实验 用 *T*-1 的 匀浆器 ， 他 等 着 急 用 ， 我 打算 *PRO* 收到 后 把 它 包 在 衣服 里 *RNR*-3 寄 回去 *-2 。	s13	137487	还#AD 没有#AD ，#PU 我#PN 又#AD 给#P 邵#NR 买#VV 了#AS 两#CD 个#M *OP*#NN 做#VV 实验#NN 用#P *T*-1#NN 的#DEG 匀浆器#NN ，#PU 他#PN 等#VV 着#AS 急#AD 用#VV ，#PU 我#PN 打算#VV *PRO*#VV 收到#VV 后#LC 把#BA 它#PN 包#VV 在#P 衣服#NN 里#LC *RNR*-3#VV 寄#VV 回去#VV *-2#CD 。#PU
-CHT_CMN_20110929.0003.su.xml	它	736	5	*OP* 上 次 买 *T*-1 的 NIKE 的 衣服 鞋子 他 挺 喜欢 *T*-2 的 。	s13	137487	*OP*#NN 上#DT 次#M 买#VV *T*-1#NN 的#DEC NIKE#NR 的#DEG 衣服#NN 鞋子#NN 他#PN 挺#AD 喜欢#VV *T*-2#VV 的#SP 。#PU
+CHT_CMN_20110929.0003.su.xml	我	1170	84	还 没有 ， 我 又 给 邵 买 了 两 个 *OP* 做 实验 用 *T*-1 的 匀浆器 ， 他 等 着 急 用 ， 我 打算 *PRO* 收到 后 把 它 包 在 衣服 里 *RNR*-3 寄 回去 *-2 。	s13	137487	还#AD 没有#AD ，#PU 我#PN 又#AD 给#P 邵#NR 买#VV 了#AS 两#CD 个#M *OP*#NN 做#VV 实验#NN 用#P *T*-1#NN 的#DEG 匀浆器#NN ，#PU 他#PN 等#VV 着#AS 急#AD 用#VV ，#PU 我#PN 打算#VV *PRO*#VV 收到#VV 后#LC 把#BA 它#PN 包#VV 在#P 衣服#NN 里#LC *RNR*-3#VV 寄#VV 回去#VV *-2#CD 。#PU
+CHT_CMN_20110929.0003.su.xml	我1	1218	5	*OP* 上 次 买 *T*-1 的 NIKE 的 衣服 鞋子 他 挺 喜欢 *T*-2 的 。	s13	137487	*OP*#NN 上#DT 次#M 买#VV *T*-1#NN 的#DEC NIKE#NR 的#DEG 衣服#NN 鞋子#NN 他#PN 挺#AD 喜欢#VV *T*-2#VV 的#SP 。#PU
 CHT_CMN_20110929.0003.su.xml	NONE	-1	-1	那 就 好	s14	137167	那#AD 就#AD 好#VA
 CHT_CMN_20110929.0003.su.xml	NONE	-1	-1	我 今天 从 上午 7点半 做 实验 到 下午 7点半 才 回来 ， 又 分离 了 6 个 老鼠 的 干细胞 。	s15	137487	我#PN 今天#NT 从#P 上午#NT 7点半#NT 做#VV 实验#NN 到#P 下午#NT 7点半#NT 才#AD 回来#VV ，#PU 又#AD 分离#VV 了#AS 6#CD 个#M 老鼠#NN 的#DEG 干细胞#NN 。#PU
-CHT_CMN_20110929.0003.su.xml	它	1449	3	明天 不 打算 *PRO* 做 太 多 实验 了 ， 我们 4点 到 5点 是 例会 。	s15	137487	明天#NT 不#AD 打算#VV *PRO*#VV 做#VV 太#AD 多#CD 实验#NN 了#SP ，#PU 我们#PN 4点#NT 到#CC 5点#NT 是#VC 例会#NN 。#PU
-CHT_CMN_20110929.0003.su.xml	它	1592	11	我 打算 *PRO* 结束 后 过去 教会 。	s15	137487	我#PN 打算#VV *PRO*#NN 结束#VV 后#LC 过去#NT 教会#NN 。#PU
+CHT_CMN_20110929.0003.su.xml	我1	1390	3	明天 不 打算 *PRO* 做 太 多 实验 了 ， 我们 4点 到 5点 是 例会 。	s15	137487	明天#NT 不#AD 打算#VV *PRO*#VV 做#VV 太#AD 多#CD 实验#NN 了#SP ，#PU 我们#PN 4点#NT 到#CC 5点#NT 是#VC 例会#NN 。#PU
+CHT_CMN_20110929.0003.su.xml	它	1449	11	我 打算 *PRO* 结束 后 过去 教会 。	s15	137487	我#PN 打算#VV *PRO*#NN 结束#VV 后#LC 过去#NT 教会#NN 。#PU
 CHT_CMN_20110929.0003.su.xml	NONE	-1	-1	你 星期六 去 练 一下 车 吧 ？	s15	137487	你#PN 星期六#NT 去#VV 练#VV 一下#AD 车#NN 吧#SP ？#PU
 CHT_CMN_20110929.0003.su.xml	NONE	-1	-1	我 星期天 下午 回去 实验室 给 细胞 照相 。	s15	137487	我#PN 星期天#NT 下午#NT 回去#VV 实验室#NN 给#VV 细胞#NN 照相#NN 。#PU
-CHT_CMN_20110929.0003.su.xml	它	1725	2	你 上 次 回去 路上 顺利 吗	s16	137167	你#PN 上#DT 次#M 回去#VV 路上#NN 顺利#VA 吗#SP
-CHT_CMN_20110929.0003.su.xml	它	1779	0	好	s17	137167	好#VA
-CHT_CMN_20110929.0003.su.xml	他们	441	0	上 次 回来 挺 好 的 ， 我 出来 得 早 ， 8点10分 就 到家 了 ， 还 炒 了 菜 带去 上班 。	s18	137487	上#DT 次#M 回来#VV 挺#AD 好#VA 的#SP ，#PU 我#PN 出来#VV 得#DER 早#VA ，#PU 8点10分#NT 就#AD 到家#VV 了#AS ，#PU 还#AD 炒#VV 了#AS 菜#NN 带去#VV 上班#VV 。#PU
-CHT_CMN_20110929.0003.su.xml	形	836	47	上 次 回来 挺 好 的 ， 我 出来 得 早 ， 8点10分 就 到家 了 ， 还 炒 了 菜 带去 上班 。	s18	137487	上#DT 次#M 回来#VV 挺#AD 好#VA 的#SP ，#PU 我#PN 出来#VV 得#DER 早#VA ，#PU 8点10分#NT 就#AD 到家#VV 了#AS ，#PU 还#AD 炒#VV 了#AS 菜#NN 带去#VV 上班#VV 。#PU
-CHT_CMN_20110929.0003.su.xml	其	121	0	挺 好 的	s19	137167	挺#AD 好#VA 的#SP
-CHT_CMN_20110929.0003.su.xml	其	1543	14	我 在 网上 查 *OP* *T*-1 邮寄 的 费用	s20	137167	我#PN 在#P 网上#NN 查#VV *OP*#NN *T*-1#AD 邮寄#VV 的#DEC 费用#NN
+CHT_CMN_20110929.0003.su.xml	其	1543	2	你 上 次 回去 路上 顺利 吗	s16	137167	你#PN 上#DT 次#M 回去#VV 路上#NN 顺利#VA 吗#SP
+CHT_CMN_20110929.0003.su.xml	它	1592	0	好	s17	137167	好#VA
+CHT_CMN_20110929.0003.su.xml	我1	1628	0	上 次 回来 挺 好 的 ， 我 出来 得 早 ， 8点10分 就 到家 了 ， 还 炒 了 菜 带去 上班 。	s18	137487	上#DT 次#M 回来#VV 挺#AD 好#VA 的#SP ，#PU 我#PN 出来#VV 得#DER 早#VA ，#PU 8点10分#NT 就#AD 到家#VV 了#AS ，#PU 还#AD 炒#VV 了#AS 菜#NN 带去#VV 上班#VV 。#PU
+CHT_CMN_20110929.0003.su.xml	我1	1675	47	上 次 回来 挺 好 的 ， 我 出来 得 早 ， 8点10分 就 到家 了 ， 还 炒 了 菜 带去 上班 。	s18	137487	上#DT 次#M 回来#VV 挺#AD 好#VA 的#SP ，#PU 我#PN 出来#VV 得#DER 早#VA ，#PU 8点10分#NT 就#AD 到家#VV 了#AS ，#PU 还#AD 炒#VV 了#AS 菜#NN 带去#VV 上班#VV 。#PU
+CHT_CMN_20110929.0003.su.xml	它	1725	0	挺 好 的	s19	137167	挺#AD 好#VA 的#SP
+CHT_CMN_20110929.0003.su.xml	它	1779	14	我 在 网上 查 *OP* *T*-1 邮寄 的 费用	s20	137167	我#PN 在#P 网上#NN 查#VV *OP*#NN *T*-1#AD 邮寄#VV 的#DEC 费用#NN

@@ -1,12 +1,12 @@
-CHT_CMN_20110516.0000.su.xml	我	607	0	太 大 了 ， 你 说 *T*-1 的	s0	138140	太#AD 大#VA 了#SP ，#PU 你#PN 说#VV *T*-1#NR 的#SP
-CHT_CMN_20110516.0000.su.xml	你	177	0	不 大	s1	138136	不#AD 大#VA
-CHT_CMN_20110516.0000.su.xml	你	564	0	于 我们 的 生活 都 息息相关 的	s2	138136	于#P 我们#PN 的#DEG 生活#NN 都#AD 息息相关#VV 的#SP
-CHT_CMN_20110516.0000.su.xml	它	29	6	你 看 ， 到 超市 买 油	s3	138136	你#PN 看#VV ，#PU 到#P 超市#NN 买#VV 油#NN
+CHT_CMN_20110516.0000.su.xml	它	29	0	太 大 了 ， 你 说 *T*-1 的	s0	138140	太#AD 大#VA 了#SP ，#PU 你#PN 说#VV *T*-1#NR 的#SP
+CHT_CMN_20110516.0000.su.xml	它	82	0	不 大	s1	138136	不#AD 大#VA
+CHT_CMN_20110516.0000.su.xml	它	119	0	于 我们 的 生活 都 息息相关 的	s2	138136	于#P 我们#PN 的#DEG 生活#NN 都#AD 息息相关#VV 的#SP
+CHT_CMN_20110516.0000.su.xml	你	177	6	你 看 ， 到 超市 买 油	s3	138136	你#PN 看#VV ，#PU 到#P 超市#NN 买#VV 油#NN
 CHT_CMN_20110516.0000.su.xml	NONE	-1	-1	豆油 都 是 *OP* *T*-1 转 基因 的	s4	138136	豆油#NN 都#AD 是#VC *OP*#NN *T*-1#NN 转#VV 基因#NN 的#SP
 CHT_CMN_20110516.0000.su.xml	NONE	-1	-1	那 是 *OP* 别人 说 *T*-1 的 ， 别人 不 说 ， 我们 不 是 照样 吃 的 好好 的	s5	138140	那#PN 是#VC *OP*#NR 别人#NN 说#VV *T*-1#NN 的#SP ，#PU 别人#NN 不#AD 说#VV ，#PU 我们#PN 不#AD 是#VC 照样#AD 吃#VV 的#DEC 好好#AD 的#DEV
 CHT_CMN_20110516.0000.su.xml	NONE	-1	-1	食品 不 安全 ， 当 *OP* 媒体 *T*-1 不 公布 的 时候 ， 有上 会 知道 *T*-2 吗	s6	138140	食品#NN 不#AD 安全#VA ，#PU 当#P *OP*#NR 媒体#NN *T*-1#NN 不#AD 公布#VV 的#DEC 时候#NN ，#PU 有上#AD 会#VV 知道#VV *T*-2#NN 吗#SP
 CHT_CMN_20110516.0000.su.xml	NONE	-1	-1	纸 是 保 不 住 火 的	s7	138136	纸#NN 是#VC 保#VV 不#AD 住#VV 火#NN 的#SP
 CHT_CMN_20110516.0000.su.xml	NONE	-1	-1	媒体 也 有 左派 、 右派 之 分 的	s8	138136	媒体#NN 也#AD 有#VE 左派#NN 、#PU 右派#NN 之#DEG 分#NN 的#SP
 CHT_CMN_20110516.0000.su.xml	NONE	-1	-1	哥哥 是 资深 投资人 了 ？	s9	138136	哥哥#NN 是#VC 资深#JJ 投资人#NN 了#SP ？#PU
-CHT_CMN_20110516.0000.su.xml	它	82	0	开始 忙 了 ？	s10	138136	开始#AD 忙#VV 了#SP ？#PU
-CHT_CMN_20110516.0000.su.xml	它	119	0	刚才 掉线 了 ， 才 连上 呢	s11	138140	刚才#AD 掉线#VV 了#AS ，#PU 才#AD 连上#VV 呢#SP
+CHT_CMN_20110516.0000.su.xml	你	564	0	开始 忙 了 ？	s10	138136	开始#AD 忙#VV 了#SP ？#PU
+CHT_CMN_20110516.0000.su.xml	我	607	0	刚才 掉线 了 ， 才 连上 呢	s11	138140	刚才#AD 掉线#VV 了#AS ，#PU 才#AD 连上#VV 呢#SP

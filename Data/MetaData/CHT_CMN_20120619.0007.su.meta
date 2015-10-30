@@ -1,79 +1,79 @@
 CHT_CMN_20120619.0007.su.xml	NONE	-1	-1	孟娇	s0	131226	孟娇#NR
 CHT_CMN_20120619.0007.su.xml	NONE	-1	-1	你 让 彭明伟 *PRO* 上 我 办公室	s1	131226	你#PN 让#VV 彭明伟#NR *PRO*#NR 上#LC 我#PN 办公室#NN
-CHT_CMN_20120619.0007.su.xml	我	151	0	不 在 啊	s2	134108	不#AD 在#VV 啊#SP
-CHT_CMN_20120619.0007.su.xml	我	164	4	哦 ， 那 算了 。	s3	131226	哦#IJ ，#PU 那#AD 算了#VV 。#PU
-CHT_CMN_20120619.0007.su.xml	我	1462	0	谢谢 你	s3	131226	谢谢#VV 你#PN
+CHT_CMN_20120619.0007.su.xml	他	108	0	不 在 啊	s2	134108	不#AD 在#VV 啊#SP
+CHT_CMN_20120619.0007.su.xml	我	151	4	哦 ， 那 算了 。	s3	131226	哦#IJ ，#PU 那#AD 算了#VV 。#PU
+CHT_CMN_20120619.0007.su.xml	我	164	0	谢谢 你	s3	131226	谢谢#VV 你#PN
 CHT_CMN_20120619.0007.su.xml	NONE	-1	-1	这 次 你 回复 得 蛮 快	s4	131226	这#DT 次#M 你#PN 回复#VV 得#DER 蛮#AD 快#VA
 CHT_CMN_20120619.0007.su.xml	NONE	-1	-1	嘿嘿 今天 卫生 不 是 很 脏	s5	134108	嘿嘿#IJ 今天#NT 卫生#NN 不#AD 是#VC 很#AD 脏#VA
-CHT_CMN_20120619.0007.su.xml	我	1916	6	还有 昨天 问 清楚 了 1 3 6 7	s6	134108	还有#AD 昨天#NT 问#VV 清楚#VA 了#AS 1#CD 3#CD 6#CD 7#CD
+CHT_CMN_20120619.0007.su.xml	你	294	6	还有 昨天 问 清楚 了 1 3 6 7	s6	134108	还有#AD 昨天#NT 问#VV 清楚#VA 了#AS 1#CD 3#CD 6#CD 7#CD
 CHT_CMN_20120619.0007.su.xml	NONE	-1	-1	瑜伽	s7	134108	瑜伽#NN
 CHT_CMN_20120619.0007.su.xml	NONE	-1	-1	1 3 是 晚上	s8	134108	1#CD 3#CD 是#VC 晚上#NT
 CHT_CMN_20120619.0007.su.xml	NONE	-1	-1	1 3 6 7 是 什么	s9	131226	1#CD 3#CD 6#CD 7#CD 是#VC 什么#PN
-CHT_CMN_20120619.0007.su.xml	我	2006	0	一 周 四 天 课 ？	s10	131226	一#CD 周#M 四#CD 天#M 课#NN ？#PU
+CHT_CMN_20120619.0007.su.xml	它	449	0	一 周 四 天 课 ？	s10	131226	一#CD 周#M 四#CD 天#M 课#NN ？#PU
 CHT_CMN_20120619.0007.su.xml	NONE	-1	-1	6 7 是 下午	s11	134108	6#CD 7#CD 是#VC 下午#NT
 CHT_CMN_20120619.0007.su.xml	NONE	-1	-1	2 4 5 肚皮 舞	s12	134108	2#CD 4#CD 5#CD 肚皮#NN 舞#NN
 CHT_CMN_20120619.0007.su.xml	NONE	-1	-1	2 4 5 是 什么 ？	s13	131226	2#CD 4#CD 5#CD 是#VC 什么#PN ？#PU
 CHT_CMN_20120619.0007.su.xml	NONE	-1	-1	我 肯定 是 每 天 晚上	s14	131226	我#PN 肯定#AD 是#VC 每#DT 天#M 晚上#NT
 CHT_CMN_20120619.0007.su.xml	NONE	-1	-1	2 4 5 是 晚上 吗	s15	131226	2#CD 4#CD 5#CD 是#VC 晚上#NT 吗#SP
-CHT_CMN_20120619.0007.su.xml	我	2267	0	过 两 天 还 有 爵士 舞	s16	134108	过#VV 两#CD 天#M 还#AD 有#VE 爵士#NN 舞#NN
-CHT_CMN_20120619.0007.su.xml	我	2917	12	过 两 天 还 有 爵士 舞	s16	134108	过#VV 两#CD 天#M 还#AD 有#VE 爵士#NN 舞#NN
-CHT_CMN_20120619.0007.su.xml	我	3024	0	是 啊	s17	134108	是#VC 啊#SP
+CHT_CMN_20120619.0007.su.xml	形	695	0	过 两 天 还 有 爵士 舞	s16	134108	过#VV 两#CD 天#M 还#AD 有#VE 爵士#NN 舞#NN
+CHT_CMN_20120619.0007.su.xml	它	707	12	过 两 天 还 有 爵士 舞	s16	134108	过#VV 两#CD 天#M 还#AD 有#VE 爵士#NN 舞#NN
+CHT_CMN_20120619.0007.su.xml	它	750	0	是 啊	s17	134108	是#VC 啊#SP
 CHT_CMN_20120619.0007.su.xml	NONE	-1	-1	我 都 是 晚上	s18	134108	我#PN 都#AD 是#VC 晚上#NT
-CHT_CMN_20120619.0007.su.xml	你	294	6	周五 晚上 没有	s19	134108	周五#NT 晚上#NT 没有#VV
+CHT_CMN_20120619.0007.su.xml	它	831	6	周五 晚上 没有	s19	134108	周五#NT 晚上#NT 没有#VV
 CHT_CMN_20120619.0007.su.xml	NONE	-1	-1	爵士 舞 不错	s20	131226	爵士#NN 舞#NN 不错#VA
 CHT_CMN_20120619.0007.su.xml	NONE	-1	-1	我 也 想 *PRO* 学	s21	131226	我#PN 也#AD 想#VV *PRO*#VV 学#VV
-CHT_CMN_20120619.0007.su.xml	你	1623	3	呵呵 过 段 时间 就 开课	s22	134108	呵呵#IJ 过#AD 段#M 时间#NN 就#AD 开课#VV
-CHT_CMN_20120619.0007.su.xml	你	1745	16	呵呵 过 段 时间 就 开课	s22	134108	呵呵#IJ 过#AD 段#M 时间#NN 就#AD 开课#VV
+CHT_CMN_20120619.0007.su.xml	形	949	3	呵呵 过 段 时间 就 开课	s22	134108	呵呵#IJ 过#AD 段#M 时间#NN 就#AD 开课#VV
+CHT_CMN_20120619.0007.su.xml	它	962	16	呵呵 过 段 时间 就 开课	s22	134108	呵呵#IJ 过#AD 段#M 时间#NN 就#AD 开课#VV
 CHT_CMN_20120619.0007.su.xml	NONE	-1	-1	你 给 我 总结 下	s23	131226	你#PN 给#P 我#PN 总结#VV 下#VV
 CHT_CMN_20120619.0007.su.xml	NONE	-1	-1	1 3 晚上 瑜伽 2 4 晚上 肚皮	s24	134108	1#CD 3#CD 晚上#NT 瑜伽#NN 2#CD 4#CD 晚上#NT 肚皮#NN
-CHT_CMN_20120619.0007.su.xml	你	2405	0	每 天 晚上 都 有 什么	s25	131226	每#DT 天#M 晚上#NT 都#AD 有#VE 什么#DT
+CHT_CMN_20120619.0007.su.xml	它	1088	0	每 天 晚上 都 有 什么	s25	131226	每#DT 天#M 晚上#NT 都#AD 有#VE 什么#DT
 CHT_CMN_20120619.0007.su.xml	NONE	-1	-1	刚才 我 看乱 了	s26	131226	刚才#AD 我#PN 看乱#VV 了#AS
-CHT_CMN_20120619.0007.su.xml	你	2446	0	5 休息	s27	134108	5#CD 休息#NN
+CHT_CMN_20120619.0007.su.xml	它	1174	0	5 休息	s27	134108	5#CD 休息#NN
 CHT_CMN_20120619.0007.su.xml	NONE	-1	-1	6 7 都 是 下午 的 课	s28	134108	6#CD 7#CD 都#AD 是#VC 下午#NT 的#DEG 课#NN
-CHT_CMN_20120619.0007.su.xml	你	2928	0	这样 的话 晚上 一 周 就 4 天 课	s29	131226	这样#AD 的话#SP 晚上#NT 一#CD 周#M 就#AD 4#CD 天#M 课#NN
-CHT_CMN_20120619.0007.su.xml	你	3071	12	这样 的话 晚上 一 周 就 4 天 课	s29	131226	这样#AD 的话#SP 晚上#NT 一#CD 周#M 就#AD 4#CD 天#M 课#NN
+CHT_CMN_20120619.0007.su.xml	其	1256	0	这样 的话 晚上 一 周 就 4 天 课	s29	131226	这样#AD 的话#SP 晚上#NT 一#CD 周#M 就#AD 4#CD 天#M 课#NN
+CHT_CMN_20120619.0007.su.xml	它	1268	12	这样 的话 晚上 一 周 就 4 天 课	s29	131226	这样#AD 的话#SP 晚上#NT 一#CD 周#M 就#AD 4#CD 天#M 课#NN
 CHT_CMN_20120619.0007.su.xml	NONE	-1	-1	另外 ， 晚上 是 几点 到 几点 ？	s30	131226	另外#AD ，#PU 晚上#NT 是#VC 几点#AD 到#VV 几点#NN ？#PU
 CHT_CMN_20120619.0007.su.xml	NONE	-1	-1	6.20 - 7.20	s31	134108	6.20#NT -#PU 7.20#CD
-CHT_CMN_20120619.0007.su.xml	他	108	0	过 段 时间 可能 改 时间	s32	134108	过#VV 段#NN 时间#NN 可能#AD 改#VV 时间#NN
-CHT_CMN_20120619.0007.su.xml	它	449	13	过 段 时间 可能 改 时间	s32	134108	过#VV 段#NN 时间#NN 可能#AD 改#VV 时间#NN
-CHT_CMN_20120619.0007.su.xml	它	707	2	那 就 就 不 清楚 了	s33	134108	那#AD 就#AD 就#AD 不#AD 清楚#VV 了#SP
+CHT_CMN_20120619.0007.su.xml	形	1405	0	过 段 时间 可能 改 时间	s32	134108	过#VV 段#NN 时间#NN 可能#AD 改#VV 时间#NN
+CHT_CMN_20120619.0007.su.xml	它	1418	13	过 段 时间 可能 改 时间	s32	134108	过#VV 段#NN 时间#NN 可能#AD 改#VV 时间#NN
+CHT_CMN_20120619.0007.su.xml	我	1462	2	那 就 就 不 清楚 了	s33	134108	那#AD 就#AD 就#AD 不#AD 清楚#VV 了#SP
 CHT_CMN_20120619.0007.su.xml	NONE	-1	-1	一月 280 3月 580	s34	134108	一月#NT 280#CD 3月#NT 580#CD
 CHT_CMN_20120619.0007.su.xml	NONE	-1	-1	你 可以 去 试课	s35	134108	你#PN 可以#VV 去#VV 试课#VV
 CHT_CMN_20120619.0007.su.xml	NONE	-1	-1	我 昨天 试课	s36	134108	我#PN 昨天#NT 试课#VV
-CHT_CMN_20120619.0007.su.xml	它	750	0	昨天 试 的 什么 ？	s37	131226	昨天#NT 试#VV 的#DEC 什么#PN ？#PU
+CHT_CMN_20120619.0007.su.xml	你	1623	0	昨天 试 的 什么 ？	s37	131226	昨天#NT 试#VV 的#DEC 什么#PN ？#PU
 CHT_CMN_20120619.0007.su.xml	NONE	-1	-1	瑜伽	s38	134108	瑜伽#NN
-CHT_CMN_20120619.0007.su.xml	它	831	0	在 具体 什么 位置	s39	131226	在#P 具体#JJ 什么#PN 位置#NN
-CHT_CMN_20120619.0007.su.xml	它	962	0	中天 步行街 南头 右边 路口 进去 365	s40	134108	中天#NR 步行街#NN 南头#NR 右边#NN 路口#NN 进去#VV 365#CD
-CHT_CMN_20120619.0007.su.xml	它	1088	25	中天 步行街 南头 右边 路口 进去 365	s40	134108	中天#NR 步行街#NN 南头#NR 右边#NN 路口#NN 进去#VV 365#CD
+CHT_CMN_20120619.0007.su.xml	它	1700	0	在 具体 什么 位置	s39	131226	在#P 具体#JJ 什么#PN 位置#NN
+CHT_CMN_20120619.0007.su.xml	你	1745	0	中天 步行街 南头 右边 路口 进去 365	s40	134108	中天#NR 步行街#NN 南头#NR 右边#NN 路口#NN 进去#VV 365#CD
+CHT_CMN_20120619.0007.su.xml	其	1770	25	中天 步行街 南头 右边 路口 进去 365	s40	134108	中天#NR 步行街#NN 南头#NR 右边#NN 路口#NN 进去#VV 365#CD
 CHT_CMN_20120619.0007.su.xml	NONE	-1	-1	365 舞蹈 室 在 二 楼 一 楼 是 化妆品	s41	134108	365#CD 舞蹈#NN 室#NN 在#P 二#OD 楼#NN 一#OD 楼#NN 是#VC 化妆品#NN
 CHT_CMN_20120619.0007.su.xml	NONE	-1	-1	对面 是 书店	s42	134108	对面#NN 是#VC 书店#NN
 CHT_CMN_20120619.0007.su.xml	NONE	-1	-1	恩 。	s43	131226	恩#IJ 。#PU
-CHT_CMN_20120619.0007.su.xml	它	1174	15	我 要是 骑 自行车 去 ， 放 哪 呀 ？	s43	131226	我#PN 要是#CS 骑#VV 自行车#NN 去#VV ，#PU 放#VV 哪#PN 呀#SP ？#PU
-CHT_CMN_20120619.0007.su.xml	它	1268	0	离 我 家 确实 有点 远	s44	131226	离#P 我#PN 家#NN 确实#AD 有点#AD 远#VA
-CHT_CMN_20120619.0007.su.xml	它	1418	0	晕 店 门口	s45	134108	晕#VA 店#NN 门口#NN
+CHT_CMN_20120619.0007.su.xml	我	1916	15	我 要是 骑 自行车 去 ， 放 哪 呀 ？	s43	131226	我#PN 要是#CS 骑#VV 自行车#NN 去#VV ，#PU 放#VV 哪#PN 呀#SP ？#PU
+CHT_CMN_20120619.0007.su.xml	它1	1958	0	离 我 家 确实 有点 远	s44	131226	离#P 我#PN 家#NN 确实#AD 有点#AD 远#VA
+CHT_CMN_20120619.0007.su.xml	我	2006	0	晕 店 门口	s45	134108	晕#VA 店#NN 门口#NN
 CHT_CMN_20120619.0007.su.xml	NONE	-1	-1	一 楼 有 人	s46	134108	一#OD 楼#NN 有#VE 人#NN
-CHT_CMN_20120619.0007.su.xml	它	1700	14	我 的 自行车 很 小 ， 还 虾轻 ， 别人 一 搬 就 走	s47	131226	我#PN 的#DEG 自行车#NN 很#AD 小#VA ，#PU 还#AD 虾轻#VV ，#PU 别人#NN 一#AD 搬#VV 就#AD 走#VV
+CHT_CMN_20120619.0007.su.xml	它1	2097	14	我 的 自行车 很 小 ， 还 虾轻 ， 别人 一 搬 就 走	s47	131226	我#PN 的#DEG 自行车#NN 很#AD 小#VA ，#PU 还#AD 虾轻#VV ，#PU 别人#NN 一#AD 搬#VV 就#AD 走#VV
 CHT_CMN_20120619.0007.su.xml	NONE	-1	-1	*OP* 你 体验 *T*-1 的 感受 是 什么 ？	s48	131226	*OP*#NR 你#PN 体验#VV *T*-1#NR 的#DEG 感受#NN 是#VC 什么#PN ？#PU
-CHT_CMN_20120619.0007.su.xml	它1	1958	0	还 行	s49	134108	还#AD 行#VA
-CHT_CMN_20120619.0007.su.xml	它1	2097	24	*OP* *T*-1 最 大 的 感觉 就 是 平时 他 缺乏 锻炼 了	s50	134108	*OP*#NR *T*-1#NN 最#AD 大#VA 的#DEC 感觉#NN 就#AD 是#VC 平时#AD 他#PN 缺乏#VV 锻炼#VV 了#SP
-CHT_CMN_20120619.0007.su.xml	它1	2205	0	还有 就 是 侠客 好 快 啊	s51	134108	还有#AD 就#AD 是#VC 侠客#NN 好#AD 快#VA 啊#SP
-CHT_CMN_20120619.0007.su.xml	它1	2314	0	下课 好 快	s52	134108	下课#NN 好#AD 快#VA
-CHT_CMN_20120619.0007.su.xml	它1	2364	0	意犹未尽	s53	131226	意犹未尽#VV
-CHT_CMN_20120619.0007.su.xml	它1	2570	2	额 可以 那么 说	s54	134108	额#NN 可以#VV 那么#AD 说#VV
+CHT_CMN_20120619.0007.su.xml	它1	2205	0	还 行	s49	134108	还#AD 行#VA
+CHT_CMN_20120619.0007.su.xml	我	2267	24	*OP* *T*-1 最 大 的 感觉 就 是 平时 他 缺乏 锻炼 了	s50	134108	*OP*#NR *T*-1#NN 最#AD 大#VA 的#DEC 感觉#NN 就#AD 是#VC 平时#AD 他#PN 缺乏#VV 锻炼#VV 了#SP
+CHT_CMN_20120619.0007.su.xml	它1	2314	0	还有 就 是 侠客 好 快 啊	s51	134108	还有#AD 就#AD 是#VC 侠客#NN 好#AD 快#VA 啊#SP
+CHT_CMN_20120619.0007.su.xml	它1	2364	0	下课 好 快	s52	134108	下课#NN 好#AD 快#VA
+CHT_CMN_20120619.0007.su.xml	你	2405	0	意犹未尽	s53	131226	意犹未尽#VV
+CHT_CMN_20120619.0007.su.xml	你	2446	2	额 可以 那么 说	s54	134108	额#NN 可以#VV 那么#AD 说#VV
 CHT_CMN_20120619.0007.su.xml	NONE	-1	-1	你 报完 名 了 ？	s55	131226	你#PN 报完#VV 名#NN 了#SP ？#PU
 CHT_CMN_20120619.0007.su.xml	NONE	-1	-1	你 家 离 那里 近 吗 ？	s56	131226	你#PN 家#NN 离#P 那里#PN 近#VA 吗#SP ？#PU
-CHT_CMN_20120619.0007.su.xml	它1	2616	0	不 近	s57	134108	不#AD 近#VA
-CHT_CMN_20120619.0007.su.xml	他们	2799	8	我 在 哪 学 都 不 近	s58	134108	我#PN 在#P 哪#PN 学#VV 都#AD 不#AD 近#VA
+CHT_CMN_20120619.0007.su.xml	它1	2570	0	不 近	s57	134108	不#AD 近#VA
+CHT_CMN_20120619.0007.su.xml	它1	2616	8	我 在 哪 学 都 不 近	s58	134108	我#PN 在#P 哪#PN 学#VV 都#AD 不#AD 近#VA
 CHT_CMN_20120619.0007.su.xml	NONE	-1	-1	老师 教 得 好 吗	s59	131226	老师#NN 教#VV 得#DER 好#VA 吗#SP
 CHT_CMN_20120619.0007.su.xml	NONE	-1	-1	*OP* *T*-1 学 的 人 多 么 ？	s60	131226	*OP*#NR *T*-1#NN 学#VV 的#DEC 人#NN 多#AD 么#SP ？#PU
 CHT_CMN_20120619.0007.su.xml	NONE	-1	-1	昨天 瑜伽 人 不 多	s61	134108	昨天#NT 瑜伽#NN 人#NN 不#AD 多#VA
-CHT_CMN_20120619.0007.su.xml	形	695	13	肚皮 舞 我 那 天 看 有 8 个	s62	134108	肚皮#NN 舞#NN 我#PN 那#DT 天#M 看#VV 有#VE 8#CD 个#M
+CHT_CMN_20120619.0007.su.xml	他们	2799	13	肚皮 舞 我 那 天 看 有 8 个	s62	134108	肚皮#NN 舞#NN 我#PN 那#DT 天#M 看#VV 有#VE 8#CD 个#M
 CHT_CMN_20120619.0007.su.xml	NONE	-1	-1	我 希望 人 少 点	s63	131226	我#PN 希望#VV 人#NN 少#VV 点#M
 CHT_CMN_20120619.0007.su.xml	NONE	-1	-1	我 不 喜欢 人 多	s64	131226	我#PN 不#AD 喜欢#VV 人#NN 多#VA
-CHT_CMN_20120619.0007.su.xml	形	949	0	晕 除了 上 小 课 哪 有 *OP* 人 *T*-1 少 的	s65	134108	晕#VA 除了#P 上#DT 小#JJ 课#NN 哪#AD 有#VE *OP*#CD 人#NN *T*-1#VV 少#VA 的#DEC
-CHT_CMN_20120619.0007.su.xml	形	1405	11	晕 除了 上 小 课 哪 有 *OP* 人 *T*-1 少 的	s65	134108	晕#VA 除了#P 上#DT 小#JJ 课#NN 哪#AD 有#VE *OP*#CD 人#NN *T*-1#VV 少#VA 的#DEC
+CHT_CMN_20120619.0007.su.xml	我	2917	0	晕 除了 上 小 课 哪 有 *OP* 人 *T*-1 少 的	s65	134108	晕#VA 除了#P 上#DT 小#JJ 课#NN 哪#AD 有#VE *OP*#CD 人#NN *T*-1#VV 少#VA 的#DEC
+CHT_CMN_20120619.0007.su.xml	你	2928	11	晕 除了 上 小 课 哪 有 *OP* 人 *T*-1 少 的	s65	134108	晕#VA 除了#P 上#DT 小#JJ 课#NN 哪#AD 有#VE *OP*#CD 人#NN *T*-1#VV 少#VA 的#DEC
 CHT_CMN_20120619.0007.su.xml	NONE	-1	-1	小彭 在 吗	s66	131226	小彭#NN 在#VV 吗#SP
-CHT_CMN_20120619.0007.su.xml	其	1256	0	在 啊	s67	134108	在#P 啊#SP
-CHT_CMN_20120619.0007.su.xml	其	1770	9	你 给 小彭 说 什么 时候 去 ？	s68	131226	你#PN 给#P 小彭#NR 说#VV 什么#DT 时候#NN 去#VV ？#PU
+CHT_CMN_20120619.0007.su.xml	我	3024	0	在 啊	s67	134108	在#P 啊#SP
+CHT_CMN_20120619.0007.su.xml	你	3071	9	你 给 小彭 说 什么 时候 去 ？	s68	131226	你#PN 给#P 小彭#NR 说#VV 什么#DT 时候#NN 去#VV ？#PU
 CHT_CMN_20120619.0007.su.xml	NONE	-1	-1	费用 已经 签完	s69	131226	费用#NN 已经#AD 签完#VV
 CHT_CMN_20120619.0007.su.xml	NONE	-1	-1	他 懂	s70	131226	他#PN 懂#VV

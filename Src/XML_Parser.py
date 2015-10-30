@@ -24,7 +24,7 @@ class xml_parser:
         #the order *pro* appear in the text
         for tag in tags :
             tag_list.append(tag)
-        sorted(tag_list,key=lambda x:x.attrib["start"])
+        tag_list=sorted(tag_list,key=lambda x:int(x.attrib["start"]))
 
         out_buf=[]
         tags_index=0
