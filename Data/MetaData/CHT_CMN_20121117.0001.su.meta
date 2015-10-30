@@ -1,0 +1,38 @@
+CHT_CMN_20121117.0001.su.xml	你	29	0	早上 好 陈 经理	s0	134105	早上#NT 好#AD 陈#NR 经理#NN
+CHT_CMN_20121117.0001.su.xml	你	72	0	是否 可以 协调 公司 工程部 *PRO* 帮助 *PRO* 安装 宿舍 的 电 热水器 ？	s1	134105	是否#AD 可以#VV 协调#VV 公司#NN 工程部#NN *PRO*#NR 帮助#VV *PRO*#NR 安装#VV 宿舍#NN 的#DEC 电#NN 热水器#NN ？#PU
+CHT_CMN_20121117.0001.su.xml	我	152	0	可以 。	s2	131226	可以#VV 。#PU
+CHT_CMN_20121117.0001.su.xml	NONE	-1	-1	现在 那 个 太阳能 怎么样 ？	s3	131226	现在#NT 那#DT 个#M 太阳能#NN 怎么样#VA ？#PU
+CHT_CMN_20121117.0001.su.xml	它	234	0	一 要 看 天 使用 二 天气 好 也 只 能 一 个 人 的 洗 半 个 身子	s4	134105	一#AD 要#VV 看#VV 天#NN 使用#VV 二#CD 天气#NN 好#VA 也#AD 只#AD 能#VV 一#CD 个#M 人#NN 的#DEG 洗#NN 半#CD 个#M 身子#NN
+CHT_CMN_20121117.0001.su.xml	它	258	24	一 要 看 天 使用 二 天气 好 也 只 能 一 个 人 的 洗 半 个 身子	s4	134105	一#AD 要#VV 看#VV 天#NN 使用#VV 二#CD 天气#NN 好#VA 也#AD 只#AD 能#VV 一#CD 个#M 人#NN 的#DEG 洗#NN 半#CD 个#M 身子#NN
+CHT_CMN_20121117.0001.su.xml	我	319	5	呵呵 ， 委屈 你 了 ， 魏 总 。	s5	131226	呵呵#IJ ，#PU 委屈#VV 你#PN 了#SP ，#PU 魏#NR 总#AD 。#PU
+CHT_CMN_20121117.0001.su.xml	NONE	-1	-1	我 这边 去 协调 工程部 人员 。	s5	131226	我#PN 这边#PN 去#VV 协调#VV 工程部#NN 人员#NN 。#PU
+CHT_CMN_20121117.0001.su.xml	你	386	0	能够 安排 上午	s6	134105	能够#VV 安排#VV 上午#NT
+CHT_CMN_20121117.0001.su.xml	它	435	7	[ 表情 ] 可能 是 体积 太 大	s7	134105	[#PU 表情#NN ]#PU 可能#AD 是#VC 体积#NN 太#AD 大#VA
+CHT_CMN_20121117.0001.su.xml	NONE	-1	-1	现在 热水器 还 没 买	s8	131226	现在#NT 热水器#NN 还#AD 没#AD 买#VV
+CHT_CMN_20121117.0001.su.xml	它	520	0	还 没 买 ， 所以 上午 不 一定 能 安上 哦 。	s9	131226	还#AD 没#AD 买#VV ，#PU 所以#AD 上午#NT 不#AD 一定#AD 能#VV 安上#VV 哦#SP 。#PU
+CHT_CMN_20121117.0001.su.xml	它	537	17	还 没 买 ， 所以 上午 不 一定 能 安上 哦 。	s9	131226	还#AD 没#AD 买#VV ，#PU 所以#AD 上午#NT 不#AD 一定#AD 能#VV 安上#VV 哦#SP 。#PU
+CHT_CMN_20121117.0001.su.xml	我	588	0	双十一 购得 ， 昨天 到 的 ， 在 宿舍 。	s10	134105	双十一#AD 购得#VV ，#PU 昨天#NT 到#VV 的#DEC ，#PU 在#P 宿舍#NN 。#PU
+CHT_CMN_20121117.0001.su.xml	它	603	15	双十一 购得 ， 昨天 到 的 ， 在 宿舍 。	s10	134105	双十一#AD 购得#VV ，#PU 昨天#NT 到#VV 的#DEC ，#PU 在#P 宿舍#NN 。#PU
+CHT_CMN_20121117.0001.su.xml	我	625	0	鼓捣 了 ， 没 搞定 。	s10	134105	鼓捣#VV 了#AS ，#PU 没#AD 搞定#VV 。#PU
+CHT_CMN_20121117.0001.su.xml	它	648	3	因为 需要 专业 工具 ， 和 专业 水管 安装 人员 ，	s10	134105	因为#P 需要#VV 专业#NN 工具#NN ，#PU 和#CC 专业#NN 水管#NN 安装#NN 人员#NN ，#PU
+CHT_CMN_20121117.0001.su.xml	我	709	0	明白 啦 。	s11	131226	明白#VA 啦#SP 。#PU
+CHT_CMN_20121117.0001.su.xml	NONE	-1	-1	我 下去 找 你	s12	131226	我#PN 下去#VV 找#VV 你#PN
+CHT_CMN_20121117.0001.su.xml	你	787	0	辛苦 陈 经理	s13	134105	辛苦#AD 陈#NR 经理#NN
+CHT_CMN_20121117.0001.su.xml	NONE	-1	-1	明天 工程部 什么 时间 过来 安装	s14	134105	明天#NT 工程部#NN 什么#DT 时间#NN 过来#VV 安装#VV
+CHT_CMN_20121117.0001.su.xml	NONE	-1	-1	以便 我 安排 事件	s15	134105	以便#AD 我#PN 安排#VV 事件#NN
+CHT_CMN_20121117.0001.su.xml	NONE	-1	-1	你 客气 啦 ， 魏 总 。	s16	131226	你#PN 客气#VA 啦#SP ，#PU 魏#NR 总#AD 。#PU
+CHT_CMN_20121117.0001.su.xml	NONE	-1	-1	8 － 11 如何 ？	s17	134105	8#CD －#PU 11#CD 如何#VA ？#PU
+CHT_CMN_20121117.0001.su.xml	形	998	0	应该 是 中午 。	s18	131226	应该#VV 是#VC 中午#NT 。#PU
+CHT_CMN_20121117.0001.su.xml	NONE	-1	-1	明天 你 会 在家 吗 ？	s18	131226	明天#NT 你#PN 会#VV 在家#VV 吗#SP ？#PU
+CHT_CMN_20121117.0001.su.xml	NONE	-1	-1	你 给 我 说 你 什么 时候 有 时间	s19	131226	你#PN 给#P 我#PN 说#VV 你#PN 什么#DT 时候#NN 有#VE 时间#NN
+CHT_CMN_20121117.0001.su.xml	我	1108	3	明天 让 其 *PRO* 安装 和 我们 一起 吃 早餐 和 午餐	s20	134105	明天#NT 让#VV 其#PN *PRO*#NN 安装#VV 和#P 我们#PN 一起#AD 吃#VV 早餐#NN 和#CC 午餐#NN
+CHT_CMN_20121117.0001.su.xml	你	1173	0	稍等	s21	131226	稍等#VV
+CHT_CMN_20121117.0001.su.xml	你	1210	0	不 用 ， 他们 明天 是 正常 工作日 。	s22	131226	不#AD 用#VV ，#PU 他们#PN 明天#NT 是#VC 正常#AD 工作日#NN 。#PU
+CHT_CMN_20121117.0001.su.xml	我们	1276	9	答谢 要 的 ， 到 时间 吃 个 便饭 ， 8：00 － 11：00 时间 可以 ？	s23	134105	答谢#VV 要#VV 的#DEC ，#PU 到#P 时间#NN 吃#VV 个#M 便饭#NN ，#PU 8：00#NT －#PU 11：00#CD 时间#NN 可以#VV ？#PU
+CHT_CMN_20121117.0001.su.xml	它	1345	0	好 的 ， [ 表情 ]	s24	134105	好#VA 的#SP ，#PU [#PU 表情#NN ]#PU
+CHT_CMN_20121117.0001.su.xml	它	1392	0	好 的	s25	134105	好#VA 的#SP
+CHT_CMN_20121117.0001.su.xml	它	1430	0	可以	s26	131226	可以#VV
+CHT_CMN_20121117.0001.su.xml	NONE	-1	-1	我 刚 通知 完 工程部 的 人 。	s27	131226	我#PN 刚#AD 通知#VV 完#VV 工程部#NN 的#DEC 人#NN 。#PU
+CHT_CMN_20121117.0001.su.xml	形	1514	0	明天 上班 后 他们 就 过去	s28	131226	明天#NT 上班#VV 后#LC 他们#PN 就#AD 过去#VV
+CHT_CMN_20121117.0001.su.xml	他们	1573	9	明天 11点 前 会 过去 的 。	s29	131226	明天#NT 11点#NT 前#LC 会#VV 过去#VV 的#SP 。#PU
+CHT_CMN_20121117.0001.su.xml	NONE	-1	-1	你 在 家 等 就 行	s29	131226	你#PN 在#P 家#NN 等#ETC 就#AD 行#VV

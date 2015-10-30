@@ -1,0 +1,207 @@
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	12000 元	s0	138159	12000#CD 元#M
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	*OP* *T*-1 1月 27号 北京 到 纽瓦克 的 多少 钱	s1	130530	*OP*#NN *T*-1#NN 1月#NT 27号#NT 北京#NR 到#VV 纽瓦克#NR 的#DEG 多少#CD 钱#NN
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	1万2 啊	s2	138159	1万2#CD 啊#SP
+CHT_CMN_20120104.0006.su.xml	我	158	0	1月 31号 北京 直飞 纽瓦克 多收 钱	s3	130530	1月#NT 31号#NT 北京#NR 直飞#VV 纽瓦克#NR 多收#VV 钱#NN
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	1月 25号 多少 钱	s4	130530	1月#NT 25号#NT 多少#CD 钱#NN
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	25 没有	s5	138159	25#CD 没有#AD
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	26 呢 ？	s6	130530	26#CD 呢#SP ？#PU
+CHT_CMN_20120104.0006.su.xml	我	1341	0	没有	s7	138159	没有#VE
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	28号 有 吗 ?	s8	130530	28号#NT 有#VE 吗#SP ?#PU
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	月底 哪 天 便宜 ？	s9	130530	月底#NT 哪#DT 天#M 便宜#VA ？#PU
+CHT_CMN_20120104.0006.su.xml	我	1579	0	没有	s10	138159	没有#VE
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	6500 元	s11	138159	6500#CD 元#M
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	31号 多少 钱 ？	s12	130530	31号#NT 多少#CD 钱#NN ？#PU
+CHT_CMN_20120104.0006.su.xml	我	1703	0	27号 到 费城 有 吗 ？	s13	130530	27号#NT 到#CC 费城#NR 有#VE 吗#SP ？#PU
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	25 . 26号 也 行	s14	130530	25#CD .#PU 26号#NT 也#AD 行#VV
+CHT_CMN_20120104.0006.su.xml	我	1959	0	多少 钱 ？	s15	130530	多少#CD 钱#NN ？#PU
+CHT_CMN_20120104.0006.su.xml	我	2238	0	多少 钱 ？	s16	130530	多少#CD 钱#NN ？#PU
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	7300 元	s17	138159	7300#CD 元#M
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	1月中 有 吗 ？	s18	130530	1月中#NT 有#VE 吗#SP ？#PU
+CHT_CMN_20120104.0006.su.xml	我	2276	0	北京 到 纽瓦克	s18	130530	北京#NR 到#VV 纽瓦克#NR
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	19号 左右	s19	130530	19号#NT 左右#LC
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	15 , 16号 也 行	s20	130530	15#CD ,#PU 16号#NT 也#AD 行#VV
+CHT_CMN_20120104.0006.su.xml	我	2392	0	没有 奥	s21	138159	没有#VE 奥#NR
+CHT_CMN_20120104.0006.su.xml	我	2403	23	*OP* *T*-1 不 直飞 的 可以 吗 有	s22	138159	*OP*#NR *T*-1#NN 不#AD 直飞#VV 的#DEC 可以#VV 吗#SP 有#VE
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	一月 的 一 张 都 没有 了 ？	s23	130530	一月#NT 的#DEG 一#CD 张#M 都#AD 没有#VE 了#SP ？#PU
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	1月 31号 有 奥	s24	138159	1月#NT 31号#NT 有#VE 奥#NR
+CHT_CMN_20120104.0006.su.xml	我	2514	0	只 有 这 天 的 ？	s25	130530	只#AD 有#VE 这#DT 天#M 的#SP ？#PU
+CHT_CMN_20120104.0006.su.xml	我1	2531	0	就 这 一 天 便宜	s26	138159	就#AD 这#DT 一#CD 天#M 便宜#VA
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	1月 29号 我 看看 价格 奥	s27	138159	1月#NT 29号#NT 我#PN 看看#VV 价格#NN 奥#NR
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	9200 元 1月 29号 的 价格	s28	138159	9200#CD 元#M 1月#NT 29号#NT 的#DEG 价格#NN
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	前面 还 有 吗 ？	s29	130530	前面#NN 还#AD 有#VE 吗#SP ？#PU
+CHT_CMN_20120104.0006.su.xml	我1	2671	0	没有 *OP* *T*-1 不 直飞 的 有	s30	138159	没有#VE *OP*#NN *T*-1#NN 不#AD 直飞#VV 的#DEC 有#VE
+CHT_CMN_20120104.0006.su.xml	我1	2795	0	北京 到 纽约 呢 ?	s31	130530	北京#NR 到#VV 纽约#NR 呢#SP ?#PU
+CHT_CMN_20120104.0006.su.xml	我1	2904	0	一月 哪 天 有 *OP* *T*-1 便宜 的 ？	s32	130530	一月#NT 哪#DT 天#M 有#VE *OP*#NN *T*-1#NN 便宜#VA 的#SP ？#PU
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	1月 31好	s33	138159	1月#NT 31好#NT
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	上海 到 纽瓦克 或者 纽约 哪 天 ？	s34	130530	上海#NR 到#VV 纽瓦克#NR 或者#CC 纽约#NR 哪#DT 天#M ？#PU
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	26号 左右 ， 或者 16号 左右	s35	130530	26号#NT 左右#LC ，#PU 或者#CC 16号#NT 左右#LC
+CHT_CMN_20120104.0006.su.xml	我1	3546	0	请问 不 直飞 可以 吗	s36	138159	请问#VV 不#AD 直飞#VV 可以#VV 吗#SP
+CHT_CMN_20120104.0006.su.xml	我1	3801	9	请问 不 直飞 可以 吗	s36	138159	请问#VV 不#AD 直飞#VV 可以#VV 吗#SP
+CHT_CMN_20120104.0006.su.xml	我1	4430	0	不 直飞 都 有 若 直飞 都 没有	s37	138159	不#AD 直飞#VV 都#AD 有#VE 若#CS 直飞#VV 都#AD 没有#VE
+CHT_CMN_20120104.0006.su.xml	我1	4679	11	不 直飞 都 有 若 直飞 都 没有	s37	138159	不#AD 直飞#VV 都#AD 有#VE 若#CS 直飞#VV 都#AD 没有#VE
+CHT_CMN_20120104.0006.su.xml	我1	4727	23	不 直飞 都 有 若 直飞 都 没有	s37	138159	不#AD 直飞#VV 都#AD 有#VE 若#CS 直飞#VV 都#AD 没有#VE
+CHT_CMN_20120104.0006.su.xml	我1	4863	32	不 直飞 都 有 若 直飞 都 没有	s37	138159	不#AD 直飞#VV 都#AD 有#VE 若#CS 直飞#VV 都#AD 没有#VE
+CHT_CMN_20120104.0006.su.xml	我2	5167	0	不 直飞 25号 北京 或者 上海 到 费城	s38	130530	不#AD 直飞#VV 25号#NT 北京#NR 或者#CC 上海#NR 到#VV 费城#NR
+CHT_CMN_20120104.0006.su.xml	我2	5414	0	有	s39	138159	有#VE
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	多少 钱	s40	130530	多少#CD 钱#NN
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	哪 个 点 好 ？	s41	130530	哪#DT 个#M 点#NN 好#VA ？#PU
+CHT_CMN_20120104.0006.su.xml	我2	5625	0	到 费城 或者 ewr 都 可以 不过 不 是 大陆 航空 的 不 是 *OP* *T*-1 直飞 的	s42	138159	到#P 费城#NR 或者#CC ewr#NR 都#AD 可以#VV 不过#AD 不#AD 是#VC 大陆#NN 航空#NN 的#DEC 不#AD 是#VC *OP*#NN *T*-1#NN 直飞#VV 的#SP
+CHT_CMN_20120104.0006.su.xml	我2	5934	23	到 费城 或者 ewr 都 可以 不过 不 是 大陆 航空 的 不 是 *OP* *T*-1 直飞 的	s42	138159	到#P 费城#NR 或者#CC ewr#NR 都#AD 可以#VV 不过#AD 不#AD 是#VC 大陆#NN 航空#NN 的#DEC 不#AD 是#VC *OP*#NN *T*-1#NN 直飞#VV 的#SP
+CHT_CMN_20120104.0006.su.xml	我2	6738	0	到 费城 多少 钱 ？	s43	130530	到#P 费城#NR 多少#CD 钱#NN ？#PU
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	6800 元	s44	138159	6800#CD 元#M
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	*OP* *T*-1 往返 10来 天 的 多少 钱	s45	130530	*OP*#NR *T*-1#AD 往返#VV 10来#CD 天#M 的#DEC 多少#CD 钱#NN
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	11800 元	s46	138159	11800#CD 元#M
+CHT_CMN_20120104.0006.su.xml	我2	6807	0	除了 AA 的 最 便宜 吗 ?	s47	130530	除了#P AA#NN 的#DEG 最#AD 便宜#VA 吗#SP ?#PU
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	除了 aa 其他 都 1月 26号 前 都 没 票 奥	s48	138159	除了#P aa#NR 其他#DT 都#AD 1月#NT 26号#NT 前#LC 都#AD 没#VE 票#NN 奥#NR
+CHT_CMN_20120104.0006.su.xml	我2	7306	0	定 一 张 1月 25号 北京 到 费城 单程 机票 ， 但是 是 B2 签证 能 给 办 个 回程 吗 ?	s49	130530	定#VV 一#CD 张#M 1月#NT 25号#NT 北京#NR 到#VV 费城#NR 单程#NN 机票#NN ，#PU 但是#AD 是#VC B2#NR 签证#NN 能#VV 给#VV 办#VV 个#M 回程#NN 吗#SP ?#PU
+CHT_CMN_20120104.0006.su.xml	我2	7368	38	定 一 张 1月 25号 北京 到 费城 单程 机票 ， 但是 是 B2 签证 能 给 办 个 回程 吗 ?	s49	130530	定#VV 一#CD 张#M 1月#NT 25号#NT 北京#NR 到#VV 费城#NR 单程#NN 机票#NN ，#PU 但是#AD 是#VC B2#NR 签证#NN 能#VV 给#VV 办#VV 个#M 回程#NN 吗#SP ?#PU
+CHT_CMN_20120104.0006.su.xml	我2	7450	52	定 一 张 1月 25号 北京 到 费城 单程 机票 ， 但是 是 B2 签证 能 给 办 个 回程 吗 ?	s49	130530	定#VV 一#CD 张#M 1月#NT 25号#NT 北京#NR 到#VV 费城#NR 单程#NN 机票#NN ，#PU 但是#AD 是#VC B2#NR 签证#NN 能#VV 给#VV 办#VV 个#M 回程#NN 吗#SP ?#PU
+CHT_CMN_20120104.0006.su.xml	我2	7555	0	就 是 我 婆婆 也 问 你 了	s50	130530	就#AD 是#VC 我#PN 婆婆#NN 也#AD 问#VV 你#PN 了#SP
+CHT_CMN_20120104.0006.su.xml	我3	7774	2	奥 知道 了 请问 乘机人 是 谁 奥	s51	138159	奥#NR 知道#VV 了#AS 请问#NN 乘机人#NN 是#VC 谁#PN 奥#NR
+CHT_CMN_20120104.0006.su.xml	我3	7881	13	奥 知道 了 请问 乘机人 是 谁 奥	s51	138159	奥#NR 知道#VV 了#AS 请问#NN 乘机人#NN 是#VC 谁#PN 奥#NR
+CHT_CMN_20120104.0006.su.xml	我3	8116	15	我 不 是 非常 确定 回程 弄 个 行程单 就 管用 奥	s52	138159	我#PN 不#AD 是#VC 非常#AD 确定#VV 回程#NN 弄#VV 个#M 行程单#NN 就#AD 管用#VV 奥#NR
+CHT_CMN_20120104.0006.su.xml	我3	8248	0	再 定 一 张 往返 1月 25号 北京 到 费城 ， 2月 8号 左右 费城 到 北京	s53	130530	再#AD 定#VV 一#CD 张#M 往返#VV 1月#NT 25号#NT 北京#NR 到#VV 费城#NR ，#PU 2月#NT 8号#NT 左右#LC 费城#NR 到#VV 北京#NR
+CHT_CMN_20120104.0006.su.xml	我3	8312	17	再 定 一 张 往返 1月 25号 北京 到 费城 ， 2月 8号 左右 费城 到 北京	s53	130530	再#AD 定#VV 一#CD 张#M 往返#VV 1月#NT 25号#NT 北京#NR 到#VV 费城#NR ，#PU 2月#NT 8号#NT 左右#LC 费城#NR 到#VV 北京#NR
+CHT_CMN_20120104.0006.su.xml	你	1588	0	ok	s54	138159	ok#NR
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	往返 王清华	s55	130530	往返#NN 王清华#NR
+CHT_CMN_20120104.0006.su.xml	你	1632	0	买 两 张 能 优惠 些 吗 ？	s56	130530	买#VV 两#CD 张#M 能#VV 优惠#VV 些#M 吗#SP ？#PU
+CHT_CMN_20120104.0006.su.xml	你	1655	12	买 两 张 能 优惠 些 吗 ？	s56	130530	买#VV 两#CD 张#M 能#VV 优惠#VV 些#M 吗#SP ？#PU
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	呵呵	s57	130530	呵呵#IJ
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	往返 多久 奥	s58	138159	往返#VV 多久#AD 奥#NR
+CHT_CMN_20120104.0006.su.xml	你	2290	0	谢谢	s59	130530	谢谢#VV
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	你 说 哪个 ？	s60	130530	你#PN 说#VV 哪个#PN ？#PU
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	往返 的 奥	s61	138159	往返#VV 的#DEC 奥#NR
+CHT_CMN_20120104.0006.su.xml	你	2465	0	2月 8号 回	s62	130530	2月#NT 8号#NT 回#VV
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	左右	s63	130530	左右#NN
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	去程 一样 的 ？	s64	138159	去程#NN 一样#VA 的#SP ？#PU
+CHT_CMN_20120104.0006.su.xml	你	2683	0	对	s65	130530	对#VA
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	去程 要 那 个 转机 时间 的 奥	s66	138159	去程#NN 要#VV 那#DT 个#M 转机#NN 时间#NN 的#DEG 奥#NR
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	一 个 转机 差 5 分钟 不 到 3 个 小时	s67	138159	一#CD 个#M 转机#NN 差#VV 5#CD 分钟#M 不#AD 到#VV 3#CD 个#M 小时#NN
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	另 一 个 是 4 个 多 小时 的	s68	138159	另#DT 一#CD 个#M 是#VC 4#CD 个#M 多#AD 小时#NN 的#DEG
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	那 就 下面 这个	s69	130530	那#AD 就#AD 下面#NN 这个#PN
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	4 个 多 小时 保险 点	s70	130530	4#CD 个#M 多#AD 小时#NN 保险#NN 点#NN
+CHT_CMN_20120104.0006.su.xml	你	3278	0	确定 吗	s71	138159	确定#VV 吗#SP
+CHT_CMN_20120104.0006.su.xml	你	3507	0	怎么 了 ？	s72	130530	怎么#VA 了#SP ？#PU
+CHT_CMN_20120104.0006.su.xml	你	3702	0	ok	s73	138159	ok#NR
+CHT_CMN_20120104.0006.su.xml	你	4412	0	好 的	s74	138159	好#VA 的#SP
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	单程 多收 钱 ？	s75	130530	单程#NN 多收#VV 钱#NN ？#PU
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	往返 多少 ？	s76	130530	往返#VV 多少#CD ？#PU
+CHT_CMN_20120104.0006.su.xml	你1	4482	0	便宜 点	s77	130530	便宜#VA 点#AD
+CHT_CMN_20120104.0006.su.xml	你1	4772	0	谢谢	s78	130530	谢谢#VV
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	我 算算	s79	138159	我#PN 算算#VV
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	哦	s80	130530	哦#IJ
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	价格 是 6800 元 单程 往返 是 11800 元	s81	138159	价格#NN 是#VC 6800#CD 元#M 单程#NN 往返#NN 是#VC 11800#CD 元#M
+CHT_CMN_20120104.0006.su.xml	你1	4872	0	能 便宜 点 吗 ？	s82	130530	能#VV 便宜#VA 点#AD 吗#SP ？#PU
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	两 张	s83	130530	两#CD 张#M
+CHT_CMN_20120104.0006.su.xml	你1	5069	22	我 最多 能 便宜 300 元 一共 因为 就 挣 400 元	s84	138159	我#PN 最多#AD 能#VV 便宜#AD 300#CD 元#M 一共#AD 因为#P 就#AD 挣#VV 400#CD 元#M
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	那 个 单程 的 可以 在 单子 上 做 个 返程 吗 ？	s85	130530	那#DT 个#M 单程#NN 的#DEG 可以#VV 在#P 单子#NN 上#LC 做#VV 个#M 返程#NN 吗#SP ？#PU
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	那 是 多少 钱 ？	s86	130530	那#PN 是#VC 多少#CD 钱#NN ？#PU
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	单程 和 往返	s87	130530	单程#NN 和#CC 往返#NN
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	6800 + 11800 - 300	s88	138159	6800#CD +#PU 11800#CD -#PU 300#CD
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	就是 每 张 便宜 150	s89	130530	就是#AD 每#DT 张#M 便宜#NN 150#CD
+CHT_CMN_20120104.0006.su.xml	你1	5670	0	好 的	s90	130530	好#VA 的#SP
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	那 单程 的 6500 ， 往返 的 11800 吧	s91	130530	那#AD 单程#NN 的#DEG 6500#CD ，#PU 往返#VV 的#DEC 11800#CD 吧#SP
+CHT_CMN_20120104.0006.su.xml	你1	5688	2	嗯 好 的	s92	138159	嗯#IJ 好#VA 的#SP
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	那 你 帮 我 *PRO* 定 吧	s93	130530	那#AD 你#PN 帮#VV 我#PN *PRO*#AD 定#VV 吧#SP
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	单程 的 朱晓红 在 客票 上 帮 我 *PRO* 做 个 半 年 的 往返	s94	130530	单程#NN 的#DEG 朱晓红#NR 在#P 客票#NN 上#LC 帮#VV 我#PN *PRO*#VV 做#VV 个#M 半#CD 年#M 的#DEG 往返#NN
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	往返 1月 25号 - 2月 8号 左右	s95	130530	往返#VV 1月#NT 25号#NT -#PU 2月#NT 8号#NT 左右#LC
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	*OP* 回程 *T*-1 最 理想 几号	s96	138159	*OP*#NR 回程#NN *T*-1#NN 最#AD 理想#VA 几号#NN
+CHT_CMN_20120104.0006.su.xml	你1	5809	0	现在 选择 一下 回程 那 天 都 有 票	s97	138159	现在#NT 选择#VV 一下#AD 回程#NN 那#DT 天#M 都#AD 有#VE 票#NN
+CHT_CMN_20120104.0006.su.xml	你1	5825	18	现在 选择 一下 回程 那 天 都 有 票	s97	138159	现在#NT 选择#VV 一下#AD 回程#NN 那#DT 天#M 都#AD 有#VE 票#NN
+CHT_CMN_20120104.0006.su.xml	你1	5867	8	往返 机票 是 住满 3 天 不 超过 30 天	s98	138159	往返#NN 机票#NN 是#VC 住满#VV 3#CD 天#M 不#AD 超过#VV 30#CD 天#M
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	单程 朱晓红 女 G34035415 1959年 2月 2号 2019年 3月 18号	s99	130530	单程#NN 朱晓红#NR 女#JJ G34035415#NN 1959年#NT 2月#NT 2号#NT 2019年#NT 3月#NT 18号#NT
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	往返 王清华 男 G56454201 1962年 11月 15号 2021年 124号	s100	130530	往返#NN 王清华#NR 男#JJ G56454201#NN 1962年#NT 11月#NT 15号#NT 2021年#NT 124号#NT
+CHT_CMN_20120104.0006.su.xml	你1	6159	0	请问 你 怎么 付款 呢	s101	138159	请问#VV 你#PN 怎么#AD 付款#VV 呢#SP
+CHT_CMN_20120104.0006.su.xml	你2	6286	0	可以 怎么 付 ？	s102	130530	可以#VV 怎么#AD 付#VV ？#PU
+CHT_CMN_20120104.0006.su.xml	你2	6420	0	建行 和 工行 的 号 给 我 *-1	s103	130530	建行#NN 和#CC 工行#NR 的#DEG 号#NN 给#P 我#PN *-1#NN
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	农行 也 行	s104	130530	农行#NR 也#AD 行#VV
+CHT_CMN_20120104.0006.su.xml	你2	6518	0	请问 北京 出发 对 吗	s105	138159	请问#VV 北京#NR 出发#VV 对#VA 吗#SP
+CHT_CMN_20120104.0006.su.xml	你2	6542	9	请问 北京 出发 对 吗	s105	138159	请问#VV 北京#NR 出发#VV 对#VA 吗#SP
+CHT_CMN_20120104.0006.su.xml	你2	6558	0	是	s106	130530	是#VC
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	你们 在 上海 还是 北京 奥	s107	138159	你们#PN 在#P 上海#NR 还是#AD 北京#NR 奥#NR
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	北京	s108	130530	北京#NR
+CHT_CMN_20120104.0006.su.xml	你2	6639	0	ok	s109	138159	ok#NR
+CHT_CMN_20120104.0006.su.xml	你2	6902	0	看看 时间 不 变动 我 就 先 开票 了 奥	s110	138159	看看#VV 时间#NN 不#AD 变动#VV 我#PN 就#AD 先#AD 开票#VV 了#AS 奥#NR
+CHT_CMN_20120104.0006.su.xml	你2	7181	0	好 的	s111	130530	好#VA 的#SP
+CHT_CMN_20120104.0006.su.xml	你2	7318	0	确定 这个	s112	130530	确定#VV 这个#PN
+CHT_CMN_20120104.0006.su.xml	你2	7782	0	ok 我 开票	s113	138159	ok#NN 我#PN 开票#VV
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	单程 6500 往返 11800	s114	130530	单程#NN 6500#CD 往返#NN 11800#CD
+CHT_CMN_20120104.0006.su.xml	你3	8033	0	没错	s115	138159	没错#VV
+CHT_CMN_20120104.0006.su.xml	你3	8044	0	好 的	s116	130530	好#VA 的#SP
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	往返 定 了 吗 ？	s117	130530	往返#NN 定#VV 了#AS 吗#SP ？#PU
+CHT_CMN_20120104.0006.su.xml	你3	8294	0	定好 了	s118	138159	定好#VV 了#AS
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	形成 和 预定 编号	s119	130530	形成#VV 和#CC 预定#VV 编号#NN
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	行程 和 预定 编号	s120	130530	行程#NN 和#CC 预定#NN 编号#NN
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	确认号 ISYKMB	s121	138159	确认号#NR ISYKMB#NR
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	这个 转机 只有 1 个 小时 50 分钟	s122	130530	这个#DT 转机#NN 只有#AD 1#CD 个#M 小时#NN 50#CD 分钟#M
+CHT_CMN_20120104.0006.su.xml	它	543	0	来 得 及 吗 ?	s123	130530	来#VV 得#DER 及#VV 吗#SP ?#PU
+CHT_CMN_20120104.0006.su.xml	它	633	0	回程 不 拿 行李 且 只 是 转机	s124	138159	回程#NN 不#AD 拿#VV 行李#NN 且#AD 只#AD 是#VC 转机#NN
+CHT_CMN_20120104.0006.su.xml	它	674	18	回程 不 拿 行李 且 只 是 转机	s124	138159	回程#NN 不#AD 拿#VV 行李#NN 且#AD 只#AD 是#VC 转机#NN
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	我 是 说 回程	s125	130530	我#PN 是#VC 说#VV 回程#NN
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	我 就 是 说 的 奥	s126	138159	我#PN 就#AD 是#VC 说#VV 的#DEC 奥#NR
+CHT_CMN_20120104.0006.su.xml	它	760	0	去程 要 拿 行李 回程 不 用	s127	138159	去程#NN 要#VV 拿#VV 行李#NN 回程#NN 不#AD 用#VV
+CHT_CMN_20120104.0006.su.xml	它	1062	16	去程 要 拿 行李 回程 不 用	s127	138159	去程#NN 要#VV 拿#VV 行李#NN 回程#NN 不#AD 用#VV
+CHT_CMN_20120104.0006.su.xml	它	1108	0	回程 不 用 拿 行李 且 航班 就 这 一 个 航班 啊 哦	s128	138159	回程#NN 不#AD 用#VV 拿#VV 行李#NN 且#CC 航班#NN 就#AD 这#DT 一#CD 个#M 航班#NN 啊#SP 哦#SP
+CHT_CMN_20120104.0006.su.xml	它	1284	0	费城 到 芝加哥 能 早 点 吗 ？	s129	130530	费城#NR 到#P 芝加哥#NR 能#VV 早#AD 点#VV 吗#SP ？#PU
+CHT_CMN_20120104.0006.su.xml	它	1867	0	有没有 下午 2点 左右 的 吗 ？	s130	130530	有没有#AD 下午#NT 2点#NT 左右#LC 的#DEG 吗#SP ？#PU
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	或者 3点	s131	130530	或者#AD 3点#NT
+CHT_CMN_20120104.0006.su.xml	它	1890	0	有	s132	138159	有#VE
+CHT_CMN_20120104.0006.su.xml	它1	2131	0	这样 呢 ？	s133	138159	这样#AD 呢#SP ？#PU
+CHT_CMN_20120104.0006.su.xml	它1	2599	3	回程 就 选择 2月 8号 吗	s134	138159	回程#NN 就#AD 选择#VV 2月#NT 8号#NT 吗#SP
+CHT_CMN_20120104.0006.su.xml	它1	3015	0	这样 吧	s135	130530	这样#AD 吧#SP
+CHT_CMN_20120104.0006.su.xml	它1	3317	0	好 的	s136	130530	好#VA 的#SP
+CHT_CMN_20120104.0006.su.xml	它1	3358	0	选择 2月 8号 吗	s137	138159	选择#VV 2月#NT 8号#NT 吗#SP
+CHT_CMN_20120104.0006.su.xml	它1	3395	0	好 的	s138	130530	好#VA 的#SP
+CHT_CMN_20120104.0006.su.xml	它1	4067	0	没错 我 也 开票 了 奥	s139	138159	没错#VV 我#PN 也#AD 开票#VV 了#AS 奥#NR
+CHT_CMN_20120104.0006.su.xml	它1	4162	0	最后 核对 一下 没错 把	s140	138159	最后#AD 核对#VV 一下#AD 没错#VV 把#BA
+CHT_CMN_20120104.0006.su.xml	它1	4917	15	最后 核对 一下 没错 把	s140	138159	最后#AD 核对#VV 一下#AD 没错#VV 把#BA
+CHT_CMN_20120104.0006.su.xml	它1	5031	0	好 的	s141	130530	好#VA 的#SP
+CHT_CMN_20120104.0006.su.xml	它2	5128	4	有效期 住满 3 天 不 超过 3 个 月 改期 1500 元 不 能 退票	s142	138159	有效期#NN 住满#VV 3#CD 天#M 不#AD 超过#VV 3#CD 个#M 月#NN 改期#VV 1500#CD 元#M 不#AD 能#VV 退票#VV
+CHT_CMN_20120104.0006.su.xml	它2	5208	28	有效期 住满 3 天 不 超过 3 个 月 改期 1500 元 不 能 退票	s142	138159	有效期#NN 住满#VV 3#CD 天#M 不#AD 超过#VV 3#CD 个#M 月#NN 改期#VV 1500#CD 元#M 不#AD 能#VV 退票#VV
+CHT_CMN_20120104.0006.su.xml	它2	5297	44	有效期 住满 3 天 不 超过 3 个 月 改期 1500 元 不 能 退票	s142	138159	有效期#NN 住满#VV 3#CD 天#M 不#AD 超过#VV 3#CD 个#M 月#NN 改期#VV 1500#CD 元#M 不#AD 能#VV 退票#VV
+CHT_CMN_20120104.0006.su.xml	它2	5335	0	好 的	s143	130530	好#VA 的#SP
+CHT_CMN_20120104.0006.su.xml	它2	5988	0	帮 我 *PRO* 把 单程 的 那个 加上 个 回程	s144	130530	帮#VV 我#PN *PRO*#AD 把#BA 单程#NN 的#DEG 那个#DT 加上#VV 个#M 回程#NN
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	半 年 回程	s145	130530	半#CD 年#M 回程#NN
+CHT_CMN_20120104.0006.su.xml	它2	6077	0	谢谢	s146	130530	谢谢#VV
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	嗯	s147	138159	嗯#IJ
+CHT_CMN_20120104.0006.su.xml	它2	6247	0	做 个 回程 行程单 对 吗	s148	138159	做#VV 个#M 回程#NN 行程单#NN 对#VA 吗#SP
+CHT_CMN_20120104.0006.su.xml	它2	6332	17	做 个 回程 行程单 对 吗	s148	138159	做#VV 个#M 回程#NN 行程单#NN 对#VA 吗#SP
+CHT_CMN_20120104.0006.su.xml	它2	6371	0	对 的	s149	130530	对#VA 的#SP
+CHT_CMN_20120104.0006.su.xml	它3	6435	0	选择 几号 呢 你 选 个 把 反正 都 是 免费 的	s150	138159	选择#VV 几号#NN 呢#SP 你#PN 选#VV 个#M 把#BA 反正#AD 都#AD 是#VC 免费#JJ 的#DEG
+CHT_CMN_20120104.0006.su.xml	它3	6475	25	选择 几号 呢 你 选 个 把 反正 都 是 免费 的	s150	138159	选择#VV 几号#NN 呢#SP 你#PN 选#VV 个#M 把#BA 反正#AD 都#AD 是#VC 免费#JJ 的#DEG
+CHT_CMN_20120104.0006.su.xml	它3	6600	0	是 不 是 一般 都 这样 ?	s151	130530	是#VC 不#AD 是#VC 一般#AD 都#AD 这样#VA ?#PU
+CHT_CMN_20120104.0006.su.xml	它3	6824	0	7月 23号 吧	s152	130530	7月#NT 23号#NT 吧#SP
+CHT_CMN_20120104.0006.su.xml	它3	6863	0	ok	s153	138159	ok#NR
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	或者 7月 20号	s154	130530	或者#CC 7月#NT 20号#NT
+CHT_CMN_20120104.0006.su.xml	它3	6927	0	ok	s155	138159	ok#NR
+CHT_CMN_20120104.0006.su.xml	它3	6971	0	选择 那 天	s156	138159	选择#VV 那#DT 天#M
+CHT_CMN_20120104.0006.su.xml	它3	7066	0	都 行	s157	130530	都#AD 行#VV
+CHT_CMN_20120104.0006.su.xml	它3	7143	0	23号 吧	s158	130530	23号#NT 吧#SP
+CHT_CMN_20120104.0006.su.xml	它3	7411	3	要是 真 定 ， 能 订到 那 一 天 吗 ？	s159	130530	要是#CS 真#AD 定#VV ，#PU 能#VV 订到#VV 那#DT 一#CD 天#M 吗#SP ？#PU
+CHT_CMN_20120104.0006.su.xml	它4	7603	15	要是 真 定 ， 能 订到 那 一 天 吗 ？	s159	130530	要是#CS 真#AD 定#VV ，#PU 能#VV 订到#VV 那#DT 一#CD 天#M 吗#SP ？#PU
+CHT_CMN_20120104.0006.su.xml	它4	7733	0	都 没有 问题	s160	138159	都#AD 没有#VE 问题#NN
+CHT_CMN_20120104.0006.su.xml	它4	7871	0	好 的	s161	130530	好#VA 的#SP
+CHT_CMN_20120104.0006.su.xml	它4	7922	0	只 看 得 到 回程 ， 看 不 到 去程	s162	130530	只#AD 看#VV 得#DER 到#VV 回程#NN ，#PU 看#VV 不#AD 到#VV 去程#NN
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	你 再 给 我 发 一 遍 ？	s163	130530	你#PN 再#AD 给#P 我#PN 发#VV 一#CD 遍#M ？#PU
+CHT_CMN_20120104.0006.su.xml	它4	8166	3	去程 也 弄 一下 *T*-1	s164	138159	去程#NN 也#AD 弄#VV 一下#AD *T*-1#NN
+CHT_CMN_20120104.0006.su.xml	我们	8339	0	是 的	s165	130530	是#VC 的#SP
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	这 是 电子 机票 吗 ？	s166	130530	这#PN 是#VC 电子#NN 机票#NN 吗#SP ？#PU
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	你 还 另外 寄 票 给 我 吗 ？	s167	130530	你#PN 还#AD 另外#AD 寄#VV 票#NN 给#VV 我#PN 吗#SP ？#PU
+CHT_CMN_20120104.0006.su.xml	它们	7223	0	接收 失败	s168	130530	接收#VV 失败#VV
+CHT_CMN_20120104.0006.su.xml	形	319	0	请 再 发 一 遍	s169	130530	请#VV 再#AD 发#VV 一#CD 遍#M
+CHT_CMN_20120104.0006.su.xml	形	432	8	请 再 发 一 遍	s169	130530	请#VV 再#AD 发#VV 一#CD 遍#M
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	那 你 还 邮寄 票 吗 ？	s170	130530	那#AD 你#PN 还#AD 邮寄#VV 票#NN 吗#SP ？#PU
+CHT_CMN_20120104.0006.su.xml	形	879	2	嗯 是 的 快递 发票	s171	138159	嗯#IJ 是#VC 的#DEC 快递#NN 发票#NN
+CHT_CMN_20120104.0006.su.xml	形	941	12	嗯 是 的 快递 发票	s171	138159	嗯#IJ 是#VC 的#DEC 快递#NN 发票#NN
+CHT_CMN_20120104.0006.su.xml	形	1387	0	好 的	s172	130530	好#VA 的#SP
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	另外 一 张	s173	130530	另外#AD 一#CD 张#M
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	电子 行程单	s174	130530	电子#NN 行程单#NN
+CHT_CMN_20120104.0006.su.xml	形	1643	0	付款 后 短信 或者 电话 告知 一 声 13774294563 手机 号 我 的	s175	138159	付款#VV 后#LC 短信#NN 或者#CC 电话#NN 告知#VV 一#CD 声#M 13774294563#CD 手机#NN 号#NN 我#PN 的#DEG
+CHT_CMN_20120104.0006.su.xml	形	1664	11	付款 后 短信 或者 电话 告知 一 声 13774294563 手机 号 我 的	s175	138159	付款#VV 后#LC 短信#NN 或者#CC 电话#NN 告知#VV 一#CD 声#M 13774294563#CD 手机#NN 号#NN 我#PN 的#DEG
+CHT_CMN_20120104.0006.su.xml	形	1760	0	请问 你 的 联系 方式 呢	s176	138159	请问#VV 你#PN 的#DEG 联系#NN 方式#NN 呢#SP
+CHT_CMN_20120104.0006.su.xml	形	2339	0	ok	s177	138159	ok#NR
+CHT_CMN_20120104.0006.su.xml	NONE	-1	-1	山东省 临沂市 人民 检察院	s178	130530	山东省#NR 临沂市#NR 人民#NN 检察院#NN
+CHT_CMN_20120104.0006.su.xml	其	6114	0	请问 抬头 呢 发票	s179	138159	请问#AD 抬头#VV 呢#SP 发票#NN
+CHT_CMN_20120104.0006.su.xml	其	6207	0	请 留言 把 我 回来 在 快递 发票 我 先 去 考试 去 了 电话 联系	s180	138159	请#VV 留言#VV 把#BA 我#PN 回来#VV 在#P 快递#NN 发票#NN 我#PN 先#AD 去#VV 考试#VV 去#VV 了#AS 电话#NN 联系#NN
+CHT_CMN_20120104.0006.su.xml	其	7022	18	请 留言 把 我 回来 在 快递 发票 我 先 去 考试 去 了 电话 联系	s180	138159	请#VV 留言#VV 把#BA 我#PN 回来#VV 在#P 快递#NN 发票#NN 我#PN 先#AD 去#VV 考试#VV 去#VV 了#AS 电话#NN 联系#NN
+CHT_CMN_20120104.0006.su.xml	其	7262	45	请 留言 把 我 回来 在 快递 发票 我 先 去 考试 去 了 电话 联系	s180	138159	请#VV 留言#VV 把#BA 我#PN 回来#VV 在#P 快递#NN 发票#NN 我#PN 先#AD 去#VV 考试#VV 去#VV 了#AS 电话#NN 联系#NN

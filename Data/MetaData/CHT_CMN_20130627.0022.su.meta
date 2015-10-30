@@ -1,0 +1,273 @@
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	你 上班 了 吗	s0	137774	你#PN 上班#VV 了#AS 吗#SP
+CHT_CMN_20130627.0022.su.xml	我	65	0	还 没 呢	s1	136037	还#AD 没#AD 呢#SP
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	什么 时候 ？	s2	137774	什么#DT 时候#NN ？#PU
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	你 住 哪 呢	s3	137774	你#PN 住#VV 哪#SP 呢#SP
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	9.30	s4	136037	9.30#NT
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	我 现在 也 在 西雅图 啊	s5	137774	我#PN 现在#NT 也#AD 在#P 西雅图#NR 啊#SP
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	西雅图	s6	136037	西雅图#NR
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	卧槽	s7	137774	卧槽#VV
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	你 在 西雅图 ？	s8	136037	你#PN 在#AD 西雅图#NR ？#PU
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	9月30 ？	s9	137774	9月30#CD ？#PU
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	你妹的	s10	137774	你妹的#NR
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	啊	s11	137774	啊#IJ
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	。。。。	s12	136037	。。。。#NR
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	我 来 groupon 了	s13	137774	我#PN 来#VV groupon#VV 了#SP
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	你 会 一直 在 西雅图 么 ？	s14	136037	你#PN 会#VV 一直#AD 在#P 西雅图#NR 么#SP ？#PU
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	一直 是 有 多久 ？	s15	137774	一直#AD 是#VC 有#VE 多久#PN ？#PU
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	9.30 后	s16	136037	9.30#NT 后#LC
+CHT_CMN_20130627.0022.su.xml	我	638	0	会 啊	s17	137774	会#VV 啊#SP
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	那 好 啊	s18	136037	那#AD 好#VA 啊#SP
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	那 你 最近 在 干 吗	s19	137774	那#AD 你#PN 最近#NT 在#AD 干#VV 吗#SP
+CHT_CMN_20130627.0022.su.xml	我	751	0	上课 啊	s20	136037	上课#VV 啊#SP
+CHT_CMN_20130627.0022.su.xml	你	790	0	为啥 这么 晚 上班	s21	137774	为啥#AD 这么#AD 晚#AD 上班#VV
+CHT_CMN_20130627.0022.su.xml	形	799	9	为啥 这么 晚 上班	s21	137774	为啥#AD 这么#AD 晚#AD 上班#VV
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	啊 ？	s22	137774	啊#IJ ？#PU
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	你 还 没 毕业 呢 ？	s23	137774	你#PN 还#AD 没#AD 毕业#VV 呢#SP ？#PU
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	我们 8月 底 毕业	s24	136037	我们#PN 8月#NT 底#LC 毕业#VV
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	擦	s25	137774	擦#VV
+CHT_CMN_20130627.0022.su.xml	它	983	0	好 吧 ， 我 下 周一 都 上班 了	s26	137774	好#VA 吧#SP ，#PU 我#PN 下#DT 周一#NT 都#AD 上班#VV 了#AS
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	这	s27	136037	这#PN
+CHT_CMN_20130627.0022.su.xml	它	1067	0	怎么样 啊	s28	136037	怎么样#AD 啊#SP
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	*OP* 你 *T*-1 住 那 离 amazon 进 么	s29	136037	*OP*#NR 你#PN *T*-1#VV 住#VV 那#DT 离#P amazon#NR 进#VV 么#SP
+CHT_CMN_20130627.0022.su.xml	它	1165	0	离 amazon 很 近 ， 离 我 公司 还 挺 远 。。。	s30	137774	离#P amazon#NR 很#AD 近#VA ，#PU 离#P 我#PN 公司#NN 还#AD 挺#AD 远#AD 。。。#PU
+CHT_CMN_20130627.0022.su.xml	我	1231	0	不 爱 *PRO* 找 房子 了 ， 就 和 一 帮 amazon 的 住 一起 了	s31	137774	不#AD 爱#VV *PRO*#NN 找#VV 房子#NN 了#SP ，#PU 就#AD 和#P 一#CD 帮#M amazon#VV 的#DEC 住#NN 一起#VV 了#AS
+CHT_CMN_20130627.0022.su.xml	我	1256	25	不 爱 *PRO* 找 房子 了 ， 就 和 一 帮 amazon 的 住 一起 了	s31	137774	不#AD 爱#VV *PRO*#NN 找#VV 房子#NN 了#SP ，#PU 就#AD 和#P 一#CD 帮#M amazon#VV 的#DEC 住#NN 一起#VV 了#AS
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	跟 你 同学 ？	s32	136037	跟#P 你#PN 同学#NN ？#PU
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	我 跟 你 同学 一 个 组 啊	s33	136037	我#PN 跟#P 你#PN 同学#NN 一#CD 个#M 组#NN 啊#SP
+CHT_CMN_20130627.0022.su.xml	我	1396	0	不 是 和 他	s34	137774	不#AD 是#VC 和#P 他#PN
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	另外 一些	s35	137774	另外#AD 一些#CD
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	他 这 没有 房子 了	s36	137774	他#PN 这#PN 没有#VE 房子#NN 了#SP
+CHT_CMN_20130627.0022.su.xml	形	1516	4	你 那 去 amazon 有 公交 么	s37	136037	你#PN 那#DT 去#MSP amazon#VV 有#VE 公交#NN 么#SP
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	你 会 开车 ？	s38	136037	你#PN 会#VV 开车#VV ？#PU
+CHT_CMN_20130627.0022.su.xml	我	1603	0	走路 10 分钟	s39	137774	走路#VV 10#CD 分钟#M
+CHT_CMN_20130627.0022.su.xml	它	1646	0	太 好 了	s40	136037	太#AD 好#VA 了#SP
+CHT_CMN_20130627.0022.su.xml	其	1688	2	我 去 公司 上班 做 公交 ， google 上 说 得 20多 分钟	s41	137774	我#PN 去#VV 公司#NN 上班#VV 做#VV 公交#NN ，#PU google#NR 上#LC 说#VV 得#DER 20多#CD 分钟#M
+CHT_CMN_20130627.0022.su.xml	它	1720	34	我 去 公司 上班 做 公交 ， google 上 说 得 20多 分钟	s41	137774	我#PN 去#VV 公司#NN 上班#VV 做#VV 公交#NN ，#PU google#NR 上#LC 说#VV 得#DER 20多#CD 分钟#M
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	西雅图 怎么样 啊	s42	136037	西雅图#NR 怎么样#VV 啊#SP
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	*OP* 你 *T*-1 住 的 附近 怎么样	s43	136037	*OP*#NR 你#PN *T*-1#VV 住#VV 的#DEC 附近#NN 怎么样#VA
+CHT_CMN_20130627.0022.su.xml	它	1853	0	安全 不 ？	s44	136037	安全#VA 不#AD ？#PU
+CHT_CMN_20130627.0022.su.xml	它	1894	0	安全 吧	s45	137774	安全#VA 吧#SP
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	你 住 的 studio 还是 和 别人 合租 的 ？	s46	136037	你#PN 住#VV 的#DEC studio#NR 还是#AD 和#P 别人#NN 合租#VV 的#DEC ？#PU
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	studio	s47	137774	studio#NR
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	新 房子	s48	137774	新#JJ 房子#NN
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	多少 钱	s49	136037	多少#CD 钱#NN
+CHT_CMN_20130627.0022.su.xml	它	2093	3	但是 略 小 了 点	s50	137774	但是#AD 略#AD 小#VA 了#AS 点#AD
+CHT_CMN_20130627.0022.su.xml	它	2135	0	这么 好	s51	136037	这么#AD 好#VA
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	1370 一 个 月	s52	137774	1370#CD 一#CD 个#M 月#NN
+CHT_CMN_20130627.0022.su.xml	它	2213	0	小 无所谓 啊	s53	136037	小#JJ 无所谓#VV 啊#SP
+CHT_CMN_20130627.0022.su.xml	我	2258	3	但是 省 2 个 月 房租	s54	137774	但是#AD 省#NN 2#CD 个#M 月#NN 房租#NN
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	。。。。	s55	136037	。。。。#NR
+CHT_CMN_20130627.0022.su.xml	它1	2336	0	这么 贵 。。。。	s56	136037	这么#AD 贵#JJ 。。。。#NN
+CHT_CMN_20130627.0022.su.xml	我们	2383	3	所以 平均 下来 1100 多 一些	s57	137774	所以#AD 平均#AD 下来#VV 1100#CD 多#AD 一些#CD
+CHT_CMN_20130627.0022.su.xml	其	2395	15	所以 平均 下来 1100 多 一些	s57	137774	所以#AD 平均#AD 下来#VV 1100#CD 多#AD 一些#CD
+CHT_CMN_20130627.0022.su.xml	它1	2439	0	为什么 啊	s58	136037	为什么#AD 啊#SP
+CHT_CMN_20130627.0022.su.xml	它1	2481	2	啥 为什么	s59	137774	啥#DT 为什么#AD
+CHT_CMN_20130627.0022.su.xml	你	2523	4	为什么 省 2 各 月	s60	136037	为什么#AD 省#VV 2#CD 各#DT 月#NN
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	谁 知道 了	s61	137774	谁#PN 知道#VV 了#AS
+CHT_CMN_20130627.0022.su.xml	它1	2600	0	就 是 营销 手段 呗	s62	137774	就#AD 是#VC 营销#NN 手段#NN 呗#SP
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	你 会 开车 不 啊	s63	136037	你#PN 会#VV 开车#VV 不#AD 啊#SP
+CHT_CMN_20130627.0022.su.xml	我	2685	0	没有 驾照	s64	137774	没有#VE 驾照#NN
+CHT_CMN_20130627.0022.su.xml	我	2728	3	但是 会 开	s65	137774	但是#AD 会#VV 开#VV
+CHT_CMN_20130627.0022.su.xml	我1	2766	0	最近 一直 在 开	s66	137774	最近#NT 一直#AD 在#AD 开#VV
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	尼玛	s67	136037	尼玛#NR
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	哈哈	s68	137774	哈哈#IJ
+CHT_CMN_20130627.0022.su.xml	你	2872	0	permit ?	s69	136037	permit#NN ?#PU
+CHT_CMN_20130627.0022.su.xml	你	2915	0	放心 吧 ， 等 *OP* 你 *T*-1 来 得 时候 肯定 有 车 了	s70	137774	放心#VV 吧#SP ，#PU 等#VV *OP*#NN 你#PN *T*-1#VV 来#VV 得#DER 时候#NN 肯定#AD 有#VE 车#NN 了#SP
+CHT_CMN_20130627.0022.su.xml	我1	2950	35	放心 吧 ， 等 *OP* 你 *T*-1 来 得 时候 肯定 有 车 了	s70	137774	放心#VV 吧#SP ，#PU 等#VV *OP*#NN 你#PN *T*-1#VV 来#VV 得#DER 时候#NN 肯定#AD 有#VE 车#NN 了#SP
+CHT_CMN_20130627.0022.su.xml	它1	2993	0	好 的	s71	136037	好#VA 的#SP
+CHT_CMN_20130627.0022.su.xml	我1	3031	0	就 靠 你 了	s72	136037	就#AD 靠#VV 你#PN 了#SP
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	哦	s73	137774	哦#IJ
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	我 最近 导师 蛮 闲 的	s74	136037	我#PN 最近#NT 导师#NN 蛮#AD 闲#VV 的#SP
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	倒是	s75	136037	倒是#AD
+CHT_CMN_20130627.0022.su.xml	我1	3179	3	但是 学 不 了 车	s76	136037	但是#AD 学#VV 不#AD 了#VV 车#NN
+CHT_CMN_20130627.0022.su.xml	我1	3221	0	没 permit	s77	136037	没#AD permit#VV
+CHT_CMN_20130627.0022.su.xml	他们	3280	16	你 知道 你们 学校 ee 的 找 工作 情况 吗	s78	137774	你#PN 知道#VV 你们#PN 学校#NN ee#VV 的#DEC 找#VV 工作#NN 情况#NN 吗#SP
+CHT_CMN_20130627.0022.su.xml	你	3324	0	有没有 认识 ee 的 ？	s79	137774	有没有#AD 认识#VV ee#NN 的#SP ？#PU
+CHT_CMN_20130627.0022.su.xml	他们	3372	0	可以 推荐 啥 的 ？	s80	137774	可以#VV 推荐#VV 啥#DT 的#DEG ？#PU
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	我 的 permit 是 费城 的	s81	137774	我#PN 的#DEG permit#NN 是#VC 费城#NR 的#DEG
+CHT_CMN_20130627.0022.su.xml	我1	3464	0	不 清楚 应该 好 找	s82	136037	不#AD 清楚#VV 应该#VV 好#AD 找#VV
+CHT_CMN_20130627.0022.su.xml	他们	3475	11	不 清楚 应该 好 找	s82	136037	不#AD 清楚#VV 应该#VV 好#AD 找#VV
+CHT_CMN_20130627.0022.su.xml	你	3516	0	来 这边 都 得 重新 弄	s83	137774	来#VV 这边#PN 都#AD 得#VV 重新#AD 弄#VV
+CHT_CMN_20130627.0022.su.xml	你	3527	11	来 这边 都 得 重新 弄	s83	137774	来#VV 这边#PN 都#AD 得#VV 重新#AD 弄#VV
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	CMU 的 好像 都 好 找	s84	136037	CMU#NR 的#DEG 好像#AD 都#AD 好#AD 找#VV
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	妹的	s85	137774	妹的#NN
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	你 有 同学 要 *PRO* 去 CMU EE ？	s86	136037	你#PN 有#VE 同学#NN 要#VV *PRO*#VV 去#VV CMU#NR EE#NN ？#PU
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	你 不 认识 啥 ee 的 ？	s87	137774	你#PN 不#AD 认识#VV 啥#DT ee#NN 的#SP ？#PU
+CHT_CMN_20130627.0022.su.xml	我1	3742	0	不 认识	s88	136037	不#AD 认识#VV
+CHT_CMN_20130627.0022.su.xml	它1	3781	0	不 是 。。 是 找 工作	s89	137774	不#AD 是#VC 。。#NN 是#VC 找#VV 工作#NN
+CHT_CMN_20130627.0022.su.xml	他	3794	13	不 是 。。 是 找 工作	s89	137774	不#AD 是#VC 。。#NN 是#VC 找#VV 工作#NN
+CHT_CMN_20130627.0022.su.xml	我1	3838	3	不过 可以 帮 你 问问	s90	136037	不过#AD 可以#VV 帮#VV 你#PN 问问#VV
+CHT_CMN_20130627.0022.su.xml	形	3882	0	看 能 不 能 找 个 推荐 啥 的	s91	137774	看#VV 能#VV 不#AD 能#VV 找#VV 个#M 推荐#VV 啥#PN 的#SP
+CHT_CMN_20130627.0022.su.xml	我1	3890	8	看 能 不 能 找 个 推荐 啥 的	s91	137774	看#VV 能#VV 不#AD 能#VV 找#VV 个#M 推荐#VV 啥#PN 的#SP
+CHT_CMN_20130627.0022.su.xml	我1	3941	0	可以 啊	s92	137774	可以#VV 啊#SP
+CHT_CMN_20130627.0022.su.xml	我2	3980	0	找 工作 找 的 愁死 了	s93	137774	找#VV 工作#NN 找#VV 的#DEC 愁死#VV 了#SP
+CHT_CMN_20130627.0022.su.xml	你	4028	0	怎么 了 ？	s94	136037	怎么#VA 了#SP ？#PU
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	我 同学	s95	137774	我#PN 同学#NN
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	你 不 是 现 在 groupon 吗	s96	136037	你#PN 不#AD 是#VC 现#NT 在#P groupon#NR 吗#SP
+CHT_CMN_20130627.0022.su.xml	其	4150	0	你 同学 啊	s97	136037	你#PN 同学#NN 啊#SP
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	哦	s98	136037	哦#IJ
+CHT_CMN_20130627.0022.su.xml	我2	4244	23	ee 的 同学 ， opt 都 开始 了 ， 还 在 苦苦 找寻	s99	137774	ee#NN 的#DEG 同学#NN ，#PU opt#NN 都#AD 开始#VV 了#AS ，#PU 还#AD 在#P 苦苦#AD 找寻#VV
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	我 记得	s100	136037	我#PN 记得#VV
+CHT_CMN_20130627.0022.su.xml	我2	4326	3	以前 有 看 过	s101	136037	以前#NT 有#VE 看#VV 过#AS
+CHT_CMN_20130627.0022.su.xml	他们	4367	0	基本上 amazon oracle 什么 的	s102	136037	基本上#AD amazon#NR oracle#VV 什么#PN 的#SP
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	思科	s103	136037	思科#NR
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	但 我 同学 软件 不 行 啊	s104	137774	但#AD 我#PN 同学#NN 软件#NN 不#AD 行#VV 啊#SP
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	*OP* *T*-1 去 amazon 的 不 是 搞 硬件 的 吧 ？	s105	137774	*OP*#NR *T*-1#AD 去#VV amazon#VV 的#DEC 不#AD 是#VC 搞#VV 硬件#NN 的#DEC 吧#SP ？#PU
+CHT_CMN_20130627.0022.su.xml	我2	4568	0	看 amazon 硬件 的 职位 要求 都 很 高 啊	s106	137774	看#VV amazon#NR 硬件#NN 的#DEG 职位#NN 要求#NN 都#AD 很#AD 高#VA 啊#SP
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	这边 EE 都 学 的 CS 课程	s107	136037	这边#PN EE#NN 都#AD 学#VV 的#DEC CS#NN 课程#NN
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	哦 ， 那 就 是 了 啊	s108	137774	哦#IJ ，#PU 那#PN 就#AD 是#VC 了#SP 啊#SP
+CHT_CMN_20130627.0022.su.xml	他们	4721	0	都 学 得 什么 ML 啊	s109	136037	都#AD 学#VV 得#DER 什么#DT ML#NN 啊#SP
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	噗 。。。	s110	137774	噗#NN 。。。#PU
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	OS	s111	136037	OS#NN
+CHT_CMN_20130627.0022.su.xml	它1	4840	3	这边 是 个 专业 都 朝 CS 考	s112	136037	这边#PN 是#VC 个#M 专业#NN 都#AD 朝#P CS#NN 考#VV
+CHT_CMN_20130627.0022.su.xml	他们	4853	16	这边 是 个 专业 都 朝 CS 考	s112	136037	这边#PN 是#VC 个#M 专业#NN 都#AD 朝#P CS#NN 考#VV
+CHT_CMN_20130627.0022.su.xml	我2	4897	0	靠	s113	136037	靠#VV
+CHT_CMN_20130627.0022.su.xml	你	4934	0	最好 能 问问 那 种 纯 ee 的	s114	137774	最好#AD 能#VV 问问#VV 那#DT 种#M 纯#JJ ee#NN 的#SP
+CHT_CMN_20130627.0022.su.xml	它1	4988	0	是 啊 ， 我们 那 也 是 啊	s115	137774	是#VC 啊#SP ，#PU 我们#PN 那#PN 也#AD 是#VC 啊#SP
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	其实 *OP* 我 住 *T*-1 那 个 房子 确实 不错 啊	s116	137774	其实#AD *OP*#VV 我#PN 住#VV *T*-1#CD 那#DT 个#M 房子#NN 确实#AD 不错#VA 啊#SP
+CHT_CMN_20130627.0022.su.xml	我2	5109	7	新 房子 ， 第一 批 入住 的	s117	137774	新#JJ 房子#NN ，#PU 第一#OD 批#M 入住#VV 的#DEC
+CHT_CMN_20130627.0022.su.xml	形	5165	11	不过 到 你 来 了 应该 早 就 没 了	s118	137774	不过#AD 到#P 你#PN 来#VV 了#AS 应该#VV 早#AD 就#AD 没#VE 了#SP
+CHT_CMN_20130627.0022.su.xml	你1	5211	0	帮 我 *PRO* 物色 一下	s119	136037	帮#VV 我#PN *PRO*#AD 物色#VV 一下#AD
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	。。。	s120	136037	。。。#PU
+CHT_CMN_20130627.0022.su.xml	它1	5299	4	啊 ， 没 事 ， 到时候 再 找	s121	137774	啊#IJ ，#PU 没#VE 事#NN ，#PU 到时候#AD 再#AD 找#VV
+CHT_CMN_20130627.0022.su.xml	你1	5311	16	啊 ， 没 事 ， 到时候 再 找	s121	137774	啊#IJ ，#PU 没#VE 事#NN ，#PU 到时候#AD 再#AD 找#VV
+CHT_CMN_20130627.0022.su.xml	形	5354	0	有的是 房子	s122	137774	有的是#AD 房子#NN
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	我 可以 先 交 定金 嘛	s123	136037	我#PN 可以#VV 先#AD 交#VV 定金#NN 嘛#SP
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	。。。。	s124	137774	。。。。#NR
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	你 急 毛	s125	137774	你#PN 急#VV 毛#NR
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	主要 我 没 去 过 西雅图	s126	136037	主要#AD 我#PN 没#AD 去#VV 过#AS 西雅图#NR
+CHT_CMN_20130627.0022.su.xml	它2	5556	4	哦 ， 没 事	s127	137774	哦#IJ ，#PU 没#VE 事#NN
+CHT_CMN_20130627.0022.su.xml	我2	5595	0	什么 都 不 清楚 *-1	s128	136037	什么#PN 都#AD 不#AD 清楚#VV *-1#NN
+CHT_CMN_20130627.0022.su.xml	它2	5670	26	靠 ， 9月份 的 时候 我 已经 是 地头蛇 了 好 吗	s129	137774	靠#VV ，#PU 9月份#NT 的#DEG 时候#NN 我#PN 已经#AD 是#VC 地头蛇#NN 了#SP 好#VA 吗#SP
+CHT_CMN_20130627.0022.su.xml	它2	5709	0	好 吧	s130	136037	好#VA 吧#SP
+CHT_CMN_20130627.0022.su.xml	你1	5752	4	大不了 先 住 我 那 呗	s131	137774	大不了#AD 先#AD 住#VV 我#PN 那#PN 呗#SP
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	恩	s132	136037	恩#IJ
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	你 是 最近 找到 的	s133	136037	你#PN 是#VC 最近#NT 找到#VV 的#SP
+CHT_CMN_20130627.0022.su.xml	我2	5890	21	*OP* *T*-1 最 爽 的 就 是 有 自己 的 洗衣机 和 烘干机	s134	137774	*OP*#NR *T*-1#NN 最#AD 爽#VA 的#DEC 就#AD 是#VC 有#VE 自己#PN 的#DEG 洗衣机#NN 和#CC 烘干机#NN
+CHT_CMN_20130627.0022.su.xml	你1	5942	0	还是 出去 玩 了 一 转	s135	136037	还是#AD 出去#VV 玩#VV 了#AS 一#CD 转#VV
+CHT_CMN_20130627.0022.su.xml	我2	5991	0	没 玩	s136	137774	没#AD 玩#VV
+CHT_CMN_20130627.0022.su.xml	你1	6035	5	*OP* *T*-1 给 钱 的 ？	s137	136037	*OP*#NR *T*-1#VV 给#VV 钱#NN 的#SP ？#PU
+CHT_CMN_20130627.0022.su.xml	它2	6084	0	不 是 啊	s138	137774	不#AD 是#VC 啊#SP
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	自己 屋子 里 的	s139	137774	自己#PN 屋子#NN 里#LC 的#DEG
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	那 满 爽 的	s140	136037	那#AD 满#AD 爽#VA 的#SP
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	这 个 公寓 楼 就 是 酒店 式 那 种 的	s141	137774	这#DT 个#M 公寓#NN 楼#NN 就#AD 是#VC 酒店#NN 式#NN 那#DT 种#M 的#DEG
+CHT_CMN_20130627.0022.su.xml	你1	6254	0	能 看到 雪山 不	s142	136037	能#VV 看到#VV 雪山#NR 不#AD
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	屋子 只 有 500多 一点 feet	s143	137774	屋子#NN 只#AD 有#VE 500多#CD 一点#CD feet#NN
+CHT_CMN_20130627.0022.su.xml	我3	6348	0	看 你妹	s144	137774	看#VV 你妹#NN
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	。	s145	136037	。#PU
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	西雅图 不 是 有 个 雪山 么	s146	136037	西雅图#NR 不#AD 是#VC 有#VE 个#M 雪山#NR 么#SP
+CHT_CMN_20130627.0022.su.xml	我3	6465	0	给 你 发 些 照片 看看 吧	s147	137774	给#P 你#PN 发#VV 些#M 照片#NN 看看#VV 吧#SP
+CHT_CMN_20130627.0022.su.xml	你1	6482	17	给 你 发 些 照片 看看 吧	s147	137774	给#P 你#PN 发#VV 些#M 照片#NN 看看#VV 吧#SP
+CHT_CMN_20130627.0022.su.xml	我2	6522	0	不 知道	s148	137774	不#AD 知道#VV
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	恩	s149	136037	恩#IJ
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	我 前天 刚 来 的 。。。	s150	137774	我#PN 前天#NT 刚#AD 来#VV 的#DEC 。。。#PU
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	这	s151	136037	这#PN
+CHT_CMN_20130627.0022.su.xml	你1	6668	0	要 不 要 给 你 带 点 宾州 特产 来	s152	136037	要#VV 不#AD 要#VV 给#P 你#PN 带#VV 点#M 宾州#NR 特产#NN 来#VV
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	宾州 啥 特产 。。。	s153	137774	宾州#NR 啥#DT 特产#NN 。。。#PU
+CHT_CMN_20130627.0022.su.xml	我3	6766	0	不 知道 。。。	s154	136037	不#AD 知道#VV 。。。#PU
+CHT_CMN_20130627.0022.su.xml	我3	6810	0	特别 无聊	s155	136037	特别#AD 无聊#VA
+CHT_CMN_20130627.0022.su.xml	我3	6851	0	没 地方 玩 都	s156	136037	没#VE 地方#NN 玩#VV 都#AD
+CHT_CMN_20130627.0022.su.xml	它2	6895	0	蛮 大 的 啊	s157	136037	蛮#AD 大#JJ 的#DEG 啊#SP
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	我靠	s158	136037	我靠#NN
+CHT_CMN_20130627.0022.su.xml	它2	6970	0	这么 好	s159	136037	这么#AD 好#VA
+CHT_CMN_20130627.0022.su.xml	它2	7010	0	牛逼 啊	s160	136037	牛逼#NN 啊#SP
+CHT_CMN_20130627.0022.su.xml	它2	7054	4	你 看 挺 小 的	s161	137774	你#PN 看#VV 挺#AD 小#VA 的#SP
+CHT_CMN_20130627.0022.su.xml	它2	7095	0	就 那么 一 长 溜	s162	137774	就#AD 那么#AD 一#AD 长#VV 溜#VV
+CHT_CMN_20130627.0022.su.xml	形	7141	0	没有 bedroom	s163	137774	没有#VE bedroom#NN
+CHT_CMN_20130627.0022.su.xml	它2	7187	0	和 好 啊	s164	136037	和#P 好#VA 啊#SP
+CHT_CMN_20130627.0022.su.xml	它3	7228	0	很 新 的	s165	137774	很#AD 新#VA 的#DEC
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	你 一 个 人 住 无所谓 啊	s166	136037	你#PN 一#CD 个#M 人#NN 住#VV 无所谓#VV 啊#SP
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	厨房 满 浪费 的	s167	136037	厨房#NN 满#AD 浪费#VV 的#SP
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	他 这 个 楼 的 公共 区域 很 好	s168	137774	他#PN 这#DT 个#M 楼#NN 的#DEG 公共#JJ 区域#NN 很#AD 好#VA
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	我 不 做饭 的	s169	136037	我#PN 不#AD 做饭#VV 的#SP
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	楼顶 各 种 小 花园	s170	137774	楼顶#NN 各#DT 种#M 小#JJ 花园#NN
+CHT_CMN_20130627.0022.su.xml	我3	7481	0	学 者 *PRO* 做 吧	s171	137774	学#VV 者#NN *PRO*#VV 做#VV 吧#SP
+CHT_CMN_20130627.0022.su.xml	它3	7533	3	尼玛 还 海景 啊	s172	136037	尼玛#NR 还#AD 海景#NN 啊#SP
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	湖	s173	137774	湖#NN
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	我靠	s174	136037	我靠#NN
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	你 这个 好 值 哦	s175	136037	你#PN 这个#DT 好#JJ 值#NN 哦#SP
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	这个 是 小 影院	s176	137774	这个#PN 是#VC 小#JJ 影院#NN
+CHT_CMN_20130627.0022.su.xml	它3	7717	0	很 不错	s177	136037	很#AD 不错#VA
+CHT_CMN_20130627.0022.su.xml	它3	7757	0	跟 酒店 差不多 了	s178	136037	跟#P 酒店#NN 差不多#VA 了#SP
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	这 是 他 大厅	s179	137774	这#PN 是#VC 他#PN 大厅#NN
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	你 帮 我 留 一下	s180	136037	你#PN 帮#VV 我#PN 留#VV 一下#AD
+CHT_CMN_20130627.0022.su.xml	你1	7881	0	看 还 有没有 别的 studio	s181	136037	看#VV 还#AD 有没有#VV 别的#DT studio#NN
+CHT_CMN_20130627.0022.su.xml	形	7889	8	看 还 有没有 别的 studio	s181	136037	看#VV 还#AD 有没有#VV 别的#DT studio#NN
+CHT_CMN_20130627.0022.su.xml	它3	7954	14	二 楼 是 健身房 ， 但 有点 小	s182	137774	二#OD 楼#NN 是#VC 健身房#NN ，#PU 但#AD 有点#AD 小#VA
+CHT_CMN_20130627.0022.su.xml	我3	7994	0	感觉 你 这个 很 好 啊	s183	136037	感觉#VV 你#PN 这个#PN 很#AD 好#VA 啊#SP
+CHT_CMN_20130627.0022.su.xml	它3	8043	0	虽然 小 贵 了 点	s184	136037	虽然#CS 小#VA 贵#VA 了#AS 点#AD
+CHT_CMN_20130627.0022.su.xml	它3	8092	3	但是 还是 可以 接受 的	s185	136037	但是#AD 还是#AD 可以#VV 接受#VV 的#SP
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	这些 是 活动室	s186	137774	这些#PN 是#VC 活动室#NN
+CHT_CMN_20130627.0022.su.xml	我3	8201	25	活动室 很 不错 的 ， 活动室 外面 的 楼顶 可以 晒 太阳 ， 烧烤 啥 的	s187	137774	活动室#NN 很#AD 不错#VA 的#SP ，#PU 活动室#NN 外面#NN 的#DEG 楼顶#NN 可以#VV 晒#VV 太阳#NN ，#PU 烧烤#VV 啥#PN 的#SP
+CHT_CMN_20130627.0022.su.xml	它3	8268	15	恩 ， 我 一开始 也 觉着 贵 了 点 ， 但 后来 想想 算了	s188	137774	恩#IJ ，#PU 我#PN 一开始#AD 也#AD 觉着#VV 贵#VV 了#AS 点#M ，#PU 但#AD 后来#AD 想想#VV 算了#VV
+CHT_CMN_20130627.0022.su.xml	我3	8284	31	恩 ， 我 一开始 也 觉着 贵 了 点 ， 但 后来 想想 算了	s188	137774	恩#IJ ，#PU 我#PN 一开始#AD 也#AD 觉着#VV 贵#VV 了#AS 点#M ，#PU 但#AD 后来#AD 想想#VV 算了#VV
+CHT_CMN_20130627.0022.su.xml	我3	8296	43	恩 ， 我 一开始 也 觉着 贵 了 点 ， 但 后来 想想 算了	s188	137774	恩#IJ ，#PU 我#PN 一开始#AD 也#AD 觉着#VV 贵#VV 了#AS 点#M ，#PU 但#AD 后来#AD 想想#VV 算了#VV
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	你 这个 条件 很 好 啊	s189	136037	你#PN 这个#DT 条件#NN 很#AD 好#VA 啊#SP
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	而且 你 这个 1100 也 不 贵	s190	136037	而且#AD 你#PN 这个#DT 1100#CD 也#AD 不#AD 贵#VA
+CHT_CMN_20130627.0022.su.xml	我4	8432	7	恩 ， 其实 算算 以后 估计 也 就 月光族 了	s191	137774	恩#IJ ，#PU 其实#AD 算算#VV 以后#LC 估计#VV 也#AD 就#AD 月光族#NN 了#SP
+CHT_CMN_20130627.0022.su.xml	我4	8441	16	恩 ， 其实 算算 以后 估计 也 就 月光族 了	s191	137774	恩#IJ ，#PU 其实#AD 算算#VV 以后#LC 估计#VV 也#AD 就#AD 月光族#NN 了#SP
+CHT_CMN_20130627.0022.su.xml	你2	8492	0	还 好 吧	s192	136037	还#AD 好#VA 吧#SP
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	加州 都 2000多	s193	136037	加州#NR 都#AD 2000多#CD
+CHT_CMN_20130627.0022.su.xml	我4	8573	0	万一 买 个 新 车 啥 的 ， 分期 付款 就 朝着 月光 去 了	s194	137774	万一#AD 买#VV 个#M 新#JJ 车#NN 啥#DT 的#DEG ，#PU 分期#AD 付款#VV 就#AD 朝着#P 月光#NN 去#VV 了#AS
+CHT_CMN_20130627.0022.su.xml	我4	8596	23	万一 买 个 新 车 啥 的 ， 分期 付款 就 朝着 月光 去 了	s194	137774	万一#AD 买#VV 个#M 新#JJ 车#NN 啥#DT 的#DEG ，#PU 分期#AD 付款#VV 就#AD 朝着#P 月光#NN 去#VV 了#AS
+CHT_CMN_20130627.0022.su.xml	我4	8608	35	万一 买 个 新 车 啥 的 ， 分期 付款 就 朝着 月光 去 了	s194	137774	万一#AD 买#VV 个#M 新#JJ 车#NN 啥#DT 的#DEG ，#PU 分期#AD 付款#VV 就#AD 朝着#P 月光#NN 去#VV 了#AS
+CHT_CMN_20130627.0022.su.xml	我4	8619	46	万一 买 个 新 车 啥 的 ， 分期 付款 就 朝着 月光 去 了	s194	137774	万一#AD 买#VV 个#M 新#JJ 车#NN 啥#DT 的#DEG ，#PU 分期#AD 付款#VV 就#AD 朝着#P 月光#NN 去#VV 了#AS
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	哈哈	s195	137774	哈哈#IJ
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	你 准备 *PRO* 买 啥 车	s196	136037	你#PN 准备#VV *PRO*#VV 买#VV 啥#PN 车#NN
+CHT_CMN_20130627.0022.su.xml	我4	8739	0	不 知道 啊	s197	137774	不#AD 知道#VV 啊#SP
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	9月 底	s198	136037	9月#NT 底#LC
+CHT_CMN_20130627.0022.su.xml	形	8828	13	西雅图 很 变态 啊 ， 全 是 坡	s199	137774	西雅图#NR 很#AD 变态#VA 啊#SP ，#PU 全#AD 是#VC 坡#NN
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	奔驰 要 出 一 个 29K 的 车	s200	136037	奔驰#VV 要#VV 出#VV 一#CD 个#M 29K#CD 的#DEG 车#NN
+CHT_CMN_20130627.0022.su.xml	其	8944	27	我 其实 倾向于 *PRO* 买 2手 车 ， 毕竟 第一 次	s201	137774	我#PN 其实#AD 倾向于#VV *PRO*#AD 买#VV 2手#NT 车#NN ，#PU 毕竟#AD 第一#OD 次#M
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	。。。	s202	137774	。。。#PU
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	这	s203	137774	这#PN
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	SUV ？	s204	136037	SUV#NR ？#PU
+CHT_CMN_20130627.0022.su.xml	我4	9083	0	再说 吧	s205	137774	再说#AD 吧#SP
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	我 先 想想	s206	137774	我#PN 先#AD 想想#VV
+CHT_CMN_20130627.0022.su.xml	我4	9162	3	但是 买 2手 车 就 得 一次 付清 ， 还 得 问 家里 要 钱	s207	137774	但是#AD 买#VV 2手#NN 车#NN 就#AD 得#VV 一次#AD 付清#VV ，#PU 还#AD 得#VV 问#VV 家里#NN 要#VV 钱#NN
+CHT_CMN_20130627.0022.su.xml	我4	9175	16	但是 买 2手 车 就 得 一次 付清 ， 还 得 问 家里 要 钱	s207	137774	但是#AD 买#VV 2手#NN 车#NN 就#AD 得#VV 一次#AD 付清#VV ，#PU 还#AD 得#VV 问#VV 家里#NN 要#VV 钱#NN
+CHT_CMN_20130627.0022.su.xml	我5	9193	34	但是 买 2手 车 就 得 一次 付清 ， 还 得 问 家里 要 钱	s207	137774	但是#AD 买#VV 2手#NN 车#NN 就#AD 得#VV 一次#AD 付清#VV ，#PU 还#AD 得#VV 问#VV 家里#NN 要#VV 钱#NN
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	新 车 有 太 贵 ， 尼玛	s208	137774	新#JJ 车#NN 有#VE 太#AD 贵#VA ，#PU 尼玛#NR
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	你 买 个 *OP* *T*-1 烂 一点 的 被	s209	136037	你#PN 买#VV 个#M *OP*#NN *T*-1#NN 烂#VA 一点#AD 的#DEC 被#SB
+CHT_CMN_20130627.0022.su.xml	你2	9343	3	或者 租 车	s210	136037	或者#CC 租#VV 车#NN
+CHT_CMN_20130627.0022.su.xml	形	9382	0	不 是 有 那 种 *OP* 一 个 月 一 个 月 的 租 *T*-1 的 那 种 么	s211	136037	不#AD 是#VC 有#VE 那#DT 种#M *OP*#NN 一#CD 个#M 月#NN 一#CD 个#M 月#NN 的#DEC 租#VV *T*-1#NN 的#DEC 那#DT 种#M 么#SP
+CHT_CMN_20130627.0022.su.xml	你2	9403	21	不 是 有 那 种 *OP* 一 个 月 一 个 月 的 租 *T*-1 的 那 种 么	s211	136037	不#AD 是#VC 有#VE 那#DT 种#M *OP*#NN 一#CD 个#M 月#NN 一#CD 个#M 月#NN 的#DEC 租#VV *T*-1#NN 的#DEC 那#DT 种#M 么#SP
+CHT_CMN_20130627.0022.su.xml	我5	9487	19	恩 ， 反正 我 现在 还 没 驾照 慢慢 看看 吧 ，	s212	137774	恩#IJ ，#PU 反正#AD 我#PN 现在#NT 还#AD 没#VV 驾照#NN 慢慢#AD 看看#VV 吧#SP ，#PU
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	那 你 现在 上路 合法 么	s213	136037	那#AD 你#PN 现在#NT 上路#VV 合法#JJ 么#SP
+CHT_CMN_20130627.0022.su.xml	我5	9590	14	我 前 一 阵在 在 费城 有 permit 开车 没 事	s214	137774	我#PN 前#DT 一#CD 阵在#M 在#P 费城#NR 有#VE permit#NN 开车#VV 没#VV 事#NN
+CHT_CMN_20130627.0022.su.xml	我5	9605	29	我 前 一 阵在 在 费城 有 permit 开车 没 事	s214	137774	我#PN 前#DT 一#CD 阵在#M 在#P 费城#NR 有#VE permit#NN 开车#VV 没#VV 事#NN
+CHT_CMN_20130627.0022.su.xml	形	9647	0	只要 副驾驶 做 个 driver 就 行	s215	137774	只要#CS 副驾驶#NN 做#VV 个#M driver#NN 就#AD 行#VV
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	。。。。	s216	136037	。。。。#NR
+CHT_CMN_20130627.0022.su.xml	我5	9741	3	但是 也 经常 自己 开	s217	137774	但是#AD 也#AD 经常#AD 自己#PN 开#VV
+CHT_CMN_20130627.0022.su.xml	我5	9786	0	没 permit 。。。	s218	136037	没#VE permit#NN 。。。#PU
+CHT_CMN_20130627.0022.su.xml	你2	9834	0	只要 不 违法 啥 的 ， 谁 拦 你 啊	s219	137774	只要#CS 不#AD 违法#VV 啥#DT 的#DEG ，#PU 谁#PN 拦#VV 你#PN 啊#SP
+CHT_CMN_20130627.0022.su.xml	你2	9894	3	尼玛 要是 出事 了	s220	136037	尼玛#NR 要是#CS 出事#VV 了#AS
+CHT_CMN_20130627.0022.su.xml	你2	9937	0	直接 回国	s221	136037	直接#AD 回国#VV
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	~	s222	137774	~#PU
+CHT_CMN_20130627.0022.su.xml	你2	10009	0	还是 小心 点	s223	136037	还是#AD 小心#VV 点#M
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	恩	s224	137774	恩#IJ
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	我 对 自己 开车 技术 非常 有 信心 啊	s225	137774	我#PN 对#P 自己#PN 开车#VV 技术#NN 非常#AD 有#VE 信心#NN 啊#SP
+CHT_CMN_20130627.0022.su.xml	我5	10135	0	不 知道 为啥	s226	137774	不#AD 知道#VV 为啥#NN
+CHT_CMN_20130627.0022.su.xml	我5	10146	11	不 知道 为啥	s226	137774	不#AD 知道#VV 为啥#NN
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	马路 杀手 都 这样 的	s227	136037	马路#NN 杀手#NN 都#AD 这样#VA 的#SP
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	。。。。	s228	137774	。。。。#NR
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	妹的	s229	137774	妹的#NN
+CHT_CMN_20130627.0022.su.xml	我5	10305	13	我 要 吃饭 去 了 ， 不 和 你 聊 了	s230	137774	我#PN 要#VV 吃饭#VV 去#VV 了#AS ，#PU 不#AD 和#P 你#PN 聊#VV 了#SP
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	恩	s231	136037	恩#IJ
+CHT_CMN_20130627.0022.su.xml	你2	10395	14	反正 你 租 房子 的 事 先 不 用 急	s232	137774	反正#AD 你#PN 租#VV 房子#NN 的#DEC 事#NN 先#AD 不#AD 用#VV 急#VA
+CHT_CMN_20130627.0022.su.xml	你2	10438	0	到时候 再说 吧	s233	137774	到时候#AD 再说#AD 吧#SP
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	恩	s234	136037	恩#IJ
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	你 别 忘 了 *PRO* 帮 我 *PRO* 问问 ee 的 同学	s235	137774	你#PN 别#AD 忘#VV 了#AS *PRO*#NR 帮#VV 我#PN *PRO*#NN 问问#VV ee#NN 的#DEC 同学#NN
+CHT_CMN_20130627.0022.su.xml	它3	10577	0	好 的	s236	136037	好#VA 的#SP
+CHT_CMN_20130627.0022.su.xml	他们	10616	0	最好 能 有 啥 推荐 啥 的	s237	137774	最好#AD 能#VV 有#VE 啥#DT 推荐#NN 啥#PN 的#DEG
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	学生 怎么 推荐 啊 ？	s238	136037	学生#NN 怎么#AD 推荐#VV 啊#SP ？#PU
+CHT_CMN_20130627.0022.su.xml	他们	10709	0	只要 工作 了 就 可以 推荐	s239	137774	只要#CS 工作#VV 了#AS 就#AD 可以#VV 推荐#VV
+CHT_CMN_20130627.0022.su.xml	他们	10723	14	只要 工作 了 就 可以 推荐	s239	137774	只要#CS 工作#VV 了#AS 就#AD 可以#VV 推荐#VV
+CHT_CMN_20130627.0022.su.xml	你2	10766	0	要是 能 问问 怎么 找 工作 的 也 行	s240	137774	要是#CS 能#VV 问问#VV 怎么#AD 找#VV 工作#NN 的#DEC 也#AD 行#VV
+CHT_CMN_20130627.0022.su.xml	他们	10780	14	要是 能 问问 怎么 找 工作 的 也 行	s240	137774	要是#CS 能#VV 问问#VV 怎么#AD 找#VV 工作#NN 的#DEC 也#AD 行#VV
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	你 是 说 *OP* *T*-1 工作 了 的 ？	s241	136037	你#PN 是#VC 说#VV *OP*#NR *T*-1#NN 工作#VV 了#AS 的#SP ？#PU
+CHT_CMN_20130627.0022.su.xml	我6	10887	3	现在 束手无策 啊	s242	137774	现在#NT 束手无策#VV 啊#SP
+CHT_CMN_20130627.0022.su.xml	它3	10933	4	恩 ， 行	s243	136037	恩#IJ ，#PU 行#VV
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	恩 ， 我 就 这 意思	s244	137774	恩#IJ ，#PU 我#PN 就#AD 这#PN 意思#NN
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	你 同学 是 *OP* *T*-1 做 哪 一 块 的 啊 ？	s245	136037	你#PN 同学#NN 是#VC *OP*#NN *T*-1#NN 做#VV 哪#DT 一#CD 块#M 的#DEG 啊#SP ？#PU
+CHT_CMN_20130627.0022.su.xml	NONE	-1	-1	我 问问 哈	s246	137774	我#PN 问问#VV 哈#IJ

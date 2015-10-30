@@ -1,0 +1,35 @@
+CHT_CMN_20130621.0029.su.xml	我	100	0	青葱 岁月 啊	s0	137841	青葱#NN 岁月#NN 啊#SP
+CHT_CMN_20130621.0029.su.xml	NONE	-1	-1	吃货	s1	137803	吃货#VV
+CHT_CMN_20130621.0029.su.xml	我	461	0	求 视频	s2	137841	求#VV 视频#NN
+CHT_CMN_20130621.0029.su.xml	我	524	0	看来 还 有 *OP* *T*-1 喝 完全 醉 的 啊	s3	137841	看来#AD 还#AD 有#VE *OP*#NR *T*-1#NN 喝#VV 完全#AD 醉#VV 的#DEC 啊#SP
+CHT_CMN_20130621.0029.su.xml	我	685	9	看来 还 有 *OP* *T*-1 喝 完全 醉 的 啊	s3	137841	看来#AD 还#AD 有#VE *OP*#NR *T*-1#NN 喝#VV 完全#AD 醉#VV 的#DEC 啊#SP
+CHT_CMN_20130621.0029.su.xml	NONE	-1	-1	这 名字 不 是 我 取 的	s4	137803	这#PN 名字#NN 不#AD 是#VC 我#PN 取#VV 的#DEC
+CHT_CMN_20130621.0029.su.xml	我	759	0	是 不 是 挺 无聊 的	s5	137803	是#VC 不#AD 是#VC 挺#AD 无聊#VA 的#SP
+CHT_CMN_20130621.0029.su.xml	我	838	0	很 像 你 。	s6	137841	很#AD 像#VV 你#PN 。#PU
+CHT_CMN_20130621.0029.su.xml	我	1063	0	很 可爱	s7	137841	很#AD 可爱#VA
+CHT_CMN_20130621.0029.su.xml	我	1237	2	哈 好 吧	s8	137803	哈#IJ 好#VA 吧#SP
+CHT_CMN_20130621.0029.su.xml	我	1275	9	但 看 不 出来 醉 了 啊	s9	137841	但#AD 看#VV 不#AD 出来#VV 醉#VV 了#SP 啊#SP
+CHT_CMN_20130621.0029.su.xml	我1	1386	0	醉 了 没 事 我 晃 脚 干 嘛	s10	137803	醉#VV 了#AS 没#VE 事#NN 我#PN 晃#VV 脚#NN 干#VV 嘛#SP
+CHT_CMN_20130621.0029.su.xml	你	147	11	我 经常 晃 啊 ， 这么 趴 着 ， 很 自然 啊	s11	137841	我#PN 经常#AD 晃#VV 啊#SP ，#PU 这么#AD 趴#VV 着#AS ，#PU 很#AD 自然#VA 啊#SP
+CHT_CMN_20130621.0029.su.xml	你	421	2	厄 好 吧	s12	137803	厄#NR 好#VA 吧#SP
+CHT_CMN_20130621.0029.su.xml	你	984	0	还 有 啥 *OP* *T*-1 好玩 的 视频 啊	s13	137841	还#AD 有#VE 啥#DT *OP*#NN *T*-1#AD 好玩#VA 的#DEC 视频#NN 啊#SP
+CHT_CMN_20130621.0029.su.xml	你	1140	0	没 了 找 不 到	s14	137803	没#VE 了#AS 找#VV 不#AD 到#VV
+CHT_CMN_20130621.0029.su.xml	你	1178	10	没 了 找 不 到	s14	137803	没#VE 了#AS 找#VV 不#AD 到#VV
+CHT_CMN_20130621.0029.su.xml	NONE	-1	-1	切	s15	137841	切#VV
+CHT_CMN_20130621.0029.su.xml	它	248	4	哈哈哈 被 发现 了 *-1 么	s16	137803	哈哈哈#IJ 被#SB 发现#VV 了#AS *-1#NR 么#SP
+CHT_CMN_20130621.0029.su.xml	NONE	-1	-1	啥 ？	s17	137841	啥#PN ？#PU
+CHT_CMN_20130621.0029.su.xml	它	294	0	可能 不 是 很 跟上 节奏 啊	s18	137841	可能#AD 不#AD 是#VC 很#AD 跟上#VV 节奏#NN 啊#SP
+CHT_CMN_20130621.0029.su.xml	NONE	-1	-1	这 是 个 语气词 啊	s19	137841	这#PN 是#VC 个#M 语气词#NN 啊#SP
+CHT_CMN_20130621.0029.su.xml	它	335	0	不 是 动词	s20	137841	不#AD 是#VC 动词#NN
+CHT_CMN_20130621.0029.su.xml	它	375	14	你 的 意思 难道 不 是 不 相信 么	s21	137803	你#PN 的#DEG 意思#NN 难道#AD 不#AD 是#VC 不#AD 相信#VV 么#SP
+CHT_CMN_20130621.0029.su.xml	它	576	0	是 啊	s22	137841	是#VC 啊#SP
+CHT_CMN_20130621.0029.su.xml	它	929	0	不 相信	s23	137841	不#AD 相信#VV
+CHT_CMN_20130621.0029.su.xml	它	1025	0	对 啊	s24	137803	对#VA 啊#SP
+CHT_CMN_20130621.0029.su.xml	它	1102	0	来 吧	s25	137841	来#VV 吧#SP
+CHT_CMN_20130621.0029.su.xml	形	138	0	让 暴风雨 *PRO* 来 得 更 猛烈 些 吧	s26	137841	让#VV 暴风雨#NN *PRO*#VV 来#VV 得#DER 更#AD 猛烈#VA 些#CD 吧#SP
+CHT_CMN_20130621.0029.su.xml	形	614	0	不 要	s27	137803	不#AD 要#VV
+CHT_CMN_20130621.0029.su.xml	形	675	0	没有 兴趣	s28	137803	没有#VE 兴趣#NN
+CHT_CMN_20130621.0029.su.xml	NONE	-1	-1	。	s29	137841	。#PU
+CHT_CMN_20130621.0029.su.xml	NONE	-1	-1	。。 你 要 睡 了 ？	s30	137841	。。#NN 你#PN 要#VV 睡#VV 了#SP ？#PU
+CHT_CMN_20130621.0029.su.xml	其	29	0	没 视频	s31	137803	没#AD 视频#NN
+CHT_CMN_20130621.0029.su.xml	NONE	-1	-1	哦	s32	137841	哦#IJ

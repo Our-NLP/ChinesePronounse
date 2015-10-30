@@ -1,0 +1,92 @@
+CHT_CMN_20130702.0021.su.xml	你	29	0	在 啊	s0	137046	在#P 啊#SP
+CHT_CMN_20130702.0021.su.xml	你	70	4	昂 ， 最近 忙 不	s1	136693	昂#NR ，#PU 最近#NT 忙#VA 不#AD
+CHT_CMN_20130702.0021.su.xml	我	110	0	不 忙	s2	137046	不#AD 忙#VA
+CHT_CMN_20130702.0021.su.xml	我	159	12	我 注册 了 公司 ， 做 票务 代理 的	s3	137046	我#PN 注册#VV 了#AS 公司#NN ，#PU 做#VV 票务#NN 代理#NN 的#SP
+CHT_CMN_20130702.0021.su.xml	我	218	16	机票 火车票 演出票 什么 的 都 做 *T*-1	s4	137046	机票#NN 火车票#NN 演出票#NN 什么#PN 的#DEG 都#AD 做#VV *T*-1#NN
+CHT_CMN_20130702.0021.su.xml	你	261	0	不错 ， 火车票 这么 透明 ， 做 这个 有 赚 吗	s5	136693	不错#VA ，#PU 火车票#NN 这么#AD 透明#VA ，#PU 做#VV 这个#PN 有#VE 赚#VV 吗#SP
+CHT_CMN_20130702.0021.su.xml	你	284	23	不错 ， 火车票 这么 透明 ， 做 这个 有 赚 吗	s5	136693	不错#VA ，#PU 火车票#NN 这么#AD 透明#VA ，#PU 做#VV 这个#PN 有#VE 赚#VV 吗#SP
+CHT_CMN_20130702.0021.su.xml	我	328	0	还 不 是 为了 *PRO* 拉 人气	s6	137046	还#AD 不#AD 是#VC 为了#P *PRO*#VV 拉#VV 人气#NN
+CHT_CMN_20130702.0021.su.xml	NONE	-1	-1	火车票 还 没 办 下来	s7	137046	火车票#NN 还#AD 没#AD 办#VV 下来#VV
+CHT_CMN_20130702.0021.su.xml	我	421	0	找 路局 的 人 ， 说 程序 都 变 了	s8	137046	找#VV 路局#NN 的#DEC 人#NN ，#PU 说#VV 程序#NN 都#AD 变#VV 了#AS
+CHT_CMN_20130702.0021.su.xml	他们	438	17	找 路局 的 人 ， 说 程序 都 变 了	s8	137046	找#VV 路局#NN 的#DEC 人#NN ，#PU 说#VV 程序#NN 都#AD 变#VV 了#AS
+CHT_CMN_20130702.0021.su.xml	我	482	0	一时 摸 不 上	s9	137046	一时#AD 摸#VV 不#AD 上#VV
+CHT_CMN_20130702.0021.su.xml	NONE	-1	-1	你 那 酒店 开 了 吗	s10	137046	你#PN 那#DT 酒店#NN 开#VV 了#AS 吗#SP
+CHT_CMN_20130702.0021.su.xml	我	566	0	没 呢 ， 但是 一直 有 开 旅馆 的 打算 ， 想 *PRO* 先 开 间 *OP* 小 的	s11	136693	没#AD 呢#SP ，#PU 但是#AD 一直#AD 有#VE 开#VV 旅馆#NN 的#DEC 打算#NN ，#PU 想#VV *PRO*#VV 先#AD 开#VV 间#LC *OP*#VV 小#JJ 的#DEG
+CHT_CMN_20130702.0021.su.xml	我	581	15	没 呢 ， 但是 一直 有 开 旅馆 的 打算 ， 想 *PRO* 先 开 间 *OP* 小 的	s11	136693	没#AD 呢#SP ，#PU 但是#AD 一直#AD 有#VE 开#VV 旅馆#NN 的#DEC 打算#NN ，#PU 想#VV *PRO*#VV 先#AD 开#VV 间#LC *OP*#VV 小#JJ 的#DEG
+CHT_CMN_20130702.0021.su.xml	其	592	26	没 呢 ， 但是 一直 有 开 旅馆 的 打算 ， 想 *PRO* 先 开 间 *OP* 小 的	s11	136693	没#AD 呢#SP ，#PU 但是#AD 一直#AD 有#VE 开#VV 旅馆#NN 的#DEC 打算#NN ，#PU 想#VV *PRO*#VV 先#AD 开#VV 间#LC *OP*#VV 小#JJ 的#DEG
+CHT_CMN_20130702.0021.su.xml	NONE	-1	-1	我 同学 现在 在 银座 旅游 干 老总 ， 他们 银座 佳逸 一直 再 发展 特许 连锁 店	s12	137046	我#PN 同学#NN 现在#NT 在#P 银座#NN 旅游#NN 干#VV 老总#NN ，#PU 他们#PN 银座#NN 佳逸#NN 一直#AD 再#AD 发展#VV 特许#VV 连锁#JJ 店#NN
+CHT_CMN_20130702.0021.su.xml	我	737	0	知道 啊 ， 太 贵 了 ， 加盟 不 起 啊	s13	136693	知道#VV 啊#SP ，#PU 太#AD 贵#VA 了#SP ，#PU 加盟#VV 不#AD 起#VV 啊#SP
+CHT_CMN_20130702.0021.su.xml	它	750	13	知道 啊 ， 太 贵 了 ， 加盟 不 起 啊	s13	136693	知道#VV 啊#SP ，#PU 太#AD 贵#VA 了#SP ，#PU 加盟#VV 不#AD 起#VV 啊#SP
+CHT_CMN_20130702.0021.su.xml	我	764	27	知道 啊 ， 太 贵 了 ， 加盟 不 起 啊	s13	136693	知道#VV 啊#SP ，#PU 太#AD 贵#VA 了#SP ，#PU 加盟#VV 不#AD 起#VV 啊#SP
+CHT_CMN_20130702.0021.su.xml	NONE	-1	-1	银座 佳驿 ， 如家 这 种 连锁 酒店 ， 初始 成本 太 高	s14	136693	银座#NN 佳驿#NN ，#PU 如家#VV 这#DT 种#M 连锁#JJ 酒店#NN ，#PU 初始#VV 成本#NN 太#AD 高#VA
+CHT_CMN_20130702.0021.su.xml	NONE	-1	-1	至少 400w	s15	136693	至少#AD 400w#CD
+CHT_CMN_20130702.0021.su.xml	NONE	-1	-1	哦	s16	137046	哦#IJ
+CHT_CMN_20130702.0021.su.xml	我1	952	18	票务 这 块 你 路子 熟 啊 ， 估计 能 发展 的 不错	s17	136693	票务#NN 这#DT 块#M 你#PN 路子#NN 熟#VA 啊#SP ，#PU 估计#VV 能#VV 发展#VV 的#DEC 不错#VA
+CHT_CMN_20130702.0021.su.xml	你	961	27	票务 这 块 你 路子 熟 啊 ， 估计 能 发展 的 不错	s17	136693	票务#NN 这#DT 块#M 你#PN 路子#NN 熟#VA 啊#SP ，#PU 估计#VV 能#VV 发展#VV 的#DEC 不错#VA
+CHT_CMN_20130702.0021.su.xml	你	1008	3	机票 别 忘 了 我 啊	s18	137046	机票#NN 别#AD 忘#VV 了#AS 我#PN 啊#SP
+CHT_CMN_20130702.0021.su.xml	你	1056	4	嗯 ， 能 接着 出 发票 是 吧 ？	s19	136693	嗯#IJ ，#PU 能#VV 接着#VV 出#VV 发票#NN 是#VC 吧#SP ？#PU
+CHT_CMN_20130702.0021.su.xml	它	1072	20	嗯 ， 能 接着 出 发票 是 吧 ？	s19	136693	嗯#IJ ，#PU 能#VV 接着#VV 出#VV 发票#NN 是#VC 吧#SP ？#PU
+CHT_CMN_20130702.0021.su.xml	它	1112	0	和 携程 比 价格 如何 ？	s20	136693	和#P 携程#NN 比#P 价格#NN 如何#VA ？#PU
+CHT_CMN_20130702.0021.su.xml	NONE	-1	-1	那 当然 了	s21	137046	那#AD 当然#AD 了#SP
+CHT_CMN_20130702.0021.su.xml	它	1202	6	对 公 的 正常 折扣 ， 不 高于 携程	s22	137046	对#P 公#NN 的#DEG 正常#JJ 折扣#NN ，#PU 不#AD 高于#VV 携程#VV
+CHT_CMN_20130702.0021.su.xml	它	1216	20	对 公 的 正常 折扣 ， 不 高于 携程	s22	137046	对#P 公#NN 的#DEG 正常#JJ 折扣#NN ，#PU 不#AD 高于#VV 携程#VV
+CHT_CMN_20130702.0021.su.xml	它	1268	10	个人 的 携程 价 再 返 2 *RNR*-1 - 3 个 点	s23	137046	个人#NN 的#DEG 携程#NN 价#NN 再#AD 返#VV 2#CD *RNR*-1#M -#PU 3#CD 个#M 点#NN
+CHT_CMN_20130702.0021.su.xml	它	1324	0	好	s24	136693	好#VA
+CHT_CMN_20130702.0021.su.xml	我1	1360	0	前 几 天 忘 了 ， 刚 定 了 三 张	s25	136693	前#DT 几#CD 天#M 忘#VV 了#AS ，#PU 刚#AD 定#VV 了#AS 三#CD 张#M
+CHT_CMN_20130702.0021.su.xml	我1	1378	18	前 几 天 忘 了 ， 刚 定 了 三 张	s25	136693	前#DT 几#CD 天#M 忘#VV 了#AS ，#PU 刚#AD 定#VV 了#AS 三#CD 张#M
+CHT_CMN_20130702.0021.su.xml	你	1433	11	携程 很多 低价 票 必须 买 保险 的	s26	137046	携程#VV 很多#CD 低价#NN 票#NN 必须#VV 买#VV 保险#NN 的#DEC
+CHT_CMN_20130702.0021.su.xml	NONE	-1	-1	我们 不 用	s27	137046	我们#PN 不#AD 用#VV
+CHT_CMN_20130702.0021.su.xml	它	1512	0	是 的 ， 捆绑	s28	136693	是#VC 的#SP ，#PU 捆绑#NN
+CHT_CMN_20130702.0021.su.xml	它	1524	12	是 的 ， 捆绑	s28	136693	是#VC 的#SP ，#PU 捆绑#NN
+CHT_CMN_20130702.0021.su.xml	它	1575	14	我们 要 买 对 公 机票 一般 也 需要 买 保险 ， 保险 倒 不 是 问题	s29	136693	我们#PN 要#VV 买#VV 对#P 公#JJ 机票#NN 一般#AD 也#AD 需要#VV 买#VV 保险#NN ，#PU 保险#NN 倒#AD 不#AD 是#VC 问题#NN
+CHT_CMN_20130702.0021.su.xml	NONE	-1	-1	你 单位 的 票 我 给 你 返 3 个 点	s30	137046	你#PN 单位#NN 的#DEG 票#NN 我#PN 给#P 你#PN 返#VV 3#CD 个#M 点#NN
+CHT_CMN_20130702.0021.su.xml	NONE	-1	-1	嗯	s31	136693	嗯#IJ
+CHT_CMN_20130702.0021.su.xml	我1	1717	0	现在 刚 起步 ， 主要 做 量	s32	137046	现在#NT 刚#AD 起步#VV ，#PU 主要#AD 做#VV 量#NN
+CHT_CMN_20130702.0021.su.xml	我1	1768	0	好 跟 航空 公司 要 政策	s33	137046	好#AD 跟#P 航空#NN 公司#NN 要#VV 政策#NN
+CHT_CMN_20130702.0021.su.xml	NONE	-1	-1	哦	s34	136693	哦#IJ
+CHT_CMN_20130702.0021.su.xml	你	1851	4	嗯 ， 慢慢 发展 壮大 ， 以后 咱 自己 家人 出行 就 可以 免票 了 哈哈哈	s35	136693	嗯#IJ ，#PU 慢慢#AD 发展#VV 壮大#VV ，#PU 以后#AD 咱#PN 自己#PN 家人#NN 出行#VV 就#AD 可以#VV 免票#VV 了#SP 哈哈哈#IJ
+CHT_CMN_20130702.0021.su.xml	我们	1882	35	嗯 ， 慢慢 发展 壮大 ， 以后 咱 自己 家人 出行 就 可以 免票 了 哈哈哈	s35	136693	嗯#IJ ，#PU 慢慢#AD 发展#VV 壮大#VV ，#PU 以后#AD 咱#PN 自己#PN 家人#NN 出行#VV 就#AD 可以#VV 免票#VV 了#SP 哈哈哈#IJ
+CHT_CMN_20130702.0021.su.xml	我1	1942	12	很多 票 ， *OP* *T*-1 挣 了 10 快 20 的 就 出	s36	137046	很多#CD 票#NN ，#PU *OP*#NN *T*-1#NN 挣#VV 了#AS 10#CD 快#AD 20#CD 的#DEG 就#AD 出#VV
+CHT_CMN_20130702.0021.su.xml	它1	2000	0	对	s37	137046	对#VA
+CHT_CMN_20130702.0021.su.xml	NONE	-1	-1	我 这边 票 优势 *PRO* 相比 携程 还是 明显 的	s38	137046	我#PN 这边#PN 票#NN 优势#NN *PRO*#NR 相比#VV 携程#NN 还是#CC 明显#VA 的#SP
+CHT_CMN_20130702.0021.su.xml	它1	2098	4	嗯 ， 好	s39	136693	嗯#IJ ，#PU 好#VA
+CHT_CMN_20130702.0021.su.xml	它1	2134	0	主要 还 有 延伸 服务 ， 可以 指定 机 上 座位	s40	137046	主要#AD 还#AD 有#VE 延伸#NN 服务#NN ，#PU 可以#VV 指定#VV 机#NN 上#LC 座位#NN
+CHT_CMN_20130702.0021.su.xml	它1	2214	18	出 头等舱 外 的 任何 座位 ， 不 是 航空 公司 网站 值机 那 种	s41	137046	出#VV 头等舱#NN 外#LC 的#DEG 任何#DT 座位#NN ，#PU 不#AD 是#VC 航空#NN 公司#NN 网站#NN 值机#NN 那#DT 种#M
+CHT_CMN_20130702.0021.su.xml	NONE	-1	-1	除了	s42	137046	除了#P
+CHT_CMN_20130702.0021.su.xml	NONE	-1	-1	那 太 好 了 ， 我们 领导 每 次 都 让 我 *PRO* 订 第一 排 ， 我 每 次 都 订 不 到	s43	136693	那#PN 太#AD 好#VA 了#SP ，#PU 我们#PN 领导#NN 每#DT 次#M 都#AD 让#VV 我#PN *PRO*#AD 订#VV 第一#OD 排#M ，#PU 我#PN 每#DT 次#M 都#AD 订#VV 不#AD 到#VV
+CHT_CMN_20130702.0021.su.xml	NONE	-1	-1	订座 系统 在 我们 手 里	s44	137046	订座#NN 系统#NN 在#P 我们#PN 手#NN 里#LC
+CHT_CMN_20130702.0021.su.xml	你	2425	0	可以 让 领导 *PRO* 跟 空警 坐 第一 排	s45	137046	可以#VV 让#VV 领导#NN *PRO*#NN 跟#CC 空警#NN 坐#VV 第一#OD 排#M
+CHT_CMN_20130702.0021.su.xml	它1	2485	0	太 棒 了	s46	136693	太#AD 棒#VA 了#SP
+CHT_CMN_20130702.0021.su.xml	形	2525	0	对 了 酒店 订房 也 做 *-1 的 ，	s47	137046	对#VA 了#AS 酒店#NN 订房#NN 也#AD 做#VV *-1#NN 的#SP ，#PU
+CHT_CMN_20130702.0021.su.xml	我们	2535	10	对 了 酒店 订房 也 做 *-1 的 ，	s47	137046	对#VA 了#AS 酒店#NN 订房#NN 也#AD 做#VV *-1#NN 的#SP ，#PU
+CHT_CMN_20130702.0021.su.xml	我们	2587	0	可 返 10 个 点	s48	137046	可#AD 返#VV 10#CD 个#M 点#NN
+CHT_CMN_20130702.0021.su.xml	NONE	-1	-1	嗯 ， 你 这个 就 相当于 艺龙 、 携程 之类 的 网站 啊	s49	136693	嗯#IJ ，#PU 你#PN 这个#PN 就#AD 相当于#VV 艺龙#NR 、#PU 携程#NR 之类#NN 的#DEG 网站#NN 啊#SP
+CHT_CMN_20130702.0021.su.xml	它1	2693	0	对	s50	137046	对#VA
+CHT_CMN_20130702.0021.su.xml	NONE	-1	-1	www.sohoto.com	s51	137046	www.sohoto.com#URL
+CHT_CMN_20130702.0021.su.xml	NONE	-1	-1	中航信 的	s52	137046	中航信#NN 的#DEG
+CHT_CMN_20130702.0021.su.xml	你1	2806	0	出行 你 选好 酒店 我 用 *OP* *T*-1 高 返 账号 帮 你 *PRO* 订 ， 返 10% 以上	s53	137046	出行#VV 你#PN 选好#VV 酒店#NN 我#PN 用#P *OP*#NN *T*-1#NN 高#VA 返#VV 账号#NN 帮#VV 你#PN *PRO*#AD 订#VV ，#PU 返#VV 10%#CD 以上#LC
+CHT_CMN_20130702.0021.su.xml	它1	2896	0	好	s54	136693	好#VA
+CHT_CMN_20130702.0021.su.xml	它1	2932	0	是 不 是 *OP* *T*-1 越 高级 的 酒店 返 的 越 多 ？	s55	136693	是#VC 不#AD 是#VC *OP*#NN *T*-1#NN 越#AD 高级#VA 的#DEC 酒店#NN 返#VV 的#DEC 越#AD 多#VA ？#PU
+CHT_CMN_20130702.0021.su.xml	NONE	-1	-1	连锁 酒店 返 的 少 吧 ？	s56	136693	连锁#JJ 酒店#NN 返#VV 的#DEC 少#VA 吧#SP ？#PU
+CHT_CMN_20130702.0021.su.xml	它1	3047	0	不 是 ， 现在 *OP* *T*-1 高级 的 酒店 返 的 多 ， 连锁 也 10%	s57	137046	不#AD 是#VC ，#PU 现在#NT *OP*#NR *T*-1#NN 高级#JJ 的#DEG 酒店#NN 返#VV 的#DEC 多#VA ，#PU 连锁#JJ 也#AD 10%#CD
+CHT_CMN_20130702.0021.su.xml	NONE	-1	-1	不过 连锁 系统 里 比较 少	s58	137046	不过#AD 连锁#NN 系统#NN 里#LC 比较#AD 少#VA
+CHT_CMN_20130702.0021.su.xml	NONE	-1	-1	团购 业务 你们 不 开展 开展 *T*-1 ？	s59	136693	团购#NN 业务#NN 你们#PN 不#AD 开展#VV 开展#VV *T*-1#NN ？#PU
+CHT_CMN_20130702.0021.su.xml	它2	3223	0	最近 挺 火 的	s60	136693	最近#NT 挺#AD 火#VA 的#SP
+CHT_CMN_20130702.0021.su.xml	NONE	-1	-1	我们 搞 预付	s61	137046	我们#PN 搞#VV 预付#JJ
+CHT_CMN_20130702.0021.su.xml	NONE	-1	-1	这个 星级 高 但是 很 便宜	s62	137046	这个#DT 星级#NN 高#VA 但是#AD 很#AD 便宜#VA
+CHT_CMN_20130702.0021.su.xml	NONE	-1	-1	只是 个人 没 什么 好处	s63	137046	只是#AD 个人#NN 没#VE 什么#DT 好处#NN
+CHT_CMN_20130702.0021.su.xml	我们	3391	3	要是 能 用 *OP* *T*-1 比 连锁 多 一点 的 钱 住 五 星 ， 那 可 爽翻 了	s64	136693	要是#CS 能#VV 用#P *OP*#NN *T*-1#NN 比#P 连锁#NN 多#VA 一点#AD 的#DEC 钱#NN 住#VV 五#CD 星#NN ，#PU 那#AD 可#VV 爽翻#VV 了#SP
+CHT_CMN_20130702.0021.su.xml	其	3471	0	*OP* 我们 预付 的 300 能 住到 四 星	s65	137046	*OP*#NR 我们#PN 预付#VV 的#DEC 300#CD 能#VV 住到#VV 四#CD 星#NN
+CHT_CMN_20130702.0021.su.xml	NONE	-1	-1	那 也 很 好 了	s66	136693	那#PN 也#AD 很#AD 好#VA 了#SP
+CHT_CMN_20130702.0021.su.xml	NONE	-1	-1	现在 五 星 也 不 贵 了 ， 700多 就 能 搞定	s67	136693	现在#NT 五#CD 星#NN 也#AD 不#AD 贵#VA 了#SP ，#PU 700多#CD 就#AD 能#VV 搞定#VV
+CHT_CMN_20130702.0021.su.xml	NONE	-1	-1	那 贵 了	s68	137046	那#AD 贵#VA 了#SP
+CHT_CMN_20130702.0021.su.xml	NONE	-1	-1	贵和 假日 门市价 好像 就 才 700多	s69	136693	贵和#NR 假日#NN 门市价#NN 好像#AD 就#AD 才#AD 700多#CD
+CHT_CMN_20130702.0021.su.xml	它2	3710	0	对	s70	137046	对#VA
+CHT_CMN_20130702.0021.su.xml	形	3749	3	今年 特别 淡	s71	137046	今年#NT 特别#AD 淡#VA
+CHT_CMN_20130702.0021.su.xml	我1	3814	26	去年 六月 我 个人 卖 了 10多万 的 票 ， 今年 六月 才 6000多	s72	137046	去年#NT 六月#NT 我#PN 个人#NN 卖#VV 了#AS 10多万#CD 的#DEG 票#NN ，#PU 今年#NT 六月#NT 才#AD 6000多#CD
+CHT_CMN_20130702.0021.su.xml	NONE	-1	-1	……	s73	136693	……#PU
+CHT_CMN_20130702.0021.su.xml	NONE	-1	-1	差距 太 大 了	s74	136693	差距#NN 太#AD 大#VA 了#SP
+CHT_CMN_20130702.0021.su.xml	NONE	-1	-1	公费 旅游 没 了	s75	137046	公费#NN 旅游#NN 没#VE 了#SP
+CHT_CMN_20130702.0021.su.xml	我1	3968	0	可 看 着 只要 是 个 旅馆 好像 都 住 得 满满 的 样子 呢	s76	136693	可#AD 看#VV 着#AS 只要#CS 是#VC 个#M 旅馆#NN 好像#AD 都#AD 住#VV 得#DER 满满#VA 的#DEC 样子#NN 呢#SP
+CHT_CMN_20130702.0021.su.xml	它2	3983	15	可 看 着 只要 是 个 旅馆 好像 都 住 得 满满 的 样子 呢	s76	136693	可#AD 看#VV 着#AS 只要#CS 是#VC 个#M 旅馆#NN 好像#AD 都#AD 住#VV 得#DER 满满#VA 的#DEC 样子#NN 呢#SP
+CHT_CMN_20130702.0021.su.xml	NONE	-1	-1	商务 客 多	s77	137046	商务#NN 客#NN 多#VA

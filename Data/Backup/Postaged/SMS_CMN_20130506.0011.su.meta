@@ -1,0 +1,61 @@
+SMS_CMN_20130506.0011.su.xml	我	29	0	可能 6点 回家	s0	135910	可能#AD 6点#NT 回家#VV
+SMS_CMN_20130506.0011.su.xml	NONE	-1	-1	宝贝 吃 东西 没有 ？	s1	135910	宝贝#NN 吃#VV 东西#NN 没有#VV ？#PU
+SMS_CMN_20130506.0011.su.xml	我	153	0	吃 了 什么 ？	s2	135910	吃#VV 了#AS 什么#PN ？#PU
+SMS_CMN_20130506.0011.su.xml	我	192	0	吃 了 呢	s3	135608	吃#VV 了#SP 呢#SP
+SMS_CMN_20130506.0011.su.xml	我	204	0	不 在 ， 还 在 改 ， 这 个 考试 的 特别 难 改 ！	s4	135910	不#AD 在#VV ，#PU 还#AD 在#AD 改#VV ，#PU 这#DT 个#M 考试#NN 的#DEG 特别#JJ 难#NN 改#VV ！#PU
+SMS_CMN_20130506.0011.su.xml	我	306	12	不 在 ， 还 在 改 ， 这 个 考试 的 特别 难 改 ！	s4	135910	不#AD 在#VV ，#PU 还#AD 在#AD 改#VV ，#PU 这#DT 个#M 考试#NN 的#DEG 特别#JJ 难#NN 改#VV ！#PU
+SMS_CMN_20130506.0011.su.xml	NONE	-1	-1	另 一 个 老师 的 早 就 改完 了 ！	s5	135910	另#DT 一#CD 个#M 老师#NN 的#DEG 早#AD 就#AD 改完#VV 了#SP ！#PU
+SMS_CMN_20130506.0011.su.xml	我	545	21	而且 这 个 老师 不 不 包 *OP* 吃 *T*-1 的 ！	s5	135910	而且#AD 这#DT 个#M 老师#NN 不#AD 不#AD 包#VV *OP*#NN 吃#VV *T*-1#NN 的#SP ！#PU
+SMS_CMN_20130506.0011.su.xml	NONE	-1	-1	你 在家 吗 ？	s6	135608	你#PN 在家#VV 吗#SP ？#PU
+SMS_CMN_20130506.0011.su.xml	我	562	0	超级 恶心 ！	s7	135910	超级#JJ 恶心#NN ！#PU
+SMS_CMN_20130506.0011.su.xml	NONE	-1	-1	*OP* *T*-1 恶心 的 老师 ！	s8	135608	*OP*#NR *T*-1#NR 恶心#VA 的#DEC 老师#NN ！#PU
+SMS_CMN_20130506.0011.su.xml	NONE	-1	-1	那 我 先 回家 了	s9	135608	那#AD 我#PN 先#AD 回家#VV 了#AS
+SMS_CMN_20130506.0011.su.xml	NONE	-1	-1	哦	s10	135910	哦#IJ
+SMS_CMN_20130506.0011.su.xml	我	599	0	在 家 等 阿绵 ， 抱抱	s11	135608	在#P 家#NN 等#ETC 阿绵#NN ，#PU 抱抱#VV
+SMS_CMN_20130506.0011.su.xml	我	609	17	在 家 等 阿绵 ， 抱抱	s11	135608	在#P 家#NN 等#ETC 阿绵#NN ，#PU 抱抱#VV
+SMS_CMN_20130506.0011.su.xml	我	672	0	不 懂 还 要 改到 什么 时候 ！	s12	135910	不#AD 懂#VV 还#AD 要#VV 改到#VV 什么#DT 时候#NN ！#PU
+SMS_CMN_20130506.0011.su.xml	我1	711	10	不 懂 还 要 改到 什么 时候 ！	s12	135910	不#AD 懂#VV 还#AD 要#VV 改到#VV 什么#DT 时候#NN ！#PU
+SMS_CMN_20130506.0011.su.xml	我1	753	14	我 都 会 等 你 啊 ， 抱抱 ~	s13	135608	我#PN 都#AD 会#VV 等#P 你#PN 啊#SP ，#PU 抱抱#VV ~#PU
+SMS_CMN_20130506.0011.su.xml	我1	773	0	改 得 好 烦	s14	135910	改#VV 得#DER 好#VA 烦#VA
+SMS_CMN_20130506.0011.su.xml	我1	1137	0	抱抱 ， 回来 给 阿绵 按摩 ， 捏捏	s15	135608	抱抱#VV ，#PU 回来#VV 给#VV 阿绵#NR 按摩#VV ，#PU 捏捏#NN
+SMS_CMN_20130506.0011.su.xml	我1	1216	11	抱抱 ， 回来 给 阿绵 按摩 ， 捏捏	s15	135608	抱抱#VV ，#PU 回来#VV 给#VV 阿绵#NR 按摩#VV ，#PU 捏捏#NN
+SMS_CMN_20130506.0011.su.xml	我1	1451	20	抱抱 ， 回来 给 阿绵 按摩 ， 捏捏	s15	135608	抱抱#VV ，#PU 回来#VV 给#VV 阿绵#NR 按摩#VV ，#PU 捏捏#NN
+SMS_CMN_20130506.0011.su.xml	我1	1489	5	同学 说 明晚 聚餐 ， 你 说 去 不 去 呢 ？	s16	135910	同学#NN 说#VV 明晚#NT 聚餐#VV ，#PU 你#PN 说#VV 去#VV 不#AD 去#VV 呢#SP ？#PU
+SMS_CMN_20130506.0011.su.xml	我1	1550	23	同学 说 明晚 聚餐 ， 你 说 去 不 去 呢 ？	s16	135910	同学#NN 说#VV 明晚#NT 聚餐#VV ，#PU 你#PN 说#VV 去#VV 不#AD 去#VV 呢#SP ？#PU
+SMS_CMN_20130506.0011.su.xml	我1	1574	12	你 想 *PRO* 去 就 去 咯	s17	135608	你#PN 想#VV *PRO*#VV 去#VV 就#AD 去#VV 咯#VV
+SMS_CMN_20130506.0011.su.xml	NONE	-1	-1	那 我 怎么办	s18	135608	那#AD 我#PN 怎么办#VV
+SMS_CMN_20130506.0011.su.xml	我1	1840	0	一起 去 ？	s19	135910	一起#AD 去#VV ？#PU
+SMS_CMN_20130506.0011.su.xml	我2	2006	0	去 哪 吃 ？	s20	135608	去#VV 哪#PN 吃#VV ？#PU
+SMS_CMN_20130506.0011.su.xml	我2	2068	2	那 去 呗	s21	135608	那#AD 去#VV 呗#SP
+SMS_CMN_20130506.0011.su.xml	NONE	-1	-1	川王府 ， 19 街	s22	135910	川王府#NR ，#PU 19#CD 街#NN
+SMS_CMN_20130506.0011.su.xml	我2	2108	0	不 知道	s23	135910	不#AD 知道#VV
+SMS_CMN_20130506.0011.su.xml	我2	2191	0	贵 吗 ？	s24	135608	贵#VA 吗#SP ？#PU
+SMS_CMN_20130506.0011.su.xml	你	111	0	问问 他们 呢	s25	135608	问问#VV 他们#PN 呢#SP
+SMS_CMN_20130506.0011.su.xml	你	764	5	我 觉得 都 差不多 ， 20 左右 呗	s26	135910	我#PN 觉得#VV 都#AD 差不多#VA ，#PU 20#CD 左右#LC 呗#SP
+SMS_CMN_20130506.0011.su.xml	你	899	19	我 觉得 都 差不多 ， 20 左右 呗	s26	135910	我#PN 觉得#VV 都#AD 差不多#VA ，#PU 20#CD 左右#LC 呗#SP
+SMS_CMN_20130506.0011.su.xml	你	2119	0	应该 吧	s27	135910	应该#VV 吧#SP
+SMS_CMN_20130506.0011.su.xml	NONE	-1	-1	每 人 20 ？？？	s28	135608	每#DT 人#NN 20#CD ？？？#NN
+SMS_CMN_20130506.0011.su.xml	你	2174	0	好 贵贵	s29	135608	好#VA 贵贵#VA
+SMS_CMN_20130506.0011.su.xml	他	387	0	是 啊 ， 以前 去 过 一 次 汉唐 就 是 这 个 价格 。	s30	135910	是#VC 啊#SP ，#PU 以前#NT 去#VV 过#AS 一#CD 次#M 汉唐#NR 就#AD 是#VC 这#DT 个#M 价格#NN 。#PU
+SMS_CMN_20130506.0011.su.xml	它	1176	15	是 啊 ， 以前 去 过 一 次 汉唐 就 是 这 个 价格 。	s30	135910	是#VC 啊#SP ，#PU 以前#NT 去#VV 过#AS 一#CD 次#M 汉唐#NR 就#AD 是#VC 这#DT 个#M 价格#NN 。#PU
+SMS_CMN_20130506.0011.su.xml	它	1263	32	是 啊 ， 以前 去 过 一 次 汉唐 就 是 这 个 价格 。	s30	135910	是#VC 啊#SP ，#PU 以前#NT 去#VV 过#AS 一#CD 次#M 汉唐#NR 就#AD 是#VC 这#DT 个#M 价格#NN 。#PU
+SMS_CMN_20130506.0011.su.xml	它	1319	2	那 上 回 春节 去 吃 不 是 一样 20	s30	135910	那#AD 上#VV 回#VV 春节#NN 去#VV 吃#VV 不#AD 是#VC 一样#AD 20#CD
+SMS_CMN_20130506.0011.su.xml	它	1397	19	那 上 回 春节 去 吃 不 是 一样 20	s30	135910	那#AD 上#VV 回#VV 春节#NN 去#VV 吃#VV 不#AD 是#VC 一样#AD 20#CD
+SMS_CMN_20130506.0011.su.xml	它	1436	0	那 时候 是 庆祝 春节 ， 所以 舍得 *PRO* 花钱 ~	s31	135608	那#DT 时候#NN 是#VC 庆祝#VV 春节#NN ，#PU 所以#AD 舍得#VV *PRO*#NR 花钱#VV ~#PU
+SMS_CMN_20130506.0011.su.xml	它	1468	24	那 时候 是 庆祝 春节 ， 所以 舍得 *PRO* 花钱 ~	s31	135608	那#DT 时候#NN 是#VC 庆祝#VV 春节#NN ，#PU 所以#AD 舍得#VV *PRO*#NR 花钱#VV ~#PU
+SMS_CMN_20130506.0011.su.xml	它	1506	5	不过 ， 好 吧 ， 当 庆祝 学期 结束 吧 。	s32	135608	不过#AD ，#PU 好#VA 吧#SP ，#PU 当#P 庆祝#NN 学期#NN 结束#VV 吧#SP 。#PU
+SMS_CMN_20130506.0011.su.xml	它	1627	17	不过 ， 好 吧 ， 当 庆祝 学期 结束 吧 。	s32	135608	不过#AD ，#PU 好#VA 吧#SP ，#PU 当#P 庆祝#NN 学期#NN 结束#VV 吧#SP 。#PU
+SMS_CMN_20130506.0011.su.xml	它	1639	25	不过 ， 好 吧 ， 当 庆祝 学期 结束 吧 。	s32	135608	不过#AD ，#PU 好#VA 吧#SP ，#PU 当#P 庆祝#NN 学期#NN 结束#VV 吧#SP 。#PU
+SMS_CMN_20130506.0011.su.xml	它	1791	0	什么 时候 去 ？	s33	135608	什么#DT 时候#NN 去#VV ？#PU
+SMS_CMN_20130506.0011.su.xml	它1	1886	0	明天 ？	s33	135608	明天#NT ？#PU
+SMS_CMN_20130506.0011.su.xml	NONE	-1	-1	明晚 咯 。	s34	135910	明晚#NT 咯#NN 。#PU
+SMS_CMN_20130506.0011.su.xml	我们	825	7	我 也 觉得 贵 ， 一 周 的 伙食 费	s35	135910	我#PN 也#AD 觉得#VV 贵#VA ，#PU 一#CD 周#M 的#DEG 伙食#NN 费#NN
+SMS_CMN_20130506.0011.su.xml	我们	843	0	差不多 可以 回去 了	s36	135910	差不多#AD 可以#VV 回去#VV 了#SP
+SMS_CMN_20130506.0011.su.xml	我们	975	0	是 啊 ， 不过 我们 也 不 常 出去 玩	s37	135608	是#VC 啊#SP ，#PU 不过#AD 我们#PN 也#AD 不#AD 常#AD 出去#VV 玩#VV
+SMS_CMN_20130506.0011.su.xml	我们	1016	0	不 能 吃 *OP* *T*-1 便宜 点 的 东西 吗	s38	135608	不#AD 能#VV 吃#VV *OP*#NN *T*-1#NN 便宜#VA 点#AD 的#DEC 东西#NN 吗#SP
+SMS_CMN_20130506.0011.su.xml	我们	1060	0	又 发现 一 打 *OP* 我 没 改 *T*-1 的	s39	135910	又#AD 发现#VV 一#CD 打#M *OP*#NN 我#PN 没#AD 改#VV *T*-1#NN 的#SP
+SMS_CMN_20130506.0011.su.xml	我们	1647	0	很 烦 的	s40	135910	很#AD 烦#VA 的#SP
+SMS_CMN_20130506.0011.su.xml	我们	1694	0	抱抱 ， 不 急 不 急 ， 还 没 煮 饭饭 呢	s41	135608	抱抱#VV ，#PU 不#AD 急#VA 不#AD 急#VA ，#PU 还#AD 没#AD 煮#VV 饭饭#NN 呢#SP
+SMS_CMN_20130506.0011.su.xml	我们	1943	11	抱抱 ， 不 急 不 急 ， 还 没 煮 饭饭 呢	s41	135608	抱抱#VV ，#PU 不#AD 急#VA 不#AD 急#VA ，#PU 还#AD 没#AD 煮#VV 饭饭#NN 呢#SP
+SMS_CMN_20130506.0011.su.xml	其	1277	0	总 会 完成 的 ， 抱抱	s42	135608	总#AD 会#VV 完成#VV 的#SP ，#PU 抱抱#VV
+SMS_CMN_20130506.0011.su.xml	其	1710	17	总 会 完成 的 ， 抱抱	s42	135608	总#AD 会#VV 完成#VV 的#SP ，#PU 抱抱#VV

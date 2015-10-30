@@ -1,0 +1,151 @@
+CHT_CMN_20130502.0049.su.xml	我	35	6	你 好 ， 请问 您 是 ？	s0	137712	你#PN 好#VA ，#PU 请问#VV 您#PN 是#VC ？#PU
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	李婧 你 好 ， 我 是 李露叶 ， 孙 （ Ivan Sun ） 教授 向 我 介绍 你	s1	131603	李婧#NR 你#PN 好#VA ，#PU 我#PN 是#VC 李露叶#NR ，#PU 孙#NN （#PU Ivan#NR Sun#NT ）#PU 教授#NN 向#P 我#PN 介绍#VV 你#PN
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	[ 表情 ] 你 好 ， 你 是 要 来 UD 吗 ？	s2	137712	[#PU 表情#NN ]#PU 你#PN 好#VA ，#PU 你#PN 是#VC 要#VV 来#VV UD#NN 吗#SP ？#PU
+CHT_CMN_20130502.0049.su.xml	我	227	22	今年 秋季 我 会 去 UD 念 博士 ， 希望 有些 问题 *PRO* 想 你 请教 *T*-1	s3	131603	今年#NT 秋季#NT 我#PN 会#VV 去#VV UD#NN 念#VV 博士#NN ，#PU 希望#VV 有些#DT 问题#NN *PRO*#AD 想#VV 你#PN 请教#VV *T*-1#NR
+CHT_CMN_20130502.0049.su.xml	我	610	0	是 的 ， 你 好 [ 表情 ]	s4	131603	是#VC 的#SP ，#PU 你#PN 好#AD [#PU 表情#NN ]#PU
+CHT_CMN_20130502.0049.su.xml	我	837	0	是 criminal justice 的 博士 吗 ？	s5	137712	是#VC criminal#JJ justice#NN 的#DEG 博士#NN 吗#SP ？#PU
+CHT_CMN_20130502.0049.su.xml	我	1147	0	是 的	s6	131603	是#VC 的#SP
+CHT_CMN_20130502.0049.su.xml	我	1397	0	好 厉害 ！	s7	137712	好#VA 厉害#VA ！#PU
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	[ 表情 ]	s7	137712	[#PU 表情#NN ]#PU
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	哪里 ， 你 已经 过去 了 ， 怎么 还 说 我 厉害 [ 表情 ]	s8	131603	哪里#PN ，#PU 你#PN 已经#AD 过去#VV 了#AS ，#PU 怎么#AD 还#AD 说#VV 我#PN 厉害#VV [#PU 表情#NN ]#PU
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	你 在 国内 是 哪 个 学校 的 ？	s9	137712	你#PN 在#P 国内#NN 是#VC 哪#DT 个#M 学校#NN 的#SP ？#PU
+CHT_CMN_20130502.0049.su.xml	我	1418	16	我 只 是 访问 学者 哈 ， 还 不 敢 挑战 学位	s10	137712	我#PN 只#AD 是#VC 访问#NN 学者#NN 哈#IJ ，#PU 还#AD 不#AD 敢#VV 挑战#VV 学位#NN
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	我 硕士 是 在 upenn （ 宾大 ） 念 得 *-1 ， 本科 在 northeastern university （ 东北 ）	s11	131603	我#PN 硕士#NN 是#VC 在#P upenn#NR （#PU 宾大#NR ）#PU 念#VV 得#DER *-1#VA ，#PU 本科#NN 在#P northeastern#NR university#NR （#PU 东北#NR ）#PU
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	喔喔 ， 你 是 纯 海归 啊	s12	137712	喔喔#NN ，#PU 你#PN 是#VC 纯#JJ 海归#NN 啊#SP
+CHT_CMN_20130502.0049.su.xml	我	1558	2	那 也 是 *OP* *T*-1 先 过去 的 呀 [ 表情 ] ， 还 希望 你 多多 指点	s13	131603	那#PN 也#AD 是#VC *OP*#NN *T*-1#NN 先#AD 过去#VV 的#DEC 呀#SP [#PU 表情#NN ]#PU ，#PU 还#AD 希望#VV 你#PN 多多#AD 指点#VV
+CHT_CMN_20130502.0049.su.xml	我	1578	41	那 也 是 *OP* *T*-1 先 过去 的 呀 [ 表情 ] ， 还 希望 你 多多 指点	s13	131603	那#PN 也#AD 是#VC *OP*#NN *T*-1#NN 先#AD 过去#VV 的#DEC 呀#SP [#PU 表情#NN ]#PU ，#PU 还#AD 希望#VV 你#PN 多多#AD 指点#VV
+CHT_CMN_20130502.0049.su.xml	我1	1654	0	难怪 咧 ， 我 这 种 *OP* *T*-1 半路 出家 的 不 敢 挑战 啊 ！	s14	137712	难怪#AD 咧#NN ，#PU 我#PN 这#DT 种#M *OP*#NN *T*-1#NN 半路#AD 出家#VV 的#DEC 不#AD 敢#VV 挑战#VV 啊#SP ！#PU
+CHT_CMN_20130502.0049.su.xml	我1	1680	0	对 呀 ， 大 海龟 ……	s15	131603	对#VA 呀#SP ，#PU 大#JJ 海龟#NN ……#PU
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	你 喜欢 Delaware 吗 ？	s16	131603	你#PN 喜欢#VV Delaware#NN 吗#SP ？#PU
+CHT_CMN_20130502.0049.su.xml	我1	1995	0	在 美国 有没有 好好 游玩 一 番 ？	s16	131603	在#P 美国#NR 有没有#AD 好好#AD 游玩#VV 一#CD 番#M ？#PU
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	[ 表情 ]	s16	131603	[#PU 表情#NN ]#PU
+CHT_CMN_20130502.0049.su.xml	我1	2586	40	那 你 是 *OP* *T*-1 彻底 的 美国通 了 啊 ， 我 想 不 出 能 有 什么 *OP* 可以 帮 你 *T*-2 的 诶	s17	137712	那#AD 你#PN 是#VC *OP*#NN *T*-1#NN 彻底#VA 的#DEV 美国通#VV 了#AS 啊#SP ，#PU 我#PN 想#VV 不#AD 出#VV 能#VV 有#VE 什么#DT *OP*#NN 可以#VV 帮#VV 你#PN *T*-2#VV 的#DEC 诶#IJ
+CHT_CMN_20130502.0049.su.xml	我1	2893	58	那 你 是 *OP* *T*-1 彻底 的 美国通 了 啊 ， 我 想 不 出 能 有 什么 *OP* 可以 帮 你 *T*-2 的 诶	s17	137712	那#AD 你#PN 是#VC *OP*#NN *T*-1#NN 彻底#VA 的#DEV 美国通#VV 了#AS 啊#SP ，#PU 我#PN 想#VV 不#AD 出#VV 能#VV 有#VE 什么#DT *OP*#NN 可以#VV 帮#VV 你#PN *T*-2#VV 的#DEC 诶#IJ
+CHT_CMN_20130502.0049.su.xml	我1	3257	5	哪里 ， 应该 还 是 你 比较 local , 原来 你 是 法大 的 ， 那 你 才 是 中国 法律 问题 方面 的 专家	s18	131603	哪里#PN ，#PU 应该#VV 还#AD 是#VC 你#PN 比较#AD local#VA ,#PU 原来#AD 你#PN 是#VC 法大#NR 的#DEG ，#PU 那#AD 你#PN 才#AD 是#VC 中国#NR 法律#NN 问题#NN 方面#NN 的#DEG 专家#NN
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	所以 我 是 基本 会 在 国内 混 的 了	s19	137712	所以#AD 我#PN 是#VC 基本#AD 会#VV 在#P 国内#NN 混#VV 的#SP 了#SP
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	以后 你 就 是 美国 的 教授 咯 哈哈	s20	137712	以后#AD 你#PN 就#AD 是#VC 美国#NR 的#DEG 教授#NN 咯#VV 哈哈#IJ
+CHT_CMN_20130502.0049.su.xml	我1	3481	0	想 *PRO* 请教 你 ， 在 delaware 需要 买 车 吗 ？	s21	131603	想#VV *PRO*#NR 请教#VV 你#PN ，#PU 在#P delaware#NN 需要#VV 买#VV 车#NN 吗#SP ？#PU
+CHT_CMN_20130502.0049.su.xml	我1	3530	21	想 *PRO* 请教 你 ， 在 delaware 需要 买 车 吗 ？	s21	131603	想#VV *PRO*#NR 请教#VV 你#PN ，#PU 在#P delaware#NN 需要#VV 买#VV 车#NN 吗#SP ？#PU
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	你 在 特拉华 是 住 学校 还是 租房 ？	s21	131603	你#PN 在#P 特拉华#NR 是#VC 住#VV 学校#NN 还是#CC 租房#NN ？#PU
+CHT_CMN_20130502.0049.su.xml	我1	3914	10	哎呀 ， 哪里 ， 都 是 同胞 ， 你 实在 过誉 了 ， 我 还是 努力 专心 念 博士 ， 教授 …… 不 敢 想 *T*-1 ， 要 十分 努力 才 行 …… 不过 Delaware 去年 博士 出路 倒是 不错	s22	131603	哎呀#IJ ，#PU 哪里#PN ，#PU 都#AD 是#VC 同胞#NN ，#PU 你#PN 实在#AD 过誉#VA 了#SP ，#PU 我#PN 还是#AD 努力#VV 专心#AD 念#VV 博士#NN ，#PU 教授#NN ……#PU 不#AD 敢#VV 想#VV *T*-1#VV ，#PU 要#VV 十分#AD 努力#VV 才#AD 行#VV ……#PU 不过#AD Delaware#NR 去年#NT 博士#NN 出路#NN 倒是#AD 不错#VA
+CHT_CMN_20130502.0049.su.xml	我1	4360	61	哎呀 ， 哪里 ， 都 是 同胞 ， 你 实在 过誉 了 ， 我 还是 努力 专心 念 博士 ， 教授 …… 不 敢 想 *T*-1 ， 要 十分 努力 才 行 …… 不过 Delaware 去年 博士 出路 倒是 不错	s22	131603	哎呀#IJ ，#PU 哪里#PN ，#PU 都#AD 是#VC 同胞#NN ，#PU 你#PN 实在#AD 过誉#VA 了#SP ，#PU 我#PN 还是#AD 努力#VV 专心#AD 念#VV 博士#NN ，#PU 教授#NN ……#PU 不#AD 敢#VV 想#VV *T*-1#VV ，#PU 要#VV 十分#AD 努力#VV 才#AD 行#VV ……#PU 不过#AD Delaware#NR 去年#NT 博士#NN 出路#NN 倒是#AD 不错#VA
+CHT_CMN_20130502.0049.su.xml	我2	4369	81	哎呀 ， 哪里 ， 都 是 同胞 ， 你 实在 过誉 了 ， 我 还是 努力 专心 念 博士 ， 教授 …… 不 敢 想 *T*-1 ， 要 十分 努力 才 行 …… 不过 Delaware 去年 博士 出路 倒是 不错	s22	131603	哎呀#IJ ，#PU 哪里#PN ，#PU 都#AD 是#VC 同胞#NN ，#PU 你#PN 实在#AD 过誉#VA 了#SP ，#PU 我#PN 还是#AD 努力#VV 专心#AD 念#VV 博士#NN ，#PU 教授#NN ……#PU 不#AD 敢#VV 想#VV *T*-1#VV ，#PU 要#VV 十分#AD 努力#VV 才#AD 行#VV ……#PU 不过#AD Delaware#NR 去年#NT 博士#NN 出路#NN 倒是#AD 不错#VA
+CHT_CMN_20130502.0049.su.xml	我2	4392	0	当然 是 租房 啊 , 谁 受 得 了 跟 别人 一 个 卧室 啊 ...	s23	137712	当然#AD 是#VC 租房#NN 啊#SP ,#PU 谁#PN 受#VV 得#DER 了#VV 跟#P 别人#NN 一#CD 个#M 卧室#NN 啊#SP ...#PU
+CHT_CMN_20130502.0049.su.xml	我2	4613	26	当然 是 租房 啊 , 谁 受 得 了 跟 别人 一 个 卧室 啊 ...	s23	137712	当然#AD 是#VC 租房#NN 啊#SP ,#PU 谁#PN 受#VV 得#DER 了#VV 跟#P 别人#NN 一#CD 个#M 卧室#NN 啊#SP ...#PU
+CHT_CMN_20130502.0049.su.xml	我2	4834	3	现在 找 房子 挺 容易 的	s24	137712	现在#NT 找#VV 房子#NN 挺#AD 容易#VA 的#SP
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	yahoo group 里 放 出来 一 大 堆 房源	s25	137712	yahoo#NR group#NN 里#LC 放#VV 出来#VV 一#CD 大#JJ 堆#M 房源#NN
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	嗯 …… 学校 应该 也 有 单人 卧室 的 吧 ？	s26	131603	嗯#IJ ……#PU 学校#NN 应该#VV 也#AD 有#VE 单人#NN 卧室#NN 的#DEG 吧#SP ？#PU
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	[ 表情 ]	s26	131603	[#PU 表情#NN ]#PU
+CHT_CMN_20130502.0049.su.xml	我2	4909	5	这样 ， 在 你 看来 ， 那边 房子 条件 好 吗 ？	s27	131603	这样#AD ，#PU 在#P 你#PN 看来#VV ，#PU 那边#PN 房子#NN 条件#NN 好#VA 吗#SP ？#PU
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	[ 表情 ]	s27	131603	[#PU 表情#NN ]#PU
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	哦 ， yahoo group 怎么 加入 呢 ？	s28	131603	哦#IJ ，#PU yahoo#NR group#NN 怎么#AD 加入#VV 呢#SP ？#PU
+CHT_CMN_20130502.0049.su.xml	我2	5134	0	还 麻烦 你 告诉 我 链接	s28	131603	还#AD 麻烦#VV 你#PN 告诉#VV 我#PN 链接#NN
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	这边 的 学生 主要 住 在 south gate , pine brook , studio green 和 fair field 四 个 *OP* *T*-1 大 的 community 里面	s29	137712	这边#PN 的#DEG 学生#NN 主要#AD 住#VV 在#P south#NR gate#VV ,#PU pine#NN brook#NN ,#PU studio#NR green#NR 和#CC fair#NR field#NN 四#CD 个#M *OP*#NN *T*-1#NN 大#VA 的#DEC community#NN 里面#NN
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	因为 这 几 个 地方 都 有 校车 经过	s30	137712	因为#P 这#DT 几#CD 个#M 地方#NN 都#AD 有#VE 校车#NN 经过#P
+CHT_CMN_20130502.0049.su.xml	我2	5532	6	哦 ~~~ 这样 ！	s31	131603	哦#IJ ~~~#PU 这样#VA ！#PU
+CHT_CMN_20130502.0049.su.xml	我2	5856	4	嗯 ， 还 是 很 不错 的	s31	131603	嗯#IJ ，#PU 还#AD 是#VC 很#AD 不错#VA 的#SP
+CHT_CMN_20130502.0049.su.xml	我2	5915	66	你 去 google 搜 yahoo group ， 然后 申请 一 个 yahoo 账号 登陆 ， 搜 一下 UD CSSA （ 貌似 ？ ）	s32	137712	你#PN 去#VV google#NR 搜#VV yahoo#NR group#NN ，#PU 然后#AD 申请#VV 一#CD 个#M yahoo#NN 账号#NN 登陆#VV ，#PU 搜#VV 一下#AD UD#NN CSSA#NR （#PU 貌似#VV ？#PU ）#PU
+CHT_CMN_20130502.0049.su.xml	我2	5943	0	就 可以 看到 *OP* 中国 留学生 放 出来 *T*-1 的 各 种 信息 了	s32	137712	就#AD 可以#VV 看到#VV *OP*#VV 中国#NR 留学生#NN 放#VV 出来#VV *T*-1#VV 的#DEC 各#DT 种#M 信息#NN 了#SP
+CHT_CMN_20130502.0049.su.xml	我3	6026	0	在 我 看来 fair field 的 房子 比较 旧	s33	137712	在#P 我#PN 看来#LC fair#VV field#NN 的#DEC 房子#NN 比较#AD 旧#VA
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	但是 价格 便宜	s34	137712	但是#AD 价格#NN 便宜#VA
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	前面 三 家 价格 差不多	s35	137712	前面#NN 三#CD 家#M 价格#NN 差不多#VA
+CHT_CMN_20130502.0049.su.xml	我3	6063	3	而且 建议 买 车	s36	137712	而且#AD 建议#VV 买#VV 车#NN
+CHT_CMN_20130502.0049.su.xml	我3	6228	12	而且 建议 买 车	s36	137712	而且#AD 建议#VV 买#VV 车#NN
+CHT_CMN_20130502.0049.su.xml	我3	6512	7	[ 表情 ] 是 吗 ？	s37	131603	[#PU 表情#NN ]#PU 是#VC 吗#SP ？#PU
+CHT_CMN_20130502.0049.su.xml	我3	6652	6	虽然 平时 上课 都 可以 坐 校车	s38	137712	虽然#CS 平时#AD 上课#VV 都#AD 可以#VV 坐#VV 校车#NN
+CHT_CMN_20130502.0049.su.xml	我3	6742	15	虽然 平时 上课 都 可以 坐 校车	s38	137712	虽然#CS 平时#AD 上课#VV 都#AD 可以#VV 坐#VV 校车#NN
+CHT_CMN_20130502.0049.su.xml	我3	6976	3	但是 买 菜 啥 的 就 。。。	s39	137712	但是#AD 买#VV 菜#NN 啥#DT 的#DEG 就#AD 。。。#PU
+CHT_CMN_20130502.0049.su.xml	我3	7270	0	对 ！	s40	131603	对#VA ！#PU
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	我 觉得 你 说 的 非常 好 ！	s40	131603	我#PN 觉得#VV 你#PN 说#VV 的#DER 非常#AD 好#VA ！#PU
+CHT_CMN_20130502.0049.su.xml	你	338	33	原来 你 在 那边 也 是 自己 做 东西 吃 [ 表情 ] ， 真是 不错 。	s41	131603	原来#AD 你#PN 在#P 那边#PN 也#AD 是#VC 自己#PN 做#VV 东西#NN 吃#VV [#PU 表情#NN ]#PU ，#PU 真是#AD 不错#VA 。#PU
+CHT_CMN_20130502.0049.su.xml	你	436	0	可以 想象 你 身材 一定 很 好	s41	131603	可以#VV 想象#VV 你#PN 身材#NN 一定#AD 很#AD 好#VA
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	我 目前 住 在 studio green , 前 三 个 社区 房子 状况 都 挺 好 的	s42	137712	我#PN 目前#NT 住#VV 在#P studio#NR green#NR ,#PU 前#DT 三#CD 个#M 社区#NN 房子#NN 状况#NN 都#AD 挺#AD 好#VA 的#SP
+CHT_CMN_20130502.0049.su.xml	你	798	4	哦 ， 对 了 ， 还 有 一 个 社区 叫做 columbia garden （ 貌似 是 这 个 名字 ）	s43	137712	哦#IJ ，#PU 对#VA 了#SP ，#PU 还#AD 有#VE 一#CD 个#M 社区#NN 叫做#VV columbia#NR garden#NR （#PU 貌似#VV 是#VC 这#DT 个#M 名字#NN ）#PU
+CHT_CMN_20130502.0049.su.xml	你	1027	16	哦 ， 对 了 ， 还 有 一 个 社区 叫做 columbia garden （ 貌似 是 这 个 名字 ）	s43	137712	哦#IJ ，#PU 对#VA 了#SP ，#PU 还#AD 有#VE 一#CD 个#M 社区#NN 叫做#VV columbia#NR garden#NR （#PU 貌似#VV 是#VC 这#DT 个#M 名字#NN ）#PU
+CHT_CMN_20130502.0049.su.xml	你	1735	54	哦 ， 对 了 ， 还 有 一 个 社区 叫做 columbia garden （ 貌似 是 这 个 名字 ）	s43	137712	哦#IJ ，#PU 对#VA 了#SP ，#PU 还#AD 有#VE 一#CD 个#M 社区#NN 叫做#VV columbia#NR garden#NR （#PU 貌似#VV 是#VC 这#DT 个#M 名字#NN ）#PU
+CHT_CMN_20130502.0049.su.xml	你	2366	0	也 是 *OP* *T*-1 很 抢手 的 社区	s44	137712	也#AD 是#VC *OP*#NN *T*-1#NN 很#AD 抢手#VA 的#DEC 社区#NN
+CHT_CMN_20130502.0049.su.xml	你	2595	0	好 的 ， 我 查查 看 ， 真是 谢谢 你 。	s45	131603	好#VA 的#SP ，#PU 我#PN 查查#VV 看#VV ，#PU 真是#AD 谢谢#VV 你#PN 。#PU
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	你 今年 暑假 回 北京 吗 ？	s45	131603	你#PN 今年#NT 暑假#NN 回#VV 北京#NR 吗#SP ？#PU
+CHT_CMN_20130502.0049.su.xml	你	2686	0	不 回 ， 我 7月 31日 就 会 结束 访问 回国 了	s46	137712	不#AD 回#VV ，#PU 我#PN 7月#NT 31日#NT 就#AD 会#VV 结束#VV 访问#NN 回国#VV 了#AS
+CHT_CMN_20130502.0049.su.xml	你	2695	4	哦 ， 这样 ， 我 正好 打算 *PRO* 八月 初 到达 Delaware ， 不 知道 你 的 lease 后面 有 人 接手 吗 ？	s47	131603	哦#IJ ，#PU 这样#PN ，#PU 我#PN 正好#AD 打算#VV *PRO*#VV 八月#NT 初#LC 到达#VV Delaware#NR ，#PU 不#AD 知道#VV 你#PN 的#DEG lease#NN 后面#NN 有#VE 人#NN 接手#VV 吗#SP ？#PU
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	我 是否 可以 联系 房东 或 你 在 你 目前 的 房子 里 暂 住 一会儿 ？	s47	131603	我#PN 是否#AD 可以#VV 联系#VV 房东#NN 或#CC 你#PN 在#P 你#PN 目前#NT 的#DEG 房子#NN 里#LC 暂#AD 住#VV 一会儿#NN ？#PU
+CHT_CMN_20130502.0049.su.xml	你	2742	13	当然 ， 价钱 是 多少 也 麻烦 你 *PRO* 告诉 我 *T*-1 ， 我 会 按 时间 如数 付清 。	s48	131603	当然#AD ，#PU 价钱#NN 是#VC 多少#AD 也#AD 麻烦#VV 你#PN *PRO*#AD 告诉#VV 我#PN *T*-1#VV ，#PU 我#PN 会#VV 按#P 时间#NN 如数#AD 付清#VV 。#PU
+CHT_CMN_20130502.0049.su.xml	你1	2879	0	不 知 是否 可以 ？	s48	131603	不#AD 知#VV 是否#VV 可以#VV ？#PU
+CHT_CMN_20130502.0049.su.xml	你1	3761	10	不 知 是否 可以 ？	s48	131603	不#AD 知#VV 是否#VV 可以#VV ？#PU
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	我 的 lease 已经 被 *OP* 孙 老师 明年 的 访问 学者 接手 了 *T*-1 诶 ， 你 可以 问问 林恺 ， 因为 他 也 是 在 找 房子 ， 你 可以 让 他 *PRO* 帮 你 *PRO* 一起 找 一下 的	s49	137712	我#PN 的#DEG lease#NN 已经#AD 被#SB *OP*#VV 孙#NN 老师#NN 明年#NT 的#DEG 访问#NN 学者#NN 接手#VV 了#AS *T*-1#CD 诶#IJ ，#PU 你#PN 可以#VV 问问#VV 林恺#NN ，#PU 因为#P 他#PN 也#AD 是#VC 在#P 找#VV 房子#NN ，#PU 你#PN 可以#VV 让#VV 他#PN *PRO*#VV 帮#VV 你#PN *PRO*#VV 一起#AD 找#VV 一下#AD 的#SP
+CHT_CMN_20130502.0049.su.xml	你1	5061	34	我 7月 31日 离开 ， 你 要是 要 在 我 这里 暂住 的话 得 跟 那 位 访问 学者 联系 才 行 哦	s50	137712	我#PN 7月#NT 31日#NT 离开#VV ，#PU 你#PN 要是#CS 要#VV 在#P 我#PN 这里#PN 暂住#VV 的话#SP 得#DER 跟#P 那#DT 位#M 访问#NN 学者#NN 联系#VV 才#AD 行#VV 哦#SP
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	因为 那 时候 我 已经 不 在 了 诶	s51	137712	因为#P 那#DT 时候#NN 我#PN 已经#AD 不#AD 在#VV 了#SP 诶#IJ
+CHT_CMN_20130502.0049.su.xml	你1	5501	4	嗯 ， 真 是 *OP* *T*-1 不错 的 主意 ， 好 的 ， 真是 感谢 你 告诉 我 *OP* *T*-2 这么 重要 的 消息 。	s52	131603	嗯#IJ ，#PU 真#AD 是#VC *OP*#VV *T*-1#NN 不错#VA 的#DEC 主意#NN ，#PU 好#VA 的#SP ，#PU 真是#AD 感谢#VV 你#PN 告诉#VV 我#PN *OP*#NN *T*-2#NN 这么#AD 重要#VA 的#DEC 消息#NN 。#PU
+CHT_CMN_20130502.0049.su.xml	你1	5690	35	嗯 ， 真 是 *OP* *T*-1 不错 的 主意 ， 好 的 ， 真是 感谢 你 告诉 我 *OP* *T*-2 这么 重要 的 消息 。	s52	131603	嗯#IJ ，#PU 真#AD 是#VC *OP*#VV *T*-1#NN 不错#VA 的#DEC 主意#NN ，#PU 好#VA 的#SP ，#PU 真是#AD 感谢#VV 你#PN 告诉#VV 我#PN *OP*#NN *T*-2#NN 这么#AD 重要#VA 的#DEC 消息#NN 。#PU
+CHT_CMN_20130502.0049.su.xml	你1	6406	47	嗯 ， 真 是 *OP* *T*-1 不错 的 主意 ， 好 的 ， 真是 感谢 你 告诉 我 *OP* *T*-2 这么 重要 的 消息 。	s52	131603	嗯#IJ ，#PU 真#AD 是#VC *OP*#VV *T*-1#NN 不错#VA 的#DEC 主意#NN ，#PU 好#VA 的#SP ，#PU 真是#AD 感谢#VV 你#PN 告诉#VV 我#PN *OP*#NN *T*-2#NN 这么#AD 重要#VA 的#DEC 消息#NN 。#PU
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	林愷 是 台湾 学生 吗 ？	s52	131603	林愷#NR 是#VC 台湾#NR 学生#NN 吗#SP ？#PU
+CHT_CMN_20130502.0049.su.xml	他	4000	0	是 大陆 的 ， 广东人	s53	137712	是#VC 大陆#NN 的#DEG ，#PU 广东人#NN
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	哦 ， 原来 你 后面 也 有 访问 学者 呢 。	s54	131603	哦#IJ ，#PU 原来#AD 你#PN 后面#NN 也#AD 有#VE 访问#NN 学者#NN 呢#SP 。#PU
+CHT_CMN_20130502.0049.su.xml	它	288	37	这 是 *OP* 法大 与 Delaware *T*-1 联合 的 项目 对 吗 ？	s54	131603	这#PN 是#VC *OP*#NN 法大#NR 与#CC Delaware#NR *T*-1#NR 联合#JJ 的#DEG 项目#NN 对#VA 吗#SP ？#PU
+CHT_CMN_20130502.0049.su.xml	它	399	0	不 是 ， *OP* 我们 走 *T*-1 的 是 *OP* 国家 *T*-2 公派 的 项目	s55	137712	不#AD 是#VC ，#PU *OP*#VV 我们#PN 走#VV *T*-1#NN 的#DEC 是#VC *OP*#NR 国家#NN *T*-2#CD 公派#NN 的#DEC 项目#NN
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	而且 下 一 位 访问 学者 已经 是 华侨 大学 的 老师 了	s56	137712	而且#AD 下#DT 一#CD 位#M 访问#NN 学者#NN 已经#AD 是#VC 华侨#NN 大学#NN 的#DEG 老师#NN 了#SP
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	我 是 *OP* *T*-1 在读 的 博士生	s57	137712	我#PN 是#VC *OP*#NN *T*-1#VV 在读#VV 的#DEC 博士生#NN
+CHT_CMN_20130502.0049.su.xml	它	884	4	哦 ， 这样 ， 希望 以后 有 机会 向 您 请教 。	s58	131603	哦#IJ ，#PU 这样#VA ，#PU 希望#VV 以后#LC 有#VE 机会#NN 向#P 您#PN 请教#VV 。#PU
+CHT_CMN_20130502.0049.su.xml	它	961	15	哦 ， 这样 ， 希望 以后 有 机会 向 您 请教 。	s58	131603	哦#IJ ，#PU 这样#VA ，#PU 希望#VV 以后#LC 有#VE 机会#NN 向#P 您#PN 请教#VV 。#PU
+CHT_CMN_20130502.0049.su.xml	它	1203	24	哦 ， 这样 ， 希望 以后 有 机会 向 您 请教 。	s58	131603	哦#IJ ，#PU 这样#VA ，#PU 希望#VV 以后#LC 有#VE 机会#NN 向#P 您#PN 请教#VV 。#PU
+CHT_CMN_20130502.0049.su.xml	它	1904	0	请问 你 的 研究 方向 是 什么 呢 ？	s58	131603	请问#VV 你#PN 的#DEG 研究#NN 方向#NN 是#VC 什么#PN 呢#SP ？#PU
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	犯罪 学 [ 表情 ]	s59	137712	犯罪#NN 学#VV [#PU 表情#NN ]#PU
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	请教 指 不 上 啦 ， 大家 互相 学习 吧 ！	s60	137712	请教#VV 指#VV 不#AD 上#VV 啦#SP ，#PU 大家#PN 互相#AD 学习#VV 吧#SP ！#PU
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	可惜 我 跟 你 可能 碰 不 上 面 啦	s61	137712	可惜#AD 我#PN 跟#P 你#PN 可能#VV 碰#VV 不#AD 上#VV 面#NN 啦#SP
+CHT_CMN_20130502.0049.su.xml	它	2227	0	是 呀 ， 我 也 真 希望 和 你 见面 ， 所以 我 才 问 是否 你 暑假 回到 北京 ， 结果 刚好 时间 岔开 了 ， 不过 我 想 *PRO* 今后 一定 有 机会 ， 我 也 会 争取 *PRO* 多 回 北京	s62	131603	是#VC 呀#SP ，#PU 我#PN 也#AD 真#AD 希望#VV 和#P 你#PN 见面#VV ，#PU 所以#AD 我#PN 才#AD 问#VV 是否#VV 你#PN 暑假#NN 回到#VV 北京#NR ，#PU 结果#AD 刚好#AD 时间#NN 岔开#VV 了#SP ，#PU 不过#AD 我#PN 想#VV *PRO*#NR 今后#NT 一定#AD 有#VE 机会#NN ，#PU 我#PN 也#AD 会#VV 争取#VV *PRO*#NN 多#AD 回#VV 北京#NR
+CHT_CMN_20130502.0049.su.xml	它	2242	21	是 呀 ， 我 也 真 希望 和 你 见面 ， 所以 我 才 问 是否 你 暑假 回到 北京 ， 结果 刚好 时间 岔开 了 ， 不过 我 想 *PRO* 今后 一定 有 机会 ， 我 也 会 争取 *PRO* 多 回 北京	s62	131603	是#VC 呀#SP ，#PU 我#PN 也#AD 真#AD 希望#VV 和#P 你#PN 见面#VV ，#PU 所以#AD 我#PN 才#AD 问#VV 是否#VV 你#PN 暑假#NN 回到#VV 北京#NR ，#PU 结果#AD 刚好#AD 时间#NN 岔开#VV 了#SP ，#PU 不过#AD 我#PN 想#VV *PRO*#NR 今后#NT 一定#AD 有#VE 机会#NN ，#PU 我#PN 也#AD 会#VV 争取#VV *PRO*#NN 多#AD 回#VV 北京#NR
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	你 是 北京 姑娘 吗 ？	s63	137712	你#PN 是#VC 北京#NR 姑娘#NN 吗#SP ？#PU
+CHT_CMN_20130502.0049.su.xml	它	2353	27	犯罪 学 ！！ ？？ 那 我们 是 同门 哪 ！！！ 真的 应该 互相 学习 ， 认识 你 太 好 了	s64	131603	犯罪#NN 学#VV ！！#NR ？？#PU 那#PN 我们#PN 是#VC 同门#JJ 哪#DT ！！！#NN 真的#AD 应该#VV 互相#AD 学习#VV ，#PU 认识#VV 你#PN 太#AD 好#VA 了#SP
+CHT_CMN_20130502.0049.su.xml	它1	2442	47	犯罪 学 ！！ ？？ 那 我们 是 同门 哪 ！！！ 真的 应该 互相 学习 ， 认识 你 太 好 了	s64	131603	犯罪#NN 学#VV ！！#NR ？？#PU 那#PN 我们#PN 是#VC 同门#JJ 哪#DT ！！！#NN 真的#AD 应该#VV 互相#AD 学习#VV ，#PU 认识#VV 你#PN 太#AD 好#VA 了#SP
+CHT_CMN_20130502.0049.su.xml	它1	2640	4	哦 ， 不 是 ， 我 老家 是 湖南 的 ， 目前 在 北京 [ 表情 ]	s65	131603	哦#IJ ，#PU 不#AD 是#VC ，#PU 我#PN 老家#NN 是#VC 湖南#NR 的#DEG ，#PU 目前#NT 在#P 北京#NR [#PU 表情#NN ]#PU
+CHT_CMN_20130502.0049.su.xml	它1	2790	30	哦 ， 不 是 ， 我 老家 是 湖南 的 ， 目前 在 北京 [ 表情 ]	s65	131603	哦#IJ ，#PU 不#AD 是#VC ，#PU 我#PN 老家#NN 是#VC 湖南#NR 的#DEG ，#PU 目前#NT 在#P 北京#NR [#PU 表情#NN ]#PU
+CHT_CMN_20130502.0049.su.xml	它1	3074	5	呵呵 ， 是 的 ， 所以 我 也 是 受 孙 老师 的 邀请 才 来 的 UD 做 访问 学者	s66	137712	呵呵#IJ ，#PU 是#VC 的#SP ，#PU 所以#AD 我#PN 也#AD 是#VC 受#VV 孙#NN 老师#NN 的#DEG 邀请#NN 才#AD 来#VV 的#DEC UD#NN 做#VV 访问#NN 学者#NN
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	哦哦 ， 那 你 家 在 北京 咯 ？	s67	137712	哦哦#VV ，#PU 那#AD 你#PN 家#NN 在#P 北京#NR 咯#NN ？#PU
+CHT_CMN_20130502.0049.su.xml	它1	3122	0	跟 我 差不多 ， 我 是 广西 南宁人 ， 但 现在 也 定居 北京	s67	137712	跟#P 我#PN 差不多#VA ，#PU 我#PN 是#VC 广西#NR 南宁人#NN ，#PU 但#AD 现在#NT 也#AD 定居#VV 北京#NR
+CHT_CMN_20130502.0049.su.xml	它1	3181	3	…… 这样 听来 …… 孙 教授 是 不 是 有 很多 北京 的 项目 哇 ？	s68	131603	……#PU 这样#AD 听来#AD ……#PU 孙#NN 教授#NN 是#VC 不#AD 是#VC 有#VE 很多#CD 北京#NR 的#DEC 项目#NN 哇#SP ？#PU
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	[ 表情 ]	s68	131603	[#PU 表情#NN ]#PU
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	UD 跟 北师大 有 合作 项目	s69	137712	UD#NN 跟#P 北师大#NR 有#VE 合作#NN 项目#NN
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	所以 孙 老师 会 跑 得 比较 多 点	s70	137712	所以#AD 孙#NN 老师#NN 会#VV 跑#VV 得#DER 比较#AD 多#VA 点#AD
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	哇 ， 你 看 ， 我 就 说 我们 背景 差不多 。	s71	131603	哇#IJ ，#PU 你#PN 看#VV ，#PU 我#PN 就#AD 说#VV 我们#PN 背景#NN 差不多#VA 。#PU
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	其他 项目 我 就 不 大 清楚 *T*-1	s72	137712	其他#DT 项目#NN 我#PN 就#AD 不#AD 大#AD 清楚#VV *T*-1#NN
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	嗯 ， 这 点 他 有 提到 *T*-1 ， 他 5月 也 会 来 北京	s73	131603	嗯#IJ ，#PU 这#DT 点#M 他#PN 有#VE 提到#VV *T*-1#NN ，#PU 他#PN 5月#NT 也#AD 会#VV 来#VV 北京#NR
+CHT_CMN_20130502.0049.su.xml	它1	3325	23	你 本科 硕士 的 学校 都 很 牛 啊 ， 厉害 ， 我 基本上 是 土鳖 ， 就是 这 次 借 了 东风 出来 看 一 看	s74	137712	你#PN 本科#NN 硕士#NN 的#DEG 学校#NN 都#AD 很#AD 牛#VA 啊#SP ，#PU 厉害#VA ，#PU 我#PN 基本上#AD 是#VC 土鳖#NN ，#PU 就是#AD 这#DT 次#M 借#VV 了#AS 东风#NN 出来#VV 看#VV 一#AD 看#VV
+CHT_CMN_20130502.0049.su.xml	它1	3540	54	你 本科 硕士 的 学校 都 很 牛 啊 ， 厉害 ， 我 基本上 是 土鳖 ， 就是 这 次 借 了 东风 出来 看 一 看	s74	137712	你#PN 本科#NN 硕士#NN 的#DEG 学校#NN 都#AD 很#AD 牛#VA 啊#SP ，#PU 厉害#VA ，#PU 我#PN 基本上#AD 是#VC 土鳖#NN ，#PU 就是#AD 这#DT 次#M 借#VV 了#AS 东风#NN 出来#VV 看#VV 一#AD 看#VV
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	你 和 他 可以 在 北京 见 下 面	s75	137712	你#PN 和#P 他#PN 可以#VV 在#P 北京#NR 见#VV 下#LC 面#NN
+CHT_CMN_20130502.0049.su.xml	它1	3871	0	是 的 ， 我 和 他 已经 约好 了 ， 五月 会 在 北师大 先 见 一 面 。	s76	131603	是#VC 的#SP ，#PU 我#PN 和#P 他#PN 已经#AD 约好#VV 了#AS ，#PU 五月#NT 会#VV 在#P 北师大#NR 先#AD 见#VV 一#CD 面#NN 。#PU
+CHT_CMN_20130502.0049.su.xml	它1	3902	31	是 的 ， 我 和 他 已经 约好 了 ， 五月 会 在 北师大 先 见 一 面 。	s76	131603	是#VC 的#SP ，#PU 我#PN 和#P 他#PN 已经#AD 约好#VV 了#AS ，#PU 五月#NT 会#VV 在#P 北师大#NR 先#AD 见#VV 一#CD 面#NN 。#PU
+CHT_CMN_20130502.0049.su.xml	它2	4110	5	另外 ， 不 要 这么 说 ， 在 国内 在 美国 都 一样 的 ， 何况 现在 中国 发展 世界 瞩目 ， 其他 各 个 国家 都 盯 着 中国 ， 想 *PRO* 从中 赚取 机会 呢	s76	131603	另外#AD ，#PU 不#AD 要#VV 这么#AD 说#VV ，#PU 在#P 国内#NN 在#P 美国#NR 都#AD 一样#VA 的#SP ，#PU 何况#AD 现在#NT 中国#NR 发展#VV 世界#NN 瞩目#VV ，#PU 其他#DT 各#DT 个#M 国家#NN 都#AD 盯#VV 着#AS 中国#NR ，#PU 想#VV *PRO*#VV 从中#AD 赚取#VV 机会#NN 呢#SP
+CHT_CMN_20130502.0049.su.xml	它2	4150	22	另外 ， 不 要 这么 说 ， 在 国内 在 美国 都 一样 的 ， 何况 现在 中国 发展 世界 瞩目 ， 其他 各 个 国家 都 盯 着 中国 ， 想 *PRO* 从中 赚取 机会 呢	s76	131603	另外#AD ，#PU 不#AD 要#VV 这么#AD 说#VV ，#PU 在#P 国内#NN 在#P 美国#NR 都#AD 一样#VA 的#SP ，#PU 何况#AD 现在#NT 中国#NR 发展#VV 世界#NN 瞩目#VV ，#PU 其他#DT 各#DT 个#M 国家#NN 都#AD 盯#VV 着#AS 中国#NR ，#PU 想#VV *PRO*#VV 从中#AD 赚取#VV 机会#NN 呢#SP
+CHT_CMN_20130502.0049.su.xml	它2	4349	36	我 在 国内 呆 久 了 还是 比较 习惯 国内 ， 现在 就 等 着 结束 访问 回国 了 ， 呵呵	s77	137712	我#PN 在#P 国内#NN 呆#VV 久#AD 了#SP 还是#AD 比较#AD 习惯#VV 国内#NN ，#PU 现在#NT 就#AD 等#VV 着#AS 结束#VV 访问#NN 回国#VV 了#AS ，#PU 呵呵#IJ
+CHT_CMN_20130502.0049.su.xml	它2	4592	9	你 加油 啦 ， 听说 qualify 蛮 难 的 ， 不过 相信 你 一定 没 问题 ！	s78	137712	你#PN 加油#VV 啦#SP ，#PU 听说#VV qualify#NN 蛮#AD 难#VA 的#SP ，#PU 不过#AD 相信#VV 你#PN 一定#AD 没#VE 问题#NN ！#PU
+CHT_CMN_20130502.0049.su.xml	它2	4883	37	你 加油 啦 ， 听说 qualify 蛮 难 的 ， 不过 相信 你 一定 没 问题 ！	s78	137712	你#PN 加油#VV 啦#SP ，#PU 听说#VV qualify#NN 蛮#AD 难#VA 的#SP ，#PU 不过#AD 相信#VV 你#PN 一定#AD 没#VE 问题#NN ！#PU
+CHT_CMN_20130502.0049.su.xml	它2	4963	34	我 这边 还 要 出门 寄 一下 成绩单 ， 就 先 失陪 了 ， 真是 感谢 *OP* 你 告诉 我 *T*-1 的 信息 。	s79	131603	我#PN 这边#PN 还#AD 要#VV 出门#VV 寄#VV 一下#AD 成绩单#NN ，#PU 就#AD 先#AD 失陪#VV 了#AS ，#PU 真是#AD 感谢#VV *OP*#NN 你#PN 告诉#VV 我#PN *T*-1#VV 的#DEC 信息#NN 。#PU
+CHT_CMN_20130502.0049.su.xml	它2	5630	0	希望 以后 多 联系 。	s79	131603	希望#VV 以后#LC 多#AD 联系#VV 。#PU
+CHT_CMN_20130502.0049.su.xml	它2	6179	9	希望 以后 多 联系 。	s79	131603	希望#VV 以后#LC 多#AD 联系#VV 。#PU
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	你 也 早点 休息 吧	s79	131603	你#PN 也#AD 早点#AD 休息#VV 吧#SP
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	我 就 知道 qualify 很 难 ！！！	s80	131603	我#PN 就#AD 知道#VV qualify#NN 很#AD 难#AD ！！！#VV
+CHT_CMN_20130502.0049.su.xml	它2	6304	0	好 ， 拜拜 ~	s81	137712	好#VA ，#PU 拜拜#NN ~#PU
+CHT_CMN_20130502.0049.su.xml	它2	6350	10	好 ， 拜拜 ~	s81	137712	好#VA ，#PU 拜拜#NN ~#PU
+CHT_CMN_20130502.0049.su.xml	它3	6562	0	听 你 *PRO* 这么 说 ， 我 就 更加 确定 了 ！！！	s82	131603	听#VV 你#PN *PRO*#NN 这么#AD 说#VV ，#PU 我#PN 就#AD 更加#AD 确定#VV 了#AS ！！！#NR
+CHT_CMN_20130502.0049.su.xml	它3	6779	9	林恺 跟 我 说 很 难	s83	137712	林恺#NN 跟#P 我#PN 说#VV 很#AD 难#VA
+CHT_CMN_20130502.0049.su.xml	我们	1507	8	所以 我 觉得 是 真的 难	s84	137712	所以#AD 我#PN 觉得#VV 是#VC 真的#AD 难#VA
+CHT_CMN_20130502.0049.su.xml	我们	4814	15	不过 世上 无 难事 啦 ， 加油 就 好	s85	137712	不过#AD 世上#NN 无#VE 难事#NN 啦#SP ，#PU 加油#VV 就#AD 好#VA
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	嗯 ， 我 非常 相信 *OP* 你 说 *T*-1 的 。	s86	131603	嗯#IJ ，#PU 我#PN 非常#AD 相信#VV *OP*#NR 你#PN 说#VV *T*-1#NR 的#SP 。#PU
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	所以 你 看 ， 我们 在 美国 念 博 很 可粘 的 ~~~ ！	s86	131603	所以#AD 你#PN 看#VV ，#PU 我们#PN 在#P 美国#NR 念#VV 博#NN 很#AD 可粘#VA 的#DEC ~~~#PU ！#PU
+CHT_CMN_20130502.0049.su.xml	我们	5661	0	要 多多 努力 才 行	s86	131603	要#VV 多多#AD 努力#VV 才#AD 行#VV
+CHT_CMN_20130502.0049.su.xml	我们	5707	4	嗯 ， 好 的 。	s87	131603	嗯#IJ ，#PU 好#VA 的#SP 。#PU
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	那 我们 下 次 聊 。	s87	131603	那#AD 我们#PN 下#DT 次#M 聊#VV 。#PU
+CHT_CMN_20130502.0049.su.xml	我们	6072	4	哦 ， 对 了 ， 另外 ， 你 有 林愷 的 QQ 吗 ？	s88	131603	哦#IJ ，#PU 对#VA 了#SP ，#PU 另外#AD ，#PU 你#PN 有#VE 林愷#JJ 的#DEG QQ#NN 吗#SP ？#PU
+CHT_CMN_20130502.0049.su.xml	我们	6189	0	还 麻烦 你 *PRO* 告诉 我	s88	131603	还#AD 麻烦#VV 你#PN *PRO*#AD 告诉#VV 我#PN
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	185840795	s89	137712	185840795#CD
+CHT_CMN_20130502.0049.su.xml	我们	6818	0	谢谢	s90	131603	谢谢#VV
+CHT_CMN_20130502.0049.su.xml	形	1129	0	不 客气	s91	137712	不#AD 客气#VA
+CHT_CMN_20130502.0049.su.xml	形	3024	0	再见 [ 表情 ] ， 我们 下 次 聊	s92	131603	再见#VV [#PU 表情#NN ]#PU ，#PU 我们#PN 下#DT 次#M 聊#VV
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	李婧 ， 你 好 。	s93	131603	李婧#NR ，#PU 你#PN 好#VA 。#PU
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	在 特来华 的 上课 中 ， 你 喜欢 哪 门 课程 呢 ？	s93	131603	在#P 特来华#NR 的#DEG 上课#NN 中#LC ，#PU 你#PN 喜欢#VV 哪#PN 门#NN 课程#NN 呢#SP ？#PU
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	哪 位 老师 给 你 *PRO* 印象 深刻 呢 ？	s93	131603	哪#DT 位#M 老师#NN 给#P 你#PN *PRO*#VV 印象#NN 深刻#VA 呢#SP ？#PU
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	你 可以 给 我 介绍 一下 你 的 课程 和 老师 吗 ？	s93	131603	你#PN 可以#VV 给#P 我#PN 介绍#VV 一下#AD 你#PN 的#DEG 课程#NN 和#CC 老师#NN 吗#SP ？#PU
+CHT_CMN_20130502.0049.su.xml	形	3036	3	如果 不 打扰 你 的话 。	s93	131603	如果#CS 不#AD 打扰#VV 你#PN 的话#SP 。#PU
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	研究生 的 课程 我 只 上 过 Ronet 的 研究 方法 和 Ivan 的 Criminal Justice 两 门 ， Ronet 的 课 是 必修 ， 大家 都 要 上 的 ， 内容 非常 重要 。	s94	137712	研究生#NN 的#DEG 课程#NN 我#PN 只#AD 上#VV 过#AS Ronet#NR 的#DEG 研究#NN 方法#NN 和#CC Ivan#NR 的#DEG Criminal#NR Justice#NR 两#CD 门#M ，#PU Ronet#NR 的#DEG 课#NN 是#VC 必修#JJ ，#PU 大家#PN 都#AD 要#VV 上#VV 的#SP ，#PU 内容#NN 非常#AD 重要#VA 。#PU
+CHT_CMN_20130502.0049.su.xml	NONE	-1	-1	Ivan 的 课 是 选修 ， 主要 是 以 专题 讨论 为主 ， 但是 因为 我 当时 英语 不 太 好 ， *OP* 大家 讨论 *T*-2 的 东西 我 都 没 大 听懂 *T*-1 啊 。。。	s94	137712	Ivan#NR 的#DEG 课#NN 是#VC 选修#VV ，#PU 主要#AD 是#VC 以#P 专题#NN 讨论#NN 为主#VV ，#PU 但是#AD 因为#P 我#PN 当时#NT 英语#NN 不#AD 太#AD 好#VA ，#PU *OP*#AD 大家#PN 讨论#VV *T*-2#VV 的#DEC 东西#NN 我#PN 都#AD 没#AD 大#AD 听懂#VV *T*-1#NR 啊#SP 。。。#PU
+CHT_CMN_20130502.0049.su.xml	形	6619	15	他们 语速 很 快 , 所以 就 有点 囧 , 哈哈	s95	137712	他们#PN 语速#NN 很#AD 快#VA ,#PU 所以#AD 就#AD 有点#AD 囧#VA ,#PU 哈哈#IJ

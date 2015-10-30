@@ -1,0 +1,26 @@
+CHT_CMN_20120521.0006.su.xml	NONE	-1	-1	赵 会计 ， 你 那里 有 固定 资产 清单 电子版 吗 ？	s0	131226	赵#NR 会计#NN ，#PU 你#PN 那里#PN 有#VE 固定#JJ 资产#NN 清单#NN 电子版#NN 吗#SP ？#PU
+CHT_CMN_20120521.0006.su.xml	我	116	29	*OP* 我 现在 有 *T*-1 的 只 是 *OP* 从 金蝶 里 导出 *T*-2 的	s1	132713	*OP*#NN 我#PN 现在#NT 有#VE *T*-1#NN 的#DEC 只#AD 是#VC *OP*#NR 从#P 金蝶#NR 里#LC 导出#VV *T*-2#CD 的#DEC
+CHT_CMN_20120521.0006.su.xml	我	189	22	我 还 想 *PRO* 问 张 总 呢 ， 要 不 要 设置 *OP* *T*-1 和 去年 一样 的 格式	s2	132713	我#PN 还#AD 想#VV *PRO*#AD 问#VV 张#M 总#JJ 呢#SP ，#PU 要#VV 不#AD 要#VV 设置#VV *OP*#NN *T*-1#NN 和#P 去年#NT 一样#VA 的#DEC 格式#NN
+CHT_CMN_20120521.0006.su.xml	NONE	-1	-1	金蝶 里 的 与 原来 的 数据 都 是 一样 的 啊 ？	s3	131226	金蝶#NR 里#LC 的#DEG 与#CC 原来#JJ 的#DEG 数据#NN 都#AD 是#VC 一样#VA 的#SP 啊#SP ？#PU
+CHT_CMN_20120521.0006.su.xml	我	616	40	以前 的 都 是 一样 的 ， *OP* *T*-1 多 的 只 是 *OP* 今年 购买 *T*-2 的	s4	132713	以前#NT 的#DEG 都#AD 是#VC 一样#VA 的#SP ，#PU *OP*#NN *T*-1#NN 多#VA 的#DEC 只#AD 是#VC *OP*#NR 今年#NT 购买#VV *T*-2#NN 的#SP
+CHT_CMN_20120521.0006.su.xml	我	1124	5	*OP* 导出 *T*-1 的 可以 打印 吗 ？	s5	131226	*OP*#NR 导出#VV *T*-1#VV 的#DEC 可以#VV 打印#VV 吗#SP ？#PU
+CHT_CMN_20120521.0006.su.xml	NONE	-1	-1	软件 里 有 名称 ， 数量 ， 以及 存放 地点	s6	132713	软件#NN 里#LC 有#VE 名称#NN ，#PU 数量#NN ，#PU 以及#CC 存放#VV 地点#NN
+CHT_CMN_20120521.0006.su.xml	NONE	-1	-1	现在 你 方便 打印 吗 ？	s7	131226	现在#NT 你#PN 方便#VV 打印#VV 吗#SP ？#PU
+CHT_CMN_20120521.0006.su.xml	你	553	0	用 废纸 打印	s8	131226	用#P 废纸#NN 打印#VV
+CHT_CMN_20120521.0006.su.xml	它	352	22	我 先 给 你 传 一 份 吧 ， 你 看 还 需要 修改 格式 吗 ？	s9	132713	我#PN 先#AD 给#P 你#PN 传#VV 一#CD 份#M 吧#SP ，#PU 你#PN 看#VV 还#AD 需要#VV 修改#VV 格式#NN 吗#SP ？#PU
+CHT_CMN_20120521.0006.su.xml	它	404	0	好 吧	s10	131226	好#VA 吧#SP
+CHT_CMN_20120521.0006.su.xml	NONE	-1	-1	我 修改 了 一下 ， 你 再 看看 。	s11	132713	我#PN 修改#VV 了#AS 一下#AD ，#PU 你#PN 再#AD 看看#VV 。#PU
+CHT_CMN_20120521.0006.su.xml	它	665	0	好 的	s12	131226	好#VA 的#SP
+CHT_CMN_20120521.0006.su.xml	NONE	-1	-1	咱 原来 的 格式 里 用 保存人	s13	131226	咱#PN 原来#JJ 的#DEG 格式#NN 里#LC 用#VV 保存人#NN
+CHT_CMN_20120521.0006.su.xml	NONE	-1	-1	哦 ， 你 看 着 修改 吧 ， 我 没有 以前 的 电子 版本 ， 只是 简单 修改 了 下	s14	132713	哦#IJ ，#PU 你#PN 看#VV 着#AS 修改#VV 吧#SP ，#PU 我#PN 没有#VE 以前#NT 的#DEG 电子#NN 版本#NN ，#PU 只是#AD 简单#AD 修改#VV 了#AS 下#DT
+CHT_CMN_20120521.0006.su.xml	NONE	-1	-1	哦	s15	131226	哦#IJ
+CHT_CMN_20120521.0006.su.xml	它	752	0	主要 是 统计 什么 办公 用品 啊 ？	s16	131226	主要#AD 是#VC 统计#VV 什么#DT 办公#NN 用品#NN 啊#SP ？#PU
+CHT_CMN_20120521.0006.su.xml	NONE	-1	-1	订书机 还 统计 吗	s17	131226	订书机#NN 还#AD 统计#VV 吗#SP
+CHT_CMN_20120521.0006.su.xml	NONE	-1	-1	统计	s18	132713	统计#NN
+CHT_CMN_20120521.0006.su.xml	NONE	-1	-1	*OP* 行政部 统计 *T*-1 的 发给 你 吗 ？	s19	131226	*OP*#NR 行政部#NN 统计#VV *T*-1#VV 的#DEC 发给#VV 你#PN 吗#SP ？#PU
+CHT_CMN_20120521.0006.su.xml	它	942	0	没 收到	s20	132713	没#AD 收到#VV
+CHT_CMN_20120521.0006.su.xml	NONE	-1	-1	其他 的 部门 也 没 一 个 发 的	s21	132713	其他#DT 的#DEG 部门#NN 也#AD 没#VE 一#CD 个#M 发#VV 的#DEC
+CHT_CMN_20120521.0006.su.xml	它	1211	0	好	s22	132713	好#VA
+CHT_CMN_20120521.0006.su.xml	NONE	-1	-1	我 现在 发给 你	s23	131226	我#PN 现在#NT 发给#VV 你#PN
+CHT_CMN_20120521.0006.su.xml	NONE	-1	-1	哦	s24	132713	哦#IJ
+CHT_CMN_20120521.0006.su.xml	NONE	-1	-1	装饰 公司 的 还 在 统计 ， 我 刚才 见 李淼 在 统计 了	s25	131226	装饰#NN 公司#NN 的#DEG 还#AD 在#AD 统计#VV ，#PU 我#PN 刚才#AD 见#VV 李淼#NR 在#P 统计#VV 了#SP

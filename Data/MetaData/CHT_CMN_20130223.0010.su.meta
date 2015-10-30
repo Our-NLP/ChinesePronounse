@@ -1,0 +1,65 @@
+CHT_CMN_20130223.0010.su.xml	我	29	0	有 事 找 你	s0	135208	有#VE 事#NN 找#VV 你#PN
+CHT_CMN_20130223.0010.su.xml	我	70	0	在 呢	s1	136343	在#P 呢#SP
+CHT_CMN_20130223.0010.su.xml	你	107	0	怎么 了	s2	136343	怎么#AD 了#SP
+CHT_CMN_20130223.0010.su.xml	你	148	3	元宵 怎么 过 *T*-1 的 ？	s3	135208	元宵#NN 怎么#AD 过#VV *T*-1#NN 的#DEC ？#PU
+CHT_CMN_20130223.0010.su.xml	NONE	-1	-1	你 把 手机 打开 *-1 要不 我 老姑父 就 来 哈尔滨 了	s4	135208	你#PN 把#BA 手机#NN 打开#VV *-1#NN 要不#AD 我#PN 老姑父#NN 就#AD 来#VV 哈尔滨#NR 了#SP
+CHT_CMN_20130223.0010.su.xml	NONE	-1	-1	我 打 过 电话 了	s5	136343	我#PN 打#VV 过#AS 电话#NN 了#SP
+CHT_CMN_20130223.0010.su.xml	NONE	-1	-1	你 什么 时候 打 的 电话	s6	135208	你#PN 什么#DT 时候#NN 打#VV 的#DER 电话#NN
+CHT_CMN_20130223.0010.su.xml	NONE	-1	-1	我 在 公司 呆 着 呢	s7	136343	我#PN 在#P 公司#NN 呆#VV 着#AS 呢#SP
+CHT_CMN_20130223.0010.su.xml	NONE	-1	-1	刚才 啊	s8	136343	刚才#AD 啊#SP
+CHT_CMN_20130223.0010.su.xml	NONE	-1	-1	你 往 我 家 打 电话 了	s9	136343	你#PN 往#P 我#PN 家#NN 打#VV 电话#NN 了#SP
+CHT_CMN_20130223.0010.su.xml	我	451	0	没有	s10	135208	没有#VE
+CHT_CMN_20130223.0010.su.xml	NONE	-1	-1	那 你 怎么 知道 啊	s11	136343	那#AD 你#PN 怎么#AD 知道#VV 啊#SP
+CHT_CMN_20130223.0010.su.xml	NONE	-1	-1	你 电话 一直 关机 我 老姑父 担心 了 给 二哥 打 电话 明天 要 来 哈尔滨	s12	135208	你#PN 电话#NN 一直#AD 关机#VV 我#PN 老姑父#NN 担心#VV 了#AS 给#P 二哥#CD 打#VV 电话#NN 明天#NT 要#VV 来#VV 哈尔滨#NR
+CHT_CMN_20130223.0010.su.xml	你	599	0	跟 我 说说 你 的 想法 关于 你 对象 的 事	s13	135208	跟#P 我#PN 说说#VV 你#PN 的#DEG 想法#NN 关于#P 你#PN 对象#NN 的#DEG 事#NN
+CHT_CMN_20130223.0010.su.xml	NONE	-1	-1	哦哦	s14	136343	哦哦#VV
+CHT_CMN_20130223.0010.su.xml	我	690	0	不 知道	s15	136343	不#AD 知道#VV
+CHT_CMN_20130223.0010.su.xml	我	729	0	矛盾	s16	136343	矛盾#VA
+CHT_CMN_20130223.0010.su.xml	他们	766	0	都 不 同意	s17	136343	都#AD 不#AD 同意#VV
+CHT_CMN_20130223.0010.su.xml	其	814	7	你 *OP* *T*-1 打 电话 的 时候 家里 有 人 吗 ？	s18	135208	你#PN *OP*#VV *T*-1#AD 打#VV 电话#NN 的#DEC 时候#NN 家里#NN 有#VE 人#NN 吗#SP ？#PU
+CHT_CMN_20130223.0010.su.xml	它	875	0	有	s19	136343	有#VE
+CHT_CMN_20130223.0010.su.xml	NONE	-1	-1	我 妈 接 的	s20	136343	我#PN 妈#NN 接#VV 的#SP
+CHT_CMN_20130223.0010.su.xml	NONE	-1	-1	家里 不 同意 是 为了 你 好 你 要 理解	s21	135208	家里#NN 不#AD 同意#VV 是#VC 为了#P 你#PN 好#AD 你#PN 要#VV 理解#VV
+CHT_CMN_20130223.0010.su.xml	NONE	-1	-1	但是 对象 的 事 是 大事 *OP* *T*-1 事关 终身 的 大事	s22	135208	但是#AD 对象#NN 的#DEG 事#NN 是#VC 大事#NN *OP*#VV *T*-1#AD 事关#VV 终身#NN 的#DEC 大事#NN
+CHT_CMN_20130223.0010.su.xml	NONE	-1	-1	你 一定 要 慎重 考虑 好	s23	135208	你#PN 一定#AD 要#VV 慎重#AD 考虑#VV 好#VA
+CHT_CMN_20130223.0010.su.xml	形	1107	0	没有 *OP* *T*-1 单纯 的 爱情 一定 要 考虑 对方 的 家庭 背景 为人	s24	135208	没有#VE *OP*#NN *T*-1#NN 单纯#VA 的#DEV 爱情#NN 一定#AD 要#VV 考虑#VV 对方#PN 的#DEG 家庭#NN 背景#NN 为人#VV
+CHT_CMN_20130223.0010.su.xml	你	1135	28	没有 *OP* *T*-1 单纯 的 爱情 一定 要 考虑 对方 的 家庭 背景 为人	s24	135208	没有#VE *OP*#NN *T*-1#NN 单纯#VA 的#DEV 爱情#NN 一定#AD 要#VV 考虑#VV 对方#PN 的#DEG 家庭#NN 背景#NN 为人#VV
+CHT_CMN_20130223.0010.su.xml	NONE	-1	-1	我 相信 这些 你 都 明白 *T*-1 不 用 我 说 *T*-1	s25	135208	我#PN 相信#VV 这些#DT 你#PN 都#AD 明白#VV *T*-1#NN 不#AD 用#VV 我#PN 说#VV *T*-1#NR
+CHT_CMN_20130223.0010.su.xml	NONE	-1	-1	唉	s26	136343	唉#IJ
+CHT_CMN_20130223.0010.su.xml	我	1284	0	闹心	s27	136343	闹心#VV
+CHT_CMN_20130223.0010.su.xml	我	1321	0	没意思	s28	136343	没意思#NR
+CHT_CMN_20130223.0010.su.xml	你	1359	0	不 闹心 有 什么 *OP* *T*-1 闹心 的	s29	135208	不#AD 闹心#VV 有#VE 什么#DT *OP*#NN *T*-1#NN 闹心#VV 的#SP
+CHT_CMN_20130223.0010.su.xml	你	1370	11	不 闹心 有 什么 *OP* *T*-1 闹心 的	s29	135208	不#AD 闹心#VV 有#VE 什么#DT *OP*#NN *T*-1#NN 闹心#VV 的#SP
+CHT_CMN_20130223.0010.su.xml	NONE	-1	-1	其实 很多 情况 下 父母 都 是 对 的	s30	135208	其实#AD 很多#CD 情况#NN 下#LC 父母#NN 都#AD 是#VC 对#VA 的#SP
+CHT_CMN_20130223.0010.su.xml	NONE	-1	-1	他们 对 你 都 是 *OP* *T*-1 实实在在 的 好心 任何 人 都 不 会 这样	s31	135208	他们#PN 对#P 你#PN 都#AD 是#VC *OP*#NN *T*-1#NN 实实在在#VV 的#DEC 好心#JJ 任何#DT 人#NN 都#AD 不#AD 会#VV 这样#VA
+CHT_CMN_20130223.0010.su.xml	我	1549	0	知道 啊	s32	136343	知道#VV 啊#SP
+CHT_CMN_20130223.0010.su.xml	你	1591	3	关于 认真 谈 对象 你 一定 要 考虑 两 个 人 的 性格 合 不 合 有没有 共同 爱好 还 要 考虑 以后 的 日子 怎么 过	s33	135208	关于#P 认真#AD 谈#VV 对象#NN 你#PN 一定#AD 要#VV 考虑#VV 两#CD 个#M 人#NN 的#DEG 性格#NN 合#VV 不#AD 合#VV 有没有#AD 共同#AD 爱好#VV 还#AD 要#VV 考虑#VV 以后#LC 的#DEG 日子#NN 怎么#AD 过#VV
+CHT_CMN_20130223.0010.su.xml	它	1690	0	不 简单	s34	135208	不#AD 简单#VA
+CHT_CMN_20130223.0010.su.xml	我	1729	0	随便 吧	s35	136343	随便#VA 吧#SP
+CHT_CMN_20130223.0010.su.xml	他们	1768	0	不 同意 就 分 贝	s36	136343	不#AD 同意#VV 就#AD 分#VV 贝#NN
+CHT_CMN_20130223.0010.su.xml	我	1779	11	不 同意 就 分 贝	s36	136343	不#AD 同意#VV 就#AD 分#VV 贝#NN
+CHT_CMN_20130223.0010.su.xml	你	1819	0	不 能 随便 *OP* *T*-1 大 的 主意 得 你 自己 *PRO* 拿	s37	135208	不#AD 能#VV 随便#AD *OP*#VV *T*-1#CD 大#JJ 的#DEG 主意#NN 得#VV 你#PN 自己#PN *PRO*#AD 拿#VV
+CHT_CMN_20130223.0010.su.xml	我1	1893	0	拿 什么 呀	s38	136343	拿#VV 什么#PN 呀#SP
+CHT_CMN_20130223.0010.su.xml	你	1934	0	不 用 现在 拿	s39	135208	不#AD 用#P 现在#NT 拿#VV
+CHT_CMN_20130223.0010.su.xml	你	1977	0	冷静 一 段 时间	s40	135208	冷静#NN 一#CD 段#M 时间#NN
+CHT_CMN_20130223.0010.su.xml	你1	2024	3	比如 3 个 月 之后 再 决定	s41	135208	比如#AD 3#CD 个#M 月#NN 之后#LC 再#AD 决定#VV
+CHT_CMN_20130223.0010.su.xml	你1	2072	0	冷静 一下 吧	s42	135208	冷静#VV 一下#AD 吧#SP
+CHT_CMN_20130223.0010.su.xml	形	2114	0	为什么 是 3 个 月 啊	s43	136343	为什么#AD 是#VC 3#CD 个#M 月#NN 啊#SP
+CHT_CMN_20130223.0010.su.xml	NONE	-1	-1	哈哈 到时候 你 就 冷静 了	s44	135208	哈哈#IJ 到时候#AD 你#PN 就#AD 冷静#VV 了#AS
+CHT_CMN_20130223.0010.su.xml	你1	2206	0	不 感情用事 了	s45	135208	不#AD 感情用事#VV 了#SP
+CHT_CMN_20130223.0010.su.xml	NONE	-1	-1	呵呵	s46	136343	呵呵#IJ
+CHT_CMN_20130223.0010.su.xml	我1	2280	0	到时 再说 吧	s47	136343	到时#AD 再说#AD 吧#SP
+CHT_CMN_20130223.0010.su.xml	你1	2329	7	人家 都 说 找 对象 要 找 个 *OP* *T*-1 合适 的	s48	135208	人家#PN 都#AD 说#VV 找#VV 对象#NN 要#VV 找#VV 个#M *OP*#NN *T*-1#NN 合适#VA 的#SP
+CHT_CMN_20130223.0010.su.xml	你1	2340	18	人家 都 说 找 对象 要 找 个 *OP* *T*-1 合适 的	s48	135208	人家#PN 都#AD 说#VV 找#VV 对象#NN 要#VV 找#VV 个#M *OP*#NN *T*-1#NN 合适#VA 的#SP
+CHT_CMN_20130223.0010.su.xml	NONE	-1	-1	这 个 合适 其实 内容 很 多	s49	135208	这#DT 个#M 合适#JJ 其实#AD 内容#NN 很#AD 多#VA
+CHT_CMN_20130223.0010.su.xml	NONE	-1	-1	你 自己 多 想想 再 拿 主意	s50	135208	你#PN 自己#PN 多#AD 想想#VV 再#AD 拿#VV 主意#NN
+CHT_CMN_20130223.0010.su.xml	你1	2493	7	但 无论如何 不 能 意气用事	s51	135208	但#AD 无论如何#AD 不#AD 能#VV 意气用事#VV
+CHT_CMN_20130223.0010.su.xml	你1	2536	0	不 用 有 小孩子 脾气	s52	135208	不#AD 用#VV 有#VE 小孩子#NN 脾气#NN
+CHT_CMN_20130223.0010.su.xml	我1	2583	0	现在 不 知道 啊	s53	136343	现在#NT 不#AD 知道#VV 啊#SP
+CHT_CMN_20130223.0010.su.xml	他们	2627	0	都 不 同意 还 用 我 那 什么 主意 啊	s54	136343	都#AD 不#AD 同意#VV 还#AD 用#VV 我#PN 那#DT 什么#DT 主意#NN 啊#SP
+CHT_CMN_20130223.0010.su.xml	他们	2640	13	都 不 同意 还 用 我 那 什么 主意 啊	s54	136343	都#AD 不#AD 同意#VV 还#AD 用#VV 我#PN 那#DT 什么#DT 主意#NN 啊#SP
+CHT_CMN_20130223.0010.su.xml	我1	2690	0	带时候 就 分 呗	s55	136343	带时候#NN 就#AD 分#VV 呗#SP
+CHT_CMN_20130223.0010.su.xml	NONE	-1	-1	大哥 打 电话 了	s56	136343	大哥#NN 打#VV 电话#NN 了#SP
+CHT_CMN_20130223.0010.su.xml	NONE	-1	-1	你 自己 的 事 还 得 你 自己 *PRO* 拿 主意	s57	135208	你#PN 自己#PN 的#DEG 事#NN 还#AD 得#VV 你#PN 自己#PN *PRO*#AD 拿#VV 主意#NN
+CHT_CMN_20130223.0010.su.xml	NONE	-1	-1	你 爸妈 辛辛苦苦 供 你 *PRO* 念书 就 是 想 *PRO* 让 你 *PRO* 过上 好 日子 不 想 *PRO* 让 你 *PRO* 受 二 遍 苦 你 要 理解	s58	135208	你#PN 爸妈#NN 辛辛苦苦#VV 供#VV 你#PN *PRO*#AD 念书#VV 就#AD 是#VC 想#VV *PRO*#VV 让#VV 你#PN *PRO*#VV 过上#VV 好#JJ 日子#NN 不#AD 想#VV *PRO*#VV 让#VV 你#PN *PRO*#AD 受#VV 二#CD 遍#M 苦#NN 你#PN 要#VV 理解#VV
+CHT_CMN_20130223.0010.su.xml	NONE	-1	-1	嗯	s59	136343	嗯#IJ

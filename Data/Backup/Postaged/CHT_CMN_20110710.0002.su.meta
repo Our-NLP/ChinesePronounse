@@ -1,0 +1,86 @@
+CHT_CMN_20110710.0002.su.xml	NONE	-1	-1	董 工 在 么 ？	s0	132065	董#NR 工#NN 在#P 么#SP ？#PU
+CHT_CMN_20110710.0002.su.xml	我	66	0	有 点 事情 想 *PRO* 咨询 下	s1	132065	有#VE 点#CD 事情#NN 想#VV *PRO*#NR 咨询#NN 下#LC
+CHT_CMN_20110710.0002.su.xml	NONE	-1	-1	我们 医院 的 外网 及其 是 通过 2 个 端口 连接	s2	132065	我们#PN 医院#NN 的#DEG 外网#NN 及其#CC 是#VC 通过#P 2#CD 个#M 端口#NN 连接#VV
+CHT_CMN_20110710.0002.su.xml	NONE	-1	-1	的 *OP* *T*-1 通过 这 2 个 端口 的 机器 互相 之间 PING 不 通 也 连接 不 上	s3	132065	的#DEG *OP*#NN *T*-1#AD 通过#P 这#DT 2#CD 个#M 端口#NN 的#DEG 机器#NN 互相#AD 之间#LC PING#NR 不#AD 通#VV 也#AD 连接#VV 不#AD 上#VV
+CHT_CMN_20110710.0002.su.xml	NONE	-1	-1	同 一 端口 下 的 机器 就 可以 PING 同 也 能 连接 上	s4	132065	同#DT 一#CD 端口#NN 下#LC 的#DEG 机器#NN 就#AD 可以#VV PING#NR 同#AD 也#AD 能#VV 连接#VV 上#VV
+CHT_CMN_20110710.0002.su.xml	NONE	-1	-1	这个 应该 怎么 处理 呢 ？	s5	132065	这个#PN 应该#VV 怎么#AD 处理#VV 呢#SP ？#PU
+CHT_CMN_20110710.0002.su.xml	NONE	-1	-1	*OP* *T*-1 比较 急 的 应用	s6	132065	*OP*#NR *T*-1#NN 比较#AD 急#VA 的#DEC 应用#NN
+CHT_CMN_20110710.0002.su.xml	我	1060	0	在 吗	s7	133514	在#VV 吗#SP
+CHT_CMN_20110710.0002.su.xml	我	1207	3	现在 什么 情况 ？	s8	133514	现在#NT 什么#DT 情况#NN ？#PU
+CHT_CMN_20110710.0002.su.xml	NONE	-1	-1	东院 的 基本 都 是 从 2 号 端口 上 出去 的	s9	132065	东院#NN 的#DEG 基本#JJ 都#AD 是#VC 从#P 2#OD 号#NN 端口#NN 上#LC 出去#VV 的#DEC
+CHT_CMN_20110710.0002.su.xml	NONE	-1	-1	西院 都 是 从 3 号 端口 上 出去 的	s10	132065	西院#NN 都#AD 是#VC 从#P 3#OD 号#NN 端口#NN 上#LC 出去#VV 的#DEC
+CHT_CMN_20110710.0002.su.xml	NONE	-1	-1	*OP* *T*-1 不 是 一 个 端口 的 不 能 互相 PING 也 连接 不 上	s11	132065	*OP*#NR *T*-1#NN 不#AD 是#VC 一#CD 个#M 端口#NN 的#DEG 不#AD 能#VV 互相#AD PING#NR 也#AD 连接#VV 不#AD 上#VV
+CHT_CMN_20110710.0002.su.xml	我	1469	5	那 现在 访问 有 问题 ？	s12	133514	那#AD 现在#NT 访问#VV 有#VE 问题#NN ？#PU
+CHT_CMN_20110710.0002.su.xml	我	1619	0	加 了 一 条 从 l2-trust 到 l2-trust 允许 的 策略 吗	s13	133514	加#VV 了#AS 一#CD 条#M 从#P l2-trust#NN 到#P l2-trust#NN 允许#VV 的#DEC 策略#NN 吗#SP
+CHT_CMN_20110710.0002.su.xml	我	2495	14	加 了 一 条 从 l2-trust 到 l2-trust 允许 的 策略 吗	s13	133514	加#VV 了#AS 一#CD 条#M 从#P l2-trust#NN 到#P l2-trust#NN 允许#VV 的#DEC 策略#NN 吗#SP
+CHT_CMN_20110710.0002.su.xml	我	2915	32	两 个 端口 下 的 用户 都 可以 通过 设备 来 上网 ， 对 吗	s14	133514	两#CD 个#M 端口#NN 下#LC 的#DEG 用户#NN 都#AD 可以#VV 通过#P 设备#NN 来#MSP 上网#VV ，#PU 对#VA 吗#SP
+CHT_CMN_20110710.0002.su.xml	我	3009	0	上网 不 受 影响	s15	132065	上网#VV 不#AD 受#VV 影响#NN
+CHT_CMN_20110710.0002.su.xml	我1	3347	0	都 正常	s16	132065	都#AD 正常#VA
+CHT_CMN_20110710.0002.su.xml	NONE	-1	-1	只是 它们 之间 没法 互相 访问	s17	133514	只是#AD 它们#PN 之间#LC 没法#AD 互相#AD 访问#VV
+CHT_CMN_20110710.0002.su.xml	你	409	3	现在 能 不 能 让 他们 *PRO* 互相 访问 啊	s18	132065	现在#NT 能#VV 不#AD 能#VV 让#VV 他们#PN *PRO*#VV 互相#AD 访问#VV 啊#SP
+CHT_CMN_20110710.0002.su.xml	你	719	0	可以 ，	s19	133514	可以#VV ，#PU
+CHT_CMN_20110710.0002.su.xml	NONE	-1	-1	设备 的 地址 ， 用户 名 和 密码	s20	133514	设备#NN 的#DEG 地址#NN ，#PU 用户#NN 名#NN 和#CC 密码#NN
+CHT_CMN_20110710.0002.su.xml	NONE	-1	-1	LED 屏 在 东院 但 管理端 以后 要 放 在 建行 那里	s21	132065	LED#NR 屏#NN 在#P 东院#NN 但#AD 管理端#NN 以后#LC 要#VV 放#VV 在#P 建行#NN 那里#PN
+CHT_CMN_20110710.0002.su.xml	你	1001	0	还 需要 用户 名 和 密码	s22	133514	还#AD 需要#VV 用户#NN 名#NN 和#CC 密码#NN
+CHT_CMN_20110710.0002.su.xml	NONE	-1	-1	= 我 看看	s23	132065	=#PU 我#PN 看看#VV
+CHT_CMN_20110710.0002.su.xml	NONE	-1	-1	z1z2j3p4k5	s24	132065	z1z2j3p4k5#NR
+CHT_CMN_20110710.0002.su.xml	你	2842	0	提示 用户 名 或 密码 错误	s25	133514	提示#VV 用户#NN 名#NN 或#CC 密码#NN 错误#VA
+CHT_CMN_20110710.0002.su.xml	NONE	-1	-1	密码 zz3hospital 呢 ？	s26	132065	密码#NN zz3hospital#NN 呢#SP ？#PU
+CHT_CMN_20110710.0002.su.xml	NONE	-1	-1	后面 这个 可以	s27	133514	后面#NN 这个#PN 可以#VV
+CHT_CMN_20110710.0002.su.xml	你	2540	5	哦 呵呵 好久 不 进 自己 都 记 不 太 清 那个 了	s28	132065	哦#IJ 呵呵#IJ 好久#AD 不#AD 进#VV 自己#PN 都#AD 记#VV 不#AD 太#AD 清#VA 那个#PN 了#SP
+CHT_CMN_20110710.0002.su.xml	你	2959	3	反正 就 那 几 个	s29	132065	反正#AD 就#AD 那#DT 几#CD 个#M
+CHT_CMN_20110710.0002.su.xml	NONE	-1	-1	[ 图片 ] 这 条 为什么 禁用	s30	133514	[#PU 图片#NN ]#PU 这#DT 条#M 为什么#AD 禁用#VV
+CHT_CMN_20110710.0002.su.xml	你	2973	0	不 知道 啊	s31	132065	不#AD 知道#VV 啊#SP
+CHT_CMN_20110710.0002.su.xml	NONE	-1	-1	我 好久 没 进 了	s32	132065	我#PN 好久#AD 没#AD 进#VV 了#SP
+CHT_CMN_20110710.0002.su.xml	NONE	-1	-1	这 条 有 什么 用 ？	s33	132065	这#DT 条#M 有#VE 什么#DT 用#NN ？#PU
+CHT_CMN_20110710.0002.su.xml	NONE	-1	-1	这 个 策略 ， 是 允许 两 个 端口 之间 *PRO* 互访	s34	133514	这#DT 个#M 策略#NN ，#PU 是#VC 允许#VV 两#CD 个#M 端口#NN 之间#LC *PRO*#VV 互访#NN
+CHT_CMN_20110710.0002.su.xml	NONE	-1	-1	哦	s35	132065	哦#IJ
+CHT_CMN_20110710.0002.su.xml	NONE	-1	-1	我 现在 倒是 能 PING 通 不过 策略 里 *OP* *T*-1 ID 是 1 的 那个 还是 在 *PRO* 禁用 中	s36	132065	我#PN 现在#NT 倒是#AD 能#VV PING#NR 通#VV 不过#AD 策略#NN 里#LC *OP*#VV *T*-1#NN ID#NN 是#VC 1#CD 的#DEG 那个#DT 还是#AD 在#AD *PRO*#AD 禁用#VV 中#NR
+CHT_CMN_20110710.0002.su.xml	NONE	-1	-1	我 试 下 看看 我 这里 能 调试 了 不	s37	132065	我#PN 试#VV 下#LC 看看#VV 我#PN 这里#PN 能#VV 调试#VV 了#AS 不#AD
+CHT_CMN_20110710.0002.su.xml	你	3315	0	应该 PING 不 通 ， 策略 禁用 了 ，	s38	133514	应该#VV PING#NR 不#AD 通#VV ，#PU 策略#NN 禁用#VV 了#AS ，#PU
+CHT_CMN_20110710.0002.su.xml	NONE	-1	-1	== 我 输错 了	s39	132065	==#VV 我#PN 输错#VV 了#AS
+CHT_CMN_20110710.0002.su.xml	NONE	-1	-1	这个 是 外网 地址 吧 ，	s40	133514	这个#PN 是#VC 外网#NN 地址#NN 吧#SP ，#PU
+CHT_CMN_20110710.0002.su.xml	它	449	2	恩 PING 错 了	s41	132065	恩#IJ PING#NN 错#VA 了#SP
+CHT_CMN_20110710.0002.su.xml	它	675	2	恩 不 同 了	s42	132065	恩#IJ 不#AD 同#VA 了#SP
+CHT_CMN_20110710.0002.su.xml	它	733	0	不 通 了	s43	132065	不#AD 通#VV 了#SP
+CHT_CMN_20110710.0002.su.xml	NONE	-1	-1	我 现在 启用 那 条 策略 ？	s44	132065	我#PN 现在#NT 启用#VV 那#DT 条#M 策略#NN ？#PU
+CHT_CMN_20110710.0002.su.xml	它	831	0	没有 策略 ， 肯定 不 通 ，	s45	133514	没有#VE 策略#NN ，#PU 肯定#AD 不#AD 通#VV ，#PU
+CHT_CMN_20110710.0002.su.xml	它	869	14	没有 策略 ， 肯定 不 通 ，	s45	133514	没有#VE 策略#NN ，#PU 肯定#AD 不#AD 通#VV ，#PU
+CHT_CMN_20110710.0002.su.xml	它	913	0	启用 不 了 ，	s46	133514	启用#VV 不#AD 了#VV ，#PU
+CHT_CMN_20110710.0002.su.xml	NONE	-1	-1	哦	s47	132065	哦#IJ
+CHT_CMN_20110710.0002.su.xml	NONE	-1	-1	设备 试用 licesens 过期 了 ，	s48	133514	设备#NN 试用#VV licesens#NN 过期#VV 了#AS ，#PU
+CHT_CMN_20110710.0002.su.xml	NONE	-1	-1	哦	s49	132065	哦#IJ
+CHT_CMN_20110710.0002.su.xml	它	1330	0	没法 修改 配置 ，	s50	133514	没法#AD 修改#VV 配置#NN ，#PU
+CHT_CMN_20110710.0002.su.xml	它	1531	0	联系 一下 我们 的 销售 ，	s51	133514	联系#VV 一下#AD 我们#PN 的#DEG 销售#NN ，#PU
+CHT_CMN_20110710.0002.su.xml	NONE	-1	-1	那 个 设备 的 参数 能 发 过来 么 ？	s52	132065	那#DT 个#M 设备#NN 的#DEG 参数#NN 能#VV 发#VV 过来#VV 么#SP ？#PU
+CHT_CMN_20110710.0002.su.xml	NONE	-1	-1	什么 参数 ？	s53	133514	什么#DT 参数#NN ？#PU
+CHT_CMN_20110710.0002.su.xml	NONE	-1	-1	我们 看看 做 个 标书	s54	132065	我们#PN 看看#VV 做#VV 个#M 标书#NN
+CHT_CMN_20110710.0002.su.xml	NONE	-1	-1	设备 的	s55	132065	设备#NN 的#DEG
+CHT_CMN_20110710.0002.su.xml	它	1974	28	这 个 设备 过 5000 元 了 必须 走 *OP* *T*-1 招标 的 流程	s56	132065	这#DT 个#M 设备#NN 过#VV 5000#CD 元#M 了#SP 必须#VV 走#VV *OP*#NN *T*-1#NN 招标#VV 的#DEC 流程#NN
+CHT_CMN_20110710.0002.su.xml	它	2115	4	恩 ， 可以 ， 找 一下 游勇波	s57	133514	恩#IJ ，#PU 可以#VV ，#PU 找#VV 一下#AD 游勇波#NN
+CHT_CMN_20110710.0002.su.xml	它1	2160	15	恩 ， 可以 ， 找 一下 游勇波	s57	133514	恩#IJ ，#PU 可以#VV ，#PU 找#VV 一下#AD 游勇波#NN
+CHT_CMN_20110710.0002.su.xml	NONE	-1	-1	恩	s58	132065	恩#IJ
+CHT_CMN_20110710.0002.su.xml	它1	2200	0	怎么 联系 他 ？	s59	132065	怎么#AD 联系#VV 他#PN ？#PU
+CHT_CMN_20110710.0002.su.xml	它1	2285	0	在 么 董 工 能 现 帮 我 把 那 个 策略 改 过来 *-1 么 ？	s60	132065	在#P 么#NN 董#NR 工#NN 能#VV 现#AD 帮#VV 我#PN 把#BA 那#DT 个#M 策略#NN 改#VV 过来#VV *-1#NR 么#SP ？#PU
+CHT_CMN_20110710.0002.su.xml	它1	2299	14	在 么 董 工 能 现 帮 我 把 那 个 策略 改 过来 *-1 么 ？	s60	132065	在#P 么#NN 董#NR 工#NN 能#VV 现#AD 帮#VV 我#PN 把#BA 那#DT 个#M 策略#NN 改#VV 过来#VV *-1#NR 么#SP ？#PU
+CHT_CMN_20110710.0002.su.xml	它1	2342	0	好 叫 社工部 *PRO* 试 下 能 不 能 用	s60	132065	好#VA 叫#VV 社工部#NN *PRO*#NN 试#NN 下#LC 能#VV 不#AD 能#VV 用#VV
+CHT_CMN_20110710.0002.su.xml	它1	2831	24	好 叫 社工部 *PRO* 试 下 能 不 能 用	s60	132065	好#VA 叫#VV 社工部#NN *PRO*#NN 试#NN 下#LC 能#VV 不#AD 能#VV 用#VV
+CHT_CMN_20110710.0002.su.xml	它1	3033	26	申请 已经 打 上去 了 最近 就 要 批 下 了 是 你们 来 还是 通过 亿维 ？	s61	132065	申请#NN 已经#AD 打#VV 上去#VV 了#AS 最近#NT 就#AD 要#VV 批#VV 下#VV 了#AS 是#VC 你们#PN 来#VV 还是#AD 通过#VV 亿维#NN ？#PU
+CHT_CMN_20110710.0002.su.xml	它1	3433	42	申请 已经 打 上去 了 最近 就 要 批 下 了 是 你们 来 还是 通过 亿维 ？	s61	132065	申请#NN 已经#AD 打#VV 上去#VV 了#AS 最近#NT 就#AD 要#VV 批#VV 下#VV 了#AS 是#VC 你们#PN 来#VV 还是#AD 通过#VV 亿维#NN ？#PU
+CHT_CMN_20110710.0002.su.xml	它2	3508	8	董 工 那 个 互访 的 功能 你 能 现 帮 我 *PRO* 开开 *T*-1 么 ？	s62	132065	董#NR 工#NN 那#DT 个#M 互访#NN 的#DEG 功能#NN 你#PN 能#VV 现#AD 帮#VV 我#PN *PRO*#NN 开开#VV *T*-1#NN 么#SP ？#PU
+CHT_CMN_20110710.0002.su.xml	NONE	-1	-1	我们 这里 要 调试 大 屏幕 用 的	s62	132065	我们#PN 这里#PN 要#VV 调试#VV 大#JJ 屏幕#NN 用#VV 的#SP
+CHT_CMN_20110710.0002.su.xml	它2	3556	57	您 好 ， 因为 软件 试用 已 过期 ， 我 现在 也 没法 更换 配置 ， 这 是 软件 许可 的 功能 ， 除非 再 申请 *PRO* 试用 LIC , 否则 无法 更改 配置 ，	s63	133514	您#PN 好#VA ，#PU 因为#P 软件#NN 试用#VV 已#AD 过期#VV ，#PU 我#PN 现在#NT 也#AD 没法#AD 更换#VV 配置#NN ，#PU 这#PN 是#VC 软件#NN 许可#VV 的#DEC 功能#NN ，#PU 除非#CS 再#AD 申请#VV *PRO*#NR 试用#VV LIC#NR ,#PU 否则#AD 无法#AD 更改#VV 配置#NN ，#PU
+CHT_CMN_20110710.0002.su.xml	它2	3686	89	您 好 ， 因为 软件 试用 已 过期 ， 我 现在 也 没法 更换 配置 ， 这 是 软件 许可 的 功能 ， 除非 再 申请 *PRO* 试用 LIC , 否则 无法 更改 配置 ，	s63	133514	您#PN 好#VA ，#PU 因为#P 软件#NN 试用#VV 已#AD 过期#VV ，#PU 我#PN 现在#NT 也#AD 没法#AD 更换#VV 配置#NN ，#PU 这#PN 是#VC 软件#NN 许可#VV 的#DEC 功能#NN ，#PU 除非#CS 再#AD 申请#VV *PRO*#NR 试用#VV LIC#NR ,#PU 否则#AD 无法#AD 更改#VV 配置#NN ，#PU
+CHT_CMN_20110710.0002.su.xml	NONE	-1	-1	哦	s64	132065	哦#IJ
+CHT_CMN_20110710.0002.su.xml	它2	3726	11	申请 已经 上报 了 最近 就 招标 了 是 你们 过来 还是 通过 亿维 ？	s65	132065	申请#NN 已经#AD 上报#VV 了#AS 最近#NT 就#AD 招标#VV 了#AS 是#VC 你们#PN 过来#VV 还是#AD 通过#VV 亿维#NN ？#PU
+CHT_CMN_20110710.0002.su.xml	它2	3746	27	申请 已经 上报 了 最近 就 招标 了 是 你们 过来 还是 通过 亿维 ？	s65	132065	申请#NN 已经#AD 上报#VV 了#AS 最近#NT 就#AD 招标#VV 了#AS 是#VC 你们#PN 过来#VV 还是#AD 通过#VV 亿维#NN ？#PU
+CHT_CMN_20110710.0002.su.xml	形	2779	44	申请 已经 上报 了 最近 就 招标 了 是 你们 过来 还是 通过 亿维 ？	s65	132065	申请#NN 已经#AD 上报#VV 了#AS 最近#NT 就#AD 招标#VV 了#AS 是#VC 你们#PN 过来#VV 还是#AD 通过#VV 亿维#NN ？#PU
+CHT_CMN_20110710.0002.su.xml	形	3167	0	要 看 销售 安排 了 ，	s66	133514	要#VV 看#VV 销售#NN 安排#VV 了#AS ，#PU
+CHT_CMN_20110710.0002.su.xml	形	3449	0	有 可能 是 亿维	s67	133514	有#VE 可能#NN 是#VC 亿维#NN
+CHT_CMN_20110710.0002.su.xml	形	3466	0	哦 了	s68	132065	哦#IJ 了#SP
+CHT_CMN_20110710.0002.su.xml	NONE	-1	-1	这 期间 设备 千万 别 断电 ，	s69	133514	这#DT 期间#NN 设备#NN 千万#AD 别#AD 断电#VV ，#PU
+CHT_CMN_20110710.0002.su.xml	形	3101	2	哦 有 UPS	s70	132065	哦#IJ 有#VE UPS#NR
+CHT_CMN_20110710.0002.su.xml	形	3117	0	断 就 断 吧 只有 断 了 领导 批准 的 才 快 点	s71	132065	断#VV 就#AD 断#VV 吧#SP 只有#AD 断#VV 了#AS 领导#NN 批准#VV 的#DEC 才#AD 快#VA 点#AD
+CHT_CMN_20110710.0002.su.xml	其	3600	6	断 就 断 吧 只有 断 了 领导 批准 的 才 快 点	s71	132065	断#VV 就#AD 断#VV 吧#SP 只有#AD 断#VV 了#AS 领导#NN 批准#VV 的#DEC 才#AD 快#VA 点#AD
+CHT_CMN_20110710.0002.su.xml	其	3732	20	断 就 断 吧 只有 断 了 领导 批准 的 才 快 点	s71	132065	断#VV 就#AD 断#VV 吧#SP 只有#AD 断#VV 了#AS 领导#NN 批准#VV 的#DEC 才#AD 快#VA 点#AD
+CHT_CMN_20110710.0002.su.xml	NONE	-1	-1	呵呵 ，	s72	133514	呵呵#IJ ，#PU

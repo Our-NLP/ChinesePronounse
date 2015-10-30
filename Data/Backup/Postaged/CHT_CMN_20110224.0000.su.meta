@@ -1,0 +1,140 @@
+CHT_CMN_20110224.0000.su.xml	NONE	-1	-1	你 好	s0	138159	你#PN 好#VA
+CHT_CMN_20110224.0000.su.xml	NONE	-1	-1	阿姨	s1	138159	阿姨#NN
+CHT_CMN_20110224.0000.su.xml	NONE	-1	-1	你 好	s2	130530	你#PN 好#VA
+CHT_CMN_20110224.0000.su.xml	NONE	-1	-1	你 已经 定 了 吗 ？	s3	130530	你#PN 已经#AD 定#VV 了#AS 吗#SP ？#PU
+CHT_CMN_20110224.0000.su.xml	NONE	-1	-1	行程 你 的	s4	138159	行程#NN 你#PN 的#DEG
+CHT_CMN_20110224.0000.su.xml	我	747	0	好 的 ， 那 有 票 号 我 可以 查询 *T*-1 吗 ？	s5	130530	好#VA 的#SP ，#PU 那#AD 有#VE 票#NN 号#NN 我#PN 可以#VV 查询#VV *T*-1#NN 吗#SP ？#PU
+CHT_CMN_20110224.0000.su.xml	我	821	14	好 的 ， 那 有 票 号 我 可以 查询 *T*-1 吗 ？	s5	130530	好#VA 的#SP ，#PU 那#AD 有#VE 票#NN 号#NN 我#PN 可以#VV 查询#VV *T*-1#NN 吗#SP ？#PU
+CHT_CMN_20110224.0000.su.xml	我	1259	0	是 用 我 的 身份证 订 的 还是 护照 订 的 ？	s6	130530	是#VC 用#P 我#PN 的#DEG 身份证#NN 订#VV 的#DEC 还是#CC 护照#NN 订#VV 的#SP ？#PU
+CHT_CMN_20110224.0000.su.xml	我	1652	17	恩 我 想 *PRO* 问 一下 确定 今天 付款 买 票 吗	s7	138159	恩#IJ 我#PN 想#VV *PRO*#AD 问#VV 一下#AD 确定#VV 今天#NT 付款#VV 买#VV 票#NN 吗#SP
+CHT_CMN_20110224.0000.su.xml	我	1887	26	恩 我 想 *PRO* 问 一下 确定 今天 付款 买 票 吗	s7	138159	恩#IJ 我#PN 想#VV *PRO*#AD 问#VV 一下#AD 确定#VV 今天#NT 付款#VV 买#VV 票#NN 吗#SP
+CHT_CMN_20110224.0000.su.xml	我	2503	0	护照 定	s8	138159	护照#NN 定#VV
+CHT_CMN_20110224.0000.su.xml	NONE	-1	-1	恩	s9	130530	恩#IJ
+CHT_CMN_20110224.0000.su.xml	我	2629	0	是 的	s10	130530	是#VC 的#SP
+CHT_CMN_20110224.0000.su.xml	NONE	-1	-1	护照 信息 我 给 你 发 一 遍 *T*-1 奥	s11	138159	护照#NN 信息#NN 我#PN 给#P 你#PN 发#VV 一#CD 遍#M *T*-1#NN 奥#NR
+CHT_CMN_20110224.0000.su.xml	我	2676	0	好 的	s12	130530	好#VA 的#SP
+CHT_CMN_20110224.0000.su.xml	NONE	-1	-1	有效期 是 2019年 3月 18号	s13	130530	有效期#NN 是#VC 2019年#NT 3月#NT 18号#NT
+CHT_CMN_20110224.0000.su.xml	我	2759	0	不 是 5月	s14	130530	不#AD 是#VC 5月#NT
+CHT_CMN_20110224.0000.su.xml	NONE	-1	-1	奥	s15	138159	奥#NR
+CHT_CMN_20110224.0000.su.xml	我	3094	0	订好 了 的话 告诉 我 机票 信息 和 如何 查询 ， 我 查好 了 马上 给 你 汇款	s16	130530	订好#VV 了#AS 的话#SP 告诉#VV 我#PN 机票#NN 信息#NN 和#CC 如何#AD 查询#VV ，#PU 我#PN 查好#VV 了#AS 马上#AD 给#P 你#PN 汇款#VV
+CHT_CMN_20110224.0000.su.xml	我1	3830	14	订好 了 的话 告诉 我 机票 信息 和 如何 查询 ， 我 查好 了 马上 给 你 汇款	s16	130530	订好#VV 了#AS 的话#SP 告诉#VV 我#PN 机票#NN 信息#NN 和#CC 如何#AD 查询#VV ，#PU 我#PN 查好#VV 了#AS 马上#AD 给#P 你#PN 汇款#VV
+CHT_CMN_20110224.0000.su.xml	我1	4080	33	订好 了 的话 告诉 我 机票 信息 和 如何 查询 ， 我 查好 了 马上 给 你 汇款	s16	130530	订好#VV 了#AS 的话#SP 告诉#VV 我#PN 机票#NN 信息#NN 和#CC 如何#AD 查询#VV ，#PU 我#PN 查好#VV 了#AS 马上#AD 给#P 你#PN 汇款#VV
+CHT_CMN_20110224.0000.su.xml	我1	4119	49	订好 了 的话 告诉 我 机票 信息 和 如何 查询 ， 我 查好 了 马上 给 你 汇款	s16	130530	订好#VV 了#AS 的话#SP 告诉#VV 我#PN 机票#NN 信息#NN 和#CC 如何#AD 查询#VV ，#PU 我#PN 查好#VV 了#AS 马上#AD 给#P 你#PN 汇款#VV
+CHT_CMN_20110224.0000.su.xml	我1	4253	0	ok 没有 问题	s17	138159	ok#NN 没有#VE 问题#NN
+CHT_CMN_20110224.0000.su.xml	我1	4302	9	ok 没有 问题	s17	138159	ok#NN 没有#VE 问题#NN
+CHT_CMN_20110224.0000.su.xml	我1	4462	0	给 我 几 分钟 时间	s18	138159	给#VV 我#PN 几#CD 分钟#M 时间#NN
+CHT_CMN_20110224.0000.su.xml	我1	4686	0	好 的	s19	130530	好#VA 的#SP
+CHT_CMN_20110224.0000.su.xml	我1	4832	0	慢慢 来 不 急 ， 但是 要 注意 信息 准确	s20	130530	慢慢#AD 来#VV 不#AD 急#VA ，#PU 但是#AD 要#VV 注意#VV 信息#NN 准确#VA
+CHT_CMN_20110224.0000.su.xml	我1	4884	20	慢慢 来 不 急 ， 但是 要 注意 信息 准确	s20	130530	慢慢#AD 来#VV 不#AD 急#VA ，#PU 但是#AD 要#VV 注意#VV 信息#NN 准确#VA
+CHT_CMN_20110224.0000.su.xml	NONE	-1	-1	恩	s21	138159	恩#IJ
+CHT_CMN_20110224.0000.su.xml	我1	4900	9	时间 6月 9号 北京 出发	s22	138159	时间#NN 6月#NT 9号#NT 北京#NR 出发#VV
+CHT_CMN_20110224.0000.su.xml	我2	5040	0	美国 时间 12月 6号 回来 到 北京 是 12月 7号 的 14点35份	s23	138159	美国#NR 时间#NN 12月#NT 6号#NT 回来#VV 到#VV 北京#NR 是#VC 12月#NT 7号#NT 的#DEG 14点35份#CD
+CHT_CMN_20110224.0000.su.xml	我2	5078	22	美国 时间 12月 6号 回来 到 北京 是 12月 7号 的 14点35份	s23	138159	美国#NR 时间#NN 12月#NT 6号#NT 回来#VV 到#VV 北京#NR 是#VC 12月#NT 7号#NT 的#DEG 14点35份#CD
+CHT_CMN_20110224.0000.su.xml	我2	5215	0	好 的 ， 很 好	s24	130530	好#VA 的#SP ，#PU 很#AD 好#VA
+CHT_CMN_20110224.0000.su.xml	我2	5265	12	好 的 ， 很 好	s24	130530	好#VA 的#SP ，#PU 很#AD 好#VA
+CHT_CMN_20110224.0000.su.xml	NONE	-1	-1	BK4XST 预定 编号	s25	138159	BK4XST#NR 预定#VV 编号#NN
+CHT_CMN_20110224.0000.su.xml	我2	4214	0	在 哪里 查询 啊	s26	130530	在#P 哪里#PN 查询#VV 啊#SP
+CHT_CMN_20110224.0000.su.xml	NONE	-1	-1	大陆 航空 网站	s27	138159	大陆#NN 航空#NN 网站#NN
+CHT_CMN_20110224.0000.su.xml	你	209	0	出票 以后 你 会 给 我 发 电子 票 是 吧 ？	s28	130530	出票#NN 以后#LC 你#PN 会#VV 给#P 我#PN 发#VV 电子#NN 票#NN 是#VC 吧#SP ？#PU
+CHT_CMN_20110224.0000.su.xml	你	344	27	出票 以后 你 会 给 我 发 电子 票 是 吧 ？	s28	130530	出票#NN 以后#LC 你#PN 会#VV 给#P 我#PN 发#VV 电子#NN 票#NN 是#VC 吧#SP ？#PU
+CHT_CMN_20110224.0000.su.xml	你	714	0	对 的	s29	138159	对#VA 的#SP
+CHT_CMN_20110224.0000.su.xml	你	728	0	看看 没错 我 就 开票 了	s30	138159	看看#VV 没错#VV 我#PN 就#AD 开票#VV 了#AS
+CHT_CMN_20110224.0000.su.xml	你	861	9	看看 没错 我 就 开票 了	s30	138159	看看#VV 没错#VV 我#PN 就#AD 开票#VV 了#AS
+CHT_CMN_20110224.0000.su.xml	NONE	-1	-1	座位	s31	138159	座位#NN
+CHT_CMN_20110224.0000.su.xml	你	945	0	可以 这里 选择	s32	138159	可以#VV 这里#PN 选择#VV
+CHT_CMN_20110224.0000.su.xml	NONE	-1	-1	座位 图	s33	138159	座位#NN 图#NN
+CHT_CMN_20110224.0000.su.xml	NONE	-1	-1	你 给 我 选 的 哪里 啊 ？	s34	130530	你#PN 给#P 我#PN 选#VV 的#DEC 哪里#PN 啊#SP ？#PU
+CHT_CMN_20110224.0000.su.xml	你	965	0	还 没有 选 呢	s35	138159	还#AD 没有#AD 选#VV 呢#SP
+CHT_CMN_20110224.0000.su.xml	你1	1340	10	白色 的 *OP* 可以 选择 *T*-1 的	s36	138159	白色#JJ 的#DEG *OP*#NN 可以#VV 选择#VV *T*-1#NN 的#SP
+CHT_CMN_20110224.0000.su.xml	NONE	-1	-1	26 D	s37	130530	26#CD D#NN
+CHT_CMN_20110224.0000.su.xml	NONE	-1	-1	回程	s38	138159	回程#NN
+CHT_CMN_20110224.0000.su.xml	NONE	-1	-1	26 C	s39	130530	26#CD C#FW
+CHT_CMN_20110224.0000.su.xml	你1	1445	0	ok	s40	138159	ok#NR
+CHT_CMN_20110224.0000.su.xml	你1	1531	0	选好 了	s41	138159	选好#VV 了#AS
+CHT_CMN_20110224.0000.su.xml	你1	1705	0	好 的 ， 我 付款 以后 你 会 发 电子 票 还是 什么 ？	s42	130530	好#VA 的#SP ，#PU 我#PN 付款#VV 以后#LC 你#PN 会#VV 发#VV 电子#NN 票#NN 还是#CC 什么#PN ？#PU
+CHT_CMN_20110224.0000.su.xml	NONE	-1	-1	电子 客票 行程单	s43	138159	电子#NN 客票#NN 行程单#NN
+CHT_CMN_20110224.0000.su.xml	你1	2047	0	现在 还 未 出票 稍等 几 分钟 就 好 了	s44	138159	现在#NT 还#AD 未#AD 出票#NN 稍等#VV 几#CD 分钟#M 就#AD 好#VA 了#SP
+CHT_CMN_20110224.0000.su.xml	你1	2292	16	现在 还 未 出票 稍等 几 分钟 就 好 了	s44	138159	现在#NT 还#AD 未#AD 出票#NN 稍等#VV 几#CD 分钟#M 就#AD 好#VA 了#SP
+CHT_CMN_20110224.0000.su.xml	你1	2547	30	现在 还 未 出票 稍等 几 分钟 就 好 了	s44	138159	现在#NT 还#AD 未#AD 出票#NN 稍等#VV 几#CD 分钟#M 就#AD 好#VA 了#SP
+CHT_CMN_20110224.0000.su.xml	你1	2694	2	我 要 打款 后 才 收到 行程单 ， 还是 你 先 给 我 啊 ？	s45	130530	我#PN 要#VV 打款#VV 后#LC 才#AD 收到#VV 行程单#NN ，#PU 还是#CC 你#PN 先#AD 给#P 我#PN 啊#SP ？#PU
+CHT_CMN_20110224.0000.su.xml	你1	2736	10	我 大概 *OP* *T*-1 中午 吃饭 的 时候 给 你 打款 ， 我 没有 网上 银行 ， 要 到 银行 去	s46	130530	我#PN 大概#AD *OP*#VV *T*-1#NN 中午#NT 吃饭#VV 的#DEC 时候#NN 给#P 你#PN 打款#VV ，#PU 我#PN 没有#VE 网上#NN 银行#NN ，#PU 要#VV 到#VV 银行#NN 去#VV
+CHT_CMN_20110224.0000.su.xml	你1	2800	14	恩 我 给 你 行程单 你 核对 好 *OP* *T*-1 中午 吃饭 的 时候 给 我 打款 就 可以 了	s47	138159	恩#IJ 我#PN 给#P 你#PN 行程单#NN 你#PN 核对#VV 好#JJ *OP*#NN *T*-1#NN 中午#NT 吃饭#VV 的#DEC 时候#NN 给#P 我#PN 打款#VV 就#AD 可以#VV 了#SP
+CHT_CMN_20110224.0000.su.xml	你2	3592	30	恩 我 给 你 行程单 你 核对 好 *OP* *T*-1 中午 吃饭 的 时候 给 我 打款 就 可以 了	s47	138159	恩#IJ 我#PN 给#P 你#PN 行程单#NN 你#PN 核对#VV 好#JJ *OP*#NN *T*-1#NN 中午#NT 吃饭#VV 的#DEC 时候#NN 给#P 我#PN 打款#VV 就#AD 可以#VV 了#SP
+CHT_CMN_20110224.0000.su.xml	你2	3690	0	好 的	s48	130530	好#VA 的#SP
+CHT_CMN_20110224.0000.su.xml	NONE	-1	-1	我 老板 的 账号	s49	138159	我#PN 老板#NN 的#DEG 账号#NN
+CHT_CMN_20110224.0000.su.xml	NONE	-1	-1	恩	s50	138159	恩#IJ
+CHT_CMN_20110224.0000.su.xml	你2	4222	15	你 给 我 发 过来 ， 我 看好 了 ， 中午 给 你 打款 ， 谢谢 小 姑娘 了	s51	130530	你#PN 给#P 我#PN 发#VV 过来#VV ，#PU 我#PN 看好#VV 了#SP ，#PU 中午#NT 给#P 你#PN 打款#VV ，#PU 谢谢#VV 小#JJ 姑娘#NN 了#SP
+CHT_CMN_20110224.0000.su.xml	你2	4610	40	你 给 我 发 过来 ， 我 看好 了 ， 中午 给 你 打款 ， 谢谢 小 姑娘 了	s51	130530	你#PN 给#P 我#PN 发#VV 过来#VV ，#PU 我#PN 看好#VV 了#SP ，#PU 中午#NT 给#P 你#PN 打款#VV ，#PU 谢谢#VV 小#JJ 姑娘#NN 了#SP
+CHT_CMN_20110224.0000.su.xml	你2	4774	0	不 用 客气 阿姨	s52	138159	不#AD 用#VV 客气#NN 阿姨#NN
+CHT_CMN_20110224.0000.su.xml	你2	4957	0	好 的	s53	130530	好#VA 的#SP
+CHT_CMN_20110224.0000.su.xml	你2	5086	0	谢谢	s54	130530	谢谢#VV
+CHT_CMN_20110224.0000.su.xml	你	1049	0	对 了 忘 了 *PRO* 问 需要 发票 吗	s55	138159	对#VA 了#AS 忘#VV 了#AS *PRO*#NR 问#VV 需要#VV 发票#NN 吗#SP
+CHT_CMN_20110224.0000.su.xml	你	1089	10	对 了 忘 了 *PRO* 问 需要 发票 吗	s55	138159	对#VA 了#AS 忘#VV 了#AS *PRO*#NR 问#VV 需要#VV 发票#NN 吗#SP
+CHT_CMN_20110224.0000.su.xml	你	1111	28	对 了 忘 了 *PRO* 问 需要 发票 吗	s55	138159	对#VA 了#AS 忘#VV 了#AS *PRO*#NR 问#VV 需要#VV 发票#NN 吗#SP
+CHT_CMN_20110224.0000.su.xml	它	195	0	若 需要 告知 地址 给 你 快递	s56	138159	若#CS 需要#VV 告知#VV 地址#NN 给#VV 你#PN 快递#NN
+CHT_CMN_20110224.0000.su.xml	它	266	11	若 需要 告知 地址 给 你 快递	s56	138159	若#CS 需要#VV 告知#VV 地址#NN 给#VV 你#PN 快递#NN
+CHT_CMN_20110224.0000.su.xml	它	398	23	若 需要 告知 地址 给 你 快递	s56	138159	若#CS 需要#VV 告知#VV 地址#NN 给#VV 你#PN 快递#NN
+CHT_CMN_20110224.0000.su.xml	它	466	0	若 不 需要 *PRO* *PRO* 什么 时候 需要 什么 时候 光 我 要 就 可以 了	s57	138159	若#CS 不#AD 需要#VV *PRO*#VV *PRO*#VV 什么#DT 时候#NN 需要#VV 什么#DT 时候#NN 光#AD 我#PN 要#VV 就#AD 可以#VV 了#SP
+CHT_CMN_20110224.0000.su.xml	它	558	2	恩 好 的	s58	138159	恩#IJ 好#VA 的#SP
+CHT_CMN_20110224.0000.su.xml	NONE	-1	-1	你 什么 时候 给 我 发 邮件 啊 ？	s59	130530	你#PN 什么#DT 时候#NN 给#P 我#PN 发#VV 邮件#NN 啊#SP ？#PU
+CHT_CMN_20110224.0000.su.xml	NONE	-1	-1	10 分钟	s60	138159	10#CD 分钟#M
+CHT_CMN_20110224.0000.su.xml	它	643	14	阿姨 等 一下 10 分钟 就 好	s61	138159	阿姨#NN 等#ETC 一下#AD 10#CD 分钟#M 就#AD 好#VA
+CHT_CMN_20110224.0000.su.xml	它	812	0	好 的	s62	130530	好#VA 的#SP
+CHT_CMN_20110224.0000.su.xml	它	907	0	开好 了	s63	138159	开好#VV 了#AS
+CHT_CMN_20110224.0000.su.xml	NONE	-1	-1	这 是 票 号 吗 ？	s64	130530	这#PN 是#VC 票#NN 号#NN 吗#SP ？#PU
+CHT_CMN_20110224.0000.su.xml	它	1168	0	对	s65	138159	对#VA
+CHT_CMN_20110224.0000.su.xml	NONE	-1	-1	行程单 你 现在 就 发 过来 *T*-1 吗 ？	s66	130530	行程单#NN 你#PN 现在#NT 就#AD 发#VV 过来#VV *T*-1#NN 吗#SP ？#PU
+CHT_CMN_20110224.0000.su.xml	NONE	-1	-1	电子 行程单	s67	138159	电子#NN 行程单#NN
+CHT_CMN_20110224.0000.su.xml	NONE	-1	-1	我 还 可以 在 网上 重新 选择 座位 吗 ？	s68	130530	我#PN 还#AD 可以#VV 在#P 网上#NN 重新#AD 选择#VV 座位#NN 吗#SP ？#PU
+CHT_CMN_20110224.0000.su.xml	NONE	-1	-1	我 想 *PRO* 选 33 排	s69	130530	我#PN 想#VV *PRO*#VV 选#VV 33#CD 排#M
+CHT_CMN_20110224.0000.su.xml	它	1180	0	好像 不 行	s70	138159	好像#AD 不#AD 行#VV
+CHT_CMN_20110224.0000.su.xml	NONE	-1	-1	33 排 应该 是 商务 舱 了	s71	138159	33#CD 排#M 应该#VV 是#VC 商务#NN 舱#NN 了#SP
+CHT_CMN_20110224.0000.su.xml	NONE	-1	-1	哦	s72	130530	哦#IJ
+CHT_CMN_20110224.0000.su.xml	它1	1367	0	好 的	s73	130530	好#VA 的#SP
+CHT_CMN_20110224.0000.su.xml	它1	1407	0	可以 33 排	s74	138159	可以#VV 33#CD 排#M
+CHT_CMN_20110224.0000.su.xml	它1	1454	0	改 吗	s75	138159	改#VV 吗#SP
+CHT_CMN_20110224.0000.su.xml	NONE	-1	-1	恩 ， 我 想 *PRO* 改	s76	130530	恩#IJ ，#PU 我#PN 想#VV *PRO*#VV 改#VV
+CHT_CMN_20110224.0000.su.xml	它1	1850	16	自己 网站 改 一下 就 可以 顺便 确认 一下	s77	138159	自己#PN 网站#NN 改#VV 一下#AD 就#AD 可以#VV 顺便#AD 确认#VV 一下#AD
+CHT_CMN_20110224.0000.su.xml	NONE	-1	-1	机票	s78	138159	机票#NN
+CHT_CMN_20110224.0000.su.xml	它1	1926	0	刚才 是 *OP* *T*-1 未 出票 的 状态	s79	138159	刚才#AD 是#VC *OP*#NN *T*-1#NN 未#AD 出票#NN 的#DEG 状态#NN
+CHT_CMN_20110224.0000.su.xml	它1	2031	16	刚才 是 *OP* *T*-1 未 出票 的 状态	s79	138159	刚才#AD 是#VC *OP*#NN *T*-1#NN 未#AD 出票#NN 的#DEG 状态#NN
+CHT_CMN_20110224.0000.su.xml	它1	2061	0	用 票 号 改 吗 ？	s80	130530	用#P 票#NN 号#NN 改#VV 吗#SP ？#PU
+CHT_CMN_20110224.0000.su.xml	它1	2357	8	你 现在 看看 是 *OP* *T*-1 出票 的 状态 了	s81	138159	你#PN 现在#NT 看看#VV 是#VC *OP*#NN *T*-1#NN 出票#NN 的#DEG 状态#NN 了#SP
+CHT_CMN_20110224.0000.su.xml	它1	2591	21	你 现在 看看 是 *OP* *T*-1 出票 的 状态 了	s81	138159	你#PN 现在#NT 看看#VV 是#VC *OP*#NN *T*-1#NN 出票#NN 的#DEG 状态#NN 了#SP
+CHT_CMN_20110224.0000.su.xml	NONE	-1	-1	预定 编号	s82	138159	预定#VV 编号#NN
+CHT_CMN_20110224.0000.su.xml	它1	2883	0	还 是 预定 编号 ？	s83	130530	还#AD 是#VC 预定#VV 编号#NN ？#PU
+CHT_CMN_20110224.0000.su.xml	它2	3018	0	还 是 这个	s84	138159	还#AD 是#VC 这个#PN
+CHT_CMN_20110224.0000.su.xml	它2	3056	0	好 的 ， 知道 了	s85	130530	好#VA 的#SP ，#PU 知道#VV 了#AS
+CHT_CMN_20110224.0000.su.xml	它2	3173	12	好 的 ， 知道 了	s85	130530	好#VA 的#SP ，#PU 知道#VV 了#AS
+CHT_CMN_20110224.0000.su.xml	它2	3396	0	谢谢 ， 我 一会 给 你 打 钱 去 。	s86	130530	谢谢#VV ，#PU 我#PN 一会#AD 给#P 你#PN 打#VV 钱#NN 去#VV 。#PU
+CHT_CMN_20110224.0000.su.xml	它2	3512	0	ok	s87	138159	ok#NR
+CHT_CMN_20110224.0000.su.xml	它2	3550	2	恩 请 汇 后 给 我 发 个 短信 或者 打 个 电话 谢谢	s88	138159	恩#IJ 请#VV 汇#VV 后#LC 给#P 我#PN 发#VV 个#M 短信#NN 或者#CC 打#VV 个#M 电话#NN 谢谢#VV
+CHT_CMN_20110224.0000.su.xml	它2	3764	10	恩 请 汇 后 给 我 发 个 短信 或者 打 个 电话 谢谢	s88	138159	恩#IJ 请#VV 汇#VV 后#LC 给#P 我#PN 发#VV 个#M 短信#NN 或者#CC 打#VV 个#M 电话#NN 谢谢#VV
+CHT_CMN_20110224.0000.su.xml	它2	3884	41	恩 请 汇 后 给 我 发 个 短信 或者 打 个 电话 谢谢	s88	138159	恩#IJ 请#VV 汇#VV 后#LC 给#P 我#PN 发#VV 个#M 短信#NN 或者#CC 打#VV 个#M 电话#NN 谢谢#VV
+CHT_CMN_20110224.0000.su.xml	它2	3981	0	好 的 ， 知道 了	s89	130530	好#VA 的#SP ，#PU 知道#VV 了#AS
+CHT_CMN_20110224.0000.su.xml	它2	4027	12	好 的 ， 知道 了	s89	130530	好#VA 的#SP ，#PU 知道#VV 了#AS
+CHT_CMN_20110224.0000.su.xml	它3	4068	0	ok	s90	138159	ok#NR
+CHT_CMN_20110224.0000.su.xml	它3	4175	84	我 给 我 婆婆 留言 ， 但是 如果 她 没有 给 你 短信 或者 电话 的话 ， 我 想 她 也 会 在 qq 上 给 你 留言 的 ， 我 要 去 睡觉 了 ， 谢谢 了	s91	130530	我#PN 给#P 我#PN 婆婆#NN 留言#VV ，#PU 但是#AD 如果#CS 她#PN 没有#AD 给#P 你#PN 短信#NN 或者#CC 电话#NN 的话#SP ，#PU 我#PN 想#VV 她#PN 也#AD 会#VV 在#P qq#NN 上#LC 给#P 你#PN 留言#VV 的#SP ，#PU 我#PN 要#VV 去#VV 睡觉#VV 了#SP ，#PU 谢谢#VV 了#AS
+CHT_CMN_20110224.0000.su.xml	它3	4290	2	恩 好 的	s92	138159	恩#IJ 好#VA 的#SP
+CHT_CMN_20110224.0000.su.xml	NONE	-1	-1	你 都 在线 的 吧	s93	130530	你#PN 都#AD 在线#JJ 的#DEG 吧#SP
+CHT_CMN_20110224.0000.su.xml	NONE	-1	-1	？	s94	130530	？#PU
+CHT_CMN_20110224.0000.su.xml	它3	4341	0	核对 好 机票 奥	s95	138159	核对#NN 好#AD 机票#NN 奥#NR
+CHT_CMN_20110224.0000.su.xml	NONE	-1	-1	恩	s96	130530	恩#IJ
+CHT_CMN_20110224.0000.su.xml	它3	4503	2	恩 24 小时 在线 几乎	s97	138159	恩#IJ 24#CD 小时#M 在线#NN 几乎#AD
+CHT_CMN_20110224.0000.su.xml	它3	4736	4	恩 ， 好 的	s98	130530	恩#IJ ，#PU 好#VA 的#SP
+CHT_CMN_20110224.0000.su.xml	它3	4820	0	对好 名字 和 行程	s99	138159	对好#JJ 名字#NN 和#CC 行程#NN
+CHT_CMN_20110224.0000.su.xml	它3	5001	0	好 的 ， 没 问题	s100	130530	好#VA 的#SP ，#PU 没#VE 问题#NN
+CHT_CMN_20110224.0000.su.xml	它3	5253	12	好 的 ， 没 问题	s100	130530	好#VA 的#SP ，#PU 没#VE 问题#NN
+CHT_CMN_20110224.0000.su.xml	它3	5343	12	我 知道 了 ， 但是 如果 要 改 的话 是 要 和 你 联系 还是 航空 公司 啊	s101	130530	我#PN 知道#VV 了#AS ，#PU 但是#AD 如果#CS 要#VV 改#VV 的话#SP 是#VC 要#VV 和#P 你#PN 联系#VV 还是#AD 航空#NN 公司#NN 啊#SP
+CHT_CMN_20110224.0000.su.xml	我们	5305	28	我 知道 了 ， 但是 如果 要 改 的话 是 要 和 你 联系 还是 航空 公司 啊	s101	130530	我#PN 知道#VV 了#AS ，#PU 但是#AD 如果#CS 要#VV 改#VV 的话#SP 是#VC 要#VV 和#P 你#PN 联系#VV 还是#AD 航空#NN 公司#NN 啊#SP
+CHT_CMN_20110224.0000.su.xml	形	2666	0	航空 公司 联系	s102	138159	航空#NN 公司#NN 联系#NN
+CHT_CMN_20110224.0000.su.xml	其	353	0	好 的	s103	130530	好#VA 的#SP
+CHT_CMN_20110224.0000.su.xml	其	763	0	谢谢	s104	130530	谢谢#VV
+CHT_CMN_20110224.0000.su.xml	其	2103	0	祝 今天 有 个 好 心情	s105	130530	祝#VV 今天#NT 有#VE 个#M 好#JJ 心情#NN
+CHT_CMN_20110224.0000.su.xml	其	2180	8	祝 今天 有 个 好 心情	s105	130530	祝#VV 今天#NT 有#VE 个#M 好#JJ 心情#NN
+CHT_CMN_20110224.0000.su.xml	NONE	-1	-1	若 航空 公司 没有 *OP* *T*-1 对应 的 票子 我 这里 可以 给 你 想 办法 弄到 票子	s106	138159	若#CS 航空#NN 公司#NN 没有#VE *OP*#NN *T*-1#NN 对应#VV 的#DEC 票子#NN 我#PN 这里#PN 可以#VV 给#P 你#PN 想#VV 办法#NN 弄到#VV 票子#NN
+CHT_CMN_20110224.0000.su.xml	其	2276	0	谢谢	s107	138159	谢谢#VV
+CHT_CMN_20110224.0000.su.xml	其	2478	0	好 的 ， 知道 了	s108	130530	好#VA 的#SP ，#PU 知道#VV 了#AS
+CHT_CMN_20110224.0000.su.xml	其	2747	12	好 的 ， 知道 了	s108	130530	好#VA 的#SP ，#PU 知道#VV 了#AS
+CHT_CMN_20110224.0000.su.xml	其	3780	0	拜拜	s109	130530	拜拜#NN
+CHT_CMN_20110224.0000.su.xml	其	3897	0	ok	s110	138159	ok#NR

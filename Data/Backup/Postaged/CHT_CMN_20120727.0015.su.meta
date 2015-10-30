@@ -1,0 +1,39 @@
+CHT_CMN_20120727.0015.su.xml	NONE	-1	-1	姜颖 姐 在 吗	s0	137944	姜颖#NR 姐#NN 在#VV 吗#SP
+CHT_CMN_20120727.0015.su.xml	我	65	0	在	s1	137903	在#P
+CHT_CMN_20120727.0015.su.xml	NONE	-1	-1	我 30号 过去 可以 吗	s2	137944	我#PN 30号#NT 过去#NT 可以#VV 吗#SP
+CHT_CMN_20120727.0015.su.xml	我	217	4	嗯 ， 可以	s3	137903	嗯#IJ ，#PU 可以#VV
+CHT_CMN_20120727.0015.su.xml	NONE	-1	-1	机票 买 了 吗	s4	137903	机票#NN 买#VV 了#AS 吗#SP
+CHT_CMN_20120727.0015.su.xml	我	572	0	还 没 呀 ， 我 想 *PRO* 先 借钱 ， 回来 再 报销 能 行 吗 ， 现在 也 没 发 工资 我 没 钱 了 呀	s5	137944	还#AD 没#AD 呀#SP ，#PU 我#PN 想#VV *PRO*#VV 先#AD 借钱#VV ，#PU 回来#VV 再#AD 报销#VV 能#VV 行#VV 吗#SP ，#PU 现在#NT 也#AD 没#AD 发#VV 工资#NN 我#PN 没#VE 钱#NN 了#SP 呀#SP
+CHT_CMN_20120727.0015.su.xml	我	710	47	还 没 呀 ， 我 想 *PRO* 先 借钱 ， 回来 再 报销 能 行 吗 ， 现在 也 没 发 工资 我 没 钱 了 呀	s5	137944	还#AD 没#AD 呀#SP ，#PU 我#PN 想#VV *PRO*#VV 先#AD 借钱#VV ，#PU 回来#VV 再#AD 报销#VV 能#VV 行#VV 吗#SP ，#PU 现在#NT 也#AD 没#AD 发#VV 工资#NN 我#PN 没#VE 钱#NN 了#SP 呀#SP
+CHT_CMN_20120727.0015.su.xml	NONE	-1	-1	你 直接 给 张 总 发 短信 借钱 就 行	s6	137903	你#PN 直接#AD 给#P 张#NR 总#JJ 发#NN 短信#NN 借钱#VV 就#AD 行#VV
+CHT_CMN_20120727.0015.su.xml	我	768	0	写明 以下 是 *OP* *T*-1 去 重庆 的	s7	137903	写明#VV 以下#PN 是#VC *OP*#NN *T*-1#NN 去#VV 重庆#NR 的#SP
+CHT_CMN_20120727.0015.su.xml	我	868	12	写明 以下 是 *OP* *T*-1 去 重庆 的	s7	137903	写明#VV 以下#PN 是#VC *OP*#NN *T*-1#NN 去#VV 重庆#NR 的#SP
+CHT_CMN_20120727.0015.su.xml	我	922	25	写明 以下 是 *OP* *T*-1 去 重庆 的	s7	137903	写明#VV 以下#PN 是#VC *OP*#NN *T*-1#NN 去#VV 重庆#NR 的#SP
+CHT_CMN_20120727.0015.su.xml	NONE	-1	-1	那 我 能 错 多少 呀	s8	137944	那#AD 我#PN 能#VV 错#VV 多少#CD 呀#SP
+CHT_CMN_20120727.0015.su.xml	我	1142	0	先 借 单程 的 吧	s9	137903	先#AD 借#VV 单程#NN 的#SP 吧#SP
+CHT_CMN_20120727.0015.su.xml	我	1162	0	1000 吧	s10	137903	1000#CD 吧#SP
+CHT_CMN_20120727.0015.su.xml	我	1186	0	回来 时 再 借 吗 ， 没有 差旅费 吗	s11	137944	回来#VV 时#LC 再#AD 借#VV 吗#SP ，#PU 没有#VE 差旅费#NN 吗#SP
+CHT_CMN_20120727.0015.su.xml	我1	1264	6	回来 时 再 借 吗 ， 没有 差旅费 吗	s11	137944	回来#VV 时#LC 再#AD 借#VV 吗#SP ，#PU 没有#VE 差旅费#NN 吗#SP
+CHT_CMN_20120727.0015.su.xml	我1	1286	25	回来 时 再 借 吗 ， 没有 差旅费 吗	s11	137944	回来#VV 时#LC 再#AD 借#VV 吗#SP ，#PU 没有#VE 差旅费#NN 吗#SP
+CHT_CMN_20120727.0015.su.xml	我1	591	7	那个 都 是 回来 后 再 算 的	s12	137903	那个#PN 都#AD 是#VC 回来#VV 后#LC 再#AD 算#VV 的#SP
+CHT_CMN_20120727.0015.su.xml	你	369	24	*OP* 我 *T*-1 去年 过去 的 时候 也 是 先 借 的 路费	s13	137903	*OP*#VV 我#PN *T*-1#NN 去年#NT 过去#NT 的#DEG 时候#NN 也#AD 是#VC 先#AD 借#VV 的#AS 路费#NN
+CHT_CMN_20120727.0015.su.xml	你	394	0	主要 是 不 需要 住宿 花钱	s14	137903	主要#AD 是#VC 不#AD 需要#VV 住宿#NN 花钱#VV
+CHT_CMN_20120727.0015.su.xml	你	480	11	主要 是 不 需要 住宿 花钱	s14	137903	主要#AD 是#VC 不#AD 需要#VV 住宿#NN 花钱#VV
+CHT_CMN_20120727.0015.su.xml	NONE	-1	-1	那边 物价 高 吧	s15	137944	那边#PN 物价#NN 高#VA 吧#SP
+CHT_CMN_20120727.0015.su.xml	你	1075	0	还 行 吧 ， 平时 吃 食堂 的话 还 不 贵	s16	137903	还#AD 行#VA 吧#SP ，#PU 平时#AD 吃#VV 食堂#NN 的话#SP 还#AD 不#AD 贵#VA
+CHT_CMN_20120727.0015.su.xml	你	1095	17	还 行 吧 ， 平时 吃 食堂 的话 还 不 贵	s16	137903	还#AD 行#VA 吧#SP ，#PU 平时#AD 吃#VV 食堂#NN 的话#SP 还#AD 不#AD 贵#VA
+CHT_CMN_20120727.0015.su.xml	你	1296	31	还 行 吧 ， 平时 吃 食堂 的话 还 不 贵	s16	137903	还#AD 行#VA 吧#SP ，#PU 平时#AD 吃#VV 食堂#NN 的话#SP 还#AD 不#AD 贵#VA
+CHT_CMN_20120727.0015.su.xml	你	641	0	从 学校 门口 的 小店 吃 的话 ， 基本 也 就 是 10 块 左右	s17	137903	从#P 学校#NN 门口#NN 的#DEG 小店#NN 吃#VV 的话#SP ，#PU 基本#AD 也#AD 就#AD 是#VC 10#CD 块#M 左右#LC
+CHT_CMN_20120727.0015.su.xml	它	145	26	从 学校 门口 的 小店 吃 的话 ， 基本 也 就 是 10 块 左右	s17	137903	从#P 学校#NN 门口#NN 的#DEG 小店#NN 吃#VV 的话#SP ，#PU 基本#AD 也#AD 就#AD 是#VC 10#CD 块#M 左右#LC
+CHT_CMN_20120727.0015.su.xml	NONE	-1	-1	那 这样 我 还是 没有 钱 回来 呀 ， 我 工资 就 这么 点 根本 不 够 啊	s18	137944	那#AD 这样#AD 我#PN 还是#AD 没有#VE 钱#NN 回来#VV 呀#SP ，#PU 我#PN 工资#NN 就#AD 这么#AD 点#AD 根本#AD 不#AD 够#VA 啊#SP
+CHT_CMN_20120727.0015.su.xml	它	381	5	*OP* *T*-1 回来 的 时候 再 借 就 行	s19	137903	*OP*#NR *T*-1#VV 回来#VV 的#DEC 时候#NN 再#AD 借#VV 就#AD 行#VV
+CHT_CMN_20120727.0015.su.xml	它	757	25	*OP* *T*-1 回来 的 时候 再 借 就 行	s19	137903	*OP*#NR *T*-1#VV 回来#VV 的#DEC 时候#NN 再#AD 借#VV 就#AD 行#VV
+CHT_CMN_20120727.0015.su.xml	它	851	5	*OP* *T*-1 回来 的 时候 借 能 好 借 吗 ， 不 能 一起 借 了 吗 ， 我 现在 可 是 没有 多少 钱 了	s20	137944	*OP*#NR *T*-1#VV 回来#VV 的#DEC 时候#NN 借#P 能#VV 好#VV 借#VV 吗#SP ，#PU 不#AD 能#VV 一起#AD 借#VV 了#AS 吗#SP ，#PU 我#PN 现在#NT 可#VV 是#VC 没有#VE 多少#CD 钱#NN 了#SP
+CHT_CMN_20120727.0015.su.xml	它	882	25	*OP* *T*-1 回来 的 时候 借 能 好 借 吗 ， 不 能 一起 借 了 吗 ， 我 现在 可 是 没有 多少 钱 了	s20	137944	*OP*#NR *T*-1#VV 回来#VV 的#DEC 时候#NN 借#P 能#VV 好#VV 借#VV 吗#SP ，#PU 不#AD 能#VV 一起#AD 借#VV 了#AS 吗#SP ，#PU 我#PN 现在#NT 可#VV 是#VC 没有#VE 多少#CD 钱#NN 了#SP
+CHT_CMN_20120727.0015.su.xml	它	948	33	*OP* *T*-1 回来 的 时候 借 能 好 借 吗 ， 不 能 一起 借 了 吗 ， 我 现在 可 是 没有 多少 钱 了	s20	137944	*OP*#NR *T*-1#VV 回来#VV 的#DEC 时候#NN 借#P 能#VV 好#VV 借#VV 吗#SP ，#PU 不#AD 能#VV 一起#AD 借#VV 了#AS 吗#SP ，#PU 我#PN 现在#NT 可#VV 是#VC 没有#VE 多少#CD 钱#NN 了#SP
+CHT_CMN_20120727.0015.su.xml	它	1170	49	*OP* *T*-1 回来 的 时候 借 能 好 借 吗 ， 不 能 一起 借 了 吗 ， 我 现在 可 是 没有 多少 钱 了	s20	137944	*OP*#NR *T*-1#VV 回来#VV 的#DEC 时候#NN 借#P 能#VV 好#VV 借#VV 吗#SP ，#PU 不#AD 能#VV 一起#AD 借#VV 了#AS 吗#SP ，#PU 我#PN 现在#NT 可#VV 是#VC 没有#VE 多少#CD 钱#NN 了#SP
+CHT_CMN_20120727.0015.su.xml	它	1254	0	不 是 不 让 你 *PRO* 借 ， 是 怕 一 次 多 了 张 总 不 批	s21	137903	不#AD 是#VC 不#AD 让#VV 你#PN *PRO*#VV 借#VV ，#PU 是#VC 怕#VV 一#CD 次#M 多#AD 了#AS 张#M 总#AD 不#AD 批#VV
+CHT_CMN_20120727.0015.su.xml	他们	264	10	不 是 不 让 你 *PRO* 借 ， 是 怕 一 次 多 了 张 总 不 批	s21	137903	不#AD 是#VC 不#AD 让#VV 你#PN *PRO*#VV 借#VV ，#PU 是#VC 怕#VV 一#CD 次#M 多#AD 了#AS 张#M 总#AD 不#AD 批#VV
+CHT_CMN_20120727.0015.su.xml	其	525	32	不 是 不 让 你 *PRO* 借 ， 是 怕 一 次 多 了 张 总 不 批	s21	137903	不#AD 是#VC 不#AD 让#VV 你#PN *PRO*#VV 借#VV ，#PU 是#VC 怕#VV 一#CD 次#M 多#AD 了#AS 张#M 总#AD 不#AD 批#VV
+CHT_CMN_20120727.0015.su.xml	其	566	42	不 是 不 让 你 *PRO* 借 ， 是 怕 一 次 多 了 张 总 不 批	s21	137903	不#AD 是#VC 不#AD 让#VV 你#PN *PRO*#VV 借#VV ，#PU 是#VC 怕#VV 一#CD 次#M 多#AD 了#AS 张#M 总#AD 不#AD 批#VV
+CHT_CMN_20120727.0015.su.xml	NONE	-1	-1	你 发发 试试 吧	s22	137903	你#PN 发发#VV 试试#VV 吧#SP

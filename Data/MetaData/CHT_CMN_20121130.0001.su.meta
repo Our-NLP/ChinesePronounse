@@ -1,0 +1,39 @@
+CHT_CMN_20121130.0001.su.xml	你	29	0	zao	s0	133485	zao#NR
+CHT_CMN_20121130.0001.su.xml	你	66	0	在 上班 ？	s1	133485	在#P 上班#VV ？#PU
+CHT_CMN_20121130.0001.su.xml	它	106	0	是 的 ，	s2	133489	是#VC 的#SP ，#PU
+CHT_CMN_20121130.0001.su.xml	我	145	0	听说 最近 身体 不 好 ？	s3	133485	听说#VV 最近#NT 身体#NN 不#AD 好#VA ？#PU
+CHT_CMN_20121130.0001.su.xml	NONE	-1	-1	你 下午 几点 上班 ， 我 把 油票 送给 你 *-1 ，	s4	133489	你#PN 下午#NT 几点#AD 上班#VV ，#PU 我#PN 把#BA 油票#NN 送给#VV 你#PN *-1#NN ，#PU
+CHT_CMN_20121130.0001.su.xml	我	251	0	不 用 了	s5	133485	不#AD 用#VV 了#SP
+CHT_CMN_20121130.0001.su.xml	NONE	-1	-1	我 找 同事 要 了	s6	133485	我#PN 找#VV 同事#NN 要#VV 了#AS
+CHT_CMN_20121130.0001.su.xml	我	328	0	已经 凑齐 了	s7	133485	已经#AD 凑齐#VV 了#AS
+CHT_CMN_20121130.0001.su.xml	我	369	0	是 有 点 ， 前 几 天 在 七 医院 打针 ， 都 想 *PRO* 送给 你 ， 实在 是 没有 精神 跑	s8	133489	是#VC 有#VE 点#NN ，#PU 前#DT 几#CD 天#M 在#P 七#CD 医院#NN 打针#VV ，#PU 都#AD 想#VV *PRO*#VV 送给#VV 你#PN ，#PU 实在#AD 是#VC 没有#VE 精神#NN 跑#VV
+CHT_CMN_20121130.0001.su.xml	我	383	14	是 有 点 ， 前 几 天 在 七 医院 打针 ， 都 想 *PRO* 送给 你 ， 实在 是 没有 精神 跑	s8	133489	是#VC 有#VE 点#NN ，#PU 前#DT 几#CD 天#M 在#P 七#CD 医院#NN 打针#VV ，#PU 都#AD 想#VV *PRO*#VV 送给#VV 你#PN ，#PU 实在#AD 是#VC 没有#VE 精神#NN 跑#VV
+CHT_CMN_20121130.0001.su.xml	你	464	0	好 些 没	s9	133485	好#VA 些#AD 没#VV
+CHT_CMN_20121130.0001.su.xml	NONE	-1	-1	你 给 我 打 电话 ， 我 还 可以 给 你 送 饭 吃 撒	s10	133485	你#PN 给#P 我#PN 打#VV 电话#NN ，#PU 我#PN 还#AD 可以#VV 给#VV 你#PN 送#VV 饭#NN 吃#VV 撒#VV
+CHT_CMN_20121130.0001.su.xml	NONE	-1	-1	你 急着 要 ， 怎么 不 跟 我 打 电话 呢 ？	s11	133489	你#PN 急着#AD 要#VV ，#PU 怎么#AD 不#AD 跟#P 我#PN 打#VV 电话#NN 呢#SP ？#PU
+CHT_CMN_20121130.0001.su.xml	你	619	0	上 次 说 不 急 ， 所以 没有 在意 ， 再 要 就 直接 跟 我 说 ， 我 又 没有 地方 报销	s12	133489	上#DT 次#M 说#VV 不#AD 急#VA ，#PU 所以#AD 没有#VE 在意#VV ，#PU 再#AD 要#VV 就#AD 直接#AD 跟#P 我#PN 说#VV ，#PU 我#PN 又#AD 没有#VE 地方#NN 报销#VV
+CHT_CMN_20121130.0001.su.xml	你	631	12	上 次 说 不 急 ， 所以 没有 在意 ， 再 要 就 直接 跟 我 说 ， 我 又 没有 地方 报销	s12	133489	上#DT 次#M 说#VV 不#AD 急#VA ，#PU 所以#AD 没有#VE 在意#VV ，#PU 再#AD 要#VV 就#AD 直接#AD 跟#P 我#PN 说#VV ，#PU 我#PN 又#AD 没有#VE 地方#NN 报销#VV
+CHT_CMN_20121130.0001.su.xml	我	643	24	上 次 说 不 急 ， 所以 没有 在意 ， 再 要 就 直接 跟 我 说 ， 我 又 没有 地方 报销	s12	133489	上#DT 次#M 说#VV 不#AD 急#VA ，#PU 所以#AD 没有#VE 在意#VV ，#PU 再#AD 要#VV 就#AD 直接#AD 跟#P 我#PN 说#VV ，#PU 我#PN 又#AD 没有#VE 地方#NN 报销#VV
+CHT_CMN_20121130.0001.su.xml	你	660	41	上 次 说 不 急 ， 所以 没有 在意 ， 再 要 就 直接 跟 我 说 ， 我 又 没有 地方 报销	s12	133489	上#DT 次#M 说#VV 不#AD 急#VA ，#PU 所以#AD 没有#VE 在意#VV ，#PU 再#AD 要#VV 就#AD 直接#AD 跟#P 我#PN 说#VV ，#PU 我#PN 又#AD 没有#VE 地方#NN 报销#VV
+CHT_CMN_20121130.0001.su.xml	你	670	51	上 次 说 不 急 ， 所以 没有 在意 ， 再 要 就 直接 跟 我 说 ， 我 又 没有 地方 报销	s12	133489	上#DT 次#M 说#VV 不#AD 急#VA ，#PU 所以#AD 没有#VE 在意#VV ，#PU 再#AD 要#VV 就#AD 直接#AD 跟#P 我#PN 说#VV ，#PU 我#PN 又#AD 没有#VE 地方#NN 报销#VV
+CHT_CMN_20121130.0001.su.xml	NONE	-1	-1	后来 同事 有	s13	133485	后来#AD 同事#NN 有#VE
+CHT_CMN_20121130.0001.su.xml	我	766	0	就 算了	s14	133485	就#AD 算了#VV
+CHT_CMN_20121130.0001.su.xml	我	805	0	没 关系	s15	133485	没#VE 关系#NN
+CHT_CMN_20121130.0001.su.xml	你	844	0	好 些 没 ？	s16	133485	好#VA 些#AD 没#VV ？#PU
+CHT_CMN_20121130.0001.su.xml	我	886	0	好 点 了 ， 你 呢 ， 听 施伟 *PRO* 说 你 也 病 了 ？	s17	133489	好#VA 点#AD 了#SP ，#PU 你#PN 呢#SP ，#PU 听#VV 施伟#NR *PRO*#NR 说#VV 你#PN 也#AD 病#VV 了#AS ？#PU
+CHT_CMN_20121130.0001.su.xml	我1	906	20	好 点 了 ， 你 呢 ， 听 施伟 *PRO* 说 你 也 病 了 ？	s17	133489	好#VA 点#AD 了#SP ，#PU 你#PN 呢#SP ，#PU 听#VV 施伟#NR *PRO*#NR 说#VV 你#PN 也#AD 病#VV 了#AS ？#PU
+CHT_CMN_20121130.0001.su.xml	NONE	-1	-1	你 好 点 没	s17	133489	你#PN 好#VA 点#AD 没#VV
+CHT_CMN_20121130.0001.su.xml	我1	971	0	好 些 了	s18	133485	好#VA 些#AD 了#SP
+CHT_CMN_20121130.0001.su.xml	你	1011	0	接着 吃 中药 ， 我 也 在 吃 中药 ，	s19	133489	接着#AD 吃#VV 中药#NN ，#PU 我#PN 也#AD 在#AD 吃#VV 中药#NN ，#PU
+CHT_CMN_20121130.0001.su.xml	形	1068	0	有 个 *OP* *T*-1 很 神 的 中医 ， 每 天 很多 人 找 他 *PRO* 看 ， 他 只 拿脉 ， 你 不 用 介绍 病情 ， 然后 听 他 *PRO* 说 ， 什么 问题 ，	s20	133489	有#VE 个#M *OP*#NN *T*-1#NN 很#AD 神#JJ 的#DEG 中医#NN ，#PU 每#DT 天#M 很多#CD 人#NN 找#VV 他#PN *PRO*#VV 看#VV ，#PU 他#PN 只#AD 拿脉#VV ，#PU 你#PN 不#AD 用#VV 介绍#VV 病情#NN ，#PU 然后#AD 听#VV 他#PN *PRO*#NR 说#VV ，#PU 什么#DT 问题#NN ，#PU
+CHT_CMN_20121130.0001.su.xml	你	1149	81	有 个 *OP* *T*-1 很 神 的 中医 ， 每 天 很多 人 找 他 *PRO* 看 ， 他 只 拿脉 ， 你 不 用 介绍 病情 ， 然后 听 他 *PRO* 说 ， 什么 问题 ，	s20	133489	有#VE 个#M *OP*#NN *T*-1#NN 很#AD 神#JJ 的#DEG 中医#NN ，#PU 每#DT 天#M 很多#CD 人#NN 找#VV 他#PN *PRO*#VV 看#VV ，#PU 他#PN 只#AD 拿脉#VV ，#PU 你#PN 不#AD 用#VV 介绍#VV 病情#NN ，#PU 然后#AD 听#VV 他#PN *PRO*#NR 说#VV ，#PU 什么#DT 问题#NN ，#PU
+CHT_CMN_20121130.0001.su.xml	你1	1205	0	慢慢 调理 吧 ， 我 已经 老 了 ， 问题 都 来 了	s21	133489	慢慢#AD 调理#VV 吧#SP ，#PU 我#PN 已经#AD 老#VA 了#AS ，#PU 问题#NN 都#AD 来#VV 了#AS
+CHT_CMN_20121130.0001.su.xml	NONE	-1	-1	哎 ， 自己 好好 调理 下	s22	133485	哎#IJ ，#PU 自己#PN 好好#AD 调理#VV 下#VV
+CHT_CMN_20121130.0001.su.xml	你1	1312	0	带 孩子 也 蛮 辛苦 吧	s23	133485	带#VV 孩子#NN 也#AD 蛮#AD 辛苦#VA 吧#SP
+CHT_CMN_20121130.0001.su.xml	NONE	-1	-1	一 个 人	s24	133485	一#CD 个#M 人#NN
+CHT_CMN_20121130.0001.su.xml	它	1394	0	是 的 ， 都 要 注意 身体 呀 ， 我们 倒下 了 就 没有 人 管 孩子 了 ， 孩子 大 了 就 好 啦 ， 慢慢 盼 吧	s25	133489	是#VC 的#SP ，#PU 都#AD 要#VV 注意#VV 身体#NN 呀#SP ，#PU 我们#PN 倒下#VV 了#AS 就#AD 没有#VE 人#NN 管#VV 孩子#NN 了#SP ，#PU 孩子#NN 大#VA 了#AS 就#AD 好#VA 啦#SP ，#PU 慢慢#AD 盼#VV 吧#SP
+CHT_CMN_20121130.0001.su.xml	我们	1406	12	是 的 ， 都 要 注意 身体 呀 ， 我们 倒下 了 就 没有 人 管 孩子 了 ， 孩子 大 了 就 好 啦 ， 慢慢 盼 吧	s25	133489	是#VC 的#SP ，#PU 都#AD 要#VV 注意#VV 身体#NN 呀#SP ，#PU 我们#PN 倒下#VV 了#AS 就#AD 没有#VE 人#NN 管#VV 孩子#NN 了#SP ，#PU 孩子#NN 大#VA 了#AS 就#AD 好#VA 啦#SP ，#PU 慢慢#AD 盼#VV 吧#SP
+CHT_CMN_20121130.0001.su.xml	形	1434	40	是 的 ， 都 要 注意 身体 呀 ， 我们 倒下 了 就 没有 人 管 孩子 了 ， 孩子 大 了 就 好 啦 ， 慢慢 盼 吧	s25	133489	是#VC 的#SP ，#PU 都#AD 要#VV 注意#VV 身体#NN 呀#SP ，#PU 我们#PN 倒下#VV 了#AS 就#AD 没有#VE 人#NN 管#VV 孩子#NN 了#SP ，#PU 孩子#NN 大#VA 了#AS 就#AD 好#VA 啦#SP ，#PU 慢慢#AD 盼#VV 吧#SP
+CHT_CMN_20121130.0001.su.xml	我们	1463	69	是 的 ， 都 要 注意 身体 呀 ， 我们 倒下 了 就 没有 人 管 孩子 了 ， 孩子 大 了 就 好 啦 ， 慢慢 盼 吧	s25	133489	是#VC 的#SP ，#PU 都#AD 要#VV 注意#VV 身体#NN 呀#SP ，#PU 我们#PN 倒下#VV 了#AS 就#AD 没有#VE 人#NN 管#VV 孩子#NN 了#SP ，#PU 孩子#NN 大#VA 了#AS 就#AD 好#VA 啦#SP ，#PU 慢慢#AD 盼#VV 吧#SP
+CHT_CMN_20121130.0001.su.xml	我们	1477	83	是 的 ， 都 要 注意 身体 呀 ， 我们 倒下 了 就 没有 人 管 孩子 了 ， 孩子 大 了 就 好 啦 ， 慢慢 盼 吧	s25	133489	是#VC 的#SP ，#PU 都#AD 要#VV 注意#VV 身体#NN 呀#SP ，#PU 我们#PN 倒下#VV 了#AS 就#AD 没有#VE 人#NN 管#VV 孩子#NN 了#SP ，#PU 孩子#NN 大#VA 了#AS 就#AD 好#VA 啦#SP ，#PU 慢慢#AD 盼#VV 吧#SP
+CHT_CMN_20121130.0001.su.xml	NONE	-1	-1	恩	s26	133485	恩#IJ

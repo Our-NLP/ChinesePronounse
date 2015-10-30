@@ -1,0 +1,103 @@
+CHT_CMN_20120914.0020.su.xml	NONE	-1	-1	周 老师	s0	136344	周#NR 老师#NN
+CHT_CMN_20120914.0020.su.xml	你	64	3	最近 忙 吗	s1	136344	最近#NT 忙#VA 吗#SP
+CHT_CMN_20120914.0020.su.xml	我	101	0	还 好	s2	135208	还#AD 好#VA
+CHT_CMN_20120914.0020.su.xml	NONE	-1	-1	你 最近 怎么样 ？	s3	135208	你#PN 最近#NT 怎么样#VV ？#PU
+CHT_CMN_20120914.0020.su.xml	我	176	0	忙 啊	s4	136344	忙#VA 啊#SP
+CHT_CMN_20120914.0020.su.xml	你	213	0	买 车 了 吗 ？	s5	135208	买#VV 车#NN 了#SP 吗#SP ？#PU
+CHT_CMN_20120914.0020.su.xml	我	256	0	初步 定 在 11月	s6	136344	初步#AD 定#VV 在#P 11月#NT
+CHT_CMN_20120914.0020.su.xml	你	300	0	买 日本 车 ？	s7	135208	买#VV 日本#NR 车#NN ？#PU
+CHT_CMN_20120914.0020.su.xml	NONE	-1	-1	我 必须 在 我 练好 了 才 买 啊	s8	136344	我#PN 必须#VV 在#P 我#PN 练好#VV 了#AS 才#AD 买#VV 啊#SP
+CHT_CMN_20120914.0020.su.xml	我	389	0	不 敢 买 啊 怕 被 砸 了 *-1 啊	s9	136344	不#AD 敢#VV 买#VV 啊#SP 怕#VV 被#SB 砸#VV 了#AS *-1#NN 啊#SP
+CHT_CMN_20120914.0020.su.xml	我	403	14	不 敢 买 啊 怕 被 砸 了 *-1 啊	s9	136344	不#AD 敢#VV 买#VV 啊#SP 怕#VV 被#SB 砸#VV 了#AS *-1#NN 啊#SP
+CHT_CMN_20120914.0020.su.xml	它	411	22	不 敢 买 啊 怕 被 砸 了 *-1 啊	s9	136344	不#AD 敢#VV 买#VV 啊#SP 怕#VV 被#SB 砸#VV 了#AS *-1#NN 啊#SP
+CHT_CMN_20120914.0020.su.xml	NONE	-1	-1	哈哈哈	s10	136344	哈哈哈#IJ
+CHT_CMN_20120914.0020.su.xml	NONE	-1	-1	咱 那 项目 有 进展 吗	s11	136344	咱#PN 那#DT 项目#NN 有#VE 进展#NN 吗#SP
+CHT_CMN_20120914.0020.su.xml	它	531	0	有 进展 最近 再 买 一些 设备	s12	135208	有#VE 进展#NN 最近#NT 再#AD 买#VV 一些#CD 设备#NN
+CHT_CMN_20120914.0020.su.xml	我	542	11	有 进展 最近 再 买 一些 设备	s12	135208	有#VE 进展#NN 最近#NT 再#AD 买#VV 一些#CD 设备#NN
+CHT_CMN_20120914.0020.su.xml	你	589	0	要 买 什么 设备 啊	s13	136344	要#VV 买#VV 什么#DT 设备#NN 啊#SP
+CHT_CMN_20120914.0020.su.xml	它	638	3	呵呵 有 我 的 份 没有 啊	s14	136344	呵呵#IJ 有#VE 我#PN 的#DEG 份#NN 没有#VE 啊#SP
+CHT_CMN_20120914.0020.su.xml	我	685	0	买 的 *OP* *T*-1 做 不锈 钢网 的 设备	s15	135208	买#VV 的#DEC *OP*#NN *T*-1#NN 做#VV 不锈#JJ 钢网#NN 的#DEG 设备#NN
+CHT_CMN_20120914.0020.su.xml	它	700	15	买 的 *OP* *T*-1 做 不锈 钢网 的 设备	s15	135208	买#VV 的#DEC *OP*#NN *T*-1#NN 做#VV 不锈#JJ 钢网#NN 的#DEG 设备#NN
+CHT_CMN_20120914.0020.su.xml	NONE	-1	-1	燃料 电池 的 项目 最近 没有 什么 进展	s16	135208	燃料#NN 电池#NN 的#DEC 项目#NN 最近#NT 没有#VE 什么#DT 进展#NN
+CHT_CMN_20120914.0020.su.xml	它	804	0	是 啊	s17	136344	是#VC 啊#SP
+CHT_CMN_20120914.0020.su.xml	它	842	0	有 *OP* *T*-1 相关 的 跟 你 联系 必须 的	s18	135208	有#VE *OP*#NN *T*-1#NN 相关#VA 的#DEV 跟#P 你#PN 联系#VV 必须#VV 的#SP
+CHT_CMN_20120914.0020.su.xml	我	866	24	有 *OP* *T*-1 相关 的 跟 你 联系 必须 的	s18	135208	有#VE *OP*#NN *T*-1#NN 相关#VA 的#DEV 跟#P 你#PN 联系#VV 必须#VV 的#SP
+CHT_CMN_20120914.0020.su.xml	NONE	-1	-1	不锈 钢网 设备 是 什么 设备 啊	s19	136344	不锈#JJ 钢网#NN 设备#NN 是#VC 什么#DT 设备#NN 啊#SP
+CHT_CMN_20120914.0020.su.xml	它	959	0	就 是 冲压 的 设备	s20	135208	就#AD 是#VC 冲压#JJ 的#DEG 设备#NN
+CHT_CMN_20120914.0020.su.xml	它	1005	0	好 的 我 等 你 好 消息 咱 好 大 赚 一 笔 啊	s21	136344	好#VA 的#DEC 我#PN 等#VV 你#PN 好#JJ 消息#NN 咱#PN 好#AD 大#AD 赚#VV 一#CD 笔#M 啊#SP
+CHT_CMN_20120914.0020.su.xml	我	1068	0	买 车 还 差 钱 呢 呵呵	s22	136344	买#VV 车#NN 还#AD 差#VV 钱#NN 呢#SP 呵呵#IJ
+CHT_CMN_20120914.0020.su.xml	你	1121	4	我 看 就 是 买 两三万 的 国产 设备	s23	135208	我#PN 看#VV 就#AD 是#VC 买#VV 两三万#CD 的#DEG 国产#JJ 设备#NN
+CHT_CMN_20120914.0020.su.xml	它	1173	0	好 的 放心 吧	s24	135208	好#VA 的#DEC 放心#NN 吧#SP
+CHT_CMN_20120914.0020.su.xml	你	1183	10	好 的 放心 吧	s24	135208	好#VA 的#DEC 放心#NN 吧#SP
+CHT_CMN_20120914.0020.su.xml	你	1226	4	呵呵呵 什么 时候 来 北京 啊 请 你 *PRO* 吃饭 啊 我 一时半会 过 不 去 东北 啊	s25	136344	呵呵呵#IJ 什么#DT 时候#NN 来#VV 北京#NR 啊#SP 请#VV 你#PN *PRO*#VV 吃饭#VV 啊#SP 我#PN 一时半会#VV 过#AS 不#AD 去#VV 东北#NN 啊#SP
+CHT_CMN_20120914.0020.su.xml	我	1245	23	呵呵呵 什么 时候 来 北京 啊 请 你 *PRO* 吃饭 啊 我 一时半会 过 不 去 东北 啊	s25	136344	呵呵呵#IJ 什么#DT 时候#NN 来#VV 北京#NR 啊#SP 请#VV 你#PN *PRO*#VV 吃饭#VV 啊#SP 我#PN 一时半会#VV 过#AS 不#AD 去#VV 东北#NN 啊#SP
+CHT_CMN_20120914.0020.su.xml	你	1312	0	谦虚 了 你 打算 *PRO* 买 什么 价位 的 车 ？	s26	135208	谦虚#VV 了#AS 你#PN 打算#VV *PRO*#VV 买#VV 什么#DT 价位#NN 的#DEG 车#NN ？#PU
+CHT_CMN_20120914.0020.su.xml	NONE	-1	-1	10万 左右 的	s27	136344	10万#CD 左右#LC 的#DEG
+CHT_CMN_20120914.0020.su.xml	我1	1416	3	目前 没 什么 钱 啊	s28	136344	目前#NT 没#VE 什么#DT 钱#NN 啊#SP
+CHT_CMN_20120914.0020.su.xml	我1	1459	0	不 知道 什么 时候 看 机会 吧	s29	135208	不#AD 知道#VV 什么#DT 时候#NN 看#VV 机会#NN 吧#SP
+CHT_CMN_20120914.0020.su.xml	我1	1476	17	不 知道 什么 时候 看 机会 吧	s29	135208	不#AD 知道#VV 什么#DT 时候#NN 看#VV 机会#NN 吧#SP
+CHT_CMN_20120914.0020.su.xml	NONE	-1	-1	哈哈	s30	135208	哈哈#IJ
+CHT_CMN_20120914.0020.su.xml	形	1555	7	这 个 价位 有 不少 好 车 的	s31	135208	这#DT 个#M 价位#NN 有#VE 不少#CD 好#JJ 车#NN 的#SP
+CHT_CMN_20120914.0020.su.xml	NONE	-1	-1	燃料 电池 今年 能 进行 吗	s32	136344	燃料#NN 电池#NN 今年#NT 能#VV 进行#VV 吗#SP
+CHT_CMN_20120914.0020.su.xml	它	1644	0	不 便宜 了	s33	135208	不#AD 便宜#VA 了#SP
+CHT_CMN_20120914.0020.su.xml	NONE	-1	-1	你 给 推荐 下 啊	s34	136344	你#PN 给#P 推荐#VV 下#LC 啊#SP
+CHT_CMN_20120914.0020.su.xml	NONE	-1	-1	这个 不 好 说 啊	s35	135208	这个#PN 不#AD 好#AD 说#VV 啊#SP
+CHT_CMN_20120914.0020.su.xml	NONE	-1	-1	我 说 车 呢	s36	136344	我#PN 说#VV 车#NN 呢#SP
+CHT_CMN_20120914.0020.su.xml	我1	1799	0	有 机会 肯定 推荐 啊	s37	135208	有#VE 机会#NN 肯定#AD 推荐#VV 啊#SP
+CHT_CMN_20120914.0020.su.xml	NONE	-1	-1	哦	s38	135208	哦#IJ
+CHT_CMN_20120914.0020.su.xml	NONE	-1	-1	呵呵	s39	135208	呵呵#IJ
+CHT_CMN_20120914.0020.su.xml	NONE	-1	-1	我 说 你 认为 什么 车 比较 不错 啊	s40	136344	我#PN 说#VV 你#PN 认为#VV 什么#PN 车#NN 比较#AD 不错#VA 啊#SP
+CHT_CMN_20120914.0020.su.xml	NONE	-1	-1	速腾	s41	135208	速腾#NN
+CHT_CMN_20120914.0020.su.xml	NONE	-1	-1	速腾 啊 全 下来 要 14 - 15万 了 啊	s42	136344	速腾#NN 啊#SP 全#AD 下来#VV 要#VV 14#CD -#PU 15万#CD 了#SP 啊#SP
+CHT_CMN_20120914.0020.su.xml	NONE	-1	-1	新 宝来 也 还 好	s43	135208	新#JJ 宝来#NN 也#AD 还#AD 好#VA
+CHT_CMN_20120914.0020.su.xml	NONE	-1	-1	宝来 太 小	s44	136344	宝来#NR 太#AD 小#VA
+CHT_CMN_20120914.0020.su.xml	NONE	-1	-1	哦	s45	135208	哦#IJ
+CHT_CMN_20120914.0020.su.xml	NONE	-1	-1	宝来 空间 不 是 很 大	s46	136344	宝来#NR 空间#NN 不#AD 是#VC 很#AD 大#VA
+CHT_CMN_20120914.0020.su.xml	NONE	-1	-1	国产 长城 哈弗 H6	s47	135208	国产#JJ 长城#NR 哈弗#NN H6#NN
+CHT_CMN_20120914.0020.su.xml	它1	2227	0	是 一般	s48	135208	是#VC 一般#VA
+CHT_CMN_20120914.0020.su.xml	NONE	-1	-1	你 认为 中华 骏捷 FSV 怎么样 啊	s49	136344	你#PN 认为#VV 中华#NR 骏捷#NN FSV#NN 怎么样#VA 啊#SP
+CHT_CMN_20120914.0020.su.xml	NONE	-1	-1	我 看 那 车 还 不错	s50	136344	我#PN 看#VV 那#PN 车#NN 还#AD 不错#VA
+CHT_CMN_20120914.0020.su.xml	我1	2359	3	这个 不 太 了解 *T*-1	s51	135208	这个#PN 不#AD 太#AD 了解#VV *T*-1#NR
+CHT_CMN_20120914.0020.su.xml	NONE	-1	-1	我 对 德 系 车 比较 感冒	s52	135208	我#PN 对#P 德#NR 系#NN 车#NN 比较#VV 感冒#NN
+CHT_CMN_20120914.0020.su.xml	你	2450	0	可以 看 一下 啊	s53	136344	可以#VV 看#VV 一下#AD 啊#SP
+CHT_CMN_20120914.0020.su.xml	NONE	-1	-1	德 系 车 啊	s54	136344	德#NR 系#VC 车#NN 啊#SP
+CHT_CMN_20120914.0020.su.xml	NONE	-1	-1	中华 据说 可以	s55	135208	中华#NR 据说#AD 可以#VV
+CHT_CMN_20120914.0020.su.xml	它1	2572	5	我 感觉 还 行 外形 性能 都 还 可以 吧	s56	136344	我#PN 感觉#VV 还#AD 行#VV 外形#NN 性能#NN 都#AD 还#AD 可以#VV 吧#SP
+CHT_CMN_20120914.0020.su.xml	它1	2625	0	可以 家用 完全 没有 问题 的	s57	135208	可以#VV 家用#NN 完全#AD 没有#VE 问题#NN 的#SP
+CHT_CMN_20120914.0020.su.xml	其	2634	9	可以 家用 完全 没有 问题 的	s57	135208	可以#VV 家用#NN 完全#AD 没有#VE 问题#NN 的#SP
+CHT_CMN_20120914.0020.su.xml	我1	2682	0	又 不 做 什么 大 事情 ， 买 个 一般 的 就 可以 了 ，	s58	136344	又#AD 不#AD 做#VV 什么#DT 大#JJ 事情#NN ，#PU 买#VV 个#M 一般#JJ 的#DEG 就#AD 可以#VV 了#SP ，#PU
+CHT_CMN_20120914.0020.su.xml	我1	2704	22	又 不 做 什么 大 事情 ， 买 个 一般 的 就 可以 了 ，	s58	136344	又#AD 不#AD 做#VV 什么#DT 大#JJ 事情#NN ，#PU 买#VV 个#M 一般#JJ 的#DEG 就#AD 可以#VV 了#SP ，#PU
+CHT_CMN_20120914.0020.su.xml	NONE	-1	-1	我 就 是 跑跑 业务	s59	136344	我#PN 就#AD 是#VC 跑跑#VV 业务#NN
+CHT_CMN_20120914.0020.su.xml	你	2803	7	主要 我 看 得 考虑 一下 油耗 的 问题	s60	135208	主要#AD 我#PN 看#VV 得#DER 考虑#VV 一下#AD 油耗#NN 的#DEG 问题#NN
+CHT_CMN_20120914.0020.su.xml	你1	2862	9	一般 的 就 行 买 *OP* *T*-1 那么 好 的 车 没用	s61	135208	一般#JJ 的#DEG 就#AD 行#VV 买#VV *OP*#NN *T*-1#NN 那么#AD 好#VA 的#DEC 车#NN 没用#VV
+CHT_CMN_20120914.0020.su.xml	我1	2926	5	油耗 啊 北京 要 考虑 油耗 只 能 买 小 排量 的 问题	s62	136344	油耗#NN 啊#SP 北京#NR 要#VV 考虑#VV 油耗#NN 只#AD 能#VV 买#VV 小#JJ 排量#NN 的#DEG 问题#NN
+CHT_CMN_20120914.0020.su.xml	我1	2943	22	油耗 啊 北京 要 考虑 油耗 只 能 买 小 排量 的 问题	s62	136344	油耗#NN 啊#SP 北京#NR 要#VV 考虑#VV 油耗#NN 只#AD 能#VV 买#VV 小#JJ 排量#NN 的#DEG 问题#NN
+CHT_CMN_20120914.0020.su.xml	我1	2993	0	在 北京 堵死 了	s63	136344	在#P 北京#NR 堵死#VV 了#AS
+CHT_CMN_20120914.0020.su.xml	NONE	-1	-1	个人 能 承受 就 好	s64	135208	个人#NN 能#VV 承受#VV 就#AD 好#VA
+CHT_CMN_20120914.0020.su.xml	我2	3098	21	我 又 一 次 就 十几 分钟 的 路程 开 了 1 个 般 小时	s65	136344	我#PN 又#AD 一#CD 次#M 就#AD 十几#CD 分钟#M 的#DEG 路程#NN 开#VV 了#AS 1#CD 个#M 般#VA 小时#NN
+CHT_CMN_20120914.0020.su.xml	NONE	-1	-1	我 有 钱 报销	s66	136344	我#PN 有#VE 钱#NN 报销#VV
+CHT_CMN_20120914.0020.su.xml	NONE	-1	-1	有钱人 可以 买 4.2	s67	135208	有钱人#NN 可以#VV 买#VV 4.2#CD
+CHT_CMN_20120914.0020.su.xml	NONE	-1	-1	呵呵呵	s68	136344	呵呵呵#IJ
+CHT_CMN_20120914.0020.su.xml	NONE	-1	-1	那 就 好 办	s69	135208	那#AD 就#AD 好#AD 办#VV
+CHT_CMN_20120914.0020.su.xml	NONE	-1	-1	我 买 车 公司 报销 油钱 的 每 个 月 1000 块 钱 差不多 了	s70	136344	我#PN 买#VV 车#NN 公司#NN 报销#VV 油钱#NN 的#DEG 每#DT 个#M 月#NN 1000#CD 块#M 钱#NN 差不多#VA 了#SP
+CHT_CMN_20120914.0020.su.xml	它1	3357	0	够 了 你们 公司 挺 讲究 啊	s71	135208	够#VA 了#AS 你们#PN 公司#NN 挺#AD 讲究#VV 啊#SP
+CHT_CMN_20120914.0020.su.xml	它1	3433	25	北京 大 啊 我 稍微 开车 出去 下 百 公里 就 没 了	s72	136344	北京#NR 大#VA 啊#SP 我#PN 稍微#AD 开车#VV 出去#VV 下#AD 百#CD 公里#M 就#AD 没#VE 了#SP
+CHT_CMN_20120914.0020.su.xml	它1	3473	0	也 对	s73	135208	也#AD 对#VA
+CHT_CMN_20120914.0020.su.xml	它1	3511	0	是 吧	s74	136344	是#VC 吧#SP
+CHT_CMN_20120914.0020.su.xml	NONE	-1	-1	1000 根本 不 够	s75	136344	1000#CD 根本#AD 不#AD 够#VA
+CHT_CMN_20120914.0020.su.xml	NONE	-1	-1	golf7 据说 百 公里 4.2	s76	135208	golf7#NR 据说#AD 百#CD 公里#M 4.2#CD
+CHT_CMN_20120914.0020.su.xml	NONE	-1	-1	golf 就 是 小 点 但是 是 好 车	s77	135208	golf#NR 就#AD 是#VC 小#JJ 点#NN 但是#AD 是#VC 好#JJ 车#NN
+CHT_CMN_20120914.0020.su.xml	其	3685	0	车 中 的 极品	s78	135208	车#NN 中#LC 的#DEG 极品#JJ
+CHT_CMN_20120914.0020.su.xml	它1	3739	11	那 是 高速 上 ， 北京 也 得 6 个 左右	s79	136344	那#PN 是#VC 高速#NN 上#LC ，#PU 北京#NR 也#AD 得#VV 6#CD 个#M 左右#LC
+CHT_CMN_20120914.0020.su.xml	NONE	-1	-1	呵呵	s80	136344	呵呵#IJ
+CHT_CMN_20120914.0020.su.xml	我2	3821	3	实际 还 真 不 知道 *T*-1	s81	135208	实际#AD 还#AD 真#AD 不#AD 知道#VV *T*-1#NN
+CHT_CMN_20120914.0020.su.xml	我2	3870	0	没 开 过 呵呵	s82	135208	没#AD 开#VV 过#AS 呵呵#ON
+CHT_CMN_20120914.0020.su.xml	它1	3916	3	呵呵 肯定 啊	s83	136344	呵呵#ON 肯定#VA 啊#SP
+CHT_CMN_20120914.0020.su.xml	它2	3955	0	堵车 啊	s84	136344	堵车#VV 啊#SP
+CHT_CMN_20120914.0020.su.xml	NONE	-1	-1	这 车 有点 小	s85	135208	这#PN 车#NN 有点#AD 小#VA
+CHT_CMN_20120914.0020.su.xml	我们	4031	0	一会 聊 我 处理 点 事情	s86	136344	一会#AD 聊#VV 我#PN 处理#VV 点#M 事情#NN
+CHT_CMN_20120914.0020.su.xml	我2	4080	0	北京 堵车 时 闹心	s87	135208	北京#NR 堵车#VV 时#LC 闹心#VV
+CHT_CMN_20120914.0020.su.xml	我2	4089	9	北京 堵车 时 闹心	s87	135208	北京#NR 堵车#VV 时#LC 闹心#VV
+CHT_CMN_20120914.0020.su.xml	它2	4131	0	好 的 忙	s88	135208	好#VA 的#DEC 忙#NN
+CHT_CMN_20120914.0020.su.xml	你1	4141	10	好 的 忙	s88	135208	好#VA 的#DEC 忙#NN
+CHT_CMN_20120914.0020.su.xml	它2	4180	3	呵呵 可 堵 呢	s89	136344	呵呵#IJ 可#AD 堵#VV 呢#SP

@@ -1,0 +1,22 @@
+CHT_CMN_20130715.0028.su.xml	我	29	0	请问 你 住 哪里 ？	s0	131603	请问#VV 你#PN 住#VV 哪里#PN ？#PU
+CHT_CMN_20130715.0028.su.xml	我	74	0	请问 老师 还 要 家具 吗	s1	137731	请问#VV 老师#NN 还#AD 要#VV 家具#NN 吗#SP
+CHT_CMN_20130715.0028.su.xml	我	122	0	要	s2	131603	要#VV
+CHT_CMN_20130715.0028.su.xml	NONE	-1	-1	您 住 哪	s3	137731	您#PN 住#VV 哪#SP
+CHT_CMN_20130715.0028.su.xml	我	190	0	不好意思 ， 我 忘 了 我 要 *PRO* 在 你 这边 买 什么 了 ， 你 可以 提醒 一下 我 吗 ？	s4	131603	不好意思#AD ，#PU 我#PN 忘#VV 了#AS 我#PN 要#VV *PRO*#VV 在#P 你#PN 这边#PN 买#VV 什么#PN 了#SP ，#PU 你#PN 可以#VV 提醒#VV 一下#AD 我#PN 吗#SP ？#PU
+CHT_CMN_20130715.0028.su.xml	它	279	0	是 床 吗 ？	s5	131603	是#VC 床#NN 吗#SP ？#PU
+CHT_CMN_20130715.0028.su.xml	它	320	0	靠近 studio green	s6	131603	靠近#VV studio#NR green#NR
+CHT_CMN_20130715.0028.su.xml	NONE	-1	-1	我 有 书架 鞋架 台灯 笔记本 储物 挂袋 加湿器 等	s7	137731	我#PN 有#VE 书架#NN 鞋架#NN 台灯#NN 笔记本#NN 储物#NN 挂袋#NN 加湿器#NN 等#ETC
+CHT_CMN_20130715.0028.su.xml	NONE	-1	-1	哦 ， 我 想 起来 了 。	s8	131603	哦#IJ ，#PU 我#PN 想#VV 起来#VV 了#AS 。#PU
+CHT_CMN_20130715.0028.su.xml	我	440	0	不 用 了 ， 谢谢 你 ， 因为 住 的 远 ， 又 没有 大件 ， 去 看 的 麻烦	s8	131603	不#AD 用#VV 了#SP ，#PU 谢谢#VV 你#PN ，#PU 因为#P 住#VV 的#DEC 远#VA ，#PU 又#AD 没有#VE 大件#JJ ，#PU 去#VV 看#VV 的#DEC 麻烦#NN
+CHT_CMN_20130715.0028.su.xml	我	454	14	不 用 了 ， 谢谢 你 ， 因为 住 的 远 ， 又 没有 大件 ， 去 看 的 麻烦	s8	131603	不#AD 用#VV 了#SP ，#PU 谢谢#VV 你#PN ，#PU 因为#P 住#VV 的#DEC 远#VA ，#PU 又#AD 没有#VE 大件#JJ ，#PU 去#VV 看#VV 的#DEC 麻烦#NN
+CHT_CMN_20130715.0028.su.xml	我	470	30	不 用 了 ， 谢谢 你 ， 因为 住 的 远 ， 又 没有 大件 ， 去 看 的 麻烦	s8	131603	不#AD 用#VV 了#SP ，#PU 谢谢#VV 你#PN ，#PU 因为#P 住#VV 的#DEC 远#VA ，#PU 又#AD 没有#VE 大件#JJ ，#PU 去#VV 看#VV 的#DEC 麻烦#NN
+CHT_CMN_20130715.0028.su.xml	我	494	54	不 用 了 ， 谢谢 你 ， 因为 住 的 远 ， 又 没有 大件 ， 去 看 的 麻烦	s8	131603	不#AD 用#VV 了#SP ，#PU 谢谢#VV 你#PN ，#PU 因为#P 住#VV 的#DEC 远#VA ，#PU 又#AD 没有#VE 大件#JJ ，#PU 去#VV 看#VV 的#DEC 麻烦#NN
+CHT_CMN_20130715.0028.su.xml	NONE	-1	-1	椅子 雨伞 厨具 方桌	s9	137731	椅子#NN 雨伞#NN 厨具#NN 方桌#NN
+CHT_CMN_20130715.0028.su.xml	NONE	-1	-1	我 可以 拍照 。	s10	137731	我#PN 可以#VV 拍照#VV 。#PU
+CHT_CMN_20130715.0028.su.xml	NONE	-1	-1	我 住 的 不 远 校车 很 快 到 了	s10	137731	我#PN 住#VV 的#DEC 不#AD 远#VA 校车#NN 很#AD 快#AD 到#VV 了#AS
+CHT_CMN_20130715.0028.su.xml	你	635	0	不 用 了 ， 谢谢 你 ， 我 得 先 把 大件 的 定 下来 *-1 再说	s11	131603	不#AD 用#VV 了#SP ，#PU 谢谢#VV 你#PN ，#PU 我#PN 得#VV 先#AD 把#BA 大件#JJ 的#DEG 定#VV 下来#VV *-1#NR 再说#AD
+CHT_CMN_20130715.0028.su.xml	我	649	14	不 用 了 ， 谢谢 你 ， 我 得 先 把 大件 的 定 下来 *-1 再说	s11	131603	不#AD 用#VV 了#SP ，#PU 谢谢#VV 你#PN ，#PU 我#PN 得#VV 先#AD 把#BA 大件#JJ 的#DEG 定#VV 下来#VV *-1#NR 再说#AD
+CHT_CMN_20130715.0028.su.xml	我	684	49	不 用 了 ， 谢谢 你 ， 我 得 先 把 大件 的 定 下来 *-1 再说	s11	131603	不#AD 用#VV 了#SP ，#PU 谢谢#VV 你#PN ，#PU 我#PN 得#VV 先#AD 把#BA 大件#JJ 的#DEG 定#VV 下来#VV *-1#NR 再说#AD
+CHT_CMN_20130715.0028.su.xml	它	721	0	行	s12	137731	行#VA
+CHT_CMN_20130715.0028.su.xml	我1	757	0	欢迎 到 UD	s13	137731	欢迎#VV 到#VV UD#NN
+CHT_CMN_20130715.0028.su.xml	你	766	9	欢迎 到 UD	s13	137731	欢迎#VV 到#VV UD#NN

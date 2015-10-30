@@ -1,0 +1,57 @@
+CHT_CMN_20130604.0007.su.xml	NONE	-1	-1	淑风 ， 上班 了 吗	s0	133485	淑风#NN ，#PU 上班#VV 了#AS 吗#SP
+CHT_CMN_20130604.0007.su.xml	我	68	0	还 没 呢	s1	133542	还#AD 没#AD 呢#SP
+CHT_CMN_20130604.0007.su.xml	你	107	0	在 家里 ？	s2	133485	在#P 家里#NN ？#PU
+CHT_CMN_20130604.0007.su.xml	它	147	0	是 的	s3	133542	是#VC 的#SP
+CHT_CMN_20130604.0007.su.xml	你	187	3	六一 去 哪 玩 了	s4	133542	六一#NT 去#VV 哪#PN 玩#VV 了#AS
+CHT_CMN_20130604.0007.su.xml	NONE	-1	-1	孩子们 去 同学 家 过 生日 去 了	s5	133485	孩子们#NN 去#VV 同学#NN 家#NN 过#VV 生日#NN 去#VV 了#AS
+CHT_CMN_20130604.0007.su.xml	我	275	0	玩 了 一 天	s6	133485	玩#VV 了#AS 一#CD 天#M
+CHT_CMN_20130604.0007.su.xml	NONE	-1	-1	我 放假	s7	133485	我#PN 放假#VV
+CHT_CMN_20130604.0007.su.xml	NONE	-1	-1	你 呢	s8	133485	你#PN 呢#SP
+CHT_CMN_20130604.0007.su.xml	你	379	0	带 儿子 *PRO* 去 哪里 玩 了	s9	133485	带#VV 儿子#NN *PRO*#NR 去#VV 哪里#PN 玩#VV 了#AS
+CHT_CMN_20130604.0007.su.xml	我	433	0	陪 了 他 三 天 ， 累	s10	133542	陪#VV 了#AS 他#PN 三#CD 天#M ，#PU 累#VA
+CHT_CMN_20130604.0007.su.xml	NONE	-1	-1	哈哈	s11	133485	哈哈#IJ
+CHT_CMN_20130604.0007.su.xml	他	512	0	现在 多 大 了	s12	133485	现在#NT 多#AD 大#VA 了#SP
+CHT_CMN_20130604.0007.su.xml	他	561	6	9月 1日 过 6 岁 的 生日	s13	133542	9月#NT 1日#NT 过#VV 6#CD 岁#M 的#DEG 生日#NN
+CHT_CMN_20130604.0007.su.xml	他	606	0	快 要 上学 了	s14	133485	快#AD 要#VV 上学#VV 了#SP
+CHT_CMN_20130604.0007.su.xml	他们	649	0	都 说 男孩 上学 晚 些 比较 好 ， 我 上 户口 时 改到 8月 18日 ， *OP* *T*-1 今年 招生 的 年龄 是 2007年 9月 1日 止	s15	133542	都#AD 说#VV 男孩#NN 上学#VV 晚#NN 些#AD 比较#AD 好#VA ，#PU 我#PN 上#VV 户口#NN 时#LC 改到#VV 8月#NT 18日#NT ，#PU *OP*#NR *T*-1#NR 今年#NT 招生#VV 的#DEC 年龄#NN 是#VC 2007年#NT 9月#NT 1日#NT 止#VV
+CHT_CMN_20130604.0007.su.xml	他	678	29	都 说 男孩 上学 晚 些 比较 好 ， 我 上 户口 时 改到 8月 18日 ， *OP* *T*-1 今年 招生 的 年龄 是 2007年 9月 1日 止	s15	133542	都#AD 说#VV 男孩#NN 上学#VV 晚#NN 些#AD 比较#AD 好#VA ，#PU 我#PN 上#VV 户口#NN 时#LC 改到#VV 8月#NT 18日#NT ，#PU *OP*#NR *T*-1#NR 今年#NT 招生#VV 的#DEC 年龄#NN 是#VC 2007年#NT 9月#NT 1日#NT 止#VV
+CHT_CMN_20130604.0007.su.xml	它们	708	59	都 说 男孩 上学 晚 些 比较 好 ， 我 上 户口 时 改到 8月 18日 ， *OP* *T*-1 今年 招生 的 年龄 是 2007年 9月 1日 止	s15	133542	都#AD 说#VV 男孩#NN 上学#VV 晚#NN 些#AD 比较#AD 好#VA ，#PU 我#PN 上#VV 户口#NN 时#LC 改到#VV 8月#NT 18日#NT ，#PU *OP*#NR *T*-1#NR 今年#NT 招生#VV 的#DEC 年龄#NN 是#VC 2007年#NT 9月#NT 1日#NT 止#VV
+CHT_CMN_20130604.0007.su.xml	你	775	0	厉害	s16	133485	厉害#VA
+CHT_CMN_20130604.0007.su.xml	它	812	0	去年 差 一 天 都 不 行	s17	133542	去年#NT 差#VV 一#CD 天#M 都#AD 不#AD 行#VV
+CHT_CMN_20130604.0007.su.xml	你	861	0	还 可以 改 时间	s18	133485	还#AD 可以#VV 改#VV 时间#NN
+CHT_CMN_20130604.0007.su.xml	NONE	-1	-1	现在 时间 控制 很 严格	s19	133485	现在#NT 时间#NN 控制#VV 很#AD 严格#VA
+CHT_CMN_20130604.0007.su.xml	NONE	-1	-1	唉 ， 找 人 *PRO* 帮忙 的	s20	133542	唉#IJ ，#PU 找#VV 人#NN *PRO*#VV 帮忙#VV 的#SP
+CHT_CMN_20130604.0007.su.xml	我	994	0	改 了 几 天	s21	133542	改#VV 了#AS 几#CD 天#M
+CHT_CMN_20130604.0007.su.xml	NONE	-1	-1	呵呵	s22	133485	呵呵#IJ
+CHT_CMN_20130604.0007.su.xml	NONE	-1	-1	那样 也 不错 了	s23	133485	那样#AD 也#AD 不错#VA 了#SP
+CHT_CMN_20130604.0007.su.xml	NONE	-1	-1	否则 一 天 都 不 行	s24	133485	否则#AD 一#CD 天#M 都#AD 不#AD 行#VV
+CHT_CMN_20130604.0007.su.xml	他们	1160	14	嗯 ， 今年 特别 喽 ， 9月 1日 也 收 *-1 ， 心里 还 想 白忙 了 [ 表情 ]	s25	133542	嗯#IJ ，#PU 今年#NT 特别#AD 喽#SP ，#PU 9月#NT 1日#NT 也#AD 收#VV *-1#NN ，#PU 心里#NN 还#AD 想#VV 白忙#VV 了#AS [#PU 表情#NN ]#PU
+CHT_CMN_20130604.0007.su.xml	我	1189	43	嗯 ， 今年 特别 喽 ， 9月 1日 也 收 *-1 ， 心里 还 想 白忙 了 [ 表情 ]	s25	133542	嗯#IJ ，#PU 今年#NT 特别#AD 喽#SP ，#PU 9月#NT 1日#NT 也#AD 收#VV *-1#NN ，#PU 心里#NN 还#AD 想#VV 白忙#VV 了#AS [#PU 表情#NN ]#PU
+CHT_CMN_20130604.0007.su.xml	你	1235	0	稳妥 点 好	s26	133485	稳妥#AD 点#VV 好#VA
+CHT_CMN_20130604.0007.su.xml	NONE	-1	-1	呵呵	s27	133485	呵呵#IJ
+CHT_CMN_20130604.0007.su.xml	NONE	-1	-1	你 家 的 上 几 年级	s28	133542	你#PN 家#NN 的#DEG 上#DT 几#OD 年级#NN
+CHT_CMN_20130604.0007.su.xml	他们	1348	0	在 同 一 个 班 吗	s29	133542	在#P 同#DT 一#CD 个#M 班#NN 吗#SP
+CHT_CMN_20130604.0007.su.xml	NONE	-1	-1	三 年级	s30	133485	三#OD 年级#NN
+CHT_CMN_20130604.0007.su.xml	他们	1427	0	不 是 一 个 班	s31	133485	不#AD 是#VC 一#CD 个#M 班#NN
+CHT_CMN_20130604.0007.su.xml	你	1471	0	能 分 得 清 吗 ， 呵呵	s32	133542	能#VV 分#VV 得#DER 清#VA 吗#SP ，#PU 呵呵#IJ
+CHT_CMN_20130604.0007.su.xml	我	1520	0	分 得 清	s33	133485	分#VV 得#DER 清#VA
+CHT_CMN_20130604.0007.su.xml	他们	1560	0	04年 的 吗	s34	133542	04年#NT 的#DEG 吗#SP
+CHT_CMN_20130604.0007.su.xml	它	1602	0	对	s35	133485	对#VA
+CHT_CMN_20130604.0007.su.xml	NONE	-1	-1	他们 报 了 什么 兴趣 班	s36	133542	他们#PN 报#VV 了#AS 什么#DT 兴趣#NN 班#NN
+CHT_CMN_20130604.0007.su.xml	NONE	-1	-1	哎	s37	133485	哎#IJ
+CHT_CMN_20130604.0007.su.xml	NONE	-1	-1	小时候 钢琴 ， 画画	s38	133485	小时候#NT 钢琴#NN ，#PU 画画#VV
+CHT_CMN_20130604.0007.su.xml	NONE	-1	-1	乒乓球	s39	133485	乒乓球#NN
+CHT_CMN_20130604.0007.su.xml	它们	1783	0	现在 只 剩下 乒乓球 了	s40	133485	现在#NT 只#AD 剩下#VV 乒乓球#NN 了#SP
+CHT_CMN_20130604.0007.su.xml	NONE	-1	-1	其他 都 放弃 了	s41	133485	其他#DT 都#AD 放弃#VV 了#AS
+CHT_CMN_20130604.0007.su.xml	他们	1869	0	么有 时间	s42	133485	么有#JJ 时间#NN
+CHT_CMN_20130604.0007.su.xml	他们	1913	4	乒乓球 喜欢 *T*-1 就 好 ， 我 现在 还 没有 找到 他 的 兴趣 点 ， 一直 就 报 了 跆拳道	s43	133542	乒乓球#NN 喜欢#VV *T*-1#NN 就#AD 好#VA ，#PU 我#PN 现在#NT 还#AD 没有#AD 找到#VV 他#PN 的#DEG 兴趣#NN 点#NN ，#PU 一直#AD 就#AD 报#VV 了#AS 跆拳道#NN
+CHT_CMN_20130604.0007.su.xml	NONE	-1	-1	你 家 的 看 电视 吗	s44	133542	你#PN 家#NN 的#DEG 看#VV 电视#NN 吗#SP
+CHT_CMN_20130604.0007.su.xml	他们	2040	0	看	s45	133485	看#VV
+CHT_CMN_20130604.0007.su.xml	他们	2076	0	特别 喜欢	s46	133485	特别#AD 喜欢#VV
+CHT_CMN_20130604.0007.su.xml	他们	2116	0	天天 是 动画片	s47	133485	天天#AD 是#VC 动画片#NN
+CHT_CMN_20130604.0007.su.xml	他们1	2159	0	都 一样 。	s48	133542	都#AD 一样#VA 。#PU
+CHT_CMN_20130604.0007.su.xml	其	2200	0	上学 后 就 忙 了	s49	133485	上学#VV 后#LC 就#AD 忙#VA 了#SP
+CHT_CMN_20130604.0007.su.xml	他们1	2206	6	上学 后 就 忙 了	s49	133485	上学#VV 后#LC 就#AD 忙#VA 了#SP
+CHT_CMN_20130604.0007.su.xml	他们1	2251	0	没有 太 多 时间 学 其他 的 东西	s50	133485	没有#VE 太#AD 多#CD 时间#NN 学#VV 其他#DT 的#DEG 东西#NN
+CHT_CMN_20130604.0007.su.xml	NONE	-1	-1	他们 学 了 奥数 和 奥英 呀	s51	133542	他们#PN 学#VV 了#AS 奥数#NN 和#CC 奥英#NR 呀#SP
+CHT_CMN_20130604.0007.su.xml	他们1	2350	0	学 了	s52	133485	学#VV 了#AS

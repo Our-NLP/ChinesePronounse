@@ -1,0 +1,23 @@
+SMS_CMN_20130402.0007.su.xml	NONE	-1	-1	你 知道 我们 应该 申请 退税 吗	s0	135912	你#PN 知道#VV 我们#PN 应该#VV 申请#VV 退税#VV 吗#SP
+SMS_CMN_20130402.0007.su.xml	NONE	-1	-1	我们 没 工资 ， 无法 申请 。	s1	135608	我们#PN 没#AD 工资#NN ，#PU 无法#AD 申请#VV 。#PU
+SMS_CMN_20130402.0007.su.xml	我	942	4	那 是 申请 工资 退税	s1	135608	那#PN 是#VC 申请#VV 工资#NN 退税#NN
+SMS_CMN_20130402.0007.su.xml	NONE	-1	-1	学费 也 是 要 退税 的	s2	135912	学费#NN 也#AD 是#VC 要#VV 退税#VV 的#SP
+SMS_CMN_20130402.0007.su.xml	NONE	-1	-1	这个 不 能 退 啊	s3	135608	这个#PN 不#AD 能#VV 退#VV 啊#SP
+SMS_CMN_20130402.0007.su.xml	我	956	0	退 的 是 *OP* 工资 缴 *T*-1 的 税	s4	135608	退#VV 的#DEC 是#VC *OP*#NN 工资#NN 缴#VV *T*-1#NN 的#DEC 税#NN
+SMS_CMN_20130402.0007.su.xml	你	532	10	退 的 是 *OP* 工资 缴 *T*-1 的 税	s4	135608	退#VV 的#DEC 是#VC *OP*#NN 工资#NN 缴#VV *T*-1#NN 的#DEC 税#NN
+SMS_CMN_20130402.0007.su.xml	他	371	23	退 的 是 *OP* 工资 缴 *T*-1 的 税	s4	135608	退#VV 的#DEC 是#VC *OP*#NN 工资#NN 缴#VV *T*-1#NN 的#DEC 税#NN
+SMS_CMN_20130402.0007.su.xml	他	792	0	能 吧 我 前 男友 都 退 了	s5	135912	能#VV 吧#SP 我#PN 前#JJ 男友#NN 都#AD 退#VV 了#AS
+SMS_CMN_20130402.0007.su.xml	NONE	-1	-1	学费 啊	s6	135912	学费#NN 啊#SP
+SMS_CMN_20130402.0007.su.xml	他	876	0	退 一千多 呢	s7	135912	退#VV 一千多#CD 呢#SP
+SMS_CMN_20130402.0007.su.xml	NONE	-1	-1	他 是 退 工资 的 吧	s8	135608	他#PN 是#VC 退#VV 工资#NN 的#SP 吧#SP
+SMS_CMN_20130402.0007.su.xml	它	289	0	不 能 退 的	s9	135608	不#AD 能#VV 退#VV 的#DEC
+SMS_CMN_20130402.0007.su.xml	NONE	-1	-1	他 肯定 弄错 了	s10	135608	他#PN 肯定#AD 弄错#VV 了#SP
+SMS_CMN_20130402.0007.su.xml	它	452	0	确定 ？	s11	135912	确定#VV ？#PU
+SMS_CMN_20130402.0007.su.xml	它	571	0	对 啊 ， 因为 我 男朋友 是 *OP* *T*-1 领 工资 的 ， 所以 *OP* 他 *T*-2 退税 的 时候 我 顺便 了解 了 一下 退税 的 细节	s12	135608	对#VA 啊#SP ，#PU 因为#P 我#PN 男朋友#NN 是#VC *OP*#NN *T*-1#NN 领#VV 工资#NN 的#SP ，#PU 所以#AD *OP*#NR 他#PN *T*-2#VV 退税#VV 的#DEC 时候#NN 我#PN 顺便#AD 了解#VV 了#AS 一下#AD 退税#NN 的#DEG 细节#NN
+SMS_CMN_20130402.0007.su.xml	NONE	-1	-1	但 我 看 之前 校内 还 有 篇 帖子 写 呢	s13	135912	但#AD 我#PN 看#VV 之前#LC 校内#NN 还#AD 有#VE 篇#M 帖子#NN 写#VV 呢#SP
+SMS_CMN_20130402.0007.su.xml	他们	97	4	那 是 退 工资 的	s14	135608	那#PN 是#VC 退#VV 工资#NN 的#SP
+SMS_CMN_20130402.0007.su.xml	他们	218	7	统计 考 啥 说 了 *T*-1 么 ？	s15	135912	统计#NN 考#VV 啥#PN 说#VV 了#AS *T*-1#NR 么#SP ？#PU
+SMS_CMN_20130402.0007.su.xml	NONE	-1	-1	我去	s16	135912	我去#VV
+SMS_CMN_20130402.0007.su.xml	他们	241	5	*OP* 上课 讲 *T*-1 的 所有 内容	s17	135608	*OP*#NR 上课#VV 讲#VV *T*-1#NR 的#DEG 所有#DT 内容#NN
+SMS_CMN_20130402.0007.su.xml	他们	744	13	我 牙 疼 了 一 晚上 还 闹肚子 了 现在 今天 不 去 了 下 周 在 开始 去 吧 TT	s18	135912	我#PN 牙#NN 疼#VV 了#AS 一#CD 晚上#NT 还#AD 闹肚子#VV 了#AS 现在#NT 今天#NT 不#AD 去#VV 了#AS 下#DT 周#M 在#P 开始#VV 去#VV 吧#SP TT#NR
+SMS_CMN_20130402.0007.su.xml	其	228	27	我 牙 疼 了 一 晚上 还 闹肚子 了 现在 今天 不 去 了 下 周 在 开始 去 吧 TT	s18	135912	我#PN 牙#NN 疼#VV 了#AS 一#CD 晚上#NT 还#AD 闹肚子#VV 了#AS 现在#NT 今天#NT 不#AD 去#VV 了#AS 下#DT 周#M 在#P 开始#VV 去#VV 吧#SP TT#NR

@@ -3,4 +3,4 @@ stanford-postagger/*
 !stanford-postagger/models/
 stanford-postagger/models/*
 !stanford-postagger/models/chinese-distsim.tagger
-/Data/*
+./Data/*

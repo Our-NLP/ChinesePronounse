@@ -1,0 +1,76 @@
+CHT_CMN_20121130.0016.su.xml	我	101	5	*OP* *T*-1 领 工资 的 时候 过来 拿 你 水壶 ！	s0	136693	*OP*#NR *T*-1#NN 领#VV 工资#NN 的#DEC 时候#NN 过来#VV 拿#VV 你#PN 水壶#NN ！#PU
+CHT_CMN_20121130.0016.su.xml	我	183	27	*OP* *T*-1 领 工资 的 时候 过来 拿 你 水壶 ！	s0	136693	*OP*#NR *T*-1#NN 领#VV 工资#NN 的#DEC 时候#NN 过来#VV 拿#VV 你#PN 水壶#NN ！#PU
+CHT_CMN_20121130.0016.su.xml	我	295	0	马上 到	s1	137073	马上#AD 到#VV
+CHT_CMN_20121130.0016.su.xml	我	894	0	吃完 饭 了 吗 ？	s2	136693	吃完#VV 饭#NN 了#SP 吗#SP ？#PU
+CHT_CMN_20121130.0016.su.xml	我	952	0	吃 了	s3	137073	吃#VV 了#AS
+CHT_CMN_20121130.0016.su.xml	我	1134	0	不 睡 一会 啊 ？	s4	136693	不#AD 睡#VV 一会#AD 啊#SP ？#PU
+CHT_CMN_20121130.0016.su.xml	NONE	-1	-1	啥 事	s5	137073	啥#DT 事#NN
+CHT_CMN_20121130.0016.su.xml	我	1796	0	坐 一会儿	s6	137073	坐#VV 一会儿#NN
+CHT_CMN_20121130.0016.su.xml	我	1956	9	领导 跟 你 说 啥 时候 转正 的 事儿 了 吗 ？	s7	136693	领导#NN 跟#P 你#PN 说#VV 啥#DT 时候#NN 转正#VV 的#DEC 事儿#NN 了#SP 吗#SP ？#PU
+CHT_CMN_20121130.0016.su.xml	我	2170	0	没有 呢	s8	137073	没有#VE 呢#SP
+CHT_CMN_20121130.0016.su.xml	我	2346	0	快 了	s9	136693	快#VA 了#SP
+CHT_CMN_20121130.0016.su.xml	我1	2360	0	有 消息 了 ?	s10	137073	有#VE 消息#NN 了#SP ?#PU
+CHT_CMN_20121130.0016.su.xml	我1	2720	0	应该 就 在 年底 年初 的	s11	136693	应该#VV 就#AD 在#P 年底#NT 年初#NT 的#DEG
+CHT_CMN_20121130.0016.su.xml	NONE	-1	-1	领导 说 过 吗 ？	s12	137073	领导#NN 说#VV 过#AS 吗#SP ？#PU
+CHT_CMN_20121130.0016.su.xml	NONE	-1	-1	我 侧面 打听 到 的	s13	136693	我#PN 侧面#NN 打听#VV 到#VV 的#DEC
+CHT_CMN_20121130.0016.su.xml	我1	3064	0	不 是 官方 消息	s14	136693	不#AD 是#VC 官方#NN 消息#NN
+CHT_CMN_20121130.0016.su.xml	我1	3123	0	打听 的 谁 啊	s15	137073	打听#VV 的#DEC 谁#PN 啊#SP
+CHT_CMN_20121130.0016.su.xml	NONE	-1	-1	你 好像 比 小毕 还 要 早 一点	s16	136693	你#PN 好像#AD 比#P 小毕#NN 还#AD 要#VV 早#VA 一点#AD
+CHT_CMN_20121130.0016.su.xml	NONE	-1	-1	他 还 没 毕业 吧	s17	137073	他#PN 还#AD 没#AD 毕业#VV 吧#SP
+CHT_CMN_20121130.0016.su.xml	我1	3297	0	也 快 了	s18	137073	也#AD 快#VA 了#SP
+CHT_CMN_20121130.0016.su.xml	NONE	-1	-1	嗯 ， 所以 你 早	s19	136693	嗯#IJ ，#PU 所以#AD 你#PN 早#VA
+CHT_CMN_20121130.0016.su.xml	你	34	0	有 个 是 想 *PRO* 和 你 商量 一下	s20	136693	有#VE 个#M 是#VC 想#VV *PRO*#NR 和#CC 你#PN 商量#VV 一下#AD
+CHT_CMN_20121130.0016.su.xml	你	56	0	看看 你 的 意思	s21	136693	看看#VV 你#PN 的#DEG 意思#NN
+CHT_CMN_20121130.0016.su.xml	你	139	0	说	s22	137073	说#VV
+CHT_CMN_20121130.0016.su.xml	NONE	-1	-1	我 手头 现在 有 些 *OP* *T*-1 学 网球 的 ， 想 *PRO* 找 教练 ， 你 现在 非 上班 时间 能 带 吗 ？	s23	136693	我#PN 手头#NN 现在#NT 有#VE 些#M *OP*#NR *T*-1#NN 学#VV 网球#NN 的#DEC ，#PU 想#VV *PRO*#VV 找#VV 教练#NN ，#PU 你#PN 现在#NT 非#AD 上班#VV 时间#NN 能#VV 带#VV 吗#SP ？#PU
+CHT_CMN_20121130.0016.su.xml	你	220	0	过去 以后 就 不 好 说 了 ， 晚上 也 有 课	s24	137073	过去#NT 以后#LC 就#AD 不#AD 好#AD 说#VV 了#AS ，#PU 晚上#NT 也#AD 有#VE 课#NN
+CHT_CMN_20121130.0016.su.xml	你	343	6	过去 以后 就 不 好 说 了 ， 晚上 也 有 课	s24	137073	过去#NT 以后#LC 就#AD 不#AD 好#AD 说#VV 了#AS ，#PU 晚上#NT 也#AD 有#VE 课#NN
+CHT_CMN_20121130.0016.su.xml	你	471	0	一 天 三 练 ？	s25	136693	一#CD 天#M 三#CD 练#VV ？#PU
+CHT_CMN_20121130.0016.su.xml	NONE	-1	-1	晚上 姜俊安 要 练	s26	137073	晚上#NT 姜俊安#NR 要#VV 练#VV
+CHT_CMN_20121130.0016.su.xml	NONE	-1	-1	就 他 自己 ？	s27	136693	就#AD 他#PN 自己#PN ？#PU
+CHT_CMN_20121130.0016.su.xml	NONE	-1	-1	恩 ， 其他 人 白天	s28	137073	恩#IJ ，#PU 其他#DT 人#NN 白天#NT
+CHT_CMN_20121130.0016.su.xml	你	686	0	给 他 自己 加	s29	137073	给#VV 他#PN 自己#PN 加#VV
+CHT_CMN_20121130.0016.su.xml	你	996	0	不 是 吧 ， 这么 夸张	s30	136693	不#AD 是#VC 吧#SP ，#PU 这么#AD 夸张#VA
+CHT_CMN_20121130.0016.su.xml	你	1195	14	不 是 吧 ， 这么 夸张	s30	136693	不#AD 是#VC 吧#SP ，#PU 这么#AD 夸张#VA
+CHT_CMN_20121130.0016.su.xml	你1	1651	0	没 必要 吧	s31	136693	没#VE 必要#NN 吧#SP
+CHT_CMN_20121130.0016.su.xml	你1	1696	10	晚上 他 有 时间 就 给 他 加	s32	137073	晚上#NT 他#PN 有#VE 时间#NN 就#AD 给#P 他#PN 加#VV
+CHT_CMN_20121130.0016.su.xml	NONE	-1	-1	省运会 重要 啊	s33	137073	省运会#NN 重要#VA 啊#SP
+CHT_CMN_20121130.0016.su.xml	你1	2298	10	就 他 自己 的话 服从 你 调整 不 就 是 了	s34	136693	就#AD 他#PN 自己#PN 的话#SP 服从#VV 你#PN 调整#VV 不#AD 就#AD 是#VC 了#SP
+CHT_CMN_20121130.0016.su.xml	你1	2439	9	省运会 重要 ， 赚 钱 也 重要 啊	s35	136693	省运会#NN 重要#VA ，#PU 赚#VV 钱#NN 也#AD 重要#VA 啊#SP
+CHT_CMN_20121130.0016.su.xml	你1	2497	0	可以 做到 两全其美 的	s36	136693	可以#VV 做到#VV 两全其美#VV 的#SP
+CHT_CMN_20121130.0016.su.xml	你1	2597	12	可以 做到 两全其美 的	s36	136693	可以#VV 做到#VV 两全其美#VV 的#SP
+CHT_CMN_20121130.0016.su.xml	NONE	-1	-1	这 孩子 挺 好 的	s37	137073	这#DT 孩子#NN 挺#AD 好#VA 的#SP
+CHT_CMN_20121130.0016.su.xml	你1	2672	8	时间 没有 啊 主要 是 *T*-1	s38	137073	时间#NN 没有#VE 啊#SP 主要#AD 是#VC *T*-1#NN
+CHT_CMN_20121130.0016.su.xml	NONE	-1	-1	要是 晚上 都 就 他 自己 练 也 好 办 ， 我 再 找 三 个 *PRO* 过来 不 就 行 了	s39	136693	要是#CS 晚上#NT 都#AD 就#AD 他#PN 自己#PN 练#VV 也#AD 好#AD 办#VV ，#PU 我#PN 再#AD 找#VV 三#CD 个#M *PRO*#NN 过来#VV 不#AD 就#AD 行#VV 了#AS
+CHT_CMN_20121130.0016.su.xml	NONE	-1	-1	你 觉得 呢	s40	136693	你#PN 觉得#VV 呢#SP
+CHT_CMN_20121130.0016.su.xml	你1	2857	0	看 情况 吧 ， 我 怕 领导 不 愿意	s41	137073	看#VV 情况#NN 吧#SP ，#PU 我#PN 怕#VV 领导#NN 不#AD 愿意#VV
+CHT_CMN_20121130.0016.su.xml	你1	2871	0	怎么 都 是 练 ， 领导 能 怎么 个 *PRO* 不 愿意 法 啊	s42	136693	怎么#AD 都#AD 是#VC 练#VV ，#PU 领导#NN 能#VV 怎么#AD 个#M *PRO*#NN 不#AD 愿意#VV 法#NN 啊#SP
+CHT_CMN_20121130.0016.su.xml	你1	2968	0	不 是 咱 的 队员 啊	s43	137073	不#AD 是#VC 咱#PN 的#DEG 队员#NN 啊#SP
+CHT_CMN_20121130.0016.su.xml	你2	3180	0	可以 操作 的	s44	136693	可以#VV 操作#VV 的#SP
+CHT_CMN_20121130.0016.su.xml	你2	3340	0	看 领导 的 意思	s45	137073	看#VV 领导#NN 的#DEG 意思#NN
+CHT_CMN_20121130.0016.su.xml	NONE	-1	-1	我 的 意思 是 如果 你 有 时间 ， 场地 学员 我 来 找 *T*-1 ， 你 就 只管 训练 就 可以	s46	136693	我#PN 的#DEG 意思#NN 是#VC 如果#CS 你#PN 有#VE 时间#NN ，#PU 场地#NN 学员#NN 我#PN 来#VV 找#VV *T*-1#NN ，#PU 你#PN 就#AD 只管#AD 训练#VV 就#AD 可以#VV
+CHT_CMN_20121130.0016.su.xml	他	815	0	不 一定 非 在 咱 场地	s47	136693	不#AD 一定#AD 非#VC 在#P 咱#PN 场地#NN
+CHT_CMN_20121130.0016.su.xml	他	1355	0	回 体校 以后 看 时间 再 定	s48	137073	回#VV 体校#NN 以后#LC 看#VV 时间#NN 再#AD 定#VV
+CHT_CMN_20121130.0016.su.xml	他	1412	14	回 体校 以后 看 时间 再 定	s48	137073	回#VV 体校#NN 以后#LC 看#VV 时间#NN 再#AD 定#VV
+CHT_CMN_20121130.0016.su.xml	他	1452	25	回 体校 以后 看 时间 再 定	s48	137073	回#VV 体校#NN 以后#LC 看#VV 时间#NN 再#AD 定#VV
+CHT_CMN_20121130.0016.su.xml	NONE	-1	-1	嗯	s49	136693	嗯#IJ
+CHT_CMN_20121130.0016.su.xml	他	1592	0	很 快 不 就 能 回来 了 嘛	s50	136693	很#AD 快#AD 不#AD 就#AD 能#VV 回来#VV 了#AS 嘛#SP
+CHT_CMN_20121130.0016.su.xml	它	642	7	这 个 周末 能 回去 吗	s51	137073	这#DT 个#M 周末#NT 能#VV 回去#VV 吗#SP
+CHT_CMN_20121130.0016.su.xml	它	1398	0	今儿 都 周五 了 ， 领导 也 没 说	s52	136693	今儿#NT 都#AD 周五#NT 了#SP ，#PU 领导#NN 也#AD 没#AD 说#VV
+CHT_CMN_20121130.0016.su.xml	它	1708	4	恩 ， 回去 了 再说	s53	137073	恩#IJ ，#PU 回去#VV 了#AS 再说#AD
+CHT_CMN_20121130.0016.su.xml	它	2128	33	这 只 是 我 初步 的 想法 ， 你 知道 就 行 了 啊 ， 可 千万 别 和 别人 说	s54	136693	这#PN 只#AD 是#VC 我#PN 初步#JJ 的#DEG 想法#NN ，#PU 你#PN 知道#VV 就#AD 行#VV 了#AS 啊#SP ，#PU 可#VV 千万#AD 别#AD 和#P 别人#NN 说#VV
+CHT_CMN_20121130.0016.su.xml	它	2762	0	知道	s55	137073	知道#VV
+CHT_CMN_20121130.0016.su.xml	它	2807	5	你 觉得 有 可操作性 吗 ？	s56	136693	你#PN 觉得#VV 有#VE 可操作性#NN 吗#SP ？#PU
+CHT_CMN_20121130.0016.su.xml	我们	2371	0	主要 是 看 时间 了	s57	137073	主要#AD 是#VC 看#VV 时间#NN 了#SP
+CHT_CMN_20121130.0016.su.xml	我们	3229	4	嗯 ， 调整 好 的话 有 时间 的	s58	136693	嗯#IJ ，#PU 调整#VV 好#VA 的话#SP 有#VE 时间#NN 的#SP
+CHT_CMN_20121130.0016.su.xml	他们	395	18	嗯 ， 调整 好 的话 有 时间 的	s58	136693	嗯#IJ ，#PU 调整#VV 好#VA 的话#SP 有#VE 时间#NN 的#SP
+CHT_CMN_20121130.0016.su.xml	NONE	-1	-1	训练 时间 还是 要 保证	s59	137073	训练#NN 时间#NN 还是#AD 要#VV 保证#VV
+CHT_CMN_20121130.0016.su.xml	他们	2011	14	嗯 ， 这个 肯定 的 ， 不 能 耽误 工作	s60	136693	嗯#IJ ，#PU 这个#DT 肯定#NN 的#SP ，#PU 不#AD 能#VV 耽误#VV 工作#NN
+CHT_CMN_20121130.0016.su.xml	NONE	-1	-1	以前 教练 业余 时间 可以 教 私课 吗 ？	s61	137073	以前#NT 教练#NN 业余#JJ 时间#NN 可以#VV 教#VV 私课#NN 吗#SP ？#PU
+CHT_CMN_20121130.0016.su.xml	他们	2081	0	没 听 过 陈岩 教 ， 他 不 缺 钱	s62	136693	没#AD 听#VV 过#AS 陈岩#AD 教#VV ，#PU 他#PN 不#AD 缺#VV 钱#NN
+CHT_CMN_20121130.0016.su.xml	形	433	4	恩 ， 看 领导 怎么 说	s63	137073	恩#IJ ，#PU 看#VV 领导#NN 怎么#AD 说#VV
+CHT_CMN_20121130.0016.su.xml	形	514	13	领导 知道 的话 我 看 十有八九 干 不 成 吧	s64	136693	领导#NN 知道#VV 的话#SP 我#PN 看#VV 十有八九#CD 干#VV 不#AD 成#VV 吧#SP
+CHT_CMN_20121130.0016.su.xml	形	2538	2	那 再 定	s65	137073	那#PN 再#AD 定#VV
+CHT_CMN_20121130.0016.su.xml	NONE	-1	-1	嗯	s66	136693	嗯#IJ
+CHT_CMN_20121130.0016.su.xml	其	1128	0	睡觉 了	s67	137073	睡觉#VV 了#SP
+CHT_CMN_20121130.0016.su.xml	其	1503	4	嗯 ， 休息 吧	s68	136693	嗯#IJ ，#PU 休息#VV 吧#SP

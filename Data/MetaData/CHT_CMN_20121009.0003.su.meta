@@ -1,0 +1,30 @@
+CHT_CMN_20121009.0003.su.xml	你	29	0	认识 *OP* *T*-1 开 旅馆 的 吗	s0	136693	认识#VV *OP*#NR *T*-1#AD 开#VV 旅馆#NN 的#SP 吗#SP
+CHT_CMN_20121009.0003.su.xml	NONE	-1	-1	*OP* *T*-1 有 协议 的 酒店 行 吗 ？	s1	136978	*OP*#NR *T*-1#NR 有#VE 协议#NN 的#DEC 酒店#NN 行#VV 吗#SP ？#PU
+CHT_CMN_20121009.0003.su.xml	你	112	0	干 么 啊	s1	136978	干#VV 么#SP 啊#SP
+CHT_CMN_20121009.0003.su.xml	NONE	-1	-1	大 酒店 吗 ， 还是 快捷 酒店	s2	136693	大#JJ 酒店#NN 吗#SP ，#PU 还是#CC 快捷#JJ 酒店#NN
+CHT_CMN_20121009.0003.su.xml	它	196	0	no	s3	136693	no#NN
+CHT_CMN_20121009.0003.su.xml	NONE	-1	-1	大 酒店 啊	s4	136978	大#JJ 酒店#NN 啊#SP
+CHT_CMN_20121009.0003.su.xml	NONE	-1	-1	我 想 *PRO* 开 一 家 快捷 酒店	s5	136693	我#PN 想#VV *PRO*#AD 开#VV 一#CD 家#M 快捷#JJ 酒店#NN
+CHT_CMN_20121009.0003.su.xml	我	315	0	正在 考察 地段	s6	136693	正在#AD 考察#VV 地段#NN
+CHT_CMN_20121009.0003.su.xml	我	371	14	具体 操作 流程 什么 的 不 太 熟悉 *T*-1	s7	136693	具体#JJ 操作#NN 流程#NN 什么#PN 的#DEG 不#AD 太#AD 熟悉#VV *T*-1#NN
+CHT_CMN_20121009.0003.su.xml	我	417	0	想 *PRO* 找 个 人 *PRO* 带带	s8	136693	想#VV *PRO*#VV 找#VV 个#M 人#NN *PRO*#VV 带带#VV
+CHT_CMN_20121009.0003.su.xml	我	473	0	找 了	s9	136693	找#VV 了#AS
+CHT_CMN_20121009.0003.su.xml	你	511	0	这么 有 魄力 啊 ， 那 就 找 陈彪 啊	s10	136978	这么#AD 有#VE 魄力#NN 啊#SP ，#PU 那#PN 就#AD 找#VV 陈彪#NR 啊#SP
+CHT_CMN_20121009.0003.su.xml	你	531	20	这么 有 魄力 啊 ， 那 就 找 陈彪 啊	s10	136978	这么#AD 有#VE 魄力#NN 啊#SP ，#PU 那#PN 就#AD 找#VV 陈彪#NR 啊#SP
+CHT_CMN_20121009.0003.su.xml	NONE	-1	-1	我 只 想 *PRO* 开 纯 旅馆	s11	136693	我#PN 只#AD 想#VV *PRO*#VV 开#VV 纯#JJ 旅馆#NN
+CHT_CMN_20121009.0003.su.xml	它	621	0	不 带 餐饮 的	s12	136693	不#AD 带#VV 餐饮#NN 的#DEC
+CHT_CMN_20121009.0003.su.xml	它	664	0	带 餐饮 太 麻烦 了	s13	136693	带#VV 餐饮#NN 太#AD 麻烦#VA 了#SP
+CHT_CMN_20121009.0003.su.xml	NONE	-1	-1	纯 旅馆 比较 好	s14	136693	纯#JJ 旅馆#NN 比较#AD 好#VA
+CHT_CMN_20121009.0003.su.xml	我	755	7	哦 ， 那个 不 熟 *T*-1 了	s15	136978	哦#IJ ，#PU 那个#PN 不#AD 熟#VA *T*-1#VV 了#AS
+CHT_CMN_20121009.0003.su.xml	NONE	-1	-1	你 认识 ？	s16	136693	你#PN 认识#VV ？#PU
+CHT_CMN_20121009.0003.su.xml	NONE	-1	-1	什么 关系	s16	136693	什么#PN 关系#NN
+CHT_CMN_20121009.0003.su.xml	形	842	0	有 个 *OP* *T*-1 开 小 旅馆 的 不 是 那 种 规模 的 ， 就 是 那 种 和 火车站 附近 那 种 小 平房 一 类 的	s17	136978	有#VE 个#M *OP*#NN *T*-1#AD 开#VV 小#JJ 旅馆#NN 的#DEG 不#AD 是#VC 那#DT 种#M 规模#NN 的#DEG ，#PU 就#AD 是#VC 那#DT 种#M 和#CC 火车站#NN 附近#NN 那#DT 种#M 小#JJ 平房#NN 一#CD 类#M 的#DEG
+CHT_CMN_20121009.0003.su.xml	它	872	30	有 个 *OP* *T*-1 开 小 旅馆 的 不 是 那 种 规模 的 ， 就 是 那 种 和 火车站 附近 那 种 小 平房 一 类 的	s17	136978	有#VE 个#M *OP*#NN *T*-1#AD 开#VV 小#JJ 旅馆#NN 的#DEG 不#AD 是#VC 那#DT 种#M 规模#NN 的#DEG ，#PU 就#AD 是#VC 那#DT 种#M 和#CC 火车站#NN 附近#NN 那#DT 种#M 小#JJ 平房#NN 一#CD 类#M 的#DEG
+CHT_CMN_20121009.0003.su.xml	它	953	0	可以 啊	s18	136693	可以#VV 啊#SP
+CHT_CMN_20121009.0003.su.xml	它	992	0	给 点 经验 也 行 啊	s19	136693	给#VV 点#M 经验#NN 也#AD 行#VV 啊#SP
+CHT_CMN_20121009.0003.su.xml	你	1042	3	qq 给 我 *T*-1	s20	136693	qq#AD 给#P 我#PN *T*-1#VV
+CHT_CMN_20121009.0003.su.xml	NONE	-1	-1	我 同事	s21	136978	我#PN 同事#NN
+CHT_CMN_20121009.0003.su.xml	我	1119	0	倒	s22	136693	倒#VV
+CHT_CMN_20121009.0003.su.xml	NONE	-1	-1	年纪 那么 大 了	s23	136693	年纪#NN 那么#AD 大#VA 了#SP
+CHT_CMN_20121009.0003.su.xml	NONE	-1	-1	唉	s24	136693	唉#IJ
+CHT_CMN_20121009.0003.su.xml	它	1247	24	[ 表情 ] 50多 的 人 了 不 会 QQ 好 吧	s25	136978	[#PU 表情#NN ]#PU 50多#CD 的#DEG 人#NN 了#SP 不#AD 会#VV QQ#NR 好#VA 吧#SP

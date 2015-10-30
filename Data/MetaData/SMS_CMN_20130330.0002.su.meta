@@ -1,0 +1,12 @@
+SMS_CMN_20130330.0002.su.xml	NONE	-1	-1	你 在 路上 了 么	s0	133413	你#PN 在#P 路上#NN 了#SP 么#SP
+SMS_CMN_20130330.0002.su.xml	NONE	-1	-1	我 到 了	s1	133482	我#PN 到#VV 了#AS
+SMS_CMN_20130330.0002.su.xml	形	100	0	这么 快 好 的 我 抓紧 时间 我 刚 在 给 朋友 做 题目 她 周一 要 把 这 个 comps 的 试卷 交 上去 *-1	s2	133413	这么#AD 快#AD 好#VA 的#DEC 我#PN 抓紧#VV 时间#NN 我#PN 刚#AD 在#P 给#P 朋友#NN 做#VV 题目#NN 她#PN 周一#NT 要#VV 把#BA 这#DT 个#M comps#NN 的#DEG 试卷#NN 交#VV 上去#VV *-1#NR
+SMS_CMN_20130330.0002.su.xml	形	111	11	这么 快 好 的 我 抓紧 时间 我 刚 在 给 朋友 做 题目 她 周一 要 把 这 个 comps 的 试卷 交 上去 *-1	s2	133413	这么#AD 快#AD 好#VA 的#DEC 我#PN 抓紧#VV 时间#NN 我#PN 刚#AD 在#P 给#P 朋友#NN 做#VV 题目#NN 她#PN 周一#NT 要#VV 把#BA 这#DT 个#M comps#NN 的#DEG 试卷#NN 交#VV 上去#VV *-1#NR
+SMS_CMN_20130330.0002.su.xml	NONE	-1	-1	你 说 得 11点 ？	s3	133482	你#PN 说#VV 得#DER 11点#NT ？#PU
+SMS_CMN_20130330.0002.su.xml	NONE	-1	-1	我 还 以为 我 晚 了	s4	133482	我#PN 还#AD 以为#VV 我#PN 晚#VA 了#SP
+SMS_CMN_20130330.0002.su.xml	它	284	0	不 是 啊 *OP* 你 说 *T*-1 的 是 11点半	s5	133413	不#AD 是#VC 啊#SP *OP*#VV 你#PN 说#VV *T*-1#NR 的#DEC 是#VC 11点半#CD
+SMS_CMN_20130330.0002.su.xml	NONE	-1	-1	我 说 11点半	s6	133413	我#PN 说#VV 11点半#CD
+SMS_CMN_20130330.0002.su.xml	NONE	-1	-1	我 从来 只 看 一半 。。。	s7	133482	我#PN 从来#AD 只#AD 看#VV 一半#CD 。。。#PU
+SMS_CMN_20130330.0002.su.xml	NONE	-1	-1	明天 啥 时候 吖	s8	133413	明天#NT 啥#DT 时候#NN 吖#VA
+SMS_CMN_20130330.0002.su.xml	NONE	-1	-1	我们 到 了	s9	133482	我们#PN 到#VV 了#AS
+SMS_CMN_20130330.0002.su.xml	NONE	-1	-1	你们 呢	s10	133482	你们#PN 呢#SP

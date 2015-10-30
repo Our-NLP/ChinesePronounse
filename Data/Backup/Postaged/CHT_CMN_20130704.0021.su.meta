@@ -1,0 +1,26 @@
+CHT_CMN_20130704.0021.su.xml	NONE	-1	-1	你 现在 上班 了 吗	s0	137903	你#PN 现在#NT 上班#VV 了#AS 吗#SP
+CHT_CMN_20130704.0021.su.xml	NONE	-1	-1	恩啊	s1	137931	恩啊#NN
+CHT_CMN_20130704.0021.su.xml	我	145	5	嘿嘿 ， 现在 忙 吗 ？	s2	137931	嘿嘿#IJ ，#PU 现在#NT 忙#VA 吗#SP ？#PU
+CHT_CMN_20130704.0021.su.xml	我	221	0	瞎 忙	s3	137903	瞎#AD 忙#VA
+CHT_CMN_20130704.0021.su.xml	NONE	-1	-1	你 现在 做 什么 啊	s4	137903	你#PN 现在#NT 做#VV 什么#PN 啊#SP
+CHT_CMN_20130704.0021.su.xml	我	327	0	在 阳光一百 的 这边 ， 也 是 做 行政	s5	137931	在#P 阳光一百#NR 的#DEG 这边#PN ，#PU 也#AD 是#VC 做#VV 行政#NN
+CHT_CMN_20130704.0021.su.xml	我	424	0	离 你 家 很 近 啊	s6	137903	离#P 你#PN 家#NN 很#AD 近#VA 啊#SP
+CHT_CMN_20130704.0021.su.xml	我	468	5	恩啊 ， 骑 电瓶车 10 分钟 ， 嘿嘿	s7	137931	恩啊#NN ，#PU 骑#VV 电瓶车#NN 10#CD 分钟#M ，#PU 嘿嘿#IJ
+CHT_CMN_20130704.0021.su.xml	我	641	0	现在 还 跑 贷款 吗 ？	s8	137931	现在#NT 还#AD 跑#VV 贷款#NN 吗#SP ？#PU
+CHT_CMN_20130704.0021.su.xml	我	840	0	跑 啊	s9	137903	跑#VV 啊#SP
+CHT_CMN_20130704.0021.su.xml	我	992	6	海天 在于 折腾	s10	137903	海天#NN 在于#VV 折腾#VV
+CHT_CMN_20130704.0021.su.xml	NONE	-1	-1	哈哈 ， 五月份 的 工资 发 了 吗 ？	s11	137931	哈哈#IJ ，#PU 五月份#NT 的#DEG 工资#NN 发#VV 了#AS 吗#SP ？#PU
+CHT_CMN_20130704.0021.su.xml	NONE	-1	-1	我 还 有 借款 没有 处理 呢	s11	137931	我#PN 还#AD 有#VE 借款#NN 没有#AD 处理#VV 呢#SP
+CHT_CMN_20130704.0021.su.xml	你	103	9	你 的 好像 是 扣下 了 因为 没 处理 完	s12	137903	你#PN 的#DEG 好像#AD 是#VC 扣下#VV 了#AS 因为#P 没#AD 处理#VV 完#VV
+CHT_CMN_20130704.0021.su.xml	你	377	23	你 的 好像 是 扣下 了 因为 没 处理 完	s12	137903	你#PN 的#DEG 好像#AD 是#VC 扣下#VV 了#AS 因为#P 没#AD 处理#VV 完#VV
+CHT_CMN_20130704.0021.su.xml	它	277	5	哦哦 ， 有空 再 去 处理 吧 我 的 钱 啊 [ 表情 ]	s13	137931	哦哦#VV ，#PU 有空#VV 再#AD 去#VV 处理#VV 吧#SP 我#PN 的#DEG 钱#NN 啊#SP [#PU 表情#NN ]#PU
+CHT_CMN_20130704.0021.su.xml	它	581	0	是 啊 ， 抓紧 处理 了 好 发 你 工资	s14	137903	是#VC 啊#SP ，#PU 抓紧#AD 处理#VV 了#AS 好#AD 发#VV 你#PN 工资#NN
+CHT_CMN_20130704.0021.su.xml	它	595	12	是 啊 ， 抓紧 处理 了 好 发 你 工资	s14	137903	是#VC 啊#SP ，#PU 抓紧#AD 处理#VV 了#AS 好#AD 发#VV 你#PN 工资#NN
+CHT_CMN_20130704.0021.su.xml	它	702	26	是 啊 ， 抓紧 处理 了 好 发 你 工资	s14	137903	是#VC 啊#SP ，#PU 抓紧#AD 处理#VV 了#AS 好#AD 发#VV 你#PN 工资#NN
+CHT_CMN_20130704.0021.su.xml	它	774	3	好像 就 是 因为 借款 的 事情 了	s15	137903	好像#AD 就#AD 是#VC 因为#P 借款#VV 的#DEC 事情#NN 了#SP
+CHT_CMN_20130704.0021.su.xml	它	825	0	对 啊 ， 不过 要 给 张 总 打 电话 ， 有些 钱 不 是 我 能 处理 的 ， 现在 还 有 *OP* *T*-1 新 的 贷款 吗 ？	s16	137931	对#VA 啊#SP ，#PU 不过#AD 要#VV 给#P 张#NR 总#AD 打#VV 电话#NN ，#PU 有些#DT 钱#NN 不#AD 是#VC 我#PN 能#VV 处理#VV 的#DEC ，#PU 现在#NT 还#AD 有#VE *OP*#NR *T*-1#NR 新#JJ 的#DEG 贷款#NN 吗#SP ？#PU
+CHT_CMN_20130704.0021.su.xml	他们	714	15	对 啊 ， 不过 要 给 张 总 打 电话 ， 有些 钱 不 是 我 能 处理 的 ， 现在 还 有 *OP* *T*-1 新 的 贷款 吗 ？	s16	137931	对#VA 啊#SP ，#PU 不过#AD 要#VV 给#P 张#NR 总#AD 打#VV 电话#NN ，#PU 有些#DT 钱#NN 不#AD 是#VC 我#PN 能#VV 处理#VV 的#DEC ，#PU 现在#NT 还#AD 有#VE *OP*#NR *T*-1#NR 新#JJ 的#DEG 贷款#NN 吗#SP ？#PU
+CHT_CMN_20130704.0021.su.xml	他们	728	56	对 啊 ， 不过 要 给 张 总 打 电话 ， 有些 钱 不 是 我 能 处理 的 ， 现在 还 有 *OP* *T*-1 新 的 贷款 吗 ？	s16	137931	对#VA 啊#SP ，#PU 不过#AD 要#VV 给#P 张#NR 总#AD 打#VV 电话#NN ，#PU 有些#DT 钱#NN 不#AD 是#VC 我#PN 能#VV 处理#VV 的#DEC ，#PU 现在#NT 还#AD 有#VE *OP*#NR *T*-1#NR 新#JJ 的#DEG 贷款#NN 吗#SP ？#PU
+CHT_CMN_20130704.0021.su.xml	NONE	-1	-1	这个 我 就 不 知道 *T*-1 了	s17	137903	这个#PN 我#PN 就#AD 不#AD 知道#VV *T*-1#NN 了#SP
+CHT_CMN_20130704.0021.su.xml	形	881	0	倒是 整天 看 着 杨 老师 出去	s18	137903	倒是#AD 整天#AD 看#VV 着#AS 杨#NR 老师#NN 出去#VV
+CHT_CMN_20130704.0021.su.xml	NONE	-1	-1	哈哈	s19	137931	哈哈#IJ

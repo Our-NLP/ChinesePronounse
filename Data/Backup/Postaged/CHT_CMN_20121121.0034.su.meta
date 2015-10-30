@@ -1,0 +1,26 @@
+CHT_CMN_20121121.0034.su.xml	NONE	-1	-1	印刷 委托书 拿到 了	s0	136755	印刷#NN 委托书#NN 拿到#VV 了#AS
+CHT_CMN_20121121.0034.su.xml	NONE	-1	-1	我 扫描 下 发给 你	s1	136755	我#PN 扫描#VV 下#LC 发给#VV 你#PN
+CHT_CMN_20121121.0034.su.xml	NONE	-1	-1	原件 我 今天 寄 出去 *T*-1	s2	136755	原件#NN 我#PN 今天#NT 寄#VV 出去#VV *T*-1#VV
+CHT_CMN_20121121.0034.su.xml	我	165	0	太 好 了 谢谢 啦	s3	137872	太#AD 好#VA 了#AS 谢谢#VV 啦#SP
+CHT_CMN_20121121.0034.su.xml	我	254	12	太 好 了 谢谢 啦	s3	137872	太#AD 好#VA 了#AS 谢谢#VV 啦#SP
+CHT_CMN_20121121.0034.su.xml	我	661	0	好 的 辛苦 了	s4	137872	好#VA 的#DEV 辛苦#VA 了#SP
+CHT_CMN_20121121.0034.su.xml	我	761	10	好 的 辛苦 了	s4	137872	好#VA 的#DEV 辛苦#VA 了#SP
+CHT_CMN_20121121.0034.su.xml	我	814	3	原件 寄给 你 *T*-1 就 行 了 吧 ？	s5	136755	原件#NN 寄给#VV 你#PN *T*-1#VV 就#AD 行#VV 了#AS 吧#SP ？#PU
+CHT_CMN_20121121.0034.su.xml	我	888	0	稍等 我 问 一下 印厂 那边	s6	137872	稍等#VV 我#PN 问#VV 一下#AD 印厂#NN 那边#PN
+CHT_CMN_20121121.0034.su.xml	你	213	0	好 的	s7	136755	好#VA 的#SP
+CHT_CMN_20121121.0034.su.xml	你	308	0	直接 寄给 我 吧	s8	137872	直接#AD 寄给#VV 我#PN 吧#SP
+CHT_CMN_20121121.0034.su.xml	你	394	0	对 了 ， 印刷厂 的 收款 证明 原件 还 没 寄 过来	s9	136755	对#VA 了#SP ，#PU 印刷厂#NN 的#DEG 收款#NN 证明#VV 原件#NN 还#AD 没#AD 寄#VV 过来#VV
+CHT_CMN_20121121.0034.su.xml	NONE	-1	-1	吗 ？	s10	136755	吗#SP ？#PU
+CHT_CMN_20121121.0034.su.xml	你	650	0	什么 时候 能 到 ？	s11	136755	什么#DT 时候#NN 能#VV 到#VV ？#PU
+CHT_CMN_20121121.0034.su.xml	NONE	-1	-1	我 马上 问	s12	137872	我#PN 马上#AD 问#VV
+CHT_CMN_20121121.0034.su.xml	它	153	0	好	s13	136755	好#VA
+CHT_CMN_20121121.0034.su.xml	它	203	0	稍等 哈 正在 问 印厂 那边 呢	s14	137872	稍等#VV 哈#IJ 正在#AD 问#VV 印厂#NN 那边#PN 呢#SP
+CHT_CMN_20121121.0034.su.xml	它	357	11	稍等 哈 正在 问 印厂 那边 呢	s14	137872	稍等#VV 哈#IJ 正在#AD 问#VV 印厂#NN 那边#PN 呢#SP
+CHT_CMN_20121121.0034.su.xml	它	533	0	对 ，	s15	136755	对#VA ，#PU
+CHT_CMN_20121121.0034.su.xml	它	614	0	是 传真 ， 但 不 知道 是 谁 传 的	s16	136755	是#VC 传真#NN ，#PU 但#AD 不#AD 知道#VV 是#VC 谁#PN 传#VV 的#SP
+CHT_CMN_20121121.0034.su.xml	它	708	15	是 传真 ， 但 不 知道 是 谁 传 的	s16	136755	是#VC 传真#NN ，#PU 但#AD 不#AD 知道#VV 是#VC 谁#PN 传#VV 的#SP
+CHT_CMN_20121121.0034.su.xml	它	746	26	是 传真 ， 但 不 知道 是 谁 传 的	s16	136755	是#VC 传真#NN ，#PU 但#AD 不#AD 知道#VV 是#VC 谁#PN 传#VV 的#SP
+CHT_CMN_20121121.0034.su.xml	它	772	0	不好意思 ， 我们 没 协调 好 。	s17	137872	不好意思#AD ，#PU 我们#PN 没#AD 协调#VV 好#VA 。#PU
+CHT_CMN_20121121.0034.su.xml	它	867	0	可以 ， 一般 我 应该 在 拿到 证明 后 才 寄出 委印单 的 。	s18	136755	可以#VV ，#PU 一般#AD 我#PN 应该#VV 在#P 拿到#VV 证明#VV 后#LC 才#AD 寄出#VV 委印单#NN 的#SP 。#PU
+CHT_CMN_20121121.0034.su.xml	形	437	21	可以 ， 一般 我 应该 在 拿到 证明 后 才 寄出 委印单 的 。	s18	136755	可以#VV ，#PU 一般#AD 我#PN 应该#VV 在#P 拿到#VV 证明#VV 后#LC 才#AD 寄出#VV 委印单#NN 的#SP 。#PU
+CHT_CMN_20121121.0034.su.xml	NONE	-1	-1	委印单 刚刚 寄 出去 了 ， 你 注意 *PRO* 查收	s18	136755	委印单#NR 刚刚#AD 寄#VV 出去#VV 了#AS ，#PU 你#PN 注意#VV *PRO*#NN 查收#VV

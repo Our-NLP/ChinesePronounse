@@ -1,0 +1,37 @@
+CHT_CMN_20121104.0002.su.xml	我	120	3	晚饭 吃 了 *T*-1 不 ？	s0	135893	晚饭#NN 吃#VV 了#AS *T*-1#NN 不#AD ？#PU
+CHT_CMN_20121104.0002.su.xml	NONE	-1	-1	没 ， 你 干 嘛 去 了	s1	131228	没#AD ，#PU 你#PN 干#VV 嘛#SP 去#VV 了#AS
+CHT_CMN_20121104.0002.su.xml	我	366	0	到 外公 家 吃 晚饭 …	s2	135893	到#P 外公#NN 家#NN 吃#VV 晚饭#NN …#PU
+CHT_CMN_20121104.0002.su.xml	NONE	-1	-1	哦	s3	131228	哦#IJ
+CHT_CMN_20121104.0002.su.xml	我	525	0	啥 时候 回来 啊	s4	131228	啥#DT 时候#NN 回来#VV 啊#SP
+CHT_CMN_20121104.0002.su.xml	我	552	0	需要 我 *PRO* 带 啥 不 ？	s5	135893	需要#VV 我#PN *PRO*#AD 带#VV 啥#PN 不#AD ？#PU
+CHT_CMN_20121104.0002.su.xml	NONE	-1	-1	我 在 西宫	s5	135893	我#PN 在#P 西宫#NR
+CHT_CMN_20121104.0002.su.xml	NONE	-1	-1	哦 ， 我 想想 啊	s6	131228	哦#IJ ，#PU 我#PN 想想#VV 啊#SP
+CHT_CMN_20121104.0002.su.xml	NONE	-1	-1	恩哼	s7	135893	恩哼#NN
+CHT_CMN_20121104.0002.su.xml	我	779	0	没 啥 *OP* 要 带 *T*-1 的 。。	s8	131228	没#AD 啥#DT *OP*#NN 要#VV 带#VV *T*-1#NN 的#DEC 。。#NN
+CHT_CMN_20121104.0002.su.xml	我	1069	15	没 啥 *OP* 要 带 *T*-1 的 。。	s8	131228	没#AD 啥#DT *OP*#NN 要#VV 带#VV *T*-1#NN 的#DEC 。。#NN
+CHT_CMN_20121104.0002.su.xml	NONE	-1	-1	……	s9	135893	……#PU
+CHT_CMN_20121104.0002.su.xml	NONE	-1	-1	我 想 *PRO* 要 馒头 。。 附近 有 吗 ？	s10	131228	我#PN 想#VV *PRO*#VV 要#VV 馒头#NN 。。#NN 附近#NN 有#VE 吗#SP ？#PU
+CHT_CMN_20121104.0002.su.xml	我	1304	10	车站 对面 的 店 不 知道 *T*-1 还 开 着 不 ， 帮 你 *PRO* 去 看看 ， 要 啥 ？	s11	135893	车站#NN 对面#NN 的#DEG 店#NN 不#AD 知道#VV *T*-1#NN 还#AD 开#VV 着#AS 不#AD ，#PU 帮#VV 你#PN *PRO*#VV 去#VV 看看#VV ，#PU 要#VV 啥#PN ？#PU
+CHT_CMN_20121104.0002.su.xml	你	32	37	车站 对面 的 店 不 知道 *T*-1 还 开 着 不 ， 帮 你 *PRO* 去 看看 ， 要 啥 ？	s11	135893	车站#NN 对面#NN 的#DEG 店#NN 不#AD 知道#VV *T*-1#NN 还#AD 开#VV 着#AS 不#AD ，#PU 帮#VV 你#PN *PRO*#VV 去#VV 看看#VV ，#PU 要#VV 啥#PN ？#PU
+CHT_CMN_20121104.0002.su.xml	你	196	60	车站 对面 的 店 不 知道 *T*-1 还 开 着 不 ， 帮 你 *PRO* 去 看看 ， 要 啥 ？	s11	135893	车站#NN 对面#NN 的#DEG 店#NN 不#AD 知道#VV *T*-1#NN 还#AD 开#VV 着#AS 不#AD ，#PU 帮#VV 你#PN *PRO*#VV 去#VV 看看#VV ，#PU 要#VV 啥#PN ？#PU
+CHT_CMN_20121104.0002.su.xml	NONE	-1	-1	馒头 。。	s12	131228	馒头#NN 。。#NN
+CHT_CMN_20121104.0002.su.xml	你	239	4	诶 ， 就 馒头 ？	s13	135893	诶#IJ ，#PU 就#AD 馒头#NN ？#PU
+CHT_CMN_20121104.0002.su.xml	NONE	-1	-1	数量 ？	s13	135893	数量#NN ？#PU
+CHT_CMN_20121104.0002.su.xml	你	381	0	3 个 吧 。。	s14	131228	3#CD 个#M 吧#SP 。。#VA
+CHT_CMN_20121104.0002.su.xml	你	575	0	ok	s15	135893	ok#NR
+CHT_CMN_20121104.0002.su.xml	你	807	0	谢 啦 。。 如果 没有 。。 就 在 学校 后边 帮 我 *PRO* 买 4 个 包子	s16	131228	谢#NR 啦#SP 。。#NN 如果#CS 没有#VE 。。#NN 就#AD 在#P 学校#NN 后边#NN 帮#VV 我#PN *PRO*#AD 买#VV 4#CD 个#M 包子#NN
+CHT_CMN_20121104.0002.su.xml	你	988	13	谢 啦 。。 如果 没有 。。 就 在 学校 后边 帮 我 *PRO* 买 4 个 包子	s16	131228	谢#NR 啦#SP 。。#NN 如果#CS 没有#VE 。。#NN 就#AD 在#P 学校#NN 后边#NN 帮#VV 我#PN *PRO*#AD 买#VV 4#CD 个#M 包子#NN
+CHT_CMN_20121104.0002.su.xml	你	1222	28	谢 啦 。。 如果 没有 。。 就 在 学校 后边 帮 我 *PRO* 买 4 个 包子	s16	131228	谢#NR 啦#SP 。。#NN 如果#CS 没有#VE 。。#NN 就#AD 在#P 学校#NN 后边#NN 帮#VV 我#PN *PRO*#AD 买#VV 4#CD 个#M 包子#NN
+CHT_CMN_20121104.0002.su.xml	NONE	-1	-1	学校 后边 是 哪 ？	s17	135893	学校#NN 后边#NN 是#VC 哪#SP ？#PU
+CHT_CMN_20121104.0002.su.xml	它	653	0	就 是 枣阳路 啊 。。 *OP* 你 *T*-1 下车 的 地方 对面 啊	s18	131228	就#AD 是#VC 枣阳路#NR 啊#SP 。。#VV *OP*#VV 你#PN *T*-1#AD 下车#VV 的#DEC 地方#NN 对面#NN 啊#SP
+CHT_CMN_20121104.0002.su.xml	它	742	5	那 包子 要 啥 口味 嘞 ？	s19	135893	那#AD 包子#NN 要#VV 啥#DT 口味#NN 嘞#NN ？#PU
+CHT_CMN_20121104.0002.su.xml	它	792	22	两 个 粉丝 ， 两 个 梅干菜 ， 如果 没有 粉丝 的 就 要 两 个 菜包	s20	131228	两#CD 个#M 粉丝#NN ，#PU 两#CD 个#M 梅干菜#NN ，#PU 如果#CS 没有#VE 粉丝#NN 的#DEC 就#AD 要#VV 两#CD 个#M 菜包#NN
+CHT_CMN_20121104.0002.su.xml	它	910	36	两 个 粉丝 ， 两 个 梅干菜 ， 如果 没有 粉丝 的 就 要 两 个 菜包	s20	131228	两#CD 个#M 粉丝#NN ，#PU 两#CD 个#M 梅干菜#NN ，#PU 如果#CS 没有#VE 粉丝#NN 的#DEC 就#AD 要#VV 两#CD 个#M 菜包#NN
+CHT_CMN_20121104.0002.su.xml	它	1055	0	ok ， 所以 它 肯定 是 开 着 的 对 吧 ？	s21	135893	ok#NN ，#PU 所以#AD 它#PN 肯定#AD 是#VC 开#VV 着#AS 的#DEC 对#VA 吧#SP ？#PU
+CHT_CMN_20121104.0002.su.xml	它	1114	27	ok ， 所以 它 肯定 是 开 着 的 对 吧 ？	s21	135893	ok#NN ，#PU 所以#AD 它#PN 肯定#AD 是#VC 开#VV 着#AS 的#DEC 对#VA 吧#SP ？#PU
+CHT_CMN_20121104.0002.su.xml	它	1141	0	应该 是 的 。。 不过 你 先 买 馒头 啊 ， 没有 在 买 包子 。。	s22	131228	应该#VV 是#VC 的#DEG 。。#NN 不过#AD 你#PN 先#AD 买#VV 馒头#NN 啊#SP ，#PU 没有#AD 在#P 买#VV 包子#NN 。。#NN
+CHT_CMN_20121104.0002.su.xml	它	1181	32	应该 是 的 。。 不过 你 先 买 馒头 啊 ， 没有 在 买 包子 。。	s22	131228	应该#VV 是#VC 的#DEG 。。#NN 不过#AD 你#PN 先#AD 买#VV 馒头#NN 啊#SP ，#PU 没有#AD 在#P 买#VV 包子#NN 。。#NN
+CHT_CMN_20121104.0002.su.xml	它	1213	41	应该 是 的 。。 不过 你 先 买 馒头 啊 ， 没有 在 买 包子 。。	s22	131228	应该#VV 是#VC 的#DEG 。。#NN 不过#AD 你#PN 先#AD 买#VV 馒头#NN 啊#SP ，#PU 没有#AD 在#P 买#VV 包子#NN 。。#NN
+CHT_CMN_20121104.0002.su.xml	它	1266	0	好 嘞	s23	135893	好#JJ 嘞#NN
+CHT_CMN_20121104.0002.su.xml	其	699	0	谢 啦	s24	131228	谢#NR 啦#SP
+CHT_CMN_20121104.0002.su.xml	NONE	-1	-1	恩哼	s25	135893	恩哼#NN

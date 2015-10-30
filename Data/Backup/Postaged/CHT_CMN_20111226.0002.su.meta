@@ -1,0 +1,32 @@
+CHT_CMN_20111226.0002.su.xml	他	44	15	张 总 ， 刘 律师 说 ， 明天 中午 12点 前 将 合同 确认 *RNR*-2 回传 过来 *-1	s0	131226	张#NR 总#AD ，#PU 刘#NR 律师#NN 说#VV ，#PU 明天#NT 中午#NT 12点#NT 前#LC 将#AD 合同#NN 确认#VV *RNR*-2#CD 回传#VV 过来#VV *-1#NR
+CHT_CMN_20111226.0002.su.xml	他	177	0	好 的	s1	134111	好#VA 的#SP
+CHT_CMN_20111226.0002.su.xml	他	386	25	张 总 ， 刚刚 卢 总 说 《 制度 汇编 》 要 重新 整理 2012 版本 。	s2	131226	张#NR 总#JJ ，#PU 刚刚#AD 卢#NR 总#JJ 说#VV 《#PU 制度#NN 汇编#NN 》#PU 要#VV 重新#AD 整理#VV 2012#CD 版本#NN 。#PU
+CHT_CMN_20111226.0002.su.xml	她	846	0	要 精简 。	s2	131226	要#VV 精简#VV 。#PU
+CHT_CMN_20111226.0002.su.xml	NONE	-1	-1	之前 的 太 冗长 。	s2	131226	之前#NT 的#DEG 太#AD 冗长#VA 。#PU
+CHT_CMN_20111226.0002.su.xml	NONE	-1	-1	我 想 问 ， 前 段 时间 ， 你 让 高红霞 *PRO* 整理 企业 简介 ， 她 整理 了 吗 ？	s3	131226	我#PN 想#VV 问#VV ，#PU 前#DT 段#M 时间#NN ，#PU 你#PN 让#VV 高红霞#NR *PRO*#VV 整理#VV 企业#NN 简介#NN ，#PU 她#PN 整理#VV 了#AS 吗#SP ？#PU
+CHT_CMN_20111226.0002.su.xml	NONE	-1	-1	卢 总 说 原来 的 公司 简介 太 长 了	s3	131226	卢#NR 总#AD 说#VV 原来#JJ 的#DEG 公司#NN 简介#NN 太#AD 长#VA 了#SP
+CHT_CMN_20111226.0002.su.xml	它	115	10	企业 简介 他 说 先 用 着 *T*-1 ， 让 广州 那边 *PRO* 整 。	s4	134111	企业#NN 简介#NN 他#PN 说#VV 先#AD 用#VV 着#AS *T*-1#NN ，#PU 让#VV 广州#NR 那边#PN *PRO*#NN 整#VV 。#PU
+CHT_CMN_20111226.0002.su.xml	它	201	30	企业 简介 他 说 先 用 着 *T*-1 ， 让 广州 那边 *PRO* 整 。	s4	134111	企业#NN 简介#NN 他#PN 说#VV 先#AD 用#VV 着#AS *T*-1#NN ，#PU 让#VV 广州#NR 那边#PN *PRO*#NN 整#VV 。#PU
+CHT_CMN_20111226.0002.su.xml	NONE	-1	-1	这个 是 *OP* 梁 经理 前 段 时间 整理 *T*-1 的 ， 我 还 没 给 卢 总 看 呢	s5	131226	这个#PN 是#VC *OP*#NR 梁#NR 经理#NN 前#DT 段#M 时间#NN 整理#VV *T*-1#NN 的#SP ，#PU 我#PN 还#AD 没#AD 给#VV 卢#NR 总#AD 看#VV 呢#SP
+CHT_CMN_20111226.0002.su.xml	NONE	-1	-1	你 告诉 卢 总 吧	s6	134111	你#PN 告诉#VV 卢#NR 总#JJ 吧#SP
+CHT_CMN_20111226.0002.su.xml	它	366	7	你 先 看看 怎么样	s7	131226	你#PN 先#AD 看看#VV 怎么样#VA
+CHT_CMN_20111226.0002.su.xml	NONE	-1	-1	这 有 太 简单 了	s8	134111	这#PN 有#VE 太#AD 简单#VA 了#SP
+CHT_CMN_20111226.0002.su.xml	它	560	5	我 觉得 也 是 。	s9	131226	我#PN 觉得#VV 也#AD 是#VC 。#PU
+CHT_CMN_20111226.0002.su.xml	NONE	-1	-1	各 部门 报 下 月 计划 交给 卢 总 看看	s10	134111	各#DT 部门#NN 报#VV 下#DT 月#NN 计划#NN 交给#VV 卢#NR 总#JJ 看看#VV
+CHT_CMN_20111226.0002.su.xml	它	640	0	还 没 报 上来	s11	131226	还#AD 没#AD 报#VV 上来#VV
+CHT_CMN_20111226.0002.su.xml	NONE	-1	-1	李艳丽 报 了 吗	s12	134111	李艳丽#NR 报#VV 了#AS 吗#SP
+CHT_CMN_20111226.0002.su.xml	NONE	-1	-1	没	s13	131226	没#AD
+CHT_CMN_20111226.0002.su.xml	它	732	3	刚才 交到 财务 一 份	s14	134111	刚才#AD 交到#VV 财务#NN 一#CD 份#M
+CHT_CMN_20111226.0002.su.xml	它	1033	6	评级 标准 也 要 卢 总 *PRO* 签字	s15	134111	评级#NN 标准#NN 也#AD 要#VV 卢#NR 总#JJ *PRO*#NN 签字#NN
+CHT_CMN_20111226.0002.su.xml	它	1120	29	*OP* *T*-1 对应 的 各 部门 的 考核 细则 也 要 汇总 发放 到 各 部门 *T*-2	s16	134111	*OP*#NR *T*-1#NN 对应#VV 的#DEC 各#DT 部门#NN 的#DEG 考核#NN 细则#NN 也#AD 要#VV 汇总#VV 发放#VV 到#VV 各#DT 部门#NN *T*-2#VV
+CHT_CMN_20111226.0002.su.xml	它	1130	0	好 ， 你 是 说 《 岗位 等级 评定 方案 》 也 要 卢 总 *PRO* 签字 吗 ？	s17	131226	好#VA ，#PU 你#PN 是#VC 说#VV 《#PU 岗位#NN 等级#NN 评定#NN 方案#NN 》#PU 也#AD 要#VV 卢#NR 总#JJ *PRO*#NN 签字#NN 吗#SP ？#PU
+CHT_CMN_20111226.0002.su.xml	它1	1241	32	好 ， 你 是 说 《 岗位 等级 评定 方案 》 也 要 卢 总 *PRO* 签字 吗 ？	s17	131226	好#VA ，#PU 你#PN 是#VC 说#VV 《#PU 岗位#NN 等级#NN 评定#NN 方案#NN 》#PU 也#AD 要#VV 卢#NR 总#JJ *PRO*#NN 签字#NN 吗#SP ？#PU
+CHT_CMN_20111226.0002.su.xml	它1	1283	0	是 的 包括 各 部门 的 考核 细则	s18	134111	是#VC 的#DEC 包括#VV 各#DT 部门#NN 的#DEG 考核#NN 细则#NN
+CHT_CMN_20111226.0002.su.xml	它1	1399	10	是 的 包括 各 部门 的 考核 细则	s18	134111	是#VC 的#DEC 包括#VV 各#DT 部门#NN 的#DEG 考核#NN 细则#NN
+CHT_CMN_20111226.0002.su.xml	NONE	-1	-1	各 部门 的 考核 细则 是 指 业务 考核 这 一 块 啊 ？	s19	131226	各#DT 部门#NN 的#DEG 考核#NN 细则#NN 是#VC 指#VV 业务#NN 考核#NN 这#DT 一#CD 块#M 啊#SP ？#PU
+CHT_CMN_20111226.0002.su.xml	其	896	0	是 的	s20	134111	是#VC 的#SP
+CHT_CMN_20111226.0002.su.xml	NONE	-1	-1	恩 。	s21	131226	恩#IJ 。#PU
+CHT_CMN_20111226.0002.su.xml	其	976	0	好 的 。	s21	131226	好#VA 的#SP 。#PU
+CHT_CMN_20111226.0002.su.xml	NONE	-1	-1	张 总 ， 我 将 承包 协议 发到 你 的 邮箱 里 *-1 了 。	s22	131226	张#NR 总#AD ，#PU 我#PN 将#AD 承包#VV 协议#NN 发到#VV 你#PN 的#DEG 邮箱#NN 里#LC *-1#VV 了#AS 。#PU
+CHT_CMN_20111226.0002.su.xml	NONE	-1	-1	刘 律师 修改 完 得	s22	131226	刘#NR 律师#NN 修改#VV 完#VV 得#DER
+CHT_CMN_20111226.0002.su.xml	其	1065	0	好 的	s23	134111	好#VA 的#SP

@@ -1,0 +1,31 @@
+CHT_CMN_20121107.0018.su.xml	NONE	-1	-1	你 好	s0	134013	你#PN 好#VA
+CHT_CMN_20121107.0018.su.xml	NONE	-1	-1	你 的 店 在 济南 哪 个 地方 ？	s1	134013	你#PN 的#DEG 店#NN 在#P 济南#NR 哪#DT 个#M 地方#NN ？#PU
+CHT_CMN_20121107.0018.su.xml	NONE	-1	-1	您 好 ， 北坦 大街 ， 荣氏 栗子	s2	136584	您#PN 好#VA ，#PU 北坦#NR 大街#NN ，#PU 荣氏#NR 栗子#NN
+CHT_CMN_20121107.0018.su.xml	NONE	-1	-1	您 知道 吗	s3	136584	您#PN 知道#VV 吗#SP
+CHT_CMN_20121107.0018.su.xml	我	1190	0	有 几 路 车 到 那 ？	s4	134013	有#VE 几#CD 路#M 车#NN 到#VV 那#PN ？#PU
+CHT_CMN_20121107.0018.su.xml	NONE	-1	-1	您 百度 地图 找 “ 世宏 商务 中心 ”	s5	136584	您#PN 百度#NR 地图#NN 找#VV “#PU 世宏#NR 商务#NN 中心#NN ”#PU
+CHT_CMN_20121107.0018.su.xml	我	1203	0	就 在 它 的 院内	s6	136584	就#AD 在#P 它#PN 的#DEG 院内#NN
+CHT_CMN_20121107.0018.su.xml	NONE	-1	-1	118 哪 站 下 ？	s7	134013	118#CD 哪#AD 站#VV 下#VV ？#PU
+CHT_CMN_20121107.0018.su.xml	NONE	-1	-1	哦	s8	134013	哦#IJ
+CHT_CMN_20121107.0018.su.xml	你	397	0	北坦 大街 下 ，	s9	136584	北坦#NR 大街#NN 下#LC ，#PU
+CHT_CMN_20121107.0018.su.xml	NONE	-1	-1	哦	s10	134013	哦#IJ
+CHT_CMN_20121107.0018.su.xml	你	471	0	下车 就 是 个 红绿灯 路口	s11	136584	下车#NN 就#AD 是#VC 个#M 红绿灯#NN 路口#NN
+CHT_CMN_20121107.0018.su.xml	你	657	9	下车 就 是 个 红绿灯 路口	s11	136584	下车#NN 就#AD 是#VC 个#M 红绿灯#NN 路口#NN
+CHT_CMN_20121107.0018.su.xml	你	1098	27	此 路口 向 北 50 米 ， 世宏 商务 中心 ， 是 个 大 院子	s12	136584	此#DT 路口#NN 向#P 北#NN 50#CD 米#M ，#PU 世宏#NR 商务#NN 中心#NN ，#PU 是#VC 个#M 大#JJ 院子#NN
+CHT_CMN_20121107.0018.su.xml	NONE	-1	-1	院 内 4-205 ， 联系 手机 ： 15692311158	s13	136584	院#NN 内#LC 4-205#NN ，#PU 联系#VV 手机#NN ：#PU 15692311158#CD
+CHT_CMN_20121107.0018.su.xml	它	285	0	随时 过来 打 我 电话 就 可以 ！	s14	136584	随时#AD 过来#VV 打#VV 我#PN 电话#NN 就#AD 可以#VV ！#PU
+CHT_CMN_20121107.0018.su.xml	它	554	0	好 的 ！	s15	134013	好#VA 的#SP ！#PU
+CHT_CMN_20121107.0018.su.xml	它	711	0	周末 吧 ！	s16	134013	周末#NT 吧#SP ！#PU
+CHT_CMN_20121107.0018.su.xml	NONE	-1	-1	[ 表情 ]	s16	134013	[#PU 表情#NN ]#PU
+CHT_CMN_20121107.0018.su.xml	它	926	0	周六 ， 还是 周日 ？	s17	136584	周六#NT ，#PU 还是#CC 周日#NT ？#PU
+CHT_CMN_20121107.0018.su.xml	它	1060	3	周日 一般 都 有 骑行 活动	s18	136584	周日#NT 一般#AD 都#AD 有#VE 骑行#NN 活动#NN
+CHT_CMN_20121107.0018.su.xml	NONE	-1	-1	哦	s19	134013	哦#IJ
+CHT_CMN_20121107.0018.su.xml	它	1250	0	好 的	s20	134013	好#VA 的#SP
+CHT_CMN_20121107.0018.su.xml	NONE	-1	-1	那 我 尽量 周六	s21	134013	那#AD 我#PN 尽量#AD 周六#NT
+CHT_CMN_20121107.0018.su.xml	NONE	-1	-1	我们 的 单车 俱乐部 ， Q 群 是 212825612	s22	136584	我们#PN 的#DEG 单车#NN 俱乐部#NN ，#PU Q#VA 群#NN 是#VC 212825612#CD
+CHT_CMN_20121107.0018.su.xml	形	188	0	好 的	s23	134013	好#VA 的#SP
+CHT_CMN_20121107.0018.su.xml	形	480	0	加入 我们 的 群 ， 一起 骑行 吧	s24	136584	加入#VV 我们#PN 的#DEG 群#NN ，#PU 一起#AD 骑行#VV 吧#SP
+CHT_CMN_20121107.0018.su.xml	NONE	-1	-1	呵呵	s25	134013	呵呵#IJ
+CHT_CMN_20121107.0018.su.xml	形	799	7	我 在 东营 没 办法 ， 只有 周末 回 济南 ！	s26	134013	我#PN 在#P 东营#NR 没#VE 办法#NN ，#PU 只有#AD 周末#NT 回#VV 济南#NR ！#PU
+CHT_CMN_20121107.0018.su.xml	形	849	20	我 在 东营 没 办法 ， 只有 周末 回 济南 ！	s26	134013	我#PN 在#P 东营#NR 没#VE 办法#NN ，#PU 只有#AD 周末#NT 回#VV 济南#NR ！#PU
+CHT_CMN_20121107.0018.su.xml	其	751	0	没 事 ， 呵呵	s27	136584	没#VE 事#NN ，#PU 呵呵#IJ

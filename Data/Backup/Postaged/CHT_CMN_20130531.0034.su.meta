@@ -1,0 +1,44 @@
+CHT_CMN_20130531.0034.su.xml	NONE	-1	-1	你 在 北京 大概 花 了 多少 钱	s0	136868	你#PN 在#P 北京#NR 大概#AD 花#VV 了#AS 多少#CD 钱#NN
+CHT_CMN_20130531.0034.su.xml	NONE	-1	-1	你 是 从 萧山 坐 飞机 去 的 吗	s1	136868	你#PN 是#VC 从#P 萧山#NR 坐#VV 飞机#NN 去#VV 的#SP 吗#SP
+CHT_CMN_20130531.0034.su.xml	我	128	6	恩 800 订 太 迟 了	s2	136892	恩#IJ 800#CD 订#VV 太#AD 迟#VA 了#SP
+CHT_CMN_20130531.0034.su.xml	NONE	-1	-1	高铁 卧铺 都 可以	s3	136892	高铁#NN 卧铺#NN 都#AD 可以#VV
+CHT_CMN_20130531.0034.su.xml	NONE	-1	-1	两千 应该 差不多 吧	s4	136892	两千#CD 应该#VV 差不多#VA 吧#SP
+CHT_CMN_20130531.0034.su.xml	我	448	0	包括 机票 和 酒店 自己 消费 吗 ？	s5	136868	包括#VV 机票#NN 和#CC 酒店#NN 自己#PN 消费#VV 吗#SP ？#PU
+CHT_CMN_20130531.0034.su.xml	我	493	0	也 要 看 方式 啦	s6	136892	也#AD 要#VV 看#VV 方式#NN 啦#SP
+CHT_CMN_20130531.0034.su.xml	我	944	3	一般 火车 来回 交通 一千	s7	136892	一般#AD 火车#NN 来回#VV 交通#NN 一千#CD
+CHT_CMN_20130531.0034.su.xml	NONE	-1	-1	但是 时间 差 多少	s8	136868	但是#AD 时间#NN 差#VV 多少#CD
+CHT_CMN_20130531.0034.su.xml	你	347	18	住宿 我 住 青旅 110 一 晚 在 西单 那边	s9	136892	住宿#NN 我#PN 住#VV 青旅#NR 110#CD 一#CD 晚#NN 在#P 西单#NR 那边#PN
+CHT_CMN_20130531.0034.su.xml	你	1159	3	火车 睡 一 觉 就 到	s10	136892	火车#NN 睡#VV 一#CD 觉#VV 就#AD 到#VV
+CHT_CMN_20130531.0034.su.xml	NONE	-1	-1	高铁 五 个 小时 吧	s11	136892	高铁#NN 五#CD 个#M 小时#NN 吧#SP
+CHT_CMN_20130531.0034.su.xml	你	1983	0	好像 不止	s12	136868	好像#AD 不止#VV
+CHT_CMN_20130531.0034.su.xml	NONE	-1	-1	我 还 听说 现在 北京 哪里 都 要 门票	s13	136868	我#PN 还#AD 听说#VV 现在#NT 北京#NR 哪里#PN 都#AD 要#VV 门票#NN
+CHT_CMN_20130531.0034.su.xml	NONE	-1	-1	连 长城 都 要	s14	136868	连#AD 长城#NR 都#AD 要#VV
+CHT_CMN_20130531.0034.su.xml	NONE	-1	-1	飞机 上 时间 两 个 小时	s15	136892	飞机#NN 上#LC 时间#NN 两#CD 个#M 小时#NN
+CHT_CMN_20130531.0034.su.xml	NONE	-1	-1	门票 交通 都 不 贵 的	s16	136892	门票#NN 交通#NN 都#AD 不#AD 贵#VA 的#SP
+CHT_CMN_20130531.0034.su.xml	NONE	-1	-1	800 是 一 趟 的 钱 吧 ？	s17	136868	800#CD 是#VC 一#CD 趟#M 的#DEG 钱#NN 吧#SP ？#PU
+CHT_CMN_20130531.0034.su.xml	NONE	-1	-1	故宫 才 60	s18	136892	故宫#NR 才#AD 60#CD
+CHT_CMN_20130531.0034.su.xml	它	246	0	是	s19	136892	是#VC
+CHT_CMN_20130531.0034.su.xml	NONE	-1	-1	长城 70 ？	s20	136868	长城#NR 70#CD ？#PU
+CHT_CMN_20130531.0034.su.xml	它	300	0	没 去 不 知道 啊	s21	136892	没#AD 去#VV 不#AD 知道#VV 啊#SP
+CHT_CMN_20130531.0034.su.xml	NONE	-1	-1	*OP* *T*-1 要 门票 的 我 就 故宫 恭王府 圆明园 这 次	s22	136892	*OP*#NR *T*-1#NN 要#VV 门票#NN 的#DEG 我#PN 就#AD 故宫#NR 恭王府#NR 圆明园#NR 这#DT 次#M
+CHT_CMN_20130531.0034.su.xml	NONE	-1	-1	4025	s23	136892	4025#CD
+CHT_CMN_20130531.0034.su.xml	它	577	0	比起 别的 地方 便宜 多 了	s24	136892	比起#P 别的#DT 地方#NN 便宜#AD 多#VA 了#SP
+CHT_CMN_20130531.0034.su.xml	它	872	22	798 后海 南锣鼓巷 都 不 要 钱 啊 可以 逛 很 久	s25	136892	798#CD 后海#NR 南锣鼓巷#NR 都#AD 不#AD 要#VV 钱#NN 啊#SP 可以#VV 逛#VV 很#AD 久#VA
+CHT_CMN_20130531.0034.su.xml	NONE	-1	-1	北海 好像 不 要 钱 景山 10 块	s26	136892	北海#NR 好像#AD 不#AD 要#VV 钱#NN 景山#NR 10#CD 块#M
+CHT_CMN_20130531.0034.su.xml	它	1087	12	你 给 我 推荐 推荐 还 有 什么 地方	s27	136868	你#PN 给#P 我#PN 推荐#VV 推荐#VV 还#AD 有#VE 什么#DT 地方#NN
+CHT_CMN_20130531.0034.su.xml	NONE	-1	-1	你 是 和 你 同学 两 个 人 一起 的 吗	s28	136868	你#PN 是#VC 和#P 你#PN 同学#NN 两#CD 个#M 人#NN 一起#VV 的#SP 吗#SP
+CHT_CMN_20130531.0034.su.xml	它	1368	10	基本上 两 个 人 也 有 *OP* 我 自己 逛 *T*-1 的	s29	136892	基本上#AD 两#CD 个#M 人#NN 也#AD 有#VE *OP*#CD 我#PN 自己#PN 逛#VV *T*-1#NN 的#SP
+CHT_CMN_20130531.0034.su.xml	NONE	-1	-1	青旅 遇到 好几 个 *OP* *T*-1 一 个 人 来 玩 的	s30	136892	青旅#NR 遇到#VV 好几#CD 个#M *OP*#NN *T*-1#VV 一#CD 个#M 人#NN 来#VV 玩#VV 的#SP
+CHT_CMN_20130531.0034.su.xml	NONE	-1	-1	你 什么 时候 去	s31	136892	你#PN 什么#DT 时候#NN 去#VV
+CHT_CMN_20130531.0034.su.xml	NONE	-1	-1	我 回去 理 一下 跟 你 说	s32	136892	我#PN 回去#VV 理#VV 一下#AD 跟#P 你#PN 说#VV
+CHT_CMN_20130531.0034.su.xml	NONE	-1	-1	常规 的 一些 团 都 会 去	s33	136892	常规#JJ 的#DEG 一些#CD 团#NN 都#AD 会#VV 去#VV
+CHT_CMN_20130531.0034.su.xml	NONE	-1	-1	故宫 天坛 长城 颐和园 十三陵 什么 的	s34	136892	故宫#NR 天坛#NN 长城#NR 颐和园#NR 十三陵#NR 什么#PN 的#DEG
+CHT_CMN_20130531.0034.su.xml	它	2029	0	现在 还 有 鸟巢 水立方 晚上 比较 好看	s35	136892	现在#NT 还#AD 有#VE 鸟巢#NR 水立方#NN 晚上#NT 比较#AD 好看#VA
+CHT_CMN_20130531.0034.su.xml	NONE	-1	-1	798 南锣鼓巷 后海 是 *OP* *T*-1 比较 小资 的 地方	s36	136892	798#CD 南锣鼓巷#NR 后海#NR 是#VC *OP*#NN *T*-1#NN 比较#AD 小资#VA 的#DEC 地方#NN
+CHT_CMN_20130531.0034.su.xml	NONE	-1	-1	还有 前门 大街 大栅栏	s37	136892	还有#AD 前门#NN 大街#NN 大栅栏#NR
+CHT_CMN_20130531.0034.su.xml	它	2039	13	天安门 广场 那 一 圈 一般 都 会 进去 参观 *T*-1	s38	136892	天安门#NR 广场#NN 那#DT 一#CD 圈#M 一般#AD 都#AD 会#VV 进去#VV 参观#VV *T*-1#NR
+CHT_CMN_20130531.0034.su.xml	NONE	-1	-1	西单 王府井 是 商业 中心	s39	136892	西单#NR 王府井#NR 是#VC 商业#NN 中心#NN
+CHT_CMN_20130531.0034.su.xml	NONE	-1	-1	还有 清华 北大	s40	136892	还有#AD 清华#NR 北大#NR
+CHT_CMN_20130531.0034.su.xml	他们	1839	11	圆明园 就 废墟 了 没 时间 可以 不 去	s41	136892	圆明园#NR 就#AD 废墟#NN 了#AS 没#VE 时间#NN 可以#VV 不#AD 去#VV
+CHT_CMN_20130531.0034.su.xml	形	1262	0	好 呀 好 呀	s42	136868	好#VA 呀#SP 好#VA 呀#SP
+CHT_CMN_20130531.0034.su.xml	形	1664	10	好 呀 好 呀	s42	136868	好#VA 呀#SP 好#VA 呀#SP

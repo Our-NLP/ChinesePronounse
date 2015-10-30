@@ -1,0 +1,20 @@
+CHT_CMN_20120508.0006.su.xml	我	38	9	师姐 您 好 ， 请问 您 在 吗 ？	s0	138478	师姐#NN 您#PN 好#VA ，#PU 请问#VV 您#PN 在#VV 吗#SP ？#PU
+CHT_CMN_20120508.0006.su.xml	我	82	0	在 的	s1	135882	在#VV 的#SP
+CHT_CMN_20120508.0006.su.xml	我	124	5	哈哈 ， 打扰 了 哦 ， 蓝斌 跟 你 说 了 情况 吗 ？	s2	138478	哈哈#IJ ，#PU 打扰#VV 了#AS 哦#SP ，#PU 蓝斌#NN 跟#P 你#PN 说#VV 了#AS 情况#NN 吗#SP ？#PU
+CHT_CMN_20120508.0006.su.xml	我	316	0	说 了 ， 你 这 个 情况 很 急 吗 ？	s3	135882	说#VV 了#AS ，#PU 你#PN 这#DT 个#M 情况#NN 很#AD 急#VA 吗#SP ？#PU
+CHT_CMN_20120508.0006.su.xml	NONE	-1	-1	我 刚好 要 出去 一下 ， 今晚 预答辩 ， 要 去 打印 论文	s4	135882	我#PN 刚好#AD 要#VV 出去#VV 一下#AD ，#PU 今晚#NT 预答辩#NN ，#PU 要#VV 去#VV 打印#VV 论文#NN
+CHT_CMN_20120508.0006.su.xml	我	675	3	嗯嗯 挺 急 的 今晚 要 交 稿	s5	138478	嗯嗯#IJ 挺#AD 急#VA 的#DEC 今晚#NT 要#VV 交#VV 稿#NN
+CHT_CMN_20120508.0006.su.xml	我	727	15	嗯嗯 挺 急 的 今晚 要 交 稿	s5	138478	嗯嗯#IJ 挺#AD 急#VA 的#DEC 今晚#NT 要#VV 交#VV 稿#NN
+CHT_CMN_20120508.0006.su.xml	NONE	-1	-1	噢	s6	138478	噢#IJ
+CHT_CMN_20120508.0006.su.xml	NONE	-1	-1	要不 你 直接 打 电话 给 我 好 吗	s7	135882	要不#AD 你#PN 直接#AD 打#VV 电话#NN 给#P 我#PN 好#VA 吗#SP
+CHT_CMN_20120508.0006.su.xml	NONE	-1	-1	要不 你 先 去 忙 你 大概 几点 打印 回来 ？	s8	138478	要不#AD 你#PN 先#AD 去#VV 忙#VV 你#PN 大概#AD 几点#AD 打印#VV 回来#VV ？#PU
+CHT_CMN_20120508.0006.su.xml	你	489	0	回来 我 再 打 电话 给 你 可以 吗	s9	138478	回来#VV 我#PN 再#AD 打#VV 电话#NN 给#P 你#PN 可以#VV 吗#SP
+CHT_CMN_20120508.0006.su.xml	NONE	-1	-1	你 7点 前 随时 打来 都 行	s10	135882	你#PN 7点#NT 前#LC 随时#AD 打来#VV 都#AD 行#VV
+CHT_CMN_20120508.0006.su.xml	你	839	0	好 的 哦 。	s11	138478	好#VA 的#DEC 哦#SP 。#PU
+CHT_CMN_20120508.0006.su.xml	他	184	28	你 是 最近 刚 收到 了 国外 大学 的 录取 通知 是 吗 ？	s11	138478	你#PN 是#VC 最近#NT 刚#AD 收到#VV 了#AS 国外#NN 大学#NN 的#DEG 录取#NN 通知#NN 是#VC 吗#SP ？#PU
+CHT_CMN_20120508.0006.su.xml	它	304	4	恩 ， 前 段 时间 收到 的	s12	135882	恩#IJ ，#PU 前#DT 段#M 时间#NN 收到#VV 的#DEC
+CHT_CMN_20120508.0006.su.xml	它	589	6	今年 8月 要 去 读书	s13	135882	今年#NT 8月#NT 要#VV 去#VV 读书#VV
+CHT_CMN_20120508.0006.su.xml	它	631	3	嗯嗯 好 的 ， 那 我 等会 call 你 哦	s14	138478	嗯嗯#IJ 好#VA 的#SP ，#PU 那#AD 我#PN 等会#VV call#NN 你#PN 哦#IJ
+CHT_CMN_20120508.0006.su.xml	它	771	12	你 先 忙 今晚 答辩 加油 哦	s15	138478	你#PN 先#AD 忙#VV 今晚#NT 答辩#VV 加油#VV 哦#SP
+CHT_CMN_20120508.0006.su.xml	它	885	7	[ 表情 ] 好 的 。	s16	135882	[#PU 表情#NN ]#PU 好#VA 的#DEC 。#PU
+CHT_CMN_20120508.0006.su.xml	NONE	-1	-1	你 最好 用 办公室 电话 打 哦 ， 我 的 是 中山 号 ， 电话费 比较 贵 哈	s16	135882	你#PN 最好#AD 用#VV 办公室#NN 电话#NN 打#VV 哦#SP ，#PU 我#PN 的#DEG 是#VC 中山#NR 号#NN ，#PU 电话费#NN 比较#AD 贵#VA 哈#SP

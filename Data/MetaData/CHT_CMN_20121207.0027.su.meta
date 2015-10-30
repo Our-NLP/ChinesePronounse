@@ -1,0 +1,91 @@
+CHT_CMN_20121207.0027.su.xml	NONE	-1	-1	你 在 那	s0	137167	你#PN 在#P 那#PN
+CHT_CMN_20121207.0027.su.xml	你	62	0	怎么样	s1	137167	怎么样#VA
+CHT_CMN_20121207.0027.su.xml	NONE	-1	-1	公公 婆婆 回到 他们 老家 了 ， 在 县城 住院 ， 据说 病房 条件 不错 ， 病房 里 就 有 卫生间 。	s2	137487	公公#NN 婆婆#NN 回到#VV 他们#PN 老家#NN 了#SP ，#PU 在#P 县城#NN 住院#VV ，#PU 据说#AD 病房#NN 条件#NN 不错#VA ，#PU 病房#NN 里#LC 就#AD 有#VE 卫生间#NN 。#PU
+CHT_CMN_20121207.0027.su.xml	NONE	-1	-1	我 妈妈 两 个 小时 前 刚 到 北京 。	s3	137487	我#PN 妈妈#NN 两#CD 个#M 小时#NN 前#LC 刚#AD 到#VV 北京#NR 。#PU
+CHT_CMN_20121207.0027.su.xml	你	234	0	去 问 中医 怎么样 ， 是 拿 些 要 回去 了 吗	s4	137167	去#VV 问#VV 中医#NN 怎么样#VA ，#PU 是#VC 拿#VV 些#M 要#VV 回去#VV 了#SP 吗#SP
+CHT_CMN_20121207.0027.su.xml	你	253	19	去 问 中医 怎么样 ， 是 拿 些 要 回去 了 吗	s4	137167	去#VV 问#VV 中医#NN 怎么样#VA ，#PU 是#VC 拿#VV 些#M 要#VV 回去#VV 了#SP 吗#SP
+CHT_CMN_20121207.0027.su.xml	她	301	0	在 北京 看 了 *OP* *T*-1 不同 的 科室 ， 都 认为 化疗 很 伤人 ， 严重 影响 生活 质量 ， 却 只 能 延长 一 *RNR*-2 两 个 月 的 生命 ， 所以 不 打算 *PRO* 化疗 了 。	s5	137487	在#P 北京#NR 看#VV 了#AS *OP*#NN *T*-1#NN 不同#VA 的#DEC 科室#NN ，#PU 都#AD 认为#VV 化疗#NN 很#AD 伤人#VV ，#PU 严重#AD 影响#VV 生活#NN 质量#NN ，#PU 却#AD 只#AD 能#VV 延长#VV 一#CD *RNR*-2#M 两#CD 个#M 月#NN 的#DEG 生命#NN ，#PU 所以#AD 不#AD 打算#VV *PRO*#NN 化疗#VV 了#AS 。#PU
+CHT_CMN_20121207.0027.su.xml	他们	337	36	在 北京 看 了 *OP* *T*-1 不同 的 科室 ， 都 认为 化疗 很 伤人 ， 严重 影响 生活 质量 ， 却 只 能 延长 一 *RNR*-2 两 个 月 的 生命 ， 所以 不 打算 *PRO* 化疗 了 。	s5	137487	在#P 北京#NR 看#VV 了#AS *OP*#NN *T*-1#NN 不同#VA 的#DEC 科室#NN ，#PU 都#AD 认为#VV 化疗#NN 很#AD 伤人#VV ，#PU 严重#AD 影响#VV 生活#NN 质量#NN ，#PU 却#AD 只#AD 能#VV 延长#VV 一#CD *RNR*-2#M 两#CD 个#M 月#NN 的#DEG 生命#NN ，#PU 所以#AD 不#AD 打算#VV *PRO*#NN 化疗#VV 了#AS 。#PU
+CHT_CMN_20121207.0027.su.xml	她	407	106	在 北京 看 了 *OP* *T*-1 不同 的 科室 ， 都 认为 化疗 很 伤人 ， 严重 影响 生活 质量 ， 却 只 能 延长 一 *RNR*-2 两 个 月 的 生命 ， 所以 不 打算 *PRO* 化疗 了 。	s5	137487	在#P 北京#NR 看#VV 了#AS *OP*#NN *T*-1#NN 不同#VA 的#DEC 科室#NN ，#PU 都#AD 认为#VV 化疗#NN 很#AD 伤人#VV ，#PU 严重#AD 影响#VV 生活#NN 质量#NN ，#PU 却#AD 只#AD 能#VV 延长#VV 一#CD *RNR*-2#M 两#CD 个#M 月#NN 的#DEG 生命#NN ，#PU 所以#AD 不#AD 打算#VV *PRO*#NN 化疗#VV 了#AS 。#PU
+CHT_CMN_20121207.0027.su.xml	她	431	0	看 了 *OP* 邵 老板 推荐 *T*-1 的 *OP* *T*-2 据说 很 著名 的 中医 世家 ， 带 了 中药 回去 ， 在 他们 县城 住院 *PRO* 支持 治疗 。	s5	137487	看#VV 了#AS *OP*#NR 邵#NR 老板#NN 推荐#VV *T*-1#VV 的#DEC *OP*#NR *T*-2#NR 据说#AD 很#AD 著名#VA 的#DEC 中医#NN 世家#NN ，#PU 带#VV 了#AS 中药#NN 回去#VV ，#PU 在#P 他们#PN 县城#NN 住院#VV *PRO*#NR 支持#VV 治疗#VV 。#PU
+CHT_CMN_20121207.0027.su.xml	她	523	92	看 了 *OP* 邵 老板 推荐 *T*-1 的 *OP* *T*-2 据说 很 著名 的 中医 世家 ， 带 了 中药 回去 ， 在 他们 县城 住院 *PRO* 支持 治疗 。	s5	137487	看#VV 了#AS *OP*#NR 邵#NR 老板#NN 推荐#VV *T*-1#VV 的#DEC *OP*#NR *T*-2#NR 据说#AD 很#AD 著名#VA 的#DEC 中医#NN 世家#NN ，#PU 带#VV 了#AS 中药#NN 回去#VV ，#PU 在#P 他们#PN 县城#NN 住院#VV *PRO*#NR 支持#VV 治疗#VV 。#PU
+CHT_CMN_20121207.0027.su.xml	形	556	22	我们 教会 一 个 朋友 搬到 波士顿 ， 据说 认识 一 个 老乡 ， 在 哈佛 医院 消化 科 ， 治疗 了 不少 肿瘤 病人 。	s5	137487	我们#PN 教会#VV 一#CD 个#M 朋友#NN 搬到#VV 波士顿#NR ，#PU 据说#AD 认识#VV 一#CD 个#M 老乡#NN ，#PU 在#P 哈佛#NR 医院#NN 消化#VV 科#NN ，#PU 治疗#VV 了#AS 不少#CD 肿瘤#NN 病人#NN 。#PU
+CHT_CMN_20121207.0027.su.xml	他	577	43	我们 教会 一 个 朋友 搬到 波士顿 ， 据说 认识 一 个 老乡 ， 在 哈佛 医院 消化 科 ， 治疗 了 不少 肿瘤 病人 。	s5	137487	我们#PN 教会#VV 一#CD 个#M 朋友#NN 搬到#VV 波士顿#NR ，#PU 据说#AD 认识#VV 一#CD 个#M 老乡#NN ，#PU 在#P 哈佛#NR 医院#NN 消化#VV 科#NN ，#PU 治疗#VV 了#AS 不少#CD 肿瘤#NN 病人#NN 。#PU
+CHT_CMN_20121207.0027.su.xml	它	717	103	她 帮 我 *PRO* 联系 上 这 个 医生 ， 据说 美国 这边 有 一些 药物 可以 提高 病人 的 免疫力 ， 他 给 我 订购 这 个 药 寄到 我 这里 ， 我 在 寄到 中国 ， 一 个 月 大概 400 美元 ， 我们 试试 看 。	s5	137487	她#PN 帮#VV 我#PN *PRO*#NN 联系#NN 上#LC 这#DT 个#M 医生#NN ，#PU 据说#AD 美国#NR 这边#PN 有#VE 一些#CD 药物#NN 可以#VV 提高#VV 病人#NN 的#DEG 免疫力#NN ，#PU 他#PN 给#P 我#PN 订购#VV 这#DT 个#M 药#NN 寄到#VV 我#PN 这里#PN ，#PU 我#PN 在#P 寄到#VV 中国#NR ，#PU 一#CD 个#M 月#NN 大概#AD 400#CD 美元#M ，#PU 我们#PN 试试#VV 看#VV 。#PU
+CHT_CMN_20121207.0027.su.xml	它	772	0	是 处方药 吗	s6	137167	是#VC 处方药#NN 吗#SP
+CHT_CMN_20121207.0027.su.xml	你们	813	0	还 可以 随便 买	s7	137167	还#AD 可以#VV 随便#AD 买#VV
+CHT_CMN_20121207.0027.su.xml	它	875	19	我 也 不 知道 这 个 药 ， 等 寄到 我 这里 再 看看 。	s8	137487	我#PN 也#AD 不#AD 知道#VV 这#DT 个#M 药#NN ，#PU 等#VV 寄到#VV 我#PN 这里#PN 再#AD 看看#VV 。#PU
+CHT_CMN_20121207.0027.su.xml	我	889	33	我 也 不 知道 这 个 药 ， 等 寄到 我 这里 再 看看 。	s8	137487	我#PN 也#AD 不#AD 知道#VV 这#DT 个#M 药#NN ，#PU 等#VV 寄到#VV 我#PN 这里#PN 再#AD 看看#VV 。#PU
+CHT_CMN_20121207.0027.su.xml	它	941	12	emma 有 感冒 了 和 上 次 一 个 症状 ， 今天 第一 天	s9	137167	emma#NR 有#VE 感冒#NN 了#SP 和#P 上#DT 次#M 一#CD 个#M 症状#NN ，#PU 今天#NT 第一#OD 天#M
+CHT_CMN_20121207.0027.su.xml	NONE	-1	-1	天气 变冷 了 ， 她 穿 少 了 或者 夜里 受凉 了 吧 ？	s10	137487	天气#NN 变冷#VV 了#AS ，#PU 她#PN 穿#VV 少#VV 了#AS 或者#CC 夜里#NN 受凉#VV 了#AS 吧#SP ？#PU
+CHT_CMN_20121207.0027.su.xml	NONE	-1	-1	你们 的 暖气 怎么样 ？	s10	137487	你们#PN 的#DEG 暖气#NN 怎么样#VA ？#PU
+CHT_CMN_20121207.0027.su.xml	它	1073	0	应该 是 保健品 ，	s11	137167	应该#VV 是#VC 保健品#NN ，#PU
+CHT_CMN_20121207.0027.su.xml	她	1118	0	还 那样	s12	137167	还#AD 那样#VA
+CHT_CMN_20121207.0027.su.xml	她	1164	7	我 可 害怕 在 感冒 了	s13	137167	我#PN 可#AD 害怕#VV 在#P 感冒#NN 了#SP
+CHT_CMN_20121207.0027.su.xml	它	1210	5	我 觉得 也 是 保健品 吧 。	s14	137487	我#PN 觉得#VV 也#AD 是#VC 保健品#NN 吧#SP 。#PU
+CHT_CMN_20121207.0027.su.xml	NONE	-1	-1	茉茉 嘉嘉 很 舍 不 得 爷爷 奶奶 回家 吧	s15	137167	茉茉#NN 嘉嘉#NN 很#AD 舍#VV 不#AD 得#VV 爷爷#NN 奶奶#NN 回家#VV 吧#SP
+CHT_CMN_20121207.0027.su.xml	你	1323	14	你 也 要 好好 休息 ， 累 了 就 容易 感冒 。	s16	137487	你#PN 也#AD 要#VV 好好#AD 休息#VV ，#PU 累#VV 了#AS 就#AD 容易#AD 感冒#VV 。#PU
+CHT_CMN_20121207.0027.su.xml	你	1333	24	你 也 要 好好 休息 ， 累 了 就 容易 感冒 。	s16	137487	你#PN 也#AD 要#VV 好好#AD 休息#VV ，#PU 累#VV 了#AS 就#AD 容易#AD 感冒#VV 。#PU
+CHT_CMN_20121207.0027.su.xml	我	1377	0	11点 睡觉	s17	137167	11点#NT 睡觉#VV
+CHT_CMN_20121207.0027.su.xml	NONE	-1	-1	你 工作 怎么样 了	s18	137167	你#PN 工作#NN 怎么样#VA 了#SP
+CHT_CMN_20121207.0027.su.xml	你	1457	0	还 很 忙 吗	s19	137167	还#AD 很#AD 忙#VA 吗#SP
+CHT_CMN_20121207.0027.su.xml	你	1499	0	适度 就 好 了	s20	137167	适度#AD 就#AD 好#VA 了#SP
+CHT_CMN_20121207.0027.su.xml	NONE	-1	-1	爷爷 奶奶 走 时 ， 邵 让 两 个 孩子 *PRO* 送 下去 ， 茉茉 不 愿意 *PRO* 穿 衣服 ， 没有 送 下去 ， 邵 很 生气 。	s21	137487	爷爷#NN 奶奶#NN 走#VV 时#LC ，#PU 邵#NR 让#VV 两#CD 个#M 孩子#NN *PRO*#AD 送#VV 下去#VV ，#PU 茉茉#VV 不#AD 愿意#VV *PRO*#VV 穿#VV 衣服#NN ，#PU 没有#VE 送#VV 下去#VV ，#PU 邵#NN 很#AD 生气#VV 。#PU
+CHT_CMN_20121207.0027.su.xml	NONE	-1	-1	嘉嘉 在 奶奶 走 后 还 哭 了 一 大 场 。	s21	137487	嘉嘉#NR 在#P 奶奶#NN 走#VV 后#LC 还#AD 哭#VV 了#AS 一#CD 大#JJ 场#M 。#PU
+CHT_CMN_20121207.0027.su.xml	NONE	-1	-1	今天 王 加班	s22	137167	今天#NT 王#NR 加班#VV
+CHT_CMN_20121207.0027.su.xml	你	1708	0	安慰 安慰 师兄 吧	s23	137167	安慰#NN 安慰#VV 师兄#NN 吧#SP
+CHT_CMN_20121207.0027.su.xml	我	1773	20	我 最近 工作 还是 很 忙 ， 明天 加班 一 整 天 。	s24	137487	我#PN 最近#NT 工作#NN 还是#AD 很#AD 忙#VA ，#PU 明天#NT 加班#VV 一#CD 整#JJ 天#M 。#PU
+CHT_CMN_20121207.0027.su.xml	它	1829	39	*OP* 上 次 我 和 你 说 *T*-1 的 那 个 实验 没 出来 ， 在 重复 ， 希望 明天 能 做 出来 。	s24	137487	*OP*#NN 上#DT 次#M 我#PN 和#P 你#PN 说#VV *T*-1#NR 的#DEG 那#DT 个#M 实验#NN 没#AD 出来#VV ，#PU 在#P 重复#VV ，#PU 希望#VV 明天#NT 能#VV 做#VV 出来#VV 。#PU
+CHT_CMN_20121207.0027.su.xml	我	1845	55	*OP* 上 次 我 和 你 说 *T*-1 的 那 个 实验 没 出来 ， 在 重复 ， 希望 明天 能 做 出来 。	s24	137487	*OP*#NN 上#DT 次#M 我#PN 和#P 你#PN 说#VV *T*-1#NR 的#DEG 那#DT 个#M 实验#NN 没#AD 出来#VV ，#PU 在#P 重复#VV ，#PU 希望#VV 明天#NT 能#VV 做#VV 出来#VV 。#PU
+CHT_CMN_20121207.0027.su.xml	NONE	-1	-1	工作 忙 ， 爸爸 又 生病 ， 压力 挺 大 的	s25	137167	工作#NN 忙#NN ，#PU 爸爸#NN 又#AD 生病#VV ，#PU 压力#NN 挺#AD 大#VA 的#SP
+CHT_CMN_20121207.0027.su.xml	它	1945	0	明天 一定 能 出来	s26	137167	明天#NT 一定#AD 能#VV 出来#VV
+CHT_CMN_20121207.0027.su.xml	NONE	-1	-1	那 叫 什么 了 ， 天 佑 什么 了	s27	137167	那#PN 叫#VV 什么#PN 了#SP ，#PU 天#NN 佑#VV 什么#PN 了#SP
+CHT_CMN_20121207.0027.su.xml	他	2049	11	邵 上 个 月 体检 发现 胆囊 息肉 ， 然后 公公 就 发现 了 问题 ， 所以 他 一直 忙于 *PRO* 照顾 公公 ， 他 告诉 我 最近 感觉 胆囊 那 个 地方 疼 。	s28	137487	邵#NN 上#DT 个#M 月#NN 体检#NN 发现#VV 胆囊#NN 息肉#NN ，#PU 然后#AD 公公#NN 就#AD 发现#VV 了#AS 问题#NN ，#PU 所以#AD 他#PN 一直#AD 忙于#VV *PRO*#NR 照顾#VV 公公#NN ，#PU 他#PN 告诉#VV 我#PN 最近#NT 感觉#VV 胆囊#VV 那#DT 个#M 地方#NN 疼#VV 。#PU
+CHT_CMN_20121207.0027.su.xml	他	2116	78	邵 上 个 月 体检 发现 胆囊 息肉 ， 然后 公公 就 发现 了 问题 ， 所以 他 一直 忙于 *PRO* 照顾 公公 ， 他 告诉 我 最近 感觉 胆囊 那 个 地方 疼 。	s28	137487	邵#NN 上#DT 个#M 月#NN 体检#NN 发现#VV 胆囊#NN 息肉#NN ，#PU 然后#AD 公公#NN 就#AD 发现#VV 了#AS 问题#NN ，#PU 所以#AD 他#PN 一直#AD 忙于#VV *PRO*#NR 照顾#VV 公公#NN ，#PU 他#PN 告诉#VV 我#PN 最近#NT 感觉#VV 胆囊#VV 那#DT 个#M 地方#NN 疼#VV 。#PU
+CHT_CMN_20121207.0027.su.xml	NONE	-1	-1	我 催 他 *PRO* 下 周 去 看 医生 。	s28	137487	我#PN 催#VV 他#PN *PRO*#NR 下#DT 周#M 去#VV 看#VV 医生#NN 。#PU
+CHT_CMN_20121207.0027.su.xml	NONE	-1	-1	他 刚 预约 下 周 去 看 。	s28	137487	他#PN 刚#AD 预约#VV 下#DT 周#M 去#VV 看#VV 。#PU
+CHT_CMN_20121207.0027.su.xml	NONE	-1	-1	胆囊 息肉 用 作 手术 吗	s29	137167	胆囊#NN 息肉#NN 用#VV 作#VV 手术#NN 吗#SP
+CHT_CMN_20121207.0027.su.xml	NONE	-1	-1	今天 他 早上 4点半 就 去 火车站 接 我 妈妈 ， 火车 却 晚点 快 两 个 小时 ， 他 傻傻 地 就 在 站台 上 等 ， 说 人 都 成 冰棍 了 。	s30	137487	今天#NT 他#PN 早上#NT 4点半#NT 就#AD 去#VV 火车站#NN 接#VV 我#PN 妈妈#NN ，#PU 火车#NN 却#AD 晚点#JJ 快#JJ 两#CD 个#M 小时#NN ，#PU 他#PN 傻傻#AD 地#DEV 就#AD 在#P 站台#NN 上#LC 等#VV ，#PU 说#VV 人#NN 都#AD 成#VV 冰棍#NN 了#SP 。#PU
+CHT_CMN_20121207.0027.su.xml	他	2338	0	现在 正 躺 在 被窝 里 睡觉 。	s30	137487	现在#NT 正#AD 躺#VV 在#P 被窝#NN 里#LC 睡觉#VV 。#PU
+CHT_CMN_20121207.0027.su.xml	NONE	-1	-1	我 妈妈 也 在 睡觉 。	s30	137487	我#PN 妈妈#NN 也#AD 在#AD 睡觉#VV 。#PU
+CHT_CMN_20121207.0027.su.xml	NONE	-1	-1	两 个 孩子 开 着 视频 在 玩 ， 我 看 着 。	s30	137487	两#CD 个#M 孩子#NN 开#VV 着#AS 视频#NN 在#AD 玩#VV ，#PU 我#PN 看#VV 着#AS 。#PU
+CHT_CMN_20121207.0027.su.xml	NONE	-1	-1	小孩 怎么样	s31	137167	小孩#NN 怎么样#VA
+CHT_CMN_20121207.0027.su.xml	他	2484	16	胆囊 息肉 大于 1 个 厘米 需要 手术 ， 当心 癌变 。	s32	137487	胆囊#NN 息肉#NN 大于#VV 1#CD 个#M 厘米#M 需要#VV 手术#NN ，#PU 当心#VV 癌变#NN 。#PU
+CHT_CMN_20121207.0027.su.xml	它	2498	30	胆囊 息肉 大于 1 个 厘米 需要 手术 ， 当心 癌变 。	s32	137487	胆囊#NN 息肉#NN 大于#VV 1#CD 个#M 厘米#M 需要#VV 手术#NN ，#PU 当心#VV 癌变#NN 。#PU
+CHT_CMN_20121207.0027.su.xml	它1	2512	0	小 得话 要 定期 复查 。	s32	137487	小#JJ 得话#NN 要#VV 定期#AD 复查#VV 。#PU
+CHT_CMN_20121207.0027.su.xml	他	2523	11	小 得话 要 定期 复查 。	s32	137487	小#JJ 得话#NN 要#VV 定期#AD 复查#VV 。#PU
+CHT_CMN_20121207.0027.su.xml	NONE	-1	-1	两 个 孩子 不 谙 世事 ， 随时 都 开开心心 。	s33	137487	两#CD 个#M 孩子#NN 不#AD 谙#VV 世事#NN ，#PU 随时#AD 都#AD 开开心心#VV 。#PU
+CHT_CMN_20121207.0027.su.xml	他	2623	0	冻着 了 ， 要 和 点 姜汤水 ， 睡 一 觉 ， 出 点 汗 ， 就 好 了	s34	137167	冻着#VV 了#AS ，#PU 要#VV 和#P 点#NN 姜汤水#NN ，#PU 睡#VV 一#CD 觉#VV ，#PU 出#VV 点#M 汗#NN ，#PU 就#AD 好#VA 了#SP
+CHT_CMN_20121207.0027.su.xml	他	2636	13	冻着 了 ， 要 和 点 姜汤水 ， 睡 一 觉 ， 出 点 汗 ， 就 好 了	s34	137167	冻着#VV 了#AS ，#PU 要#VV 和#P 点#NN 姜汤水#NN ，#PU 睡#VV 一#CD 觉#VV ，#PU 出#VV 点#M 汗#NN ，#PU 就#AD 好#VA 了#SP
+CHT_CMN_20121207.0027.su.xml	NONE	-1	-1	小孩 应该 这样	s35	137167	小孩#NN 应该#VV 这样#VA
+CHT_CMN_20121207.0027.su.xml	NONE	-1	-1	你 要 做好 后盾	s36	137167	你#PN 要#VV 做好#VV 后盾#NN
+CHT_CMN_20121207.0027.su.xml	你	2786	7	你 做 实验 出不多 就 行 了	s37	137167	你#PN 做#VV 实验#NN 出不多#NR 就#AD 行#VV 了#AS
+CHT_CMN_20121207.0027.su.xml	NONE	-1	-1	他 懒得 *PRO* 动 ， 就 想 *PRO* 睡觉 。	s38	137487	他#PN 懒得#AD *PRO*#AD 动#VV ，#PU 就#AD 想#VV *PRO*#VV 睡觉#VV 。#PU
+CHT_CMN_20121207.0027.su.xml	它1	2860	0	不 行 的话 晚上 睡 前 让 我 妈吗 *PRO* 给 他 煮 点 姜汤 。	s38	137487	不#AD 行#VV 的话#SP 晚上#NT 睡#VV 前#LC 让#VV 我#PN 妈吗#VV *PRO*#NR 给#P 他#PN 煮#VV 点#M 姜汤#NN 。#PU
+CHT_CMN_20121207.0027.su.xml	我	2873	13	不 行 的话 晚上 睡 前 让 我 妈吗 *PRO* 给 他 煮 点 姜汤 。	s38	137487	不#AD 行#VV 的话#SP 晚上#NT 睡#VV 前#LC 让#VV 我#PN 妈吗#VV *PRO*#NR 给#P 他#PN 煮#VV 点#M 姜汤#NN 。#PU
+CHT_CMN_20121207.0027.su.xml	他	2879	19	不 行 的话 晚上 睡 前 让 我 妈吗 *PRO* 给 他 煮 点 姜汤 。	s38	137487	不#AD 行#VV 的话#SP 晚上#NT 睡#VV 前#LC 让#VV 我#PN 妈吗#VV *PRO*#NR 给#P 他#PN 煮#VV 点#M 姜汤#NN 。#PU
+CHT_CMN_20121207.0027.su.xml	她	2946	0	辣 着 点 在 放 点 红糖	s39	137167	辣#VA 着#AS 点#AD 在#P 放#VV 点#M 红糖#NN
+CHT_CMN_20121207.0027.su.xml	她	2958	12	辣 着 点 在 放 点 红糖	s39	137167	辣#VA 着#AS 点#AD 在#P 放#VV 点#M 红糖#NN
+CHT_CMN_20121207.0027.su.xml	NONE	-1	-1	我 自己 会 注意 身体 的 。	s40	137487	我#PN 自己#PN 会#VV 注意#VV 身体#NN 的#SP 。#PU
+CHT_CMN_20121207.0027.su.xml	他	3049	3	然后 盖 被子 睡觉	s41	137167	然后#AD 盖#VV 被子#NN 睡觉#VV
+CHT_CMN_20121207.0027.su.xml	你	3091	0	需要 钱 的话 我 家 有	s42	137167	需要#VV 钱#NN 的话#SP 我#PN 家#NN 有#VE
+CHT_CMN_20121207.0027.su.xml	它1	3139	0	明天 做完 实验 后 就 是 采图 分析 结果 。	s43	137487	明天#NT 做完#VV 实验#NN 后#LC 就#AD 是#VC 采图#NN 分析#NN 结果#NN 。#PU
+CHT_CMN_20121207.0027.su.xml	我	3145	6	明天 做完 实验 后 就 是 采图 分析 结果 。	s43	137487	明天#NT 做完#VV 实验#NN 后#LC 就#AD 是#VC 采图#NN 分析#NN 结果#NN 。#PU
+CHT_CMN_20121207.0027.su.xml	我1	3177	0	不 养 细胞 了 。	s43	137487	不#AD 养#VV 细胞#NN 了#SP 。#PU
+CHT_CMN_20121207.0027.su.xml	它1	3199	5	下 周五 该 我 做 报告 ， 下 周 忙 一下 。	s43	137487	下#DT 周五#NT 该#VV 我#PN 做#VV 报告#NN ，#PU 下#DT 周#M 忙#VV 一下#AD 。#PU
+CHT_CMN_20121207.0027.su.xml	我	3216	22	下 周五 该 我 做 报告 ， 下 周 忙 一下 。	s43	137487	下#DT 周五#NT 该#VV 我#PN 做#VV 报告#NN ，#PU 下#DT 周#M 忙#VV 一下#AD 。#PU
+CHT_CMN_20121207.0027.su.xml	NONE	-1	-1	钱 现在 还 行 。	s44	137487	钱#NN 现在#NT 还#AD 行#VA 。#PU
+CHT_CMN_20121207.0027.su.xml	我	3300	0	感觉 你 外表 柔弱 ， 内心 强大	s45	137167	感觉#VV 你#PN 外表#NN 柔弱#VA ，#PU 内心#NN 强大#VA
+CHT_CMN_20121207.0027.su.xml	我	3353	0	也 没有 那么 强大 啦 。	s46	137487	也#AD 没有#AD 那么#AD 强大#VA 啦#SP 。#PU
+CHT_CMN_20121207.0027.su.xml	我	3413	11	你 看 小孩 吧 ， 就 想 *PRO* 知道 怎么样 了	s47	137167	你#PN 看#VV 小孩#NN 吧#SP ，#PU 就#AD 想#VV *PRO*#VV 知道#VV 怎么样#VV 了#SP
+CHT_CMN_20121207.0027.su.xml	你1	3432	30	你 看 小孩 吧 ， 就 想 *PRO* 知道 怎么样 了	s47	137167	你#PN 看#VV 小孩#NN 吧#SP ，#PU 就#AD 想#VV *PRO*#VV 知道#VV 怎么样#VV 了#SP
+CHT_CMN_20121207.0027.su.xml	你1	3472	0	有 事 告诉 我	s48	137167	有#VE 事#NN 告诉#VV 我#PN
+CHT_CMN_20121207.0027.su.xml	你1	3482	10	有 事 告诉 我	s48	137167	有#VE 事#NN 告诉#VV 我#PN
+CHT_CMN_20121207.0027.su.xml	NONE	-1	-1	我们 12月 21日 中午 聚餐 ， 然后 就 放假 ， 我 可能 在 那 个 周五 就 可以 去 你 那里 ， 一直 到 星期二 才 回来 。	s49	137487	我们#PN 12月#NT 21日#NT 中午#NT 聚餐#VV ，#PU 然后#AD 就#AD 放假#VV ，#PU 我#PN 可能#AD 在#P 那#DT 个#M 周五#NT 就#AD 可以#VV 去#VV 你#PN 那里#PN ，#PU 一直#AD 到#P 星期二#NT 才#AD 回来#VV 。#PU
+CHT_CMN_20121207.0027.su.xml	它1	3622	0	好 呀 ， 你 要 下 周 没 事 也 过来 吧	s50	137167	好#VA 呀#SP ，#PU 你#PN 要#VV 下#DT 周#M 没#VE 事#NN 也#AD 过来#VV 吧#SP
+CHT_CMN_20121207.0027.su.xml	你1	3646	24	好 呀 ， 你 要 下 周 没 事 也 过来 吧	s50	137167	好#VA 呀#SP ，#PU 你#PN 要#VV 下#DT 周#M 没#VE 事#NN 也#AD 过来#VV 吧#SP
+CHT_CMN_20121207.0027.su.xml	我1	3696	9	这 两 个 周末 就 在 这边 忙 一下 。	s51	137487	这#DT 两#CD 个#M 周末#NT 就#AD 在#P 这边#PN 忙#VV 一下#AD 。#PU
+CHT_CMN_20121207.0027.su.xml	我1	3716	0	有 事 我 会 联系 你 的 。	s51	137487	有#VE 事#NN 我#PN 会#VV 联系#VV 你#PN 的#SP 。#PU
+CHT_CMN_20121207.0027.su.xml	NONE	-1	-1	你 自己 不 要 感冒 了 。	s51	137487	你#PN 自己#PN 不#AD 要#VV 感冒#VV 了#SP 。#PU
+CHT_CMN_20121207.0027.su.xml	其	3795	12	我们 做 些 *OP* 吃 *T*-1 的	s52	137167	我们#PN 做#VV 些#M *OP*#NN 吃#VV *T*-1#NN 的#SP
+CHT_CMN_20121207.0027.su.xml	它1	3839	0	好 的 。	s53	137487	好#VA 的#SP 。#PU

@@ -1,0 +1,39 @@
+CHT_CMN_20130511.0012.su.xml	NONE	-1	-1	你 好 ， 这 张 不 是 照片 的 格式 ， 你 能 转化 为 照片 的 格式 吗 ？	s0	131603	你#PN 好#VA ，#PU 这#DT 张#M 不#AD 是#VC 照片#NN 的#DEG 格式#NN ，#PU 你#PN 能#VV 转化#VV 为#VV 照片#NN 的#DEC 格式#NN 吗#SP ？#PU
+CHT_CMN_20130511.0012.su.xml	NONE	-1	-1	我 美国 签证 需要 用到 这 张 照片	s1	131603	我#PN 美国#NR 签证#NN 需要#VV 用到#VV 这#DT 张#M 照片#NN
+CHT_CMN_20130511.0012.su.xml	NONE	-1	-1	或者 根据 这 个 PDF 格式 ， 你们 能 打印 出 照片 的 形式 吗 ？	s2	131603	或者#CC 根据#P 这#DT 个#M PDF#NN 格式#NN ，#PU 你们#PN 能#VV 打印#VV 出#VV 照片#NN 的#DEG 形式#NN 吗#SP ？#PU
+CHT_CMN_20130511.0012.su.xml	它	190	0	如果 可以 ， 也 行	s2	131603	如果#CS 可以#VV ，#PU 也#AD 行#VV
+CHT_CMN_20130511.0012.su.xml	它	235	0	可以	s3	137643	可以#VV
+CHT_CMN_20130511.0012.su.xml	你	271	0	要 加洗 一 版 吗	s4	137643	要#VV 加洗#VV 一#CD 版#NN 吗#SP
+CHT_CMN_20130511.0012.su.xml	NONE	-1	-1	你们 那里 有 美国 签证 照片 的 格式 大小 吗 ？	s5	131603	你们#PN 那里#PN 有#VE 美国#NR 签证#NN 照片#NN 的#DEG 格式#NN 大小#NN 吗#SP ？#PU
+CHT_CMN_20130511.0012.su.xml	我	344	0	加洗 一 版 多少 钱 ？	s5	131603	加洗#VV 一#CD 版#M 多少#CD 钱#NN ？#PU
+CHT_CMN_20130511.0012.su.xml	你	391	0	便宜 点 ， 我 经常 在 你们 那 打印 的	s6	131603	便宜#VA 点#AD ，#PU 我#PN 经常#AD 在#P 你们#PN 那#DT 打印#VV 的#SP
+CHT_CMN_20130511.0012.su.xml	你	448	0	这 两 天 几乎 每 天 都 能 看到 我	s7	131603	这#DT 两#CD 天#M 几乎#AD 每#DT 天#M 都#AD 能#VV 看到#VV 我#PN
+CHT_CMN_20130511.0012.su.xml	我	514	11	另外 ， 普通 照片 洗 一 张 *T*-1 多少 钱 ？	s8	131603	另外#AD ，#PU 普通#JJ 照片#NN 洗#VV 一#CD 张#M *T*-1#VV 多少#CD 钱#NN ？#PU
+CHT_CMN_20130511.0012.su.xml	NONE	-1	-1	我 提供 电子版 的	s8	131603	我#PN 提供#VV 电子版#NN 的#DEC
+CHT_CMN_20130511.0012.su.xml	我	583	6	另另外 ， 复印 一 张 黑白 A4纸 文件 多少 钱 ？	s9	131603	另另外#AD ，#PU 复印#VV 一#CD 张#M 黑白#JJ A4纸#NN 文件#NN 多少#CD 钱#NN ？#PU
+CHT_CMN_20130511.0012.su.xml	你	641	0	加洗 一 版 是 15 元 一 版 2 张 5 * 5	s10	137643	加洗#VV 一#CD 版#M 是#VC 15#CD 元#M 一#CD 版#M 2#CD 张#M 5#CD *#PU 5#CD
+CHT_CMN_20130511.0012.su.xml	NONE	-1	-1	2 寸 正方形 （ 51 mm x 51 mm ） 彩色 正面 照	s11	131603	2#CD 寸#M 正方形#NN （#PU 51#CD mm#NN x#PU 51#CD mm#NN ）#PU 彩色#JJ 正面#NN 照#VV
+CHT_CMN_20130511.0012.su.xml	NONE	-1	-1	一 版 才 两 张 ？	s12	131603	一#CD 版#NN 才#AD 两#CD 张#M ？#PU
+CHT_CMN_20130511.0012.su.xml	NONE	-1	-1	[ 表情 ]	s12	131603	[#PU 表情#NN ]#PU
+CHT_CMN_20130511.0012.su.xml	NONE	-1	-1	你 这个 改 不 了 *-1	s13	137643	你#PN 这个#DT 改#AD 不#AD 了#VV *-1#NN
+CHT_CMN_20130511.0012.su.xml	NONE	-1	-1	大小 调 不 出来	s14	137643	大小#NN 调#VV 不#AD 出来#VV
+CHT_CMN_20130511.0012.su.xml	其	897	4	哦 ， 这样 ， 那 算了	s15	131603	哦#IJ ，#PU 这样#VA ，#PU 那#AD 算了#VV
+CHT_CMN_20130511.0012.su.xml	我	910	17	哦 ， 这样 ， 那 算了	s15	131603	哦#IJ ，#PU 这样#VA ，#PU 那#AD 算了#VV
+CHT_CMN_20130511.0012.su.xml	NONE	-1	-1	您 过来 照 一下 吧	s16	137643	您#PN 过来#VV 照#VV 一下#AD 吧#SP
+CHT_CMN_20130511.0012.su.xml	NONE	-1	-1	你们 那边 可以 照 吗 ？	s17	131603	你们#PN 那边#PN 可以#VV 照#VV 吗#SP ？#PU
+CHT_CMN_20130511.0012.su.xml	NONE	-1	-1	美国 签证 照片 ？	s18	131603	美国#NR 签证#NN 照片#NN ？#PU
+CHT_CMN_20130511.0012.su.xml	它	1069	0	可以	s19	137643	可以#VV
+CHT_CMN_20130511.0012.su.xml	它	1115	9	20 元 一 版 连 照 在 洗	s20	137643	20#CD 元#M 一#CD 版#M 连#AD 照#P 在#P 洗#VV
+CHT_CMN_20130511.0012.su.xml	它	1157	0	好 的	s21	131603	好#VA 的#SP
+CHT_CMN_20130511.0012.su.xml	我	1201	6	你 好 ， 麻烦 第一 份 文件 只 打印 第一 页	s22	131603	你#PN 好#VA ，#PU 麻烦#NN 第一#OD 份#M 文件#NN 只#AD 打印#VV 第一#OD 页#M
+CHT_CMN_20130511.0012.su.xml	其	1210	15	你 好 ， 麻烦 第一 份 文件 只 打印 第一 页	s22	131603	你#PN 好#VA ，#PU 麻烦#NN 第一#OD 份#M 文件#NN 只#AD 打印#VV 第一#OD 页#M
+CHT_CMN_20130511.0012.su.xml	我	1281	19	第二 份 文件 Study Plan 打印 一 份 *T*-1	s23	131603	第二#OD 份#M 文件#NN Study#NN Plan#NR 打印#VV 一#CD 份#M *T*-1#NN
+CHT_CMN_20130511.0012.su.xml	NONE	-1	-1	我 晚上 7：30 去 取	s24	131603	我#PN 晚上#NT 7：30#NT 去#VV 取#VV
+CHT_CMN_20130511.0012.su.xml	它	1370	0	好	s25	137643	好#VA
+CHT_CMN_20130511.0012.su.xml	我	1406	0	谢谢 [ 表情 ]	s26	131603	谢谢#VV [#PU 表情#NN ]#PU
+CHT_CMN_20130511.0012.su.xml	我	1450	0	不好意思 呀 ， 你 还 没有 打印 吧 ？	s27	131603	不好意思#VV 呀#SP ，#PU 你#PN 还#AD 没有#VE 打印#VV 吧#SP ？#PU
+CHT_CMN_20130511.0012.su.xml	我	1512	5	第二 份 打印 这 个 版本 的 ，	s28	131603	第二#OD 份#M 打印#VV 这#DT 个#M 版本#NN 的#SP ，#PU
+CHT_CMN_20130511.0012.su.xml	我1	1560	0	打完 了	s29	137643	打完#VV 了#AS
+CHT_CMN_20130511.0012.su.xml	其	1605	6	哦 ， 那 *OP* 打完 *T*-1 的 那 张 不 要 *T*-2 ， 要 这 张	s30	131603	哦#IJ ，#PU 那#AD *OP*#AD 打完#VV *T*-1#NN 的#DEC 那#DT 张#M 不#AD 要#VV *T*-2#VV ，#PU 要#VV 这#DT 张#M
+CHT_CMN_20130511.0012.su.xml	我1	1616	17	哦 ， 那 *OP* 打完 *T*-1 的 那 张 不 要 *T*-2 ， 要 这 张	s30	131603	哦#IJ ，#PU 那#AD *OP*#AD 打完#VV *T*-1#NN 的#DEC 那#DT 张#M 不#AD 要#VV *T*-2#VV ，#PU 要#VV 这#DT 张#M
+CHT_CMN_20130511.0012.su.xml	形	1686	3	因为 有 个 教授 的 名称 改 了 一下	s31	131603	因为#P 有#VE 个#M 教授#NN 的#DEG 名称#NN 改#VV 了#AS 一下#AD

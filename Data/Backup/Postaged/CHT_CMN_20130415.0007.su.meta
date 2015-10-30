@@ -1,0 +1,47 @@
+CHT_CMN_20130415.0007.su.xml	NONE	-1	-1	你 好 巩 工 在 么	s0	132065	你#PN 好#AD 巩#VV 工#NN 在#P 么#SP
+CHT_CMN_20130415.0007.su.xml	我	68	0	在	s1	133497	在#P
+CHT_CMN_20130415.0007.su.xml	NONE	-1	-1	这个 是 耳 鼻 喉 科 的 手术 申请 单	s2	132065	这个#PN 是#VC 耳#NN 鼻#NN 喉#NN 科#NN 的#DEG 手术#NN 申请#NN 单#NN
+CHT_CMN_20130415.0007.su.xml	我	795	10	他们 说 *OP* *T*-1 以前 打印 的 时候 没有 框 的 光 子	s3	132065	他们#PN 说#VV *OP*#NR *T*-1#NR 以前#LC 打印#VV 的#DEC 时候#NN 没有#VE 框#NN 的#DEC 光#NN 子#NN
+CHT_CMN_20130415.0007.su.xml	我	890	33	他们 说 *OP* *T*-1 以前 打印 的 时候 没有 框 的 光 子	s3	132065	他们#PN 说#VV *OP*#NR *T*-1#NR 以前#LC 打印#VV 的#DEC 时候#NN 没有#VE 框#NN 的#DEC 光#NN 子#NN
+CHT_CMN_20130415.0007.su.xml	我	942	0	光 字	s4	132065	光#AD 字#NN
+CHT_CMN_20130415.0007.su.xml	我	965	0	现在 带 框	s5	132065	现在#NT 带#VV 框#NN
+CHT_CMN_20130415.0007.su.xml	我	1017	0	而且 以前 可以 选择 从 第几 行 打印	s6	132065	而且#AD 以前#NT 可以#VV 选择#VV 从#P 第几#OD 行#NN 打印#VV
+CHT_CMN_20130415.0007.su.xml	我	1055	18	而且 以前 可以 选择 从 第几 行 打印	s6	132065	而且#AD 以前#NT 可以#VV 选择#VV 从#P 第几#OD 行#NN 打印#VV
+CHT_CMN_20130415.0007.su.xml	我	1849	0	现在 都 是 *OP* 默认 *T*-1 的 -1 而且 没 办法 改	s7	132065	现在#NT 都#AD 是#VC *OP*#NN 默认#VV *T*-1#VV 的#DEC -1#NN 而且#AD 没#VE 办法#NN 改#VV
+CHT_CMN_20130415.0007.su.xml	你	531	18	现在 都 是 *OP* 默认 *T*-1 的 -1 而且 没 办法 改	s7	132065	现在#NT 都#AD 是#VC *OP*#NN 默认#VV *T*-1#VV 的#DEC -1#NN 而且#AD 没#VE 办法#NN 改#VV
+CHT_CMN_20130415.0007.su.xml	你	1235	41	现在 都 是 *OP* 默认 *T*-1 的 -1 而且 没 办法 改	s7	132065	现在#NT 都#AD 是#VC *OP*#NN 默认#VV *T*-1#VV 的#DEC -1#NN 而且#AD 没#VE 办法#NN 改#VV
+CHT_CMN_20130415.0007.su.xml	NONE	-1	-1	程序 默认 就 是 -1	s8	133497	程序#NN 默认#VV 就#AD 是#VC -1#NN
+CHT_CMN_20130415.0007.su.xml	NONE	-1	-1	现在 打印 格式 错乱 ？	s9	133497	现在#NT 打印#VV 格式#NN 错乱#VA ？#PU
+CHT_CMN_20130415.0007.su.xml	你	1359	0	有没有 试 过 *PRO* 在 别的 电脑 上 打印 ？	s10	133497	有没有#AD 试#VV 过#AS *PRO*#NR 在#P 别的#DT 电脑#NN 上#LC 打印#VV ？#PU
+CHT_CMN_20130415.0007.su.xml	你	1399	0	主要 是 他们 说 以前 能 改 现在 改 不 了	s11	132065	主要#AD 是#VC 他们#PN 说#VV 以前#NT 能#VV 改#VV 现在#NT 改#VV 不#AD 了#VV
+CHT_CMN_20130415.0007.su.xml	你	1412	16	主要 是 他们 说 以前 能 改 现在 改 不 了	s11	132065	主要#AD 是#VC 他们#PN 说#VV 以前#NT 能#VV 改#VV 现在#NT 改#VV 不#AD 了#VV
+CHT_CMN_20130415.0007.su.xml	你	1504	5	*OP* 调 出来 *T*-1 的 面 上 没 显示 框 但是 一 打印 在 打印 预览 上 九 幽	s12	132065	*OP*#NR 调#VV 出来#VV *T*-1#VV 的#DEC 面#NN 上#LC 没#AD 显示#VV 框#NN 但是#AD 一#AD 打印#VV 在#P 打印#VV 预览#NN 上#LC 九#CD 幽#M
+CHT_CMN_20130415.0007.su.xml	你	1592	38	*OP* 调 出来 *T*-1 的 面 上 没 显示 框 但是 一 打印 在 打印 预览 上 九 幽	s12	132065	*OP*#NR 调#VV 出来#VV *T*-1#VV 的#DEC 面#NN 上#LC 没#AD 显示#VV 框#NN 但是#AD 一#AD 打印#VV 在#P 打印#VV 预览#NN 上#LC 九#CD 幽#M
+CHT_CMN_20130415.0007.su.xml	你	1645	49	*OP* 调 出来 *T*-1 的 面 上 没 显示 框 但是 一 打印 在 打印 预览 上 九 幽	s12	132065	*OP*#NR 调#VV 出来#VV *T*-1#VV 的#DEC 面#NN 上#LC 没#AD 显示#VV 框#NN 但是#AD 一#AD 打印#VV 在#P 打印#VV 预览#NN 上#LC 九#CD 幽#M
+CHT_CMN_20130415.0007.su.xml	你	1740	0	就 有	s13	132065	就#AD 有#VE
+CHT_CMN_20130415.0007.su.xml	它	163	0	在 他 对面 的 机器 上 也 试 了 下 一样 的	s14	132065	在#P 他#PN 对面#NN 的#DEG 机器#NN 上#LC 也#AD 试#VV 了#AS 下#DT 一样#VA 的#SP
+CHT_CMN_20130415.0007.su.xml	它	186	28	在 他 对面 的 机器 上 也 试 了 下 一样 的	s14	132065	在#P 他#PN 对面#NN 的#DEG 机器#NN 上#LC 也#AD 试#VV 了#AS 下#DT 一样#VA 的#SP
+CHT_CMN_20130415.0007.su.xml	它	267	28	*OP* *T*-1 默认 是 -1 的 先 要 序打 只 需要 在 其他 空格 单击 下	s15	133497	*OP*#NR *T*-1#NN 默认#VV 是#VC -1#VV 的#DEC 先#AD 要#VV 序打#VV 只#AD 需要#VV 在#P 其他#DT 空格#NN 单击#VV 下#LC
+CHT_CMN_20130415.0007.su.xml	它	307	0	想 *PRO* 从 那 开始 打 就 单击 哪 个 单元格	s16	133497	想#VV *PRO*#NR 从#P 那#PN 开始#VV 打#VV 就#AD 单击#VV 哪#DT 个#M 单元格#NN
+CHT_CMN_20130415.0007.su.xml	它	325	23	想 *PRO* 从 那 开始 打 就 单击 哪 个 单元格	s16	133497	想#VV *PRO*#NR 从#P 那#PN 开始#VV 打#VV 就#AD 单击#VV 哪#DT 个#M 单元格#NN
+CHT_CMN_20130415.0007.su.xml	它	368	5	*OP* 现在 单击 出来 *T*-1 的 一 个 框 里面 显示 -1 没法 修改	s17	132065	*OP*#NR 现在#NT 单击#VV 出来#VV *T*-1#VV 的#DEC 一#CD 个#M 框#NN 里面#NN 显示#VV -1#NN 没法#AD 修改#VV
+CHT_CMN_20130415.0007.su.xml	它	386	43	*OP* 现在 单击 出来 *T*-1 的 一 个 框 里面 显示 -1 没法 修改	s17	132065	*OP*#NR 现在#NT 单击#VV 出来#VV *T*-1#VV 的#DEC 一#CD 个#M 框#NN 里面#NN 显示#VV -1#NN 没法#AD 修改#VV
+CHT_CMN_20130415.0007.su.xml	NONE	-1	-1	-1 是 *OP* *T*-1 正确 的	s18	133497	-1#NN 是#VC *OP*#NN *T*-1#NN 正确#VA 的#SP
+CHT_CMN_20130415.0007.su.xml	它	409	0	默认 就 是	s19	133497	默认#VV 就#AD 是#VC
+CHT_CMN_20130415.0007.su.xml	NONE	-1	-1	我 让 人 *PRO* 给 远程 下	s20	133497	我#PN 让#VV 人#NN *PRO*#VV 给#VV 远程#NN 下#LC
+CHT_CMN_20130415.0007.su.xml	它	594	3	现在 能 远程 吧	s21	133497	现在#NT 能#VV 远程#NN 吧#SP
+CHT_CMN_20130415.0007.su.xml	NONE	-1	-1	恩 那 个 框 怎么 改 ？	s22	132065	恩#IJ 那#DT 个#M 框#NN 怎么#AD 改#VV ？#PU
+CHT_CMN_20130415.0007.su.xml	NONE	-1	-1	主任 的 机器 空 着	s23	132065	主任#NN 的#DEG 机器#NN 空#VA 着#AS
+CHT_CMN_20130415.0007.su.xml	它	610	0	远程 看看	s24	133497	远程#NN 看看#VV
+CHT_CMN_20130415.0007.su.xml	它1	665	0	能 远程 了 直接 找 我 就 行	s25	133497	能#VV 远程#NN 了#SP 直接#AD 找#VV 我#PN 就#AD 行#VV
+CHT_CMN_20130415.0007.su.xml	它1	698	13	能 远程 了 直接 找 我 就 行	s25	133497	能#VV 远程#NN 了#SP 直接#AD 找#VV 我#PN 就#AD 行#VV
+CHT_CMN_20130415.0007.su.xml	NONE	-1	-1	恩 马上 我 就 过去	s26	132065	恩#IJ 马上#AD 我#PN 就#AD 过去#VV
+CHT_CMN_20130415.0007.su.xml	它1	709	7	你 好 麻烦 给 登陆 下 病历 。	s27	133497	你#PN 好#AD 麻烦#VV 给#VV 登陆#VV 下#LC 病历#NN 。#PU
+CHT_CMN_20130415.0007.su.xml	NONE	-1	-1	我 不 清楚 管理员 密码	s28	133497	我#PN 不#AD 清楚#VV 管理员#NN 密码#NN
+CHT_CMN_20130415.0007.su.xml	它1	757	0	在 么 ？	s29	133497	在#P 么#SP ？#PU
+CHT_CMN_20130415.0007.su.xml	它1	823	13	原来 所有 的 同意 书 打印 都 没有 边框 ？	s30	133497	原来#AD 所有#DT 的#DEG 同意#VV 书#NN 打印#VV 都#AD 没有#VE 边框#NN ？#PU
+CHT_CMN_20130415.0007.su.xml	它1	1144	11	恩 科室 的 人 说 没有	s31	132065	恩#IJ 科室#NN 的#DEC 人#NN 说#VV 没有#AD
+CHT_CMN_20130415.0007.su.xml	它1	1703	0	稍等 我 让 技术 人员 *PRO* 看 下	s32	133497	稍等#VV 我#PN 让#VV 技术#NN 人员#NN *PRO*#NN 看#VV 下#LC
+CHT_CMN_20130415.0007.su.xml	NONE	-1	-1	技术 人员 稍等 会 联系 王 主任 的 QQ	s33	133497	技术#NN 人员#NN 稍等#VV 会#VV 联系#VV 王#NN 主任#NN 的#DEG QQ#NN
+CHT_CMN_20130415.0007.su.xml	其	230	0	麻烦 您 *PRO* 过去 给 开 下 远程	s34	133497	麻烦#NN 您#PN *PRO*#VV 过去#NT 给#P 开#VV 下#LC 远程#NN
+CHT_CMN_20130415.0007.su.xml	NONE	-1	-1	我 打开 他 的 Q 放 在 桌面 上	s35	133497	我#PN 打开#VV 他#PN 的#DEG Q#VA 放#VV 在#P 桌面#NN 上#LC

@@ -1,0 +1,103 @@
+CHT_CMN_20130519.0005.su.xml	NONE	-1	-1	尹 老师 好	s0	135208	尹#NR 老师#NN 好#VA
+CHT_CMN_20130519.0005.su.xml	NONE	-1	-1	周 老师 好	s1	135756	周#NR 老师#NN 好#VA
+CHT_CMN_20130519.0005.su.xml	我	141	0	在 那边 好 吗 ?	s2	135756	在#P 那边#PN 好#VA 吗#SP ?#PU
+CHT_CMN_20130519.0005.su.xml	我	1205	0	还 好 天气 开始 热 了	s3	135208	还#AD 好#AD 天气#NN 开始#VV 热#VA 了#SP
+CHT_CMN_20130519.0005.su.xml	NONE	-1	-1	你 那边 怎么样 ？	s4	135208	你#PN 那边#PN 怎么样#VV ？#PU
+CHT_CMN_20130519.0005.su.xml	我	1316	16	实验室 有 一 双 旱冰鞋 ， 是 你 的 吗 ?	s5	135756	实验室#NN 有#VE 一#CD 双#M 旱冰鞋#NN ，#PU 是#VC 你#PN 的#DEG 吗#SP ?#PU
+CHT_CMN_20130519.0005.su.xml	NONE	-1	-1	办公室 换到 414 了 ， 其他 还 那样 吧 。	s6	135756	办公室#NN 换到#VV 414#CD 了#SP ，#PU 其他#DT 还#AD 那样#VA 吧#SP 。#PU
+CHT_CMN_20130519.0005.su.xml	NONE	-1	-1	你 那边 工作 开展 了 *-1 吗 ?	s7	135756	你#PN 那边#PN 工作#VV 开展#VV 了#AS *-1#NN 吗#SP ?#PU
+CHT_CMN_20130519.0005.su.xml	我	1647	0	不 是 我 没 买 过	s8	135208	不#AD 是#VC 我#PN 没#AD 买#VV 过#AS
+CHT_CMN_20130519.0005.su.xml	我	1756	28	这边 工作 还 行 一 个 新 方向 有 点 进展 但 不 是 很 大	s9	135208	这边#PN 工作#VV 还#AD 行#VV 一#CD 个#M 新#JJ 方向#NN 有#VE 点#CD 进展#NN 但#AD 不#AD 是#VC 很#AD 大#VA
+CHT_CMN_20130519.0005.su.xml	NONE	-1	-1	我们 怎么 搬到 414 了 ？	s10	135208	我们#PN 怎么#AD 搬到#VV 414#CD 了#SP ？#PU
+CHT_CMN_20130519.0005.su.xml	NONE	-1	-1	那些 博士 搬到 哪里 了 ？	s11	135208	那些#DT 博士#NN 搬到#VV 哪里#PN 了#SP ？#PU
+CHT_CMN_20130519.0005.su.xml	NONE	-1	-1	博士 搬到 418 了 , 硕士 搬到 417 了 .	s12	135756	博士#NN 搬到#VV 418#CD 了#SP ,#PU 硕士#NN 搬到#VV 417#CD 了#SP .#PU
+CHT_CMN_20130519.0005.su.xml	NONE	-1	-1	变动 还 挺 大	s13	135208	变动#NN 还#AD 挺#AD 大#VA
+CHT_CMN_20130519.0005.su.xml	我	1990	15	嗯 , 孙 老师 一 句 , 大 搬家 了	s14	135756	嗯#IJ ,#PU 孙#NN 老师#NN 一#CD 句#M ,#PU 大#JJ 搬家#NN 了#SP
+CHT_CMN_20130519.0005.su.xml	我	2728	0	为什么 要 搬家 ？	s15	135208	为什么#AD 要#VV 搬家#VV ？#PU
+CHT_CMN_20130519.0005.su.xml	我	2880	68	孙 老师 说 417 那 屋 风水 不 好 , 说 *OP* *T*-1 生病 的 生病 , *OP* *T*-2 离开 的 离开 （ 指 邓超 ） . 所以 把 *OP* *T*-3 流动性 大 的 硕士 搬 进去 *-4 了 . 不 要 跟 别人 说 这 话 .	s16	135756	孙#NN 老师#NN 说#VV 417#CD 那#DT 屋#NN 风水#NN 不#AD 好#VA ,#PU 说#VV *OP*#NR *T*-1#NR 生病#VV 的#DEC 生病#VV ,#PU *OP*#NN *T*-2#AD 离开#VV 的#DEC 离开#VV （#PU 指#VV 邓超#NR ）#PU .#PU 所以#AD 把#BA *OP*#NN *T*-3#NN 流动性#NN 大#VA 的#DEC 硕士#NN 搬#VV 进去#VV *-4#VV 了#AS .#PU 不#AD 要#VV 跟#P 别人#NN 说#VV 这#DT 话#NN .#PU
+CHT_CMN_20130519.0005.su.xml	我	3185	123	孙 老师 说 417 那 屋 风水 不 好 , 说 *OP* *T*-1 生病 的 生病 , *OP* *T*-2 离开 的 离开 （ 指 邓超 ） . 所以 把 *OP* *T*-3 流动性 大 的 硕士 搬 进去 *-4 了 . 不 要 跟 别人 说 这 话 .	s16	135756	孙#NN 老师#NN 说#VV 417#CD 那#DT 屋#NN 风水#NN 不#AD 好#VA ,#PU 说#VV *OP*#NR *T*-1#NR 生病#VV 的#DEC 生病#VV ,#PU *OP*#NN *T*-2#AD 离开#VV 的#DEC 离开#VV （#PU 指#VV 邓超#NR ）#PU .#PU 所以#AD 把#BA *OP*#NN *T*-3#NN 流动性#NN 大#VA 的#DEC 硕士#NN 搬#VV 进去#VV *-4#VV 了#AS .#PU 不#AD 要#VV 跟#P 别人#NN 说#VV 这#DT 话#NN .#PU
+CHT_CMN_20130519.0005.su.xml	NONE	-1	-1	孙 老师 信 这个	s17	135208	孙#NN 老师#NN 信#NN 这个#PN
+CHT_CMN_20130519.0005.su.xml	NONE	-1	-1	呵呵 ..	s18	135756	呵呵#IJ ..#VA
+CHT_CMN_20130519.0005.su.xml	我1	3719	0	墙 上 重 刷 了 下 大白 , 折腾 两 天 搬家 了 .	s19	135756	墙#NN 上#LC 重#AD 刷#VV 了#AS 下#DT 大白#NN ,#PU 折腾#VV 两#CD 天#M 搬家#VV 了#SP .#PU
+CHT_CMN_20130519.0005.su.xml	我1	3748	6	但是 关于 生病 的 事 应该 引起 我们 的 重视	s20	135208	但是#AD 关于#P 生病#VV 的#DEC 事#NN 应该#VV 引起#VV 我们#PN 的#DEG 重视#NN
+CHT_CMN_20130519.0005.su.xml	我1	4190	2	你 到期 就 回来 吗 ?	s21	135756	你#PN 到期#VV 就#AD 回来#VV 吗#SP ?#PU
+CHT_CMN_20130519.0005.su.xml	我1	4210	0	现在 没有 延期 的 打算	s22	135208	现在#NT 没有#VE 延期#NN 的#DEC 打算#NN
+CHT_CMN_20130519.0005.su.xml	我1	4233	12	现在 没有 延期 的 打算	s22	135208	现在#NT 没有#VE 延期#NN 的#DEC 打算#NN
+CHT_CMN_20130519.0005.su.xml	NONE	-1	-1	嗯 . 都 老师 生病 , 这 阵子 又 不 来 了 .	s23	135756	嗯#IJ .#PU 都#AD 老师#NN 生病#VV ,#PU 这#DT 阵子#NN 又#AD 不#AD 来#VV 了#SP .#PU
+CHT_CMN_20130519.0005.su.xml	我1	4357	0	到时候 给 你 带 东西	s24	135208	到时候#AD 给#P 你#PN 带#VV 东西#NN
+CHT_CMN_20130519.0005.su.xml	NONE	-1	-1	都 老师 怎么 了 ？	s25	135208	都#AD 老师#NN 怎么#VA 了#SP ？#PU
+CHT_CMN_20130519.0005.su.xml	你	97	5	我 觉得 是 哈尔滨 的 水 的 问题	s26	135208	我#PN 觉得#VV 是#VC 哈尔滨#NR 的#DEG 水#NN 的#DEG 问题#NN
+CHT_CMN_20130519.0005.su.xml	NONE	-1	-1	我 一直 但是 这 个 事情	s27	135208	我#PN 一直#AD 但是#AD 这#DT 个#M 事情#NN
+CHT_CMN_20130519.0005.su.xml	NONE	-1	-1	毛 老师 手术 后 了 . 可能 下 个 月 还 得 住院 一 次 .	s28	135756	毛#NR 老师#NN 手术#NN 后#LC 了#SP .#PU 可能#AD 下#DT 个#M 月#NN 还#AD 得#VV 住院#VV 一#CD 次#M .#PU
+CHT_CMN_20130519.0005.su.xml	你	908	5	都 老师 有 一 学期 没 来 , 你 不 知道 *T*-1 吗 ?	s29	135756	都#AD 老师#NN 有#VE 一#CD 学期#NN 没#AD 来#VV ,#PU 你#PN 不#AD 知道#VV *T*-1#NN 吗#SP ?#PU
+CHT_CMN_20130519.0005.su.xml	你	2833	14	这个 我 知道 *T*-1 前 几 天 跟 毛 老师 聊 了 一会	s30	135208	这个#PN 我#PN 知道#VV *T*-1#NR 前#DT 几#CD 天#M 跟#P 毛#NR 老师#NN 聊#VV 了#AS 一会#AD
+CHT_CMN_20130519.0005.su.xml	NONE	-1	-1	我 走 之前 她 去 南大 做 实验 回来 了	s31	135208	我#PN 走#VV 之前#AD 她#PN 去#VV 南大#NR 做#VV 实验#NN 回来#VV 了#AS
+CHT_CMN_20130519.0005.su.xml	你	3012	3	后来 就 不 知道 了	s32	135208	后来#AD 就#AD 不#AD 知道#VV 了#SP
+CHT_CMN_20130519.0005.su.xml	NONE	-1	-1	她 怎么 了 ？	s33	135208	她#PN 怎么#AD 了#SP ？#PU
+CHT_CMN_20130519.0005.su.xml	你	3209	0	去 南大 做 实验 , 只 是 说辞 . 实际 她 生病 了 , 调养 中 .	s34	135756	去#VV 南大#NR 做#VV 实验#NN ,#PU 只#AD 是#VC 说辞#NN .#PU 实际#AD 她#PN 生病#VV 了#AS ,#PU 调养#NN 中#LC .#PU
+CHT_CMN_20130519.0005.su.xml	你	3239	39	去 南大 做 实验 , 只 是 说辞 . 实际 她 生病 了 , 调养 中 .	s34	135756	去#VV 南大#NR 做#VV 实验#NN ,#PU 只#AD 是#VC 说辞#NN .#PU 实际#AD 她#PN 生病#VV 了#AS ,#PU 调养#NN 中#LC .#PU
+CHT_CMN_20130519.0005.su.xml	NONE	-1	-1	抑郁症	s35	135756	抑郁症#NN
+CHT_CMN_20130519.0005.su.xml	NONE	-1	-1	哦	s36	135208	哦#IJ
+CHT_CMN_20130519.0005.su.xml	你	3505	0	是 吗 ？	s37	135208	是#VC 吗#SP ？#PU
+CHT_CMN_20130519.0005.su.xml	你	4305	0	没 看 出来 呀	s37	135208	没#AD 看#VV 出来#VV 呀#SP
+CHT_CMN_20130519.0005.su.xml	你	4571	0	很 久 了 吗 ？	s38	135208	很#AD 久#AD 了#SP 吗#SP ？#PU
+CHT_CMN_20130519.0005.su.xml	他	853	4	嗯 . 从 南大 做 实验 开始 .	s39	135756	嗯#IJ .#PU 从#P 南大#NR 做#VV 实验#NN 开始#VV .#PU
+CHT_CMN_20130519.0005.su.xml	她	1836	12	嗯 . 从 南大 做 实验 开始 .	s39	135756	嗯#IJ .#PU 从#P 南大#NR 做#VV 实验#NN 开始#VV .#PU
+CHT_CMN_20130519.0005.su.xml	她	1875	18	我 觉得 她 性格 挺 好 的 啊 怎么 得 了 抑郁症 了	s40	135208	我#PN 觉得#VV 她#PN 性格#NN 挺#AD 好#VA 的#SP 啊#SP 怎么#AD 得#VV 了#AS 抑郁症#NN 了#SP
+CHT_CMN_20130519.0005.su.xml	她	2033	17	现在 症状 挺 明显 的 了 . 半 个 月 前 来 实验室 了 .	s41	135756	现在#NT 症状#NN 挺#AD 明显#VA 的#SP 了#SP .#PU 半#CD 个#M 月#NN 前#LC 来#VV 实验室#NN 了#SP .#PU
+CHT_CMN_20130519.0005.su.xml	她	2089	0	主要 是 遗传 的 吧 .	s42	135756	主要#AD 是#VC 遗传#NN 的#DEG 吧#SP .#PU
+CHT_CMN_20130519.0005.su.xml	她	2154	0	不 说话 还是 爱 *PRO* 唠叨 ？	s43	135208	不#AD 说话#VV 还是#CC 爱#VV *PRO*#NN 唠叨#VV ？#PU
+CHT_CMN_20130519.0005.su.xml	NONE	-1	-1	这个 也 遗传 吗 ？	s44	135208	这个#PN 也#AD 遗传#NN 吗#SP ？#PU
+CHT_CMN_20130519.0005.su.xml	她	2218	0	爱 *PRO* 唠叨 ..	s45	135756	爱#VV *PRO*#NR 唠叨#VV ..#NN
+CHT_CMN_20130519.0005.su.xml	她	2318	0	压力 大 的 缘故 ？	s46	135208	压力#NN 大#VA 的#DEC 缘故#NN ？#PU
+CHT_CMN_20130519.0005.su.xml	她	2413	17	都 老师 是 振颤性 抑郁症 , 除了 抑郁症 , 还 有 异常 大脑 放电 , 肢体 振颤 . 具体 我 也 不 太 清楚 *T*-1 .	s47	135756	都#AD 老师#NN 是#VC 振颤性#JJ 抑郁症#NN ,#PU 除了#P 抑郁症#NN ,#PU 还#AD 有#VE 异常#AD 大脑#NN 放电#VV ,#PU 肢体#NN 振颤#NN .#PU 具体#AD 我#PN 也#AD 不#AD 太#AD 清楚#VV *T*-1#NN .#PU
+CHT_CMN_20130519.0005.su.xml	她	2461	0	得 好好 调养	s48	135208	得#VV 好好#AD 调养#VV
+CHT_CMN_20130519.0005.su.xml	NONE	-1	-1	申请 最 重要 啊	s49	135208	申请#NN 最#AD 重要#VA 啊#SP
+CHT_CMN_20130519.0005.su.xml	NONE	-1	-1	身体	s50	135208	身体#NN
+CHT_CMN_20130519.0005.su.xml	她	2524	5	尹 老师 回来 给 你 带 电子 产品 啊	s51	135208	尹#NR 老师#NN 回来#VV 给#P 你#PN 带#VV 电子#NN 产品#NN 啊#SP
+CHT_CMN_20130519.0005.su.xml	她1	2612	0	好 呀 .. 你 带 得 过来 不 ?	s52	135756	好#VA 呀#SP ..#VV 你#PN 带#VV 得#DER 过来#VV 不#AD ?#PU
+CHT_CMN_20130519.0005.su.xml	它	242	0	要 不 要 寄 回来 ?	s53	135756	要#VV 不#AD 要#VV 寄#VV 回来#VV ?#PU
+CHT_CMN_20130519.0005.su.xml	它	387	0	应该 没 问题	s54	135208	应该#VV 没#VE 问题#NN
+CHT_CMN_20130519.0005.su.xml	NONE	-1	-1	你 什么 时候 回来 ?	s55	135756	你#PN 什么#DT 时候#NN 回来#VV ?#PU
+CHT_CMN_20130519.0005.su.xml	NONE	-1	-1	年前	s56	135208	年前#NT
+CHT_CMN_20130519.0005.su.xml	它	460	4	嗯 . 好 . 到时候 帮 我 *PRO* 看看 苹果 电脑 .	s57	135756	嗯#IJ .#PU 好#VA .#PU 到时候#AD 帮#P 我#PN *PRO*#VV 看看#VV 苹果#NN 电脑#NN .#PU
+CHT_CMN_20130519.0005.su.xml	它	1408	18	嗯 . 好 . 到时候 帮 我 *PRO* 看看 苹果 电脑 .	s57	135756	嗯#IJ .#PU 好#VA .#PU 到时候#AD 帮#P 我#PN *PRO*#VV 看看#VV 苹果#NN 电脑#NN .#PU
+CHT_CMN_20130519.0005.su.xml	NONE	-1	-1	ipod 不 值得 带 吧 ..	s58	135756	ipod#NN 不#AD 值得#VV 带#VV 吧#SP ..#VA
+CHT_CMN_20130519.0005.su.xml	它	1978	0	好 的	s59	135208	好#VA 的#SP
+CHT_CMN_20130519.0005.su.xml	NONE	-1	-1	你 看看 吧	s60	135208	你#PN 看看#VV 吧#SP
+CHT_CMN_20130519.0005.su.xml	它	2270	0	看看 有没有 *OP* *T*-1 带 的 价值 ... 价值 不 大 就 不 带 了 .	s61	135756	看看#VV 有没有#AD *OP*#VV *T*-1#NN 带#VV 的#DEC 价值#NN ...#PU 价值#NN 不#AD 大#AD 就#AD 不#AD 带#VV 了#SP .#PU
+CHT_CMN_20130519.0005.su.xml	它	2779	9	看看 有没有 *OP* *T*-1 带 的 价值 ... 价值 不 大 就 不 带 了 .	s61	135756	看看#VV 有没有#AD *OP*#VV *T*-1#NN 带#VV 的#DEC 价值#NN ...#PU 价值#NN 不#AD 大#AD 就#AD 不#AD 带#VV 了#SP .#PU
+CHT_CMN_20130519.0005.su.xml	它	2998	24	看看 有没有 *OP* *T*-1 带 的 价值 ... 价值 不 大 就 不 带 了 .	s61	135756	看看#VV 有没有#AD *OP*#VV *T*-1#NN 带#VV 的#DEC 价值#NN ...#PU 价值#NN 不#AD 大#AD 就#AD 不#AD 带#VV 了#SP .#PU
+CHT_CMN_20130519.0005.su.xml	它	3112	54	看看 有没有 *OP* *T*-1 带 的 价值 ... 价值 不 大 就 不 带 了 .	s61	135756	看看#VV 有没有#AD *OP*#VV *T*-1#NN 带#VV 的#DEC 价值#NN ...#PU 价值#NN 不#AD 大#AD 就#AD 不#AD 带#VV 了#SP .#PU
+CHT_CMN_20130519.0005.su.xml	NONE	-1	-1	你 要是 买 我 就 给 你 带	s62	135208	你#PN 要是#CS 买#VV 我#PN 就#AD 给#P 你#PN 带#VV
+CHT_CMN_20130519.0005.su.xml	它	3328	0	多少 能 便宜 点	s63	135208	多少#AD 能#VV 便宜#VA 点#AD
+CHT_CMN_20130519.0005.su.xml	NONE	-1	-1	*OP* *T*-1 价值 大 的 就 是 电脑 和 手机	s64	135208	*OP*#NR *T*-1#NN 价值#NN 大#VA 的#DEC 就#AD 是#VC 电脑#NN 和#CC 手机#NN
+CHT_CMN_20130519.0005.su.xml	NONE	-1	-1	还有 相机	s65	135208	还有#AD 相机#NN
+CHT_CMN_20130519.0005.su.xml	它1	3606	0	好 .	s66	135756	好#VA .#PU
+CHT_CMN_20130519.0005.su.xml	它1	3642	3	手机 带 回来 能 刷 系统 不 ?	s67	135756	手机#NN 带#VV 回来#VV 能#VV 刷#VV 系统#NN 不#AD ?#PU
+CHT_CMN_20130519.0005.su.xml	NONE	-1	-1	衣服 这边 也 便宜 但是 我们 买 不 好	s68	135208	衣服#NN 这边#PN 也#AD 便宜#VA 但是#AD 我们#PN 买#VV 不#AD 好#VA
+CHT_CMN_20130519.0005.su.xml	它1	3891	0	能	s69	135208	能#VV
+CHT_CMN_20130519.0005.su.xml	它1	3942	0	没 问题	s70	135208	没#VE 问题#NN
+CHT_CMN_20130519.0005.su.xml	NONE	-1	-1	好多 人 带	s71	135208	好多#CD 人#NN 带#VV
+CHT_CMN_20130519.0005.su.xml	它1	3982	3	相机 不 考虑 *T*-1 了 . 相机 的话 , 看 买 个 镜头 的 .	s72	135756	相机#NN 不#AD 考虑#VV *T*-1#NN 了#SP .#PU 相机#NN 的话#SP ,#PU 看#VV 买#VV 个#M 镜头#NN 的#SP .#PU
+CHT_CMN_20130519.0005.su.xml	它1	4120	32	相机 不 考虑 *T*-1 了 . 相机 的话 , 看 买 个 镜头 的 .	s72	135756	相机#NN 不#AD 考虑#VV *T*-1#NN 了#SP .#PU 相机#NN 的话#SP ,#PU 看#VV 买#VV 个#M 镜头#NN 的#SP .#PU
+CHT_CMN_20130519.0005.su.xml	它1	4515	0	对	s73	135208	对#VA
+CHT_CMN_20130519.0005.su.xml	NONE	-1	-1	到时候 , 好多 人 带 , 你们 带 不 过来 了 吧 ..	s74	135756	到时候#AD ,#PU 好多#CD 人#NN 带#VV ,#PU 你们#PN 带#VV 不#AD 过来#VV 了#SP 吧#SP ..#VA
+CHT_CMN_20130519.0005.su.xml	我们	699	0	没 事 的	s75	135208	没#VE 事#NN 的#SP
+CHT_CMN_20130519.0005.su.xml	我们	4645	11	电脑 和 手机 的话 没有 问题	s76	135208	电脑#NN 和#CC 手机#NN 的话#SP 没有#VE 问题#NN
+CHT_CMN_20130519.0005.su.xml	你们	740	0	好 .	s77	135756	好#VA .#PU
+CHT_CMN_20130519.0005.su.xml	他们	1031	2	你 回来 前 一 个 月 时 , 看看 . 一 个 单反 微焦 镜头 , 一 个 手机 , 加 一 个 笔计本 电脑 [ 表情 ]	s78	135756	你#PN 回来#VV 前#DT 一#CD 个#M 月#NN 时#LC ,#PU 看看#VV .#PU 一#CD 个#M 单反#NN 微焦#NN 镜头#NN ,#PU 一#CD 个#M 手机#NN ,#PU 加#VV 一#CD 个#M 笔计本#NN 电脑#NN [#PU 表情#NN ]#PU
+CHT_CMN_20130519.0005.su.xml	他们	1102	0	好 的	s79	135208	好#VA 的#SP
+CHT_CMN_20130519.0005.su.xml	NONE	-1	-1	有钱人	s80	135208	有钱人#NN
+CHT_CMN_20130519.0005.su.xml	形	1159	0	这么 想 的 ,,, 实际 不 知道 了 *T*-1 ... 再说 [ 表情 ]	s81	135756	这么#AD 想#VV 的#DEC ,,,#NN 实际#AD 不#AD 知道#VV 了#AS *T*-1#NN ...#PU 再说#AD [#PU 表情#NN ]#PU
+CHT_CMN_20130519.0005.su.xml	形	1217	20	这么 想 的 ,,, 实际 不 知道 了 *T*-1 ... 再说 [ 表情 ]	s81	135756	这么#AD 想#VV 的#DEC ,,,#NN 实际#AD 不#AD 知道#VV 了#AS *T*-1#NN ...#PU 再说#AD [#PU 表情#NN ]#PU
+CHT_CMN_20130519.0005.su.xml	形	2081	43	这么 想 的 ,,, 实际 不 知道 了 *T*-1 ... 再说 [ 表情 ]	s81	135756	这么#AD 想#VV 的#DEC ,,,#NN 实际#AD 不#AD 知道#VV 了#AS *T*-1#NN ...#PU 再说#AD [#PU 表情#NN ]#PU
+CHT_CMN_20130519.0005.su.xml	形	3194	28	*OP* 我 *T*-1 回来 的 时候 正 式 年末 应该 有 钱 [ 表情 ]	s82	135208	*OP*#VV 我#PN *T*-1#VV 回来#VV 的#DEC 时候#NN 正#AD 式#NN 年末#NT 应该#VV 有#VE 钱#NN [#PU 表情#NN ]#PU
+CHT_CMN_20130519.0005.su.xml	形	3464	4	嗯 . 应该 有 钱 .. [ 表情 ]	s83	135756	嗯#IJ .#PU 应该#VV 有#VE 钱#NN ..#VV [#PU 表情#NN ]#PU
+CHT_CMN_20130519.0005.su.xml	NONE	-1	-1	尹 老师 忙 我 睡觉 了	s84	135208	尹#NR 老师#NN 忙#VA 我#PN 睡觉#VV 了#SP
+CHT_CMN_20130519.0005.su.xml	NONE	-1	-1	我 和 老公 商量 下 . 让 他 *PRO* 先 看好 那些 东西 .	s85	135756	我#PN 和#CC 老公#NN 商量#VV 下#LC .#PU 让#VV 他#PN *PRO*#VV 先#AD 看好#VV 那些#DT 东西#NN .#PU
+CHT_CMN_20130519.0005.su.xml	形	3795	0	好 的	s86	135208	好#VA 的#SP
+CHT_CMN_20130519.0005.su.xml	形	4022	0	好 . 你 睡 吧 . 好 梦	s87	135756	好#VA .#PU 你#PN 睡#VV 吧#SP .#PU 好#JJ 梦#NN
+CHT_CMN_20130519.0005.su.xml	形	4553	18	好 . 你 睡 吧 . 好 梦	s87	135756	好#VA .#PU 你#PN 睡#VV 吧#SP .#PU 好#JJ 梦#NN
+CHT_CMN_20130519.0005.su.xml	NONE	-1	-1	你们 先 看好	s88	135208	你们#PN 先#AD 看好#VV
+CHT_CMN_20130519.0005.su.xml	其	1569	0	88	s89	135208	88#CD

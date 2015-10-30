@@ -1,0 +1,5 @@
+CHT_CMN_20130129.0030.su.xml	他	64	35	你 开 周 主任 的 车 ， *OP* 他 *T*-1 走 的 时候 叫 你 ，	s0	137076	你#PN 开#VV 周#NN 主任#NN 的#DEG 车#NN ，#PU *OP*#VV 他#PN *T*-1#AD 走#VV 的#DEC 时候#NN 叫#VV 你#PN ，#PU
+CHT_CMN_20130129.0030.su.xml	它	103	0	好 的	s1	136693	好#VA 的#SP
+CHT_CMN_20130129.0030.su.xml	他	145	5	*OP* *T*-1 下班 的 点儿 ？	s2	136693	*OP*#NR *T*-1#NR 下班#VV 的#DEC 点儿#M ？#PU
+CHT_CMN_20130129.0030.su.xml	NONE	-1	-1	他 让 你 *PRO* 在 办公室 等 他	s3	137076	他#PN 让#VV 你#PN *PRO*#VV 在#P 办公室#NN 等#ETC 他#PN
+CHT_CMN_20130129.0030.su.xml	它	243	0	好 的	s4	136693	好#VA 的#SP

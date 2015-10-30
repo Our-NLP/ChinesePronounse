@@ -1,0 +1,35 @@
+CHT_CMN_20121205.0005.su.xml	我	68	0	在 吗 ?	s0	133623	在#VV 吗#SP ?#PU
+CHT_CMN_20121205.0005.su.xml	我	492	0	在 外面	s1	133628	在#P 外面#NN
+CHT_CMN_20121205.0005.su.xml	NONE	-1	-1	王 工 什么 事 ？	s2	133628	王#NR 工#NN 什么#DT 事#NN ？#PU
+CHT_CMN_20121205.0005.su.xml	我	1026	12	哦 , 那 个 开发板 能 借给 我们 *T*-1 *PRO* 调试 吗 ?	s3	133623	哦#IJ ,#PU 那#DT 个#M 开发板#NN 能#VV 借给#VV 我们#PN *T*-1#VV *PRO*#NN 调试#VV 吗#SP ?#PU
+CHT_CMN_20121205.0005.su.xml	NONE	-1	-1	你 的 项目 重启 了 ？	s4	133628	你#PN 的#DEG 项目#NN 重启#VV 了#AS ？#PU
+CHT_CMN_20121205.0005.su.xml	我	1462	0	是 的	s5	133623	是#VC 的#SP
+CHT_CMN_20121205.0005.su.xml	NONE	-1	-1	现在 板子 出来 了 , 3 G 驱动 总是 加载 不 上 .	s6	133623	现在#NT 板子#NN 出来#VV 了#AS ,#PU 3#CD G#FW 驱动#VV 总是#AD 加载#VV 不#AD 上#VV .#PU
+CHT_CMN_20121205.0005.su.xml	你	29	0	重启 项目 的话 联系 市场部 的 就 应该 可以 提供 开发板 给 你 *PRO* 调试	s7	133628	重启#NN 项目#NN 的话#SP 联系#VV 市场部#NN 的#DEC 就#AD 应该#VV 可以#VV 提供#VV 开发板#NN 给#P 你#PN *PRO*#NT 调试#VV
+CHT_CMN_20121205.0005.su.xml	你	156	15	重启 项目 的话 联系 市场部 的 就 应该 可以 提供 开发板 给 你 *PRO* 调试	s7	133628	重启#NN 项目#NN 的话#SP 联系#VV 市场部#NN 的#DEC 就#AD 应该#VV 可以#VV 提供#VV 开发板#NN 给#P 你#PN *PRO*#NT 调试#VV
+CHT_CMN_20121205.0005.su.xml	你	353	30	重启 项目 的话 联系 市场部 的 就 应该 可以 提供 开发板 给 你 *PRO* 调试	s7	133628	重启#NN 项目#NN 的话#SP 联系#VV 市场部#NN 的#DEC 就#AD 应该#VV 可以#VV 提供#VV 开发板#NN 给#P 你#PN *PRO*#NT 调试#VV
+CHT_CMN_20121205.0005.su.xml	你	368	0	有时候 可以 加载 成功 ？	s8	133628	有时候#AD 可以#VV 加载#VV 成功#VA ？#PU
+CHT_CMN_20121205.0005.su.xml	你	444	0	没有 成功 过 .	s9	133623	没有#AD 成功#VV 过#AS .#PU
+CHT_CMN_20121205.0005.su.xml	NONE	-1	-1	上面 是 打印 信息 .	s10	133623	上面#NN 是#VC 打印#VV 信息#NN .#PU
+CHT_CMN_20121205.0005.su.xml	NONE	-1	-1	那 说明 驱动 没 装好	s11	133628	那#AD 说明#VV 驱动#VV 没#AD 装好#VV
+CHT_CMN_20121205.0005.su.xml	你	1160	0	是 哪 个 业务员 ?	s12	133623	是#VC 哪#DT 个#M 业务员#NN ?#PU
+CHT_CMN_20121205.0005.su.xml	NONE	-1	-1	蒙家昌	s13	133628	蒙家昌#NR
+CHT_CMN_20121205.0005.su.xml	他	618	0	怎么 没 装好 ?	s14	133623	怎么#AD 没#AD 装好#VV ?#PU
+CHT_CMN_20121205.0005.su.xml	NONE	-1	-1	你 可以 通过 网站 联系 也 行 ， 明天 我 叫 他 *PRO* 联系 你 也 行	s15	133628	你#PN 可以#VV 通过#P 网站#NN 联系#NN 也#AD 行#VV ，#PU 明天#NT 我#PN 叫#VV 他#PN *PRO*#AD 联系#VV 你#PN 也#AD 行#VV
+CHT_CMN_20121205.0005.su.xml	他	696	0	没 装好 的话 , 就 没有 打印 信息 .	s16	133623	没#AD 装好#VV 的话#SP ,#PU 就#AD 没有#VE 打印#VV 信息#NN .#PU
+CHT_CMN_20121205.0005.su.xml	他	812	16	没 装好 的话 , 就 没有 打印 信息 .	s16	133623	没#AD 装好#VV 的话#SP ,#PU 就#AD 没有#VE 打印#VV 信息#NN .#PU
+CHT_CMN_20121205.0005.su.xml	NONE	-1	-1	你 叫 他 *PRO* 联系 我 吧	s17	133623	你#PN 叫#VV 他#PN *PRO*#AD 联系#VV 我#PN 吧#SP
+CHT_CMN_20121205.0005.su.xml	NONE	-1	-1	最好 你们 销售 来 一 趟 .	s18	133623	最好#AD 你们#PN 销售#NN 来#VV 一#CD 趟#M .#PU
+CHT_CMN_20121205.0005.su.xml	NONE	-1	-1	注册表 和 那 两 个 .dll 文件 需要 编译 到 内核	s19	133628	注册表#NN 和#CC 那#DT 两#CD 个#M .dll#JJ 文件#NN 需要#VV 编译#VV 到#VV 内核#NN
+CHT_CMN_20121205.0005.su.xml	它	257	0	编 了	s20	133623	编#VV 了#AS
+CHT_CMN_20121205.0005.su.xml	NONE	-1	-1	明天 我 叫 他 *PRO* 联系 下 你 看看 情况	s21	133628	明天#NT 我#PN 叫#VV 他#PN *PRO*#JJ 联系#NN 下#LC 你#PN 看看#VV 情况#NN
+CHT_CMN_20121205.0005.su.xml	它	1120	0	好	s22	133623	好#VA
+CHT_CMN_20121205.0005.su.xml	它	1388	4	注册表 没 修改 什么 吧 ？	s23	133628	注册表#NN 没#AD 修改#VV 什么#DT 吧#SP ？#PU
+CHT_CMN_20121205.0005.su.xml	NONE	-1	-1	就是 串口 索引号 .	s24	133623	就是#AD 串口#NN 索引号#NN .#PU
+CHT_CMN_20121205.0005.su.xml	NONE	-1	-1	*OP* *T*-1 出厂 模认 的 也 不 行 .	s25	133623	*OP*#NR *T*-1#NN 出厂#VV 模认#VV 的#DEC 也#AD 不#AD 行#VV .#PU
+CHT_CMN_20121205.0005.su.xml	它	1509	0	默认 .	s26	133623	默认#VV .#PU
+CHT_CMN_20121205.0005.su.xml	我们	1345	5	那 以后 过去 一起 看看	s27	133628	那#PN 以后#AD 过去#VV 一起#AD 看看#VV
+CHT_CMN_20121205.0005.su.xml	他们	383	0	好	s28	133623	好#VA
+CHT_CMN_20121205.0005.su.xml	NONE	-1	-1	他 上午 出去 了	s29	133628	他#PN 上午#NT 出去#VV 了#AS
+CHT_CMN_20121205.0005.su.xml	形	828	0	呆会 估计 会 联系 你	s30	133628	呆会#AD 估计#VV 会#VV 联系#VV 你#PN
+CHT_CMN_20121205.0005.su.xml	其	1301	0	好 的	s31	133623	好#VA 的#SP

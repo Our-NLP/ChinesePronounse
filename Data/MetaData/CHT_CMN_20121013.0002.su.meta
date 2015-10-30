@@ -1,0 +1,117 @@
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	你 圣诞 回去 吗 ？	s0	135798	你#PN 圣诞#NN 回去#VV 吗#SP ？#PU
+CHT_CMN_20121013.0002.su.xml	我	68	0	不 回去 呀	s1	135610	不#AD 回去#VV 呀#SP
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	你 回去 么	s2	135610	你#PN 回去#VV 么#SP
+CHT_CMN_20121013.0002.su.xml	我	142	0	回去	s3	135798	回去#VV
+CHT_CMN_20121013.0002.su.xml	我	178	0	找 她 ……	s4	135798	找#VV 她#PN ……#PU
+CHT_CMN_20121013.0002.su.xml	你	218	0	真 好 ~	s5	135610	真#AD 好#AD ~#PU
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	你 要 挽回 ？	s6	135610	你#PN 要#VV 挽回#VV ？#PU
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	嗯	s7	135798	嗯#IJ
+CHT_CMN_20121013.0002.su.xml	我	322	0	一点 都 不 好 ， 现在 状态 超 差	s8	135798	一点#AD 都#AD 不#AD 好#VA ，#PU 现在#NT 状态#NN 超#VV 差#VA
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	唉 。。。。	s9	135610	唉#IJ 。。。。#NN
+CHT_CMN_20121013.0002.su.xml	你	411	0	为 *OP* 情 所 困 *T*-1	s10	135610	为#P *OP*#NR 情#NN 所#MSP 困#VV *T*-1#NN
+CHT_CMN_20121013.0002.su.xml	你	464	0	试 看看 吧	s11	135610	试#VV 看看#VV 吧#SP
+CHT_CMN_20121013.0002.su.xml	我	509	4	哎 ， 放 不 下 她 呀	s12	135798	哎#IJ ，#PU 放#VV 不#AD 下#VV 她#PN 呀#SP
+CHT_CMN_20121013.0002.su.xml	我们	553	0	都 一起 四 年 了 呢	s13	135798	都#AD 一起#AD 四#CD 年#M 了#SP 呢#SP
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	那 她 现在 和 别人 在 一起 了 么 ？	s14	135610	那#AD 她#PN 现在#NT 和#P 别人#NN 在#VV 一起#AD 了#SP 么#SP ？#PU
+CHT_CMN_20121013.0002.su.xml	她	651	0	没有	s15	135798	没有#VE
+CHT_CMN_20121013.0002.su.xml	形	688	0	只是 有 个 男 的 追 她	s16	135798	只是#AD 有#VE 个#M 男#JJ 的#DEG 追#VV 她#PN
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	她 也 有点 动摇 吧	s17	135798	她#PN 也#AD 有点#AD 动摇#VV 吧#SP
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	……	s18	135610	……#PU
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	那 你 现在 要 多 跟 他 联系 啊	s19	135610	那#AD 你#PN 现在#NT 要#VV 多#AD 跟#P 他#PN 联系#VV 啊#SP
+CHT_CMN_20121013.0002.su.xml	我	863	7	嗯 ， 不过 联系 太 紧 了 ， 让 她 *PRO* 很 心烦	s20	135798	嗯#IJ ，#PU 不过#AD 联系#VV 太#AD 紧#VA 了#SP ，#PU 让#VV 她#PN *PRO*#VV 很#AD 心烦#VV
+CHT_CMN_20121013.0002.su.xml	我	923	0	只 能 保持 平常 联系 了	s21	135798	只#AD 能#VV 保持#VV 平常#NN 联系#VV 了#AS
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	你 在 美国 过 得 开心 吧 ？	s22	135798	你#PN 在#P 美国#NR 过#VV 得#DER 开心#VA 吧#SP ？#PU
+CHT_CMN_20121013.0002.su.xml	我	1018	0	还 行 啦	s23	135610	还#AD 行#VV 啦#SP
+CHT_CMN_20121013.0002.su.xml	我	1058	0	就是 有点 累 啊 什么 的	s24	135610	就是#AD 有点#AD 累#VA 啊#SP 什么#PN 的#DEG
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	哦	s25	135798	哦#IJ
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	我 快 累死 了 都	s26	135798	我#PN 快#AD 累死#VV 了#AS 都#AD
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	我 要 加油 啊	s27	135610	我#PN 要#VV 加油#VV 啊#SP
+CHT_CMN_20121013.0002.su.xml	你	1217	4	嗯 ， 加油	s28	135798	嗯#IJ ，#PU 加油#VV
+CHT_CMN_20121013.0002.su.xml	我1	1257	3	不然 觉得 我 男朋友 要 把 我 甩 了 *-1 都 。。。。	s29	135610	不然#AD 觉得#VV 我#PN 男朋友#NN 要#VV 把#BA 我#PN 甩#VV 了#AS *-1#NN 都#AD 。。。。#VV
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	啊 ？	s30	135798	啊#IJ ？#PU
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	我 觉得 他 好 努力	s31	135610	我#PN 觉得#VV 他#PN 好#AD 努力#VV
+CHT_CMN_20121013.0002.su.xml	它	1393	0	好 吧	s32	135798	好#VA 吧#SP
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	唉 ……	s33	135610	唉#IJ ……#PU
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	我 也 要 努力 了	s34	135798	我#PN 也#AD 要#VV 努力#VV 了#SP
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	你 加油	s35	135798	你#PN 加油#VV
+CHT_CMN_20121013.0002.su.xml	你	1536	0	放心 吧	s36	135798	放心#VV 吧#SP
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	恩恩	s37	135610	恩恩#NR
+CHT_CMN_20121013.0002.su.xml	我们	1606	0	一起 加油 啊	s38	135610	一起#AD 加油#VV 啊#SP
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	你们 都 在 美国 ， 可以 经常 见 ， 不 会 有 问题 的	s39	135798	你们#PN 都#AD 在#VV 美国#NR ，#PU 可以#VV 经常#AD 见#VV ，#PU 不#AD 会#VV 有#VE 问题#NN 的#SP
+CHT_CMN_20121013.0002.su.xml	我1	1712	3	哪里 去 他 那边 开车 要 6 个 小时	s40	135610	哪里#PN 去#VV 他#PN 那边#PN 开车#VV 要#VV 6#CD 个#M 小时#NN
+CHT_CMN_20121013.0002.su.xml	我1	1725	16	哪里 去 他 那边 开车 要 6 个 小时	s40	135610	哪里#PN 去#VV 他#PN 那边#PN 开车#VV 要#VV 6#CD 个#M 小时#NN
+CHT_CMN_20121013.0002.su.xml	它	1771	0	总 比 我 要 12 小时 飞机 ， 再 从 上海 2 小时 火车 去 杭州 的 好 吧	s41	135798	总#AD 比#P 我#PN 要#VV 12#CD 小时#M 飞机#NN ，#PU 再#AD 从#P 上海#NR 2#CD 小时#NN 火车#NN 去#VV 杭州#NR 的#DEC 好#VA 吧#SP
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	……	s42	135610	……#PU
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	哎呀 我们 别 比较 了	s43	135610	哎呀#IJ 我们#PN 别#AD 比较#VV 了#SP
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	你 要 相信 你 女朋友	s44	135610	你#PN 要#VV 相信#VV 你#PN 女朋友#NN
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	毕竟 四 年 的 感情	s45	135610	毕竟#AD 四#CD 年#M 的#DEG 感情#NN
+CHT_CMN_20121013.0002.su.xml	它	2003	0	不 是 那么 容易 抹掉 的	s46	135610	不#AD 是#VC 那么#AD 容易#AD 抹掉#VV 的#SP
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	话 说 回来	s47	135610	话#NN 说#VV 回来#VV
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	嗯	s48	135798	嗯#IJ
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	如果 真的 她 动摇 了	s49	135610	如果#CS 真的#AD 她#PN 动摇#VV 了#AS
+CHT_CMN_20121013.0002.su.xml	我1	2158	0	希望 她 能 坚持 住	s50	135798	希望#VV 她#PN 能#VV 坚持#VV 住#VV
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	嗯 ？	s51	135798	嗯#IJ ？#PU
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	那 也 只 能 是 说 你们 感情 不 够 她 不 是 你 的 mrs.right	s52	135610	那#PN 也#AD 只#AD 能#VV 是#VC 说#VV 你们#PN 感情#NN 不#AD 够#AD 她#PN 不#AD 是#VC 你#PN 的#DEG mrs.right#NN
+CHT_CMN_20121013.0002.su.xml	她	2306	0	要 向	s53	135610	要#VV 向#P
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	想	s54	135610	想#VV
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	这 是 你们 的 考验	s55	135610	这#PN 是#VC 你们#PN 的#DEG 考验#NN
+CHT_CMN_20121013.0002.su.xml	你们	2414	0	一定 能 通过 对	s56	135610	一定#AD 能#VV 通过#VV 对#VA
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	的	s57	135610	的#DEG
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	嗯	s58	135798	嗯#IJ
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	其实 我 之前 已经 放弃 了 ， 因为 她 说 她 喜欢 上 别人 了	s59	135798	其实#AD 我#PN 之前#LC 已经#AD 放弃#VV 了#AS ，#PU 因为#P 她#PN 说#VV 她#PN 喜欢#VV 上#VV 别人#NN 了#SP
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	后来 她 说 她 还是 放 不 下	s60	135798	后来#AD 她#PN 说#VV 她#PN 还是#AD 放#VV 不#AD 下#VV
+CHT_CMN_20121013.0002.su.xml	它	2629	0	是 啊	s61	135610	是#VC 啊#SP
+CHT_CMN_20121013.0002.su.xml	她	2667	0	让 我们 *PRO* 先 分开 ， 她 会 单身 两 年 ， 等 我 回去 了	s62	135798	让#VV 我们#PN *PRO*#VV 先#AD 分开#VV ，#PU 她#PN 会#VV 单身#AD 两#CD 年#M ，#PU 等#VV 我#PN 回去#VV 了#AS
+CHT_CMN_20121013.0002.su.xml	她	2704	37	让 我们 *PRO* 先 分开 ， 她 会 单身 两 年 ， 等 我 回去 了	s62	135798	让#VV 我们#PN *PRO*#VV 先#AD 分开#VV ，#PU 她#PN 会#VV 单身#AD 两#CD 年#M ，#PU 等#VV 我#PN 回去#VV 了#AS
+CHT_CMN_20121013.0002.su.xml	她	2747	0	怎么 可能 轻易 放下	s63	135610	怎么#AD 可能#VV 轻易#AD 放下#VV
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	然后 我 就 决定 *PRO* 尽快 回去 找 她 ……	s64	135798	然后#AD 我#PN 就#AD 决定#VV *PRO*#VV 尽快#AD 回去#VV 找#VV 她#PN ……#PU
+CHT_CMN_20121013.0002.su.xml	你们	2850	0	再 在 一起	s65	135610	再#AD 在#VV 一起#AD
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	那 你 俩 不 是 跟 天气 他们 差不多	s66	135610	那#AD 你#PN 俩#CD 不#AD 是#VC 跟#P 天气#NN 他们#PN 差不多#VA
+CHT_CMN_20121013.0002.su.xml	其	2941	0	什么 ？	s67	135798	什么#PN ？#PU
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	天奇 他们 分开 了 ？	s68	135798	天奇#NR 他们#PN 分开#VV 了#AS ？#PU
+CHT_CMN_20121013.0002.su.xml	形	3027	6	可是 现在 有 个 男 的 一直 在 追 她	s69	135798	可是#AD 现在#NT 有#VE 个#M 男#JJ 的#DEG 一直#AD 在#AD 追#VV 她#PN
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	这 让 我 *PRO* 很 不爽	s70	135798	这#PN 让#VV 我#PN *PRO*#VV 很#AD 不爽#VA
+CHT_CMN_20121013.0002.su.xml	他	3123	0	明 知道 她 有 男朋友 还 破坏 别人 感情 ……	s71	135798	明#AD 知道#VV 她#PN 有#VE 男朋友#NN 还#AD 破坏#VV 别人#NN 感情#NN ……#PU
+CHT_CMN_20121013.0002.su.xml	形	3184	0	就 是 有 这 种 *OP* *T*-1 挖 墙脚 的 男人 啊	s72	135610	就#AD 是#VC 有#VE 这#DT 种#M *OP*#NN *T*-1#AD 挖#VV 墙脚#NN 的#DEC 男人#NN 啊#SP
+CHT_CMN_20121013.0002.su.xml	它	3254	3	至少 证明 你 女朋友 很 有 魅力 不 是 么	s73	135610	至少#AD 证明#VV 你#PN 女朋友#NN 很#AD 有#VE 魅力#NN 不#AD 是#VC 么#SP
+CHT_CMN_20121013.0002.su.xml	它	3276	25	至少 证明 你 女朋友 很 有 魅力 不 是 么	s73	135610	至少#AD 证明#VV 你#PN 女朋友#NN 很#AD 有#VE 魅力#NN 不#AD 是#VC 么#SP
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	这 倒 是	s74	135798	这#PN 倒#AD 是#VC
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	这 种 男人 真 恶心	s75	135798	这#DT 种#M 男人#NN 真#AD 恶心#VA
+CHT_CMN_20121013.0002.su.xml	他	3390	0	太 没 道德 了	s76	135798	太#AD 没#VE 道德#NN 了#SP
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	艹	s77	135798	艹#NN
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	……	s78	135610	……#PU
+CHT_CMN_20121013.0002.su.xml	你	3494	0	别 别	s79	135610	别#AD 别#AD
+CHT_CMN_20121013.0002.su.xml	你	3532	0	要 有 度量	s80	135610	要#VV 有#VE 度量#VV
+CHT_CMN_20121013.0002.su.xml	形	3573	0	话说 ， 你们 有空 可以 来 欧洲 找 我 玩 ！	s81	135798	话说#VV ，#PU 你们#PN 有空#VV 可以#VV 来#VV 欧洲#NR 找#VV 我#PN 玩#VV ！#PU
+CHT_CMN_20121013.0002.su.xml	它	3634	0	好 的 啊 ！	s82	135610	好#VA 的#DEC 啊#SP ！#PU
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	欧洲 啊 ！	s83	135610	欧洲#NR 啊#SP ！#PU
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	我 还 没 去 过 呢 ！	s84	135610	我#PN 还#AD 没#AD 去#VV 过#AS 呢#SP ！#PU
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	呵呵	s85	135798	呵呵#IJ
+CHT_CMN_20121013.0002.su.xml	你们	3784	0	有 机会 一起 过来 呗	s86	135798	有#VE 机会#NN 一起#AD 过来#VV 呗#SP
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	哥 可以 带 你们 *PRO* 在 法国 玩	s87	135798	哥#NR 可以#VV 带#VV 你们#PN *PRO*#AD 在#P 法国#NR 玩#VV
+CHT_CMN_20121013.0002.su.xml	它	3882	0	好 的 哟 ~~	s88	135610	好#VA 的#DEC 哟#IJ ~~#NN
+CHT_CMN_20121013.0002.su.xml	我们	3939	14	我 要 出门 吃 烧烤 啦 下 回 聊 哈	s89	135610	我#PN 要#VV 出门#VV 吃#VV 烧烤#NN 啦#SP 下#DT 回#M 聊#VV 哈#IJ
+CHT_CMN_20121013.0002.su.xml	我们	3981	0	88	s90	135798	88#CD
+CHT_CMN_20121013.0002.su.xml	我1	4023	5	我 觉得 完全 没 机会 了	s91	135798	我#PN 觉得#VV 完全#AD 没#VE 机会#NN 了#SP
+CHT_CMN_20121013.0002.su.xml	你	4067	0	怎么 了 ？	s92	135610	怎么#VA 了#SP ？#PU
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	她 说 什么 了 么 ？	s93	135610	她#PN 说#VV 什么#PN 了#SP 么#SP ？#PU
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	我 说 她 不 想 *PRO* 和 我 在 一起	s94	135798	我#PN 说#VV 她#PN 不#AD 想#VV *PRO*#VV 和#P 我#PN 在#VV 一起#AD
+CHT_CMN_20121013.0002.su.xml	她	4202	0	不 是 说 你们 先 单身 她 会 等 你 么	s95	135610	不#AD 是#VC 说#VV 你们#PN 先#AD 单身#AD 她#PN 会#VV 等#P 你#PN 么#SP
+CHT_CMN_20121013.0002.su.xml	我1	4260	0	估计 没 办法 了	s96	135798	估计#VV 没#VE 办法#NN 了#SP
+CHT_CMN_20121013.0002.su.xml	我1	4269	9	估计 没 办法 了	s96	135798	估计#VV 没#VE 办法#NN 了#SP
+CHT_CMN_20121013.0002.su.xml	你	4310	0	别 这么 想 她 不 是 还 没 和 别人 在 一起 吗	s97	135610	别#AD 这么#AD 想#VV 她#PN 不#AD 是#VC 还#AD 没#AD 和#P 别人#NN 在#VV 一起#AD 吗#SP
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	呵呵 ， 可能 她 真的 想 *PRO* 和 别人 在 一起 了	s98	135798	呵呵#IJ ，#PU 可能#VV 她#PN 真的#AD 想#VV *PRO*#VV 和#P 别人#NN 在#VV 一起#AD 了#SP
+CHT_CMN_20121013.0002.su.xml	我1	4434	0	算了 ， 一切 都 过去 了	s99	135798	算了#VV ，#PU 一切#PN 都#AD 过去#VV 了#AS
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	四 年 的 感情 ， 就 这样 ， 水 过 无 痕	s100	135798	四#CD 年#M 的#DEG 感情#NN ，#PU 就#AD 这样#AD ，#PU 水#NN 过#AD 无#VE 痕#NN
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	唉 ……	s101	135610	唉#IJ ……#PU
+CHT_CMN_20121013.0002.su.xml	你	4573	0	实在 不 行 也 只 能 这样 了 ……	s102	135610	实在#AD 不#AD 行#VV 也#AD 只#AD 能#VV 这样#VV 了#AS ……#PU
+CHT_CMN_20121013.0002.su.xml	你1	4586	13	实在 不 行 也 只 能 这样 了 ……	s102	135610	实在#AD 不#AD 行#VV 也#AD 只#AD 能#VV 这样#VV 了#AS ……#PU
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	感情 是 自己 的 事情 你 一定 要 想 明白 啊	s103	135610	感情#NN 是#VC 自己#PN 的#DEG 事情#NN 你#PN 一定#AD 要#VV 想#VV 明白#VA 啊#SP
+CHT_CMN_20121013.0002.su.xml	NONE	-1	-1	嗯	s104	135798	嗯#IJ
+CHT_CMN_20121013.0002.su.xml	你1	4722	0	乖 没有 *OP* 过 不 去 *T*-1 的 坎	s105	135610	乖#VA 没有#AD *OP*#VV 过#AS 不#AD 去#VV *T*-1#VV 的#DEC 坎#NN
+CHT_CMN_20121013.0002.su.xml	形	4730	8	乖 没有 *OP* 过 不 去 *T*-1 的 坎	s105	135610	乖#VA 没有#AD *OP*#VV 过#AS 不#AD 去#VV *T*-1#VV 的#DEC 坎#NN
+CHT_CMN_20121013.0002.su.xml	你1	4744	22	乖 没有 *OP* 过 不 去 *T*-1 的 坎	s105	135610	乖#VA 没有#AD *OP*#VV 过#AS 不#AD 去#VV *T*-1#VV 的#DEC 坎#NN
+CHT_CMN_20121013.0002.su.xml	我1	4795	0	真的 ， 好 难过	s106	135798	真的#VA ，#PU 好#VA 难过#VA
+CHT_CMN_20121013.0002.su.xml	你1	4840	0	不 要 想 了	s107	135610	不#AD 要#VV 想#VV 了#SP
+CHT_CMN_20121013.0002.su.xml	你1	4883	0	越 想 会 越 难受 的	s108	135610	越#AD 想#VV 会#VV 越#AD 难受#VA 的#SP
+CHT_CMN_20121013.0002.su.xml	你1	4893	10	越 想 会 越 难受 的	s108	135610	越#AD 想#VV 会#VV 越#AD 难受#VA 的#SP

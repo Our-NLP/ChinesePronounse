@@ -1,0 +1,12 @@
+SMS_CMN_20130225.0003.su.xml	NONE	-1	-1	hi 亲爱 的 我 今天 打工 忘记 *PRO* 带 手机 了 ， 刚 到家 。	s0	133476	hi#NR 亲爱#VA 的#DEC 我#PN 今天#NT 打工#VV 忘记#VV *PRO*#NR 带#VV 手机#NN 了#SP ，#PU 刚#AD 到家#VV 。#PU
+SMS_CMN_20130225.0003.su.xml	你	84	14	如果 你 明天 方便 的话 能 不 能 早晨 起来 给 我 打 个 电话 啊 ， 你 一般 几点 出发 ？	s0	133476	如果#CS 你#PN 明天#NT 方便#VV 的话#SP 能#VV 不#AD 能#VV 早晨#NT 起来#VV 给#VV 我#PN 打#VV 个#M 电话#NN 啊#SP ，#PU 你#PN 一般#AD 几点#AD 出发#VV ？#PU
+SMS_CMN_20130225.0003.su.xml	NONE	-1	-1	我 在 kroger 门口 等 你	s0	133476	我#PN 在#P kroger#NN 门口#NN 等#ETC 你#PN
+SMS_CMN_20130225.0003.su.xml	它	175	0	好 的 那 我 大概 九点过五分 在 你 家 附近 那 个 Chase ATM 等 你 吧 我 正好 要 去 存 支票 那边 你 穿过 灌木从 还 方便 么	s1	133413	好#VA 的#DEC 那#DT 我#PN 大概#AD 九点过五分#NT 在#P 你#PN 家#NN 附近#NN 那#DT 个#M Chase#NR ATM#NN 等#ETC 你#PN 吧#SP 我#PN 正好#AD 要#VV 去#VV 存#VV 支票#NN 那边#PN 你#PN 穿过#VV 灌木从#NR 还#AD 方便#VV 么#SP
+SMS_CMN_20130225.0003.su.xml	它	289	2	嗯 没 问题 我 9点 在 那 等 你 谢谢 啦 ！！！	s2	133476	嗯#IJ 没#VE 问题#NN 我#PN 9点#NT 在#P 那#PN 等#ETC 你#PN 谢谢#VV 啦#SP ！！！#NR
+SMS_CMN_20130225.0003.su.xml	我	313	26	嗯 没 问题 我 9点 在 那 等 你 谢谢 啦 ！！！	s2	133476	嗯#IJ 没#VE 问题#NN 我#PN 9点#NT 在#P 那#PN 等#ETC 你#PN 谢谢#VV 啦#SP ！！！#NR
+SMS_CMN_20130225.0003.su.xml	它	355	0	不 客气 早点 休息 明早 见	s3	133413	不#AD 客气#VA 早点#AD 休息#VV 明早#NT 见#VV
+SMS_CMN_20130225.0003.su.xml	你	366	11	不 客气 早点 休息 明早 见	s3	133413	不#AD 客气#VA 早点#AD 休息#VV 明早#NT 见#VV
+SMS_CMN_20130225.0003.su.xml	我们	378	23	不 客气 早点 休息 明早 见	s3	133413	不#AD 客气#VA 早点#AD 休息#VV 明早#NT 见#VV
+SMS_CMN_20130225.0003.su.xml	你	418	2	嗯 晚安 ：）	s4	133476	嗯#IJ 晚安#VV ：）#NR
+SMS_CMN_20130225.0003.su.xml	NONE	-1	-1	你 出门 了 么	s5	133413	你#PN 出门#VV 了#AS 么#SP
+SMS_CMN_20130225.0003.su.xml	我	493	0	马上 到	s6	133476	马上#AD 到#VV

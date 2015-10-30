@@ -1,0 +1,83 @@
+CHT_CMN_20130314.0028.su.xml	NONE	-1	-1	嫂子 忙 吗	s0	137954	嫂子#NN 忙#VA 吗#SP
+CHT_CMN_20130314.0028.su.xml	我	63	0	不 忙	s1	137903	不#AD 忙#VA
+CHT_CMN_20130314.0028.su.xml	NONE	-1	-1	嫂子	s2	137954	嫂子#NN
+CHT_CMN_20130314.0028.su.xml	我	130	0	在	s3	137903	在#P
+CHT_CMN_20130314.0028.su.xml	你	165	0	忙 不	s4	137954	忙#VA 不#AD
+CHT_CMN_20130314.0028.su.xml	我	202	0	不 忙	s5	137903	不#AD 忙#VA
+CHT_CMN_20130314.0028.su.xml	它	239	0	好 的	s6	137954	好#VA 的#SP
+CHT_CMN_20130314.0028.su.xml	NONE	-1	-1	我 想 *PRO* 问问	s7	137954	我#PN 想#VV *PRO*#NR 问问#VV
+CHT_CMN_20130314.0028.su.xml	NONE	-1	-1	你 那 个 时候 拖 了 一 周 生 的 藕宝 ， 医生 没 说 胎盘 老化 啊	s8	137954	你#PN 那#DT 个#M 时候#NN 拖#VV 了#AS 一#CD 周#M 生#VV 的#DEC 藕宝#NN ，#PU 医生#NN 没#AD 说#VV 胎盘#NN 老化#VV 啊#SP
+CHT_CMN_20130314.0028.su.xml	我	412	28	没 ， 我 胎盘 一直 挺 好 的 ， 最后 *OP* *T*-1 生 的 时候 才 2 级	s9	137903	没#AD ，#PU 我#PN 胎盘#NN 一直#AD 挺#AD 好#VA 的#SP ，#PU 最后#AD *OP*#VV *T*-1#NN 生#VV 的#DEC 时候#NN 才#AD 2#CD 级#M
+CHT_CMN_20130314.0028.su.xml	它	431	47	没 ， 我 胎盘 一直 挺 好 的 ， 最后 *OP* *T*-1 生 的 时候 才 2 级	s9	137903	没#AD ，#PU 我#PN 胎盘#NN 一直#AD 挺#AD 好#VA 的#SP ，#PU 最后#AD *OP*#VV *T*-1#NN 生#VV 的#DEC 时候#NN 才#AD 2#CD 级#M
+CHT_CMN_20130314.0028.su.xml	我	488	17	我 昨天 去 医院 ， 医生 说 现在 39 W 胎盘 3 级	s10	137954	我#PN 昨天#NT 去#VV 医院#NN ，#PU 医生#NN 说#VV 现在#NT 39#CD W#NR 胎盘#NN 3#OD 级#NN
+CHT_CMN_20130314.0028.su.xml	NONE	-1	-1	我 一 个 同事 就 因为 胎盘 老化 ， 提前 生 的	s11	137903	我#PN 一#CD 个#M 同事#NN 就#AD 因为#P 胎盘#NN 老化#VV ，#PU 提前#AD 生#VV 的#SP
+CHT_CMN_20130314.0028.su.xml	她	594	0	打 的 催产 针	s12	137903	打#VV 的#DEC 催产#NN 针#NN
+CHT_CMN_20130314.0028.su.xml	NONE	-1	-1	我 现在 3 级 了 。	s13	137954	我#PN 现在#NT 3#OD 级#NN 了#SP 。#PU
+CHT_CMN_20130314.0028.su.xml	我	655	5	医生 让 住院	s13	137954	医生#NN 让#VV 住院#NN
+CHT_CMN_20130314.0028.su.xml	她们	696	4	我 怕 让 我 *PRO* 破腹产	s14	137954	我#PN 怕#VV 让#VV 我#PN *PRO*#VV 破腹产#NN
+CHT_CMN_20130314.0028.su.xml	她们	744	0	应该 不 会	s15	137903	应该#VV 不#AD 会#VV
+CHT_CMN_20130314.0028.su.xml	NONE	-1	-1	哦	s16	137954	哦#IJ
+CHT_CMN_20130314.0028.su.xml	你	815	0	会 先 打针	s17	137903	会#VV 先#AD 打针#VV
+CHT_CMN_20130314.0028.su.xml	NONE	-1	-1	哦 。	s18	137954	哦#IJ 。#PU
+CHT_CMN_20130314.0028.su.xml	其	860	0	这样 啊	s18	137954	这样#AD 啊#SP
+CHT_CMN_20130314.0028.su.xml	我	899	0	现在 才 39 W 加 1 ， 住院 太 早 了 吧	s19	137954	现在#NT 才#AD 39#CD W#NR 加#NR 1#CD ，#PU 住院#VV 太#AD 早#VA 了#SP 吧#SP
+CHT_CMN_20130314.0028.su.xml	我	921	22	现在 才 39 W 加 1 ， 住院 太 早 了 吧	s19	137954	现在#NT 才#AD 39#CD W#NR 加#NR 1#CD ，#PU 住院#VV 太#AD 早#VA 了#SP 吧#SP
+CHT_CMN_20130314.0028.su.xml	NONE	-1	-1	我 也 想 宝宝 快点 出来 ， 又 想 *PRO* 让 他 *PRO* 顺其自然 。	s20	137954	我#PN 也#AD 想#VV 宝宝#NN 快点#VV 出来#VV ，#PU 又#AD 想#VV *PRO*#VV 让#VV 他#PN *PRO*#VV 顺其自然#VV 。#PU
+CHT_CMN_20130314.0028.su.xml	我	1010	0	好 矛盾 啊	s20	137954	好#VA 矛盾#VA 啊#SP
+CHT_CMN_20130314.0028.su.xml	你	1051	0	现在 生 也 行	s21	137903	现在#NT 生#VV 也#AD 行#VV
+CHT_CMN_20130314.0028.su.xml	我	1094	0	现在 生 就 是 炮 啊	s22	137954	现在#NT 生#VV 就#AD 是#VC 炮#NN 啊#SP
+CHT_CMN_20130314.0028.su.xml	它	1105	11	现在 生 就 是 炮 啊	s22	137954	现在#NT 生#VV 就#AD 是#VC 炮#NN 啊#SP
+CHT_CMN_20130314.0028.su.xml	NONE	-1	-1	不 啊	s23	137903	不#AD 啊#SP
+CHT_CMN_20130314.0028.su.xml	你	1179	0	打 催产 针	s24	137903	打#VV 催产#NN 针#NN
+CHT_CMN_20130314.0028.su.xml	NONE	-1	-1	哦 。	s25	137954	哦#IJ 。#PU
+CHT_CMN_20130314.0028.su.xml	NONE	-1	-1	那 我 这 几 天 多 锻炼 吧 。	s26	137954	那#AD 我#PN 这#DT 几#CD 天#M 多#AD 锻炼#VV 吧#SP 。#PU
+CHT_CMN_20130314.0028.su.xml	我1	1277	6	到 礼拜一 在 决定 *PRO* 住院 。	s26	137954	到#P 礼拜一#NT 在#P 决定#VV *PRO*#NR 住院#VV 。#PU
+CHT_CMN_20130314.0028.su.xml	NONE	-1	-1	哎	s27	137954	哎#IJ
+CHT_CMN_20130314.0028.su.xml	NONE	-1	-1	我 现在 很 不 淡定 啊	s28	137954	我#PN 现在#NT 很#AD 不#AD 淡定#VA 啊#SP
+CHT_CMN_20130314.0028.su.xml	NONE	-1	-1	胎盘 老化 孩子 容易 缺氧	s29	137903	胎盘#NN 老化#VV 孩子#NN 容易#AD 缺氧#VV
+CHT_CMN_20130314.0028.su.xml	NONE	-1	-1	你 最好 还是 住院	s30	137903	你#PN 最好#AD 还是#AD 住院#VV
+CHT_CMN_20130314.0028.su.xml	NONE	-1	-1	哦	s31	137954	哦#IJ
+CHT_CMN_20130314.0028.su.xml	NONE	-1	-1	那 我 在 网上 发 帖子 ， 好多 36 周 就 胎盘 3 级 了 啊	s32	137954	那#AD 我#PN 在#P 网上#NN 发#VV 帖子#NN ，#PU 好多#CD 36#CD 周#M 就#AD 胎盘#NN 3#OD 级#NN 了#SP 啊#SP
+CHT_CMN_20130314.0028.su.xml	NONE	-1	-1	你 在 哪 个 医院 看 的 ？	s33	137903	你#PN 在#P 哪#DT 个#M 医院#NN 看#VV 的#SP ？#PU
+CHT_CMN_20130314.0028.su.xml	NONE	-1	-1	济南 军区 医院	s34	137954	济南#NR 军区#NN 医院#NN
+CHT_CMN_20130314.0028.su.xml	你	1661	3	如果 不 住院 你 自己 多 注意 ， 如果 孩子 胎动 少 了 你 就 赶快 去 医院	s35	137903	如果#CS 不#AD 住院#VV 你#PN 自己#PN 多#AD 注意#VV ，#PU 如果#CS 孩子#NN 胎动#VV 少#VV 了#AS 你#PN 就#AD 赶快#AD 去#VV 医院#NN
+CHT_CMN_20130314.0028.su.xml	它	1739	2	哦 好 的 。	s36	137954	哦#IJ 好#VA 的#SP 。#PU
+CHT_CMN_20130314.0028.su.xml	他	1779	0	今天 上午 没 动 吓 着 我 了 。	s37	137954	今天#NT 上午#NT 没#AD 动#VV 吓#VV 着#AS 我#PN 了#SP 。#PU
+CHT_CMN_20130314.0028.su.xml	它	1795	16	今天 上午 没 动 吓 着 我 了 。	s37	137954	今天#NT 上午#NT 没#AD 动#VV 吓#VV 着#AS 我#PN 了#SP 。#PU
+CHT_CMN_20130314.0028.su.xml	他	1811	0	下午 动 的 听 厉害	s37	137954	下午#NT 动#VV 的#DEC 听#NN 厉害#VA
+CHT_CMN_20130314.0028.su.xml	你	1857	0	把 *OP* *T*-2 住院 的 东西 都 收拾 好 *-1 了	s38	137903	把#BA *OP*#NN *T*-2#VV 住院#VV 的#DEC 东西#NN 都#AD 收拾#VV 好#AD *-1#VV 了#SP
+CHT_CMN_20130314.0028.su.xml	其	1870	13	把 *OP* *T*-2 住院 的 东西 都 收拾 好 *-1 了	s38	137903	把#BA *OP*#NN *T*-2#VV 住院#VV 的#DEC 东西#NN 都#AD 收拾#VV 好#AD *-1#VV 了#SP
+CHT_CMN_20130314.0028.su.xml	你	1931	0	感觉 不 对 随时 去 医院	s39	137903	感觉#VV 不#AD 对#P 随时#AD 去#VV 医院#NN
+CHT_CMN_20130314.0028.su.xml	他	1940	9	感觉 不 对 随时 去 医院	s39	137903	感觉#VV 不#AD 对#P 随时#AD 去#VV 医院#NN
+CHT_CMN_20130314.0028.su.xml	你	1950	19	感觉 不 对 随时 去 医院	s39	137903	感觉#VV 不#AD 对#P 随时#AD 去#VV 医院#NN
+CHT_CMN_20130314.0028.su.xml	我1	1996	4	户口本 还 用 *T*-1 吗	s40	137954	户口本#NN 还#AD 用#VV *T*-1#NN 吗#SP
+CHT_CMN_20130314.0028.su.xml	你	2042	0	不 用	s41	137903	不#AD 用#VV
+CHT_CMN_20130314.0028.su.xml	它	2088	8	身份证 就 行 是 吧	s42	137954	身份证#NN 就#AD 行#VV 是#VC 吧#SP
+CHT_CMN_20130314.0028.su.xml	NONE	-1	-1	身份证 + 钱	s43	137903	身份证#NN +#PU 钱#NN
+CHT_CMN_20130314.0028.su.xml	你	2162	0	先 交 6000	s44	137903	先#AD 交#VV 6000#CD
+CHT_CMN_20130314.0028.su.xml	它	2205	0	多 退 少 补	s45	137903	多#AD 退#VV 少#AD 补#VV
+CHT_CMN_20130314.0028.su.xml	他们	2213	8	多 退 少 补	s45	137903	多#AD 退#VV 少#AD 补#VV
+CHT_CMN_20130314.0028.su.xml	它	2221	16	多 退 少 补	s45	137903	多#AD 退#VV 少#AD 补#VV
+CHT_CMN_20130314.0028.su.xml	他们	2229	24	多 退 少 补	s45	137903	多#AD 退#VV 少#AD 补#VV
+CHT_CMN_20130314.0028.su.xml	NONE	-1	-1	哦	s46	137954	哦#IJ
+CHT_CMN_20130314.0028.su.xml	我1	2295	0	期待 你 的 好 消息 呦 ~~	s47	137903	期待#VV 你#PN 的#DEG 好#JJ 消息#NN 呦#SP ~~#VV
+CHT_CMN_20130314.0028.su.xml	NONE	-1	-1	刷卡	s48	137954	刷卡#VV
+CHT_CMN_20130314.0028.su.xml	NONE	-1	-1	呵呵	s49	137954	呵呵#IJ
+CHT_CMN_20130314.0028.su.xml	NONE	-1	-1	我 着急 呢	s50	137954	我#PN 着急#VV 呢#SP
+CHT_CMN_20130314.0028.su.xml	你1	2443	0	适当 的 运动	s51	137903	适当#VA 的#DEC 运动#NN
+CHT_CMN_20130314.0028.su.xml	你1	2485	0	也 别 太 过 了	s52	137903	也#AD 别#AD 太#AD 过#VV 了#SP
+CHT_CMN_20130314.0028.su.xml	它	2531	2	恩 好 的 。	s53	137954	恩#IJ 好#VA 的#SP 。#PU
+CHT_CMN_20130314.0028.su.xml	我1	2543	0	谢谢 嫂子	s53	137954	谢谢#VV 嫂子#NN
+CHT_CMN_20130314.0028.su.xml	NONE	-1	-1	哦啊 。	s54	137954	哦啊#NN 。#PU
+CHT_CMN_20130314.0028.su.xml	NONE	-1	-1	我 昨天 走 了 一 个 半 小时	s55	137954	我#PN 昨天#NT 走#VV 了#AS 一#CD 个#M 半#CD 小时#NN
+CHT_CMN_20130314.0028.su.xml	NONE	-1	-1	你 胎盘 老化 ， 孩子 缺氧 就 不 好 了	s56	137903	你#PN 胎盘#NN 老化#VV ，#PU 孩子#NN 缺氧#VV 就#AD 不#AD 好#VA 了#SP
+CHT_CMN_20130314.0028.su.xml	NONE	-1	-1	恩啊 。	s57	137954	恩啊#NN 。#PU
+CHT_CMN_20130314.0028.su.xml	NONE	-1	-1	预产期 还 有 6 天 ， 我 就 这 几 天 住院	s58	137954	预产期#NN 还#AD 有#VE 6#CD 天#M ，#PU 我#PN 就#AD 这#DT 几#CD 天#M 住院#VV
+CHT_CMN_20130314.0028.su.xml	NONE	-1	-1	呵呵 ，	s59	137954	呵呵#IJ ，#PU
+CHT_CMN_20130314.0028.su.xml	NONE	-1	-1	破腹产 我 害怕 *T*-1	s60	137954	破腹产#NN 我#PN 害怕#VV *T*-1#NN
+CHT_CMN_20130314.0028.su.xml	NONE	-1	-1	我 身体 太 瘦弱 了 ， 经 不 起 折腾	s61	137954	我#PN 身体#NN 太#AD 瘦弱#VA 了#SP ，#PU 经#P 不#AD 起#VV 折腾#VV
+CHT_CMN_20130314.0028.su.xml	NONE	-1	-1	顺产 更 雷人	s62	137903	顺产#NN 更#AD 雷人#VV
+CHT_CMN_20130314.0028.su.xml	NONE	-1	-1	累人	s63	137903	累人#NN
+CHT_CMN_20130314.0028.su.xml	我1	3000	4	恩 ， 谢谢 嫂子 。	s64	137954	恩#IJ ，#PU 谢谢#VV 嫂子#NN 。#PU
+CHT_CMN_20130314.0028.su.xml	NONE	-1	-1	我 先 下 了	s64	137954	我#PN 先#AD 下#VV 了#AS
+CHT_CMN_20130314.0028.su.xml	NONE	-1	-1	嗯	s65	137903	嗯#IJ

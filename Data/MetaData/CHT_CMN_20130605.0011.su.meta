@@ -1,0 +1,85 @@
+CHT_CMN_20130605.0011.su.xml	你	29	0	在 吗 ？	s0	134110	在#VV 吗#SP ？#PU
+CHT_CMN_20130605.0011.su.xml	我	68	0	到 工商局 提 变更 证明 需要 什么	s1	134110	到#P 工商局#NN 提#VV 变更#NN 证明#NN 需要#VV 什么#PN
+CHT_CMN_20130605.0011.su.xml	NONE	-1	-1	原件 吗 ？	s2	134110	原件#NN 吗#SP ？#PU
+CHT_CMN_20130605.0011.su.xml	我	155	0	在	s3	131226	在#P
+CHT_CMN_20130605.0011.su.xml	你	190	0	只 需要 带 着 营业 执照 就 可	s4	131226	只#AD 需要#VV 带#VV 着#AS 营业#NN 执照#NN 就#AD 可#VV
+CHT_CMN_20130605.0011.su.xml	你	249	7	市中区 的话 带 复印件	s5	131226	市中区#NN 的话#SP 带#VV 复印件#NN
+CHT_CMN_20130605.0011.su.xml	你	293	5	市 的话 带 原件	s6	131226	市#NN 的话#SP 带#VV 原件#NN
+CHT_CMN_20130605.0011.su.xml	你	331	0	先 别 买 了 ， 有 *OP* *T*-1 需要 的 就 来 财务 拿 吧 ， 如果 以后 客户 量 比较 大 ， 再 采购 也 行	s7	134110	先#AD 别#AD 买#VV 了#SP ，#PU 有#VE *OP*#NN *T*-1#NN 需要#VV 的#DEC 就#AD 来#VV 财务#NN 拿#VV 吧#SP ，#PU 如果#CS 以后#LC 客户#NN 量#NN 比较#AD 大#VA ，#PU 再#AD 采购#VV 也#AD 行#VV
+CHT_CMN_20130605.0011.su.xml	你	347	16	先 别 买 了 ， 有 *OP* *T*-1 需要 的 就 来 财务 拿 吧 ， 如果 以后 客户 量 比较 大 ， 再 采购 也 行	s7	134110	先#AD 别#AD 买#VV 了#SP ，#PU 有#VE *OP*#NN *T*-1#NN 需要#VV 的#DEC 就#AD 来#VV 财务#NN 拿#VV 吧#SP ，#PU 如果#CS 以后#LC 客户#NN 量#NN 比较#AD 大#VA ，#PU 再#AD 采购#VV 也#AD 行#VV
+CHT_CMN_20130605.0011.su.xml	你	371	40	先 别 买 了 ， 有 *OP* *T*-1 需要 的 就 来 财务 拿 吧 ， 如果 以后 客户 量 比较 大 ， 再 采购 也 行	s7	134110	先#AD 别#AD 买#VV 了#SP ，#PU 有#VE *OP*#NN *T*-1#NN 需要#VV 的#DEC 就#AD 来#VV 财务#NN 拿#VV 吧#SP ，#PU 如果#CS 以后#LC 客户#NN 量#NN 比较#AD 大#VA ，#PU 再#AD 采购#VV 也#AD 行#VV
+CHT_CMN_20130605.0011.su.xml	你	408	77	先 别 买 了 ， 有 *OP* *T*-1 需要 的 就 来 财务 拿 吧 ， 如果 以后 客户 量 比较 大 ， 再 采购 也 行	s7	134110	先#AD 别#AD 买#VV 了#SP ，#PU 有#VE *OP*#NN *T*-1#NN 需要#VV 的#DEC 就#AD 来#VV 财务#NN 拿#VV 吧#SP ，#PU 如果#CS 以后#LC 客户#NN 量#NN 比较#AD 大#VA ，#PU 再#AD 采购#VV 也#AD 行#VV
+CHT_CMN_20130605.0011.su.xml	它	450	0	好	s8	131226	好#VA
+CHT_CMN_20130605.0011.su.xml	你	485	0	在 吗 ？	s9	134110	在#VV 吗#SP ？#PU
+CHT_CMN_20130605.0011.su.xml	你	530	5	*OP* 让 我们 *PRO* 写 *T*-1 的 东西 ， 准备 怎么样 了 ， 我 这边 找 了 个 外源 ， 不 知道 下午 能 不 能 发 过来 一些	s10	134110	*OP*#NR 让#VV 我们#PN *PRO*#AD 写#VV *T*-1#NN 的#DEC 东西#NN ，#PU 准备#VV 怎么样#VV 了#AS ，#PU 我#PN 这边#PN 找#VV 了#AS 个#M 外源#NN ，#PU 不#AD 知道#VV 下午#NT 能#VV 不#AD 能#VV 发#VV 过来#VV 一些#CD
+CHT_CMN_20130605.0011.su.xml	我	589	64	*OP* 让 我们 *PRO* 写 *T*-1 的 东西 ， 准备 怎么样 了 ， 我 这边 找 了 个 外源 ， 不 知道 下午 能 不 能 发 过来 一些	s10	134110	*OP*#NR 让#VV 我们#PN *PRO*#AD 写#VV *T*-1#NN 的#DEC 东西#NN ，#PU 准备#VV 怎么样#VV 了#AS ，#PU 我#PN 这边#PN 找#VV 了#AS 个#M 外源#NN ，#PU 不#AD 知道#VV 下午#NT 能#VV 不#AD 能#VV 发#VV 过来#VV 一些#CD
+CHT_CMN_20130605.0011.su.xml	他们	603	78	*OP* 让 我们 *PRO* 写 *T*-1 的 东西 ， 准备 怎么样 了 ， 我 这边 找 了 个 外源 ， 不 知道 下午 能 不 能 发 过来 一些	s10	134110	*OP*#NR 让#VV 我们#PN *PRO*#AD 写#VV *T*-1#NN 的#DEC 东西#NN ，#PU 准备#VV 怎么样#VV 了#AS ，#PU 我#PN 这边#PN 找#VV 了#AS 个#M 外源#NN ，#PU 不#AD 知道#VV 下午#NT 能#VV 不#AD 能#VV 发#VV 过来#VV 一些#CD
+CHT_CMN_20130605.0011.su.xml	它	699	48	这 是 *OP* 他们 发 过来 *T*-1 的 录音 ， 我 还 没有 听 ， 也 不 知道 怎么样	s11	134110	这#PN 是#VC *OP*#VV 他们#PN 发#VV 过来#VV *T*-1#VV 的#DEC 录音#NN ，#PU 我#PN 还#AD 没有#AD 听#VV ，#PU 也#AD 不#AD 知道#VV 怎么样#VA
+CHT_CMN_20130605.0011.su.xml	NONE	-1	-1	？	s12	131226	？#PU
+CHT_CMN_20130605.0011.su.xml	NONE	-1	-1	哈哈 ， 你 还 找 外援 了 ？	s13	131226	哈哈#IJ ，#PU 你#PN 还#AD 找#VV 外援#NN 了#SP ？#PU
+CHT_CMN_20130605.0011.su.xml	NONE	-1	-1	我 写 了 一些 。	s14	131226	我#PN 写#VV 了#AS 一些#CD 。#PU
+CHT_CMN_20130605.0011.su.xml	它	852	0	但 都 是 摘自 咱 的 教材	s15	131226	但#AD 都#AD 是#VC 摘自#VV 咱#PN 的#DEG 教材#NN
+CHT_CMN_20130605.0011.su.xml	我	905	3	回头 给 你 看看 ， 再 删除	s16	131226	回头#VV 给#VV 你#PN 看看#VV ，#PU 再#AD 删除#VV
+CHT_CMN_20130605.0011.su.xml	它	953	0	行 。	s17	131226	行#VV 。#PU
+CHT_CMN_20130605.0011.su.xml	它	991	0	好 的	s18	134110	好#VA 的#SP
+CHT_CMN_20130605.0011.su.xml	NONE	-1	-1	我 也 是 急着 弄 省 著名 商标 和 二 级 资质 的 事情 。	s19	131226	我#PN 也#AD 是#VC 急着#AD 弄#VV 省#NN 著名#JJ 商标#NN 和#CC 二#OD 级#M 资质#NN 的#DEG 事情#NN 。#PU
+CHT_CMN_20130605.0011.su.xml	我	1080	16	所以 精力 不 是 十分 充沛 弄 这个 。	s19	131226	所以#AD 精力#NN 不#AD 是#VC 十分#AD 充沛#VA 弄#VV 这个#PN 。#PU
+CHT_CMN_20130605.0011.su.xml	NONE	-1	-1	我 参照 咱 的 教材 ， 摘取 了 些 东西 。	s19	131226	我#PN 参照#VV 咱#PN 的#DEG 教材#NN ，#PU 摘取#VV 了#AS 些#M 东西#NN 。#PU
+CHT_CMN_20130605.0011.su.xml	我	1147	0	等 着 那 个 小青年 *PRO* 发 过来 ， 再 做 整合	s20	131226	等#VV 着#AS 那#DT 个#M 小青年#NN *PRO*#AD 发#VV 过来#VV ，#PU 再#AD 做#VV 整合#NN
+CHT_CMN_20130605.0011.su.xml	NONE	-1	-1	1 =	s21	134110	1#CD =#PU
+CHT_CMN_20130605.0011.su.xml	NONE	-1	-1	谢 姐 ， 还 得 再 把 和和 家政 的 简介 给 我 一下 *-1 ， 我 发给 电视台 *PRO* 做 广告 的	s22	131226	谢#NR 姐#NN ，#PU 还#AD 得#VV 再#AD 把#BA 和和#NR 家政#NN 的#DEG 简介#NN 给#VV 我#PN 一下#AD *-1#NN ，#PU 我#PN 发给#VV 电视台#NN *PRO*#NN 做#VV 广告#NN 的#SP
+CHT_CMN_20130605.0011.su.xml	它	1333	0	好	s23	131226	好#VA
+CHT_CMN_20130605.0011.su.xml	它	1369	0	OK	s24	131226	OK#VA
+CHT_CMN_20130605.0011.su.xml	你1	1406	0	在 吗 ？	s25	134110	在#VV 吗#SP ？#PU
+CHT_CMN_20130605.0011.su.xml	你1	1418	0	把 *OP* 你 做 *T*-1 的 发给 我 *PRO* 看看 *-2 吧 ， 昨天 那 个 小孩 发 过来 了 ， 不过 太 少 了 ， 他 可能 理解 错 我 的 意思 了 ， 一会 下载 下来 ， 发给 你 *PRO* 看看	s25	134110	把#BA *OP*#NN 你#PN 做#VV *T*-1#NN 的#DEC 发给#VV 我#PN *PRO*#AD 看看#VV *-2#NN 吧#SP ，#PU 昨天#NT 那#DT 个#M 小孩#NN 发#VV 过来#VV 了#SP ，#PU 不过#AD 太#AD 少#VA 了#SP ，#PU 他#PN 可能#AD 理解#VV 错#VA 我#PN 的#DEG 意思#NN 了#SP ，#PU 一会#AD 下载#VV 下来#VV ，#PU 发给#VV 你#PN *PRO*#VV 看看#VV
+CHT_CMN_20130605.0011.su.xml	它	1487	69	把 *OP* 你 做 *T*-1 的 发给 我 *PRO* 看看 *-2 吧 ， 昨天 那 个 小孩 发 过来 了 ， 不过 太 少 了 ， 他 可能 理解 错 我 的 意思 了 ， 一会 下载 下来 ， 发给 你 *PRO* 看看	s25	134110	把#BA *OP*#NN 你#PN 做#VV *T*-1#NN 的#DEC 发给#VV 我#PN *PRO*#AD 看看#VV *-2#NN 吧#SP ，#PU 昨天#NT 那#DT 个#M 小孩#NN 发#VV 过来#VV 了#SP ，#PU 不过#AD 太#AD 少#VA 了#SP ，#PU 他#PN 可能#AD 理解#VV 错#VA 我#PN 的#DEG 意思#NN 了#SP ，#PU 一会#AD 下载#VV 下来#VV ，#PU 发给#VV 你#PN *PRO*#VV 看看#VV
+CHT_CMN_20130605.0011.su.xml	我	1522	104	把 *OP* 你 做 *T*-1 的 发给 我 *PRO* 看看 *-2 吧 ， 昨天 那 个 小孩 发 过来 了 ， 不过 太 少 了 ， 他 可能 理解 错 我 的 意思 了 ， 一会 下载 下来 ， 发给 你 *PRO* 看看	s25	134110	把#BA *OP*#NN 你#PN 做#VV *T*-1#NN 的#DEC 发给#VV 我#PN *PRO*#AD 看看#VV *-2#NN 吧#SP ，#PU 昨天#NT 那#DT 个#M 小孩#NN 发#VV 过来#VV 了#SP ，#PU 不过#AD 太#AD 少#VA 了#SP ，#PU 他#PN 可能#AD 理解#VV 错#VA 我#PN 的#DEG 意思#NN 了#SP ，#PU 一会#AD 下载#VV 下来#VV ，#PU 发给#VV 你#PN *PRO*#VV 看看#VV
+CHT_CMN_20130605.0011.su.xml	NONE	-1	-1	朱 师傅 的 壶 早 就 坏 了 。	s26	131226	朱#NR 师傅#NN 的#DEG 壶#M 早#AD 就#AD 坏#VA 了#SP 。#PU
+CHT_CMN_20130605.0011.su.xml	NONE	-1	-1	我 忘记 了	s26	131226	我#PN 忘记#VV 了#AS
+CHT_CMN_20130605.0011.su.xml	我	1638	3	要不 给 三 楼 买 一 个 吧 。	s27	131226	要不#AD 给#P 三#CD 楼#M 买#VV 一#CD 个#M 吧#SP 。#PU
+CHT_CMN_20130605.0011.su.xml	它	1688	0	说 是 魏 总 也 用	s28	131226	说#VV 是#VC 魏#NR 总#JJ 也#AD 用#VV
+CHT_CMN_20130605.0011.su.xml	它	1734	0	好 的 ， 那 就 买 吧 ， 要 买 就 买 个 美的 的 或 其他 牌子 的 ， 不 要 买 *OP* *T*-1 太 差 的 ， 要不然 ， 坏 了 不 好 修	s29	134110	好#VA 的#SP ，#PU 那#AD 就#AD 买#VV 吧#SP ，#PU 要#VV 买#VV 就#AD 买#VV 个#M 美的#JJ 的#DEG 或#CC 其他#DT 牌子#NN 的#SP ，#PU 不#AD 要#VV 买#VV *OP*#NN *T*-1#NN 太#AD 差#VA 的#SP ，#PU 要不然#AD ，#PU 坏#VA 了#AS 不#AD 好#AD 修#VV
+CHT_CMN_20130605.0011.su.xml	你1	1748	14	好 的 ， 那 就 买 吧 ， 要 买 就 买 个 美的 的 或 其他 牌子 的 ， 不 要 买 *OP* *T*-1 太 差 的 ， 要不然 ， 坏 了 不 好 修	s29	134110	好#VA 的#SP ，#PU 那#AD 就#AD 买#VV 吧#SP ，#PU 要#VV 买#VV 就#AD 买#VV 个#M 美的#JJ 的#DEG 或#CC 其他#DT 牌子#NN 的#SP ，#PU 不#AD 要#VV 买#VV *OP*#NN *T*-1#NN 太#AD 差#VA 的#SP ，#PU 要不然#AD ，#PU 坏#VA 了#AS 不#AD 好#AD 修#VV
+CHT_CMN_20130605.0011.su.xml	你1	1764	30	好 的 ， 那 就 买 吧 ， 要 买 就 买 个 美的 的 或 其他 牌子 的 ， 不 要 买 *OP* *T*-1 太 差 的 ， 要不然 ， 坏 了 不 好 修	s29	134110	好#VA 的#SP ，#PU 那#AD 就#AD 买#VV 吧#SP ，#PU 要#VV 买#VV 就#AD 买#VV 个#M 美的#JJ 的#DEG 或#CC 其他#DT 牌子#NN 的#SP ，#PU 不#AD 要#VV 买#VV *OP*#NN *T*-1#NN 太#AD 差#VA 的#SP ，#PU 要不然#AD ，#PU 坏#VA 了#AS 不#AD 好#AD 修#VV
+CHT_CMN_20130605.0011.su.xml	你1	1772	38	好 的 ， 那 就 买 吧 ， 要 买 就 买 个 美的 的 或 其他 牌子 的 ， 不 要 买 *OP* *T*-1 太 差 的 ， 要不然 ， 坏 了 不 好 修	s29	134110	好#VA 的#SP ，#PU 那#AD 就#AD 买#VV 吧#SP ，#PU 要#VV 买#VV 就#AD 买#VV 个#M 美的#JJ 的#DEG 或#CC 其他#DT 牌子#NN 的#SP ，#PU 不#AD 要#VV 买#VV *OP*#NN *T*-1#NN 太#AD 差#VA 的#SP ，#PU 要不然#AD ，#PU 坏#VA 了#AS 不#AD 好#AD 修#VV
+CHT_CMN_20130605.0011.su.xml	它1	1832	98	好 的 ， 那 就 买 吧 ， 要 买 就 买 个 美的 的 或 其他 牌子 的 ， 不 要 买 *OP* *T*-1 太 差 的 ， 要不然 ， 坏 了 不 好 修	s29	134110	好#VA 的#SP ，#PU 那#AD 就#AD 买#VV 吧#SP ，#PU 要#VV 买#VV 就#AD 买#VV 个#M 美的#JJ 的#DEG 或#CC 其他#DT 牌子#NN 的#SP ，#PU 不#AD 要#VV 买#VV *OP*#NN *T*-1#NN 太#AD 差#VA 的#SP ，#PU 要不然#AD ，#PU 坏#VA 了#AS 不#AD 好#AD 修#VV
+CHT_CMN_20130605.0011.su.xml	它1	1842	108	好 的 ， 那 就 买 吧 ， 要 买 就 买 个 美的 的 或 其他 牌子 的 ， 不 要 买 *OP* *T*-1 太 差 的 ， 要不然 ， 坏 了 不 好 修	s29	134110	好#VA 的#SP ，#PU 那#AD 就#AD 买#VV 吧#SP ，#PU 要#VV 买#VV 就#AD 买#VV 个#M 美的#JJ 的#DEG 或#CC 其他#DT 牌子#NN 的#SP ，#PU 不#AD 要#VV 买#VV *OP*#NN *T*-1#NN 太#AD 差#VA 的#SP ，#PU 要不然#AD ，#PU 坏#VA 了#AS 不#AD 好#AD 修#VV
+CHT_CMN_20130605.0011.su.xml	他	1882	0	是 薛 老师 ， *PRO* 上课 前 给 我们 做 的 动员 ， 你 看 一下 吧 ，	s30	134110	是#VC 薛#NR 老师#NN ，#PU *PRO*#AD 上课#VV 前#LC 给#P 我们#PN 做#VV 的#DEC 动员#NN ，#PU 你#PN 看#VV 一下#AD 吧#SP ，#PU
+CHT_CMN_20130605.0011.su.xml	NONE	-1	-1	[ 表情 ] 你 真 厉害 。	s31	131226	[#PU 表情#NN ]#PU 你#PN 真#AD 厉害#VA 。#PU
+CHT_CMN_20130605.0011.su.xml	NONE	-1	-1	那 这个 就 你 做 *T*-1 了 ， 我 先 记帐 了	s32	134110	那#AD 这个#PN 就#AD 你#PN 做#VV *T*-1#NN 了#SP ，#PU 我#PN 先#AD 记帐#NN 了#SP
+CHT_CMN_20130605.0011.su.xml	它1	2063	0	好 的	s33	134110	好#VA 的#SP
+CHT_CMN_20130605.0011.su.xml	NONE	-1	-1	我 弄完 了 。	s34	131226	我#PN 弄完#VV 了#AS 。#PU
+CHT_CMN_20130605.0011.su.xml	NONE	-1	-1	你 看看 。	s34	131226	你#PN 看看#VV 。#PU
+CHT_CMN_20130605.0011.su.xml	NONE	-1	-1	里面 的 东西 很 多 。	s34	131226	里面#NN 的#DEG 东西#NN 很#AD 多#VA 。#PU
+CHT_CMN_20130605.0011.su.xml	你1	2131	0	再 给 删删	s34	131226	再#AD 给#VV 删删#NN
+CHT_CMN_20130605.0011.su.xml	NONE	-1	-1	我 看 了 ， 我 还是 先 别 修改 了 ， 下午 大家 *PRO* 碰头 一后 再 一起 修改 吧 。	s35	134110	我#PN 看#VV 了#AS ，#PU 我#PN 还是#AD 先#AD 别#AD 修改#VV 了#SP ，#PU 下午#NT 大家#PN *PRO*#AD 碰头#VV 一后#AD 再#AD 一起#AD 修改#VV 吧#SP 。#PU
+CHT_CMN_20130605.0011.su.xml	NONE	-1	-1	我 的 个人 感觉 是 动员 的 内容 少 了 一些 ， 针对性 不 够 。	s35	134110	我#PN 的#DEG 个人#NN 感觉#NN 是#VC 动员#VV 的#DEC 内容#NN 少#VV 了#AS 一些#CD ，#PU 针对性#NN 不#AD 够#VA 。#PU
+CHT_CMN_20130605.0011.su.xml	它1	2265	0	可能 是 我 发给 你 薛 老师 讲课 内容 的 原因 吧 。	s35	134110	可能#AD 是#VC 我#PN 发给#VV 你#PN 薛#NR 老师#NN 讲课#VV 内容#NN 的#DEC 原因#NN 吧#SP 。#PU
+CHT_CMN_20130605.0011.su.xml	我	2308	5	我 觉得 应该 围绕 第77 页 的 内容 做 动员 工作 。	s35	134110	我#PN 觉得#VV 应该#VV 围绕#VV 第77#OD 页#NN 的#DEG 内容#NN 做#VV 动员#NN 工作#NN 。#PU
+CHT_CMN_20130605.0011.su.xml	NONE	-1	-1	你 觉得 呢	s35	134110	你#PN 觉得#VV 呢#SP
+CHT_CMN_20130605.0011.su.xml	你1	2380	4	嗯 ， 需要 听 录音 吗 。	s36	134110	嗯#IJ ，#PU 需要#VV 听#VV 录音#NN 吗#SP 。#PU
+CHT_CMN_20130605.0011.su.xml	我	2401	3	要不 把 我 的 手机 先 放 *-1 你 那 ， 你 先 听听 。	s36	134110	要不#AD 把#BA 我#PN 的#DEG 手机#NN 先#AD 放#VV *-1#NN 你#PN 那#PN ，#PU 你#PN 先#AD 听听#VV 。#PU
+CHT_CMN_20130605.0011.su.xml	我1	2439	0	昨天 听 了 一点 ， 再 听 一 遍 ， 感触 是 不 太 一样	s36	134110	昨天#NT 听#VV 了#AS 一点#AD ，#PU 再#AD 听#VV 一#CD 遍#M ，#PU 感触#NN 是#VC 不#AD 太#AD 一样#VA
+CHT_CMN_20130605.0011.su.xml	它1	2472	33	昨天 听 了 一点 ， 再 听 一 遍 ， 感触 是 不 太 一样	s36	134110	昨天#NT 听#VV 了#AS 一点#AD ，#PU 再#AD 听#VV 一#CD 遍#M ，#PU 感触#NN 是#VC 不#AD 太#AD 一样#VA
+CHT_CMN_20130605.0011.su.xml	它1	2513	0	对 呀 ， 只 不过 我们 很 理解 ， 就 不 知道 *PRO* 如何 通过 语言 描述 让 大家 *PRO* 都 明白	s37	134110	对#VA 呀#SP ，#PU 只#AD 不过#AD 我们#PN 很#AD 理解#VV ，#PU 就#AD 不#AD 知道#VV *PRO*#NN 如何#AD 通过#P 语言#NN 描述#VV 让#VV 大家#PN *PRO*#AD 都#AD 明白#VA
+CHT_CMN_20130605.0011.su.xml	它1	2616	7	嗯 ， 要不 先 这样 吧 ， 你 联系 一下 ， 我们 下午 什么 时候 开 个 碰头会 吧	s38	134110	嗯#IJ ，#PU 要不#AD 先#AD 这样#VA 吧#SP ，#PU 你#PN 联系#VV 一下#AD ，#PU 我们#PN 下午#NT 什么#DT 时候#NN 开#VV 个#M 碰头会#NN 吧#SP
+CHT_CMN_20130605.0011.su.xml	NONE	-1	-1	77 页 的 我 也 仔细 看 *T*-1 了 。	s39	131226	77#CD 页#M 的#DEG 我#PN 也#AD 仔细#AD 看#VV *T*-1#NN 了#SP 。#PU
+CHT_CMN_20130605.0011.su.xml	NONE	-1	-1	确实 动员 的 少 。	s39	131226	确实#AD 动员#VV 的#DEC 少#VA 。#PU
+CHT_CMN_20130605.0011.su.xml	我1	2735	6	但是 动员 怎么 写 *T*-1 呀 ？	s39	131226	但是#AD 动员#VV 怎么#AD 写#VV *T*-1#NN 呀#SP ？#PU
+CHT_CMN_20130605.0011.su.xml	NONE	-1	-1	！	s39	131226	！#PU
+CHT_CMN_20130605.0011.su.xml	NONE	-1	-1	公司 利益 与 个人 利益 相辅相成 。	s39	131226	公司#NN 利益#NN 与#CC 个人#NN 利益#NN 相辅相成#VV 。#PU
+CHT_CMN_20130605.0011.su.xml	NONE	-1	-1	这个 怎么 扩展 开来 ， 我 不 知道 *T*-1	s39	131226	这个#PN 怎么#AD 扩展#VV 开来#VV ，#PU 我#PN 不#AD 知道#VV *T*-1#NN
+CHT_CMN_20130605.0011.su.xml	NONE	-1	-1	个人 梦想 与 公司 梦想 这个 我 也 不 知道 *PRO* 扩展 *T*-1	s40	131226	个人#NN 梦想#NN 与#CC 公司#NN 梦想#NN 这个#PN 我#PN 也#AD 不#AD 知道#VV *PRO*#NR 扩展#VV *T*-1#NR
+CHT_CMN_20130605.0011.su.xml	你1	2932	29	他们 应该 都 在 等 我们 ， 你 通知 他们 吧 ， 定 个 时间 开会 吧 。	s41	134110	他们#PN 应该#VV 都#AD 在#AD 等#VV 我们#PN ，#PU 你#PN 通知#VV 他们#PN 吧#SP ，#PU 定#VV 个#M 时间#NN 开会#VV 吧#SP 。#PU
+CHT_CMN_20130605.0011.su.xml	它1	2985	33	二 级 建造师 的 钱 姜 总 还 没有 批 *T*-1 呢 ， 现在 还 没 到 财务 这边	s41	134110	二#OD 级#M 建造师#NN 的#DEG 钱#NN 姜#NR 总#AD 还#AD 没有#AD 批#VV *T*-1#NN 呢#SP ，#PU 现在#NT 还#AD 没#VV 到#VV 财务#NN 这边#PN
+CHT_CMN_20130605.0011.su.xml	我1	3042	8	我 觉得 这个 PPT 里 不 好 写 *T*-1 ， 到时候 让 卢 总 *PRO* 补充 解释 呢 ？	s42	131226	我#PN 觉得#VV 这个#DT PPT#NN 里#LC 不#AD 好#AD 写#VV *T*-1#NN ，#PU 到时候#AD 让#VV 卢#NR 总#JJ *PRO*#NN 补充#VV 解释#NN 呢#SP ？#PU
+CHT_CMN_20130605.0011.su.xml	我1	3072	38	我 觉得 这个 PPT 里 不 好 写 *T*-1 ， 到时候 让 卢 总 *PRO* 补充 解释 呢 ？	s42	131226	我#PN 觉得#VV 这个#DT PPT#NN 里#LC 不#AD 好#AD 写#VV *T*-1#NN ，#PU 到时候#AD 让#VV 卢#NR 总#JJ *PRO*#NN 补充#VV 解释#NN 呢#SP ？#PU
+CHT_CMN_20130605.0011.su.xml	它1	3128	0	好 的	s43	134110	好#VA 的#SP
+CHT_CMN_20130605.0011.su.xml	NONE	-1	-1	其实 这 个 动员 卢 总 的 话 最 有 分量	s44	131226	其实#AD 这#DT 个#M 动员#VV 卢#NR 总#JJ 的#DEG 话#NN 最#AD 有#VE 分量#NN
+CHT_CMN_20130605.0011.su.xml	我们	3225	6	卢 总 说 下午 开会	s45	131226	卢#NR 总#AD 说#VV 下午#NT 开会#VV
+CHT_CMN_20130605.0011.su.xml	NONE	-1	-1	今天 下午	s46	131226	今天#NT 下午#NT
+CHT_CMN_20130605.0011.su.xml	形	3299	0	对 了 ， 那 个 两万四 *OP* 给 二 级 建造师 *T*-1 的 钱 ， 卢 总 批 了 *T*-2 吗 ？	s47	131226	对#VA 了#SP ，#PU 那#DT 个#M 两万四#CD *OP*#NN 给#VV 二#OD 级#M 建造师#NN *T*-1#VV 的#DEC 钱#NN ，#PU 卢#NR 总#AD 批#VV 了#AS *T*-2#NN 吗#SP ？#PU
+CHT_CMN_20130605.0011.su.xml	它1	3324	25	对 了 ， 那 个 两万四 *OP* 给 二 级 建造师 *T*-1 的 钱 ， 卢 总 批 了 *T*-2 吗 ？	s47	131226	对#VA 了#SP ，#PU 那#DT 个#M 两万四#CD *OP*#NN 给#VV 二#OD 级#M 建造师#NN *T*-1#VV 的#DEC 钱#NN ，#PU 卢#NR 总#AD 批#VV 了#AS *T*-2#NN 吗#SP ？#PU
+CHT_CMN_20130605.0011.su.xml	它2	3398	0	对	s48	131226	对#VA
+CHT_CMN_20130605.0011.su.xml	它2	3434	0	行	s49	131226	行#VA
+CHT_CMN_20130605.0011.su.xml	NONE	-1	-1	下午 三点	s50	131226	下午#NT 三点#NT

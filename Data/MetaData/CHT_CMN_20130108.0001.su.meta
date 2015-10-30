@@ -1,0 +1,44 @@
+CHT_CMN_20130108.0001.su.xml	你	29	0	在 不	s0	133144	在#VV 不#AD
+CHT_CMN_20130108.0001.su.xml	我	66	0	在 啊	s1	133047	在#P 啊#SP
+CHT_CMN_20130108.0001.su.xml	我	103	0	问 下 你 有 *OP* 认识 *T*-1 的 越南 留学生 吗	s2	133144	问#VV 下#LC 你#PN 有#VE *OP*#NN 认识#VV *T*-1#NR 的#DEC 越南#NR 留学生#NN 吗#SP
+CHT_CMN_20130108.0001.su.xml	你	122	19	问 下 你 有 *OP* 认识 *T*-1 的 越南 留学生 吗	s2	133144	问#VV 下#LC 你#PN 有#VE *OP*#NN 认识#VV *T*-1#NR 的#DEC 越南#NR 留学生#NN 吗#SP
+CHT_CMN_20130108.0001.su.xml	NONE	-1	-1	或者 外教	s3	133144	或者#AD 外教#NN
+CHT_CMN_20130108.0001.su.xml	我	208	0	没有 ， 不好意思 。	s4	133047	没有#VE ，#PU 不好意思#VV 。#PU
+CHT_CMN_20130108.0001.su.xml	我	219	11	没有 ， 不好意思 。	s4	133047	没有#VE ，#PU 不好意思#VV 。#PU
+CHT_CMN_20130108.0001.su.xml	NONE	-1	-1	噢	s5	133144	噢#IJ
+CHT_CMN_20130108.0001.su.xml	你	288	0	查 分 了 吗	s6	133144	查#VV 分#VV 了#AS 吗#SP
+CHT_CMN_20130108.0001.su.xml	我	329	0	正在 查 。	s7	133047	正在#AD 查#VV 。#PU
+CHT_CMN_20130108.0001.su.xml	它	369	0	不 是 很 好 。	s8	133047	不#AD 是#VC 很#AD 好#VA 。#PU
+CHT_CMN_20130108.0001.su.xml	我	388	3	反正 及格 了 。	s8	133047	反正#AD 及格#VV 了#AS 。#PU
+CHT_CMN_20130108.0001.su.xml	NONE	-1	-1	你 是 那 个 博士 不 ？	s9	133144	你#PN 是#VC 那#DT 个#M 博士#NN 不#AD ？#PU
+CHT_CMN_20130108.0001.su.xml	NONE	-1	-1	哪个 ？	s10	133047	哪个#PN ？#PU
+CHT_CMN_20130108.0001.su.xml	形	504	0	就 是 *OP* *T*-1 上课 的 两 个 博士 老师 之一	s11	133144	就#AD 是#VC *OP*#NN *T*-1#NN 上课#VV 的#DEC 两#CD 个#M 博士#NN 老师#NN 之一#NN
+CHT_CMN_20130108.0001.su.xml	NONE	-1	-1	啊 ？	s12	133047	啊#IJ ？#PU
+CHT_CMN_20130108.0001.su.xml	形	575	0	只 有 两 个 ？	s12	133047	只#AD 有#VE 两#CD 个#M ？#PU
+CHT_CMN_20130108.0001.su.xml	它	591	0	应该 是 吧 。	s12	133047	应该#VV 是#VC 吧#SP 。#PU
+CHT_CMN_20130108.0001.su.xml	你	641	7	噢 *OP* *T*-1 考试 那 天 提前 交卷 了 ？	s13	133144	噢#IJ *OP*#AD *T*-1#AD 考试#VV 那#DT 天#M 提前#AD 交卷#VV 了#SP ？#PU
+CHT_CMN_20130108.0001.su.xml	你	660	26	噢 *OP* *T*-1 考试 那 天 提前 交卷 了 ？	s13	133144	噢#IJ *OP*#AD *T*-1#AD 考试#VV 那#DT 天#M 提前#AD 交卷#VV 了#SP ？#PU
+CHT_CMN_20130108.0001.su.xml	形	704	0	对 。	s14	133047	对#VA 。#PU
+CHT_CMN_20130108.0001.su.xml	它们	737	23	因为 我 后面 还 有 本科生 的 考试 ， 都 凑 一块 了 。	s14	133047	因为#P 我#PN 后面#NN 还#AD 有#VE 本科生#NN 的#DEC 考试#NN ，#PU 都#AD 凑#VV 一块#AD 了#SP 。#PU
+CHT_CMN_20130108.0001.su.xml	NONE	-1	-1	你 还 有 本科生 考试 ？	s15	133144	你#PN 还#AD 有#VE 本科生#NN 考试#NN ？#PU
+CHT_CMN_20130108.0001.su.xml	NONE	-1	-1	你 还 监考 啊 ？	s16	133144	你#PN 还#AD 监考#VV 啊#SP ？#PU
+CHT_CMN_20130108.0001.su.xml	它	864	0	是 啊 。	s17	133047	是#VC 啊#SP 。#PU
+CHT_CMN_20130108.0001.su.xml	我	876	0	还 是 主考 。	s17	133047	还#AD 是#VC 主考#NN 。#PU
+CHT_CMN_20130108.0001.su.xml	它	922	3	。。 好 吧 牛人	s18	133144	。。#NR 好#VA 吧#SP 牛人#NN
+CHT_CMN_20130108.0001.su.xml	其	932	13	。。 好 吧 牛人	s18	133144	。。#NR 好#VA 吧#SP 牛人#NN
+CHT_CMN_20130108.0001.su.xml	NONE	-1	-1	我 拿 了 个 c+ [ 图片 ]	s19	133144	我#PN 拿#VV 了#AS 个#M c+#NN [#PU 图片#NN ]#PU
+CHT_CMN_20130108.0001.su.xml	NONE	-1	-1	呵呵 。	s20	133047	呵呵#IJ 。#PU
+CHT_CMN_20130108.0001.su.xml	它	1052	4	啊 ， 不 会 吧 。	s21	133047	啊#IJ ，#PU 不#AD 会#VV 吧#SP 。#PU
+CHT_CMN_20130108.0001.su.xml	NONE	-1	-1	那 我 还 强 点 。	s21	133047	那#AD 我#PN 还#AD 强#VA 点#AD 。#PU
+CHT_CMN_20130108.0001.su.xml	NONE	-1	-1	呵呵 。	s21	133047	呵呵#IJ 。#PU
+CHT_CMN_20130108.0001.su.xml	NONE	-1	-1	你 是 B+ ?	s22	133144	你#PN 是#VC B+#NN ?#PU
+CHT_CMN_20130108.0001.su.xml	它	1148	0	是 的 。	s23	133047	是#VC 的#SP 。#PU
+CHT_CMN_20130108.0001.su.xml	它	1200	12	那 是 80 - 85 好 吧	s24	133144	那#PN 是#VC 80#CD -#PU 85#CD 好#VA 吧#SP
+CHT_CMN_20130108.0001.su.xml	我	1238	0	不 清楚 。	s25	133047	不#AD 清楚#VA 。#PU
+CHT_CMN_20130108.0001.su.xml	NONE	-1	-1	我 以为 这 只 是 一般 。	s25	133047	我#PN 以为#VV 这#PN 只#AD 是#VC 一般#VA 。#PU
+CHT_CMN_20130108.0001.su.xml	NONE	-1	-1	前面 40 分 都 全 拿 了 ？	s26	133144	前面#NN 40#CD 分#M 都#AD 全#AD 拿#VV 了#SP ？#PU
+CHT_CMN_20130108.0001.su.xml	我	1341	0	不 清楚 。	s27	133047	不#AD 清楚#VA 。#PU
+CHT_CMN_20130108.0001.su.xml	你	1356	2	那 怎么 知道 呢 。	s27	133047	那#AD 怎么#AD 知道#VV 呢#SP 。#PU
+CHT_CMN_20130108.0001.su.xml	NONE	-1	-1	感觉	s28	133144	感觉#VV
+CHT_CMN_20130108.0001.su.xml	我	1431	0	自我 感觉	s29	133144	自我#PN 感觉#VV
+CHT_CMN_20130108.0001.su.xml	我1	1471	0	没 感觉 。	s30	133047	没#AD 感觉#VV 。#PU

@@ -1,0 +1,12 @@
+CHT_CMN_20130606.0035.su.xml	NONE	-1	-1	糖 ， 我 明天 上午 找 vivi 拿 我 的 东西 ， 你 点 发货 吧	s0	137903	糖#NN ，#PU 我#PN 明天#NT 上午#NT 找#VV vivi#NR 拿#VV 我#PN 的#DEG 东西#NN ，#PU 你#PN 点#VV 发货#NN 吧#SP
+CHT_CMN_20130606.0035.su.xml	我	131	0	OK	s1	137984	OK#VA
+CHT_CMN_20130606.0035.su.xml	我	184	0	还 有 一 瓶 酱油 蛤	s2	137903	还#AD 有#VE 一#CD 瓶#M 酱油#NN 蛤#NN
+CHT_CMN_20130606.0035.su.xml	我	233	7	恩 ， 今天 都 给 巧 总	s3	137984	恩#IJ ，#PU 今天#NT 都#AD 给#VV 巧#AD 总#AD
+CHT_CMN_20130606.0035.su.xml	你	297	8	vi 姐 出差 不 知道 能 不 能 回来	s4	137984	vi#NR 姐#NN 出差#VV 不#AD 知道#VV 能#VV 不#AD 能#VV 回来#VV
+CHT_CMN_20130606.0035.su.xml	你	345	19	vi 姐 出差 不 知道 能 不 能 回来	s4	137984	vi#NR 姐#NN 出差#VV 不#AD 知道#VV 能#VV 不#AD 能#VV 回来#VV
+CHT_CMN_20130606.0035.su.xml	她	244	0	不 回来 就 找 巧 总	s5	137984	不#AD 回来#VV 就#AD 找#VV 巧#AD 总#AD
+CHT_CMN_20130606.0035.su.xml	她	286	11	不 回来 就 找 巧 总	s5	137984	不#AD 回来#VV 就#AD 找#VV 巧#AD 总#AD
+CHT_CMN_20130606.0035.su.xml	它	95	7	巧 总 电话 给 我 一 个 *T*-1	s6	137903	巧#AD 总#JJ 电话#NN 给#P 我#PN 一#CD 个#M *T*-1#NN
+CHT_CMN_20130606.0035.su.xml	NONE	-1	-1	巧 总 再 C 座	s7	137984	巧#AD 总#AD 再#AD C#CD 座#M
+CHT_CMN_20130606.0035.su.xml	它	429	0	就 是 齐鲁 软件园 *OP* *T*-1 正 冲 着 经十路 的 那 个 门	s8	137984	就#AD 是#VC 齐鲁#NR 软件园#NN *OP*#NN *T*-1#NN 正#AD 冲#VV 着#AS 经十路#NN 的#DEC 那#DT 个#M 门#NN
+CHT_CMN_20130606.0035.su.xml	它	502	0	好 的	s9	137903	好#VA 的#SP

@@ -1,0 +1,138 @@
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	你 好 ！	s0	134120	你#PN 好#VA ！#PU
+CHT_CMN_20130523.0009.su.xml	你	35	0	最近 忙完 年审 了 吗 ？	s0	134120	最近#NT 忙完#VV 年审#VV 了#AS 吗#SP ？#PU
+CHT_CMN_20130523.0009.su.xml	我	83	0	审完 了	s1	131226	审完#VV 了#AS
+CHT_CMN_20130523.0009.su.xml	我	121	0	终于 审完 了	s2	131226	终于#AD 审完#VV 了#AS
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	呵呵	s3	131226	呵呵#IJ
+CHT_CMN_20130523.0009.su.xml	它	196	4	哦 ， 太 好 了 ， [ 表情 ]	s4	134120	哦#IJ ，#PU 太#AD 好#VA 了#SP ，#PU [#PU 表情#NN ]#PU
+CHT_CMN_20130523.0009.su.xml	我	246	2	那 麻烦 你 *PRO* 帮 我 *PRO* 准备 *OP* *T*-1 贷款 的 资料 吧 ， 我 等会 把 *OP* 需要 准备 *T*-2 资料 发给 你 *-3 好 吗 ？	s5	134120	那#AD 麻烦#VV 你#PN *PRO*#AD 帮#VV 我#PN *PRO*#VV 准备#VV *OP*#VV *T*-1#NN 贷款#NN 的#DEG 资料#NN 吧#SP ，#PU 我#PN 等会#AD 把#BA *OP*#NN 需要#VV 准备#VV *T*-2#CD 资料#NN 发给#VV 你#PN *-3#NN 好#VA 吗#SP ？#PU
+CHT_CMN_20130523.0009.su.xml	我	281	37	那 麻烦 你 *PRO* 帮 我 *PRO* 准备 *OP* *T*-1 贷款 的 资料 吧 ， 我 等会 把 *OP* 需要 准备 *T*-2 资料 发给 你 *-3 好 吗 ？	s5	134120	那#AD 麻烦#VV 你#PN *PRO*#AD 帮#VV 我#PN *PRO*#VV 准备#VV *OP*#VV *T*-1#NN 贷款#NN 的#DEG 资料#NN 吧#SP ，#PU 我#PN 等会#AD 把#BA *OP*#NN 需要#VV 准备#VV *T*-2#CD 资料#NN 发给#VV 你#PN *-3#NN 好#VA 吗#SP ？#PU
+CHT_CMN_20130523.0009.su.xml	我	317	73	那 麻烦 你 *PRO* 帮 我 *PRO* 准备 *OP* *T*-1 贷款 的 资料 吧 ， 我 等会 把 *OP* 需要 准备 *T*-2 资料 发给 你 *-3 好 吗 ？	s5	134120	那#AD 麻烦#VV 你#PN *PRO*#AD 帮#VV 我#PN *PRO*#VV 准备#VV *OP*#VV *T*-1#NN 贷款#NN 的#DEG 资料#NN 吧#SP ，#PU 我#PN 等会#AD 把#BA *OP*#NN 需要#VV 准备#VV *T*-2#CD 资料#NN 发给#VV 你#PN *-3#NN 好#VA 吗#SP ？#PU
+CHT_CMN_20130523.0009.su.xml	它	347	103	那 麻烦 你 *PRO* 帮 我 *PRO* 准备 *OP* *T*-1 贷款 的 资料 吧 ， 我 等会 把 *OP* 需要 准备 *T*-2 资料 发给 你 *-3 好 吗 ？	s5	134120	那#AD 麻烦#VV 你#PN *PRO*#AD 帮#VV 我#PN *PRO*#VV 准备#VV *OP*#VV *T*-1#NN 贷款#NN 的#DEG 资料#NN 吧#SP ，#PU 我#PN 等会#AD 把#BA *OP*#NN 需要#VV 准备#VV *T*-2#CD 资料#NN 发给#VV 你#PN *-3#NN 好#VA 吗#SP ？#PU
+CHT_CMN_20130523.0009.su.xml	它	386	0	好	s6	131226	好#VA
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	你 发给 我 吧	s7	131226	你#PN 发给#VV 我#PN 吧#SP
+CHT_CMN_20130523.0009.su.xml	你	457	0	千万 记得 将 金额 ， 银行 以及 你们 的 全称 给 我 *-1 清楚	s8	131226	千万#AD 记得#VV 将#AD 金额#NN ，#PU 银行#NN 以及#CC 你们#PN 的#DEG 全称#NN 给#VV 我#PN *-1#NN 清楚#VA
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	嗯 ， 你 先 准备 那些 证件 之类 的 ， 股东会 决议 、 还有 法人 证明书 等 都 有 *OP* *T*-1 固体 的 模式 ，	s9	134120	嗯#IJ ，#PU 你#PN 先#AD 准备#VV 那些#DT 证件#NN 之类#NN 的#DEG ，#PU 股东会#NN 决议#NN 、#PU 还有#CC 法人#NN 证明书#NN 等#ETC 都#AD 有#VE *OP*#CD *T*-1#M 固体#NN 的#DEG 模式#NN ，#PU
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	*OP* *T*-1 具体 的 时间 ， 我 问完 赵 总 再 给 你 说 *T*-2	s10	134120	*OP*#NR *T*-1#NR 具体#JJ 的#DEG 时间#NN ，#PU 我#PN 问完#VV 赵#NR 总#JJ 再#JJ 给#P 你#PN 说#VV *T*-2#NR
+CHT_CMN_20130523.0009.su.xml	它	698	0	好 。	s11	131226	好#VA 。#PU
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	这 是 哪 家 银行 的 ？	s12	131226	这#PN 是#VC 哪#DT 家#M 银行#NN 的#SP ？#PU
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	银行 不同 ， 财务 数据 报 的 也 不 一样 呢	s13	131226	银行#NN 不同#VA ，#PU 财务#NN 数据#NN 报#NN 的#DEG 也#AD 不#AD 一样#VA 呢#SP
+CHT_CMN_20130523.0009.su.xml	它	834	0	还 是 市 中联社 的 呀	s14	134120	还#AD 是#VC 市#NN 中联社#NR 的#DEG 呀#SP
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	哦 。	s15	131226	哦#IJ 。#PU
+CHT_CMN_20130523.0009.su.xml	它	886	0	好 的	s15	131226	好#VA 的#SP
+CHT_CMN_20130523.0009.su.xml	它	924	0	是 用 大成 的 给 担保	s16	131226	是#VC 用#P 大成#NN 的#DEG 给#VV 担保#NN
+CHT_CMN_20130523.0009.su.xml	它	972	0	对 吧 ？	s17	131226	对#VA 吧#SP ？#PU
+CHT_CMN_20130523.0009.su.xml	它	1040	28	还有 ， 我们 大成 的 贷款 卡 没有 年审 完 ， 是 不 是 不 行 ？	s18	131226	还有#AD ，#PU 我们#PN 大成#NN 的#DEG 贷款#NN 卡#NN 没有#VE 年审#VV 完#VV ，#PU 是#VC 不#AD 是#VC 不#AD 行#VV ？#PU
+CHT_CMN_20130523.0009.su.xml	形	1086	0	不 是 最迟 到 6月 底 吗 ？	s19	134120	不#AD 是#VC 最迟#AD 到#VV 6月#NT 底#LC 吗#SP ？#PU
+CHT_CMN_20130523.0009.su.xml	我们	1156	18	我们 也 没有 年审 呢 ， 只要 年审 完 以后 ， 你 把 年审 记录 复印件 给 我 *-1 ， 我 再 送给 银行 就 可以 ，	s20	134120	我们#PN 也#AD 没有#AD 年审#VV 呢#SP ，#PU 只要#CS 年审#VV 完#VV 以后#LC ，#PU 你#PN 把#BA 年审#NN 记录#NN 复印件#NN 给#VV 我#PN *-1#NN ，#PU 我#PN 再#AD 送给#VV 银行#NN 就#AD 可以#VV ，#PU
+CHT_CMN_20130523.0009.su.xml	它	1241	0	行 。	s21	131226	行#VV 。#PU
+CHT_CMN_20130523.0009.su.xml	它1	1251	0	好 的	s21	131226	好#VA 的#SP
+CHT_CMN_20130523.0009.su.xml	形	1289	0	对 ， 是 大成 担保 的	s22	134120	对#VA ，#PU 是#VC 大成#NN 担保#VV 的#SP
+CHT_CMN_20130523.0009.su.xml	它1	1299	10	对 ， 是 大成 担保 的	s22	134120	对#VA ，#PU 是#VC 大成#NN 担保#VV 的#SP
+CHT_CMN_20130523.0009.su.xml	我	1343	0	这 周 争取 *PRO* 全部 给 你 。	s23	131226	这#DT 周#M 争取#VV *PRO*#NN 全部#AD 给#VV 你#PN 。#PU
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	下 周一 我 就 出去 学习 了	s24	131226	下#DT 周一#NT 我#PN 就#AD 出去#VV 学习#VV 了#SP
+CHT_CMN_20130523.0009.su.xml	它1	1448	4	哦 ， 好 的 ， 去 哪里 呀 ？	s25	134120	哦#IJ ，#PU 好#VA 的#SP ，#PU 去#VV 哪里#PN 呀#SP ？#PU
+CHT_CMN_20130523.0009.su.xml	你	1460	16	哦 ， 好 的 ， 去 哪里 呀 ？	s25	134120	哦#IJ ，#PU 好#VA 的#SP ，#PU 去#VV 哪里#PN 呀#SP ？#PU
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	北京 。	s26	131226	北京#NR 。#PU
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	卢 总 也 去 。	s26	131226	卢#NR 总#AD 也#AD 去#VV 。#PU
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	公司 去 5 个 人 呢	s26	131226	公司#NN 去#VV 5#CD 个#M 人#NN 呢#SP
+CHT_CMN_20130523.0009.su.xml	你	1559	0	学习 什么 ， 去 很 长 时间 吗 ？	s27	134120	学习#VV 什么#PN ，#PU 去#VV 很#AD 长#JJ 时间#NN 吗#SP ？#PU
+CHT_CMN_20130523.0009.su.xml	我	1614	0	30号 晚上 回来	s28	131226	30号#NT 晚上#NT 回来#VV
+CHT_CMN_20130523.0009.su.xml	她	1680	22	哦 ， 那 宝宝 好久 见 不 到 你 ， 会 想 妈妈 的	s29	134120	哦#IJ ，#PU 那#AD 宝宝#NN 好久#AD 见#VV 不#AD 到#VV 你#PN ，#PU 会#VV 想#VV 妈妈#NN 的#SP
+CHT_CMN_20130523.0009.su.xml	我	1723	0	学习 绩效 管理 和 股份制 改造	s30	131226	学习#VV 绩效#NN 管理#NN 和#CC 股份制#NN 改造#NN
+CHT_CMN_20130523.0009.su.xml	它1	1775	0	是 啊 。	s31	131226	是#VC 啊#SP 。#PU
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	我 也 好 想 宝宝 。	s31	131226	我#PN 也#AD 好#AD 想#VV 宝宝#NN 。#PU
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	所以 我 是 不 想 *PRO* 去 的	s32	131226	所以#AD 我#PN 是#VC 不#AD 想#VV *PRO*#VV 去#VV 的#SP
+CHT_CMN_20130523.0009.su.xml	我	1888	11	但 卢 总 非得 让 去	s33	131226	但#AD 卢#NR 总#JJ 非得#AD 让#VV 去#VV
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	唉 ， 卢 总 和 那 几 个 人 去 不 就 行 了 吗 ？	s34	134120	唉#IJ ，#PU 卢#NR 总#JJ 和#CC 那#DT 几#CD 个#M 人#NN 去#VV 不#AD 就#AD 行#VV 了#AS 吗#SP ？#PU
+CHT_CMN_20130523.0009.su.xml	他们	1984	0	说 是 *OP* *T*-1 最 该 学习 的 就 是 我 这 个 岗位	s35	131226	说#VV 是#VC *OP*#NN *T*-1#NN 最#AD 该#VV 学习#VV 的#DEC 就#AD 是#VC 我#PN 这#DT 个#M 岗位#NN
+CHT_CMN_20130523.0009.su.xml	我	2061	6	我 一 说 不 去 ， 卢 总 就 生气	s36	131226	我#PN 一#AD 说#VV 不#AD 去#VV ，#PU 卢#NR 总#AD 就#AD 生气#VV
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	哎	s37	131226	哎#IJ
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	上 个 礼拜 赵 总 来 找 卢 总 ， 赵 总 还是 那么 幽默	s38	131226	上#DT 个#M 礼拜#NN 赵#NR 总#AD 来#VV 找#VV 卢#NR 总#AD ，#PU 赵#NR 总#AD 还是#AD 那么#AD 幽默#VA
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	哈哈	s39	131226	哈哈#IJ
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	我 问 你们 赵 总 呢 ， 怎么 不 组织 你们 *PRO* 旅游 了 。	s40	131226	我#PN 问#VV 你们#PN 赵#NR 总#JJ 呢#SP ，#PU 怎么#AD 不#AD 组织#VV 你们#PN *PRO*#NR 旅游#VV 了#AS 。#PU
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	赵 总 说 人 太 多 了	s40	131226	赵#NR 总#AD 说#VV 人#NN 太#AD 多#VA 了#SP
+CHT_CMN_20130523.0009.su.xml	他	2319	5	呵呵 ， 每 次 组织 旅游 ， 我 几乎 都 去 不 成 ， 不 ， 就 *OP* *T*-1 很 早 的 时候 去 了 一 次 ， 其他 的 都 因为 宝宝 小 ， 没 去 *T*-2	s41	134120	呵呵#IJ ，#PU 每#DT 次#M 组织#NN 旅游#NN ，#PU 我#PN 几乎#AD 都#AD 去#VV 不#AD 成#VV ，#PU 不#AD ，#PU 就#AD *OP*#VV *T*-1#NN 很#AD 早#VA 的#DEC 时候#NN 去#VV 了#AS 一#CD 次#M ，#PU 其他#DT 的#DEG 都#AD 因为#P 宝宝#NN 小#VA ，#PU 没#AD 去#VV *T*-2#VV
+CHT_CMN_20130523.0009.su.xml	我1	2378	64	呵呵 ， 每 次 组织 旅游 ， 我 几乎 都 去 不 成 ， 不 ， 就 *OP* *T*-1 很 早 的 时候 去 了 一 次 ， 其他 的 都 因为 宝宝 小 ， 没 去 *T*-2	s41	134120	呵呵#IJ ，#PU 每#DT 次#M 组织#NN 旅游#NN ，#PU 我#PN 几乎#AD 都#AD 去#VV 不#AD 成#VV ，#PU 不#AD ，#PU 就#AD *OP*#VV *T*-1#NN 很#AD 早#VA 的#DEC 时候#NN 去#VV 了#AS 一#CD 次#M ，#PU 其他#DT 的#DEG 都#AD 因为#P 宝宝#NN 小#VA ，#PU 没#AD 去#VV *T*-2#VV
+CHT_CMN_20130523.0009.su.xml	它1	2399	85	呵呵 ， 每 次 组织 旅游 ， 我 几乎 都 去 不 成 ， 不 ， 就 *OP* *T*-1 很 早 的 时候 去 了 一 次 ， 其他 的 都 因为 宝宝 小 ， 没 去 *T*-2	s41	134120	呵呵#IJ ，#PU 每#DT 次#M 组织#NN 旅游#NN ，#PU 我#PN 几乎#AD 都#AD 去#VV 不#AD 成#VV ，#PU 不#AD ，#PU 就#AD *OP*#VV *T*-1#NN 很#AD 早#VA 的#DEC 时候#NN 去#VV 了#AS 一#CD 次#M ，#PU 其他#DT 的#DEG 都#AD 因为#P 宝宝#NN 小#VA ，#PU 没#AD 去#VV *T*-2#VV
+CHT_CMN_20130523.0009.su.xml	我1	2455	0	让 他 *PRO* 生气 好了 ，	s42	134120	让#VV 他#PN *PRO*#VV 生气#VV 好了#VV ，#PU
+CHT_CMN_20130523.0009.su.xml	你	2510	3	现在 可以 带 宝宝 一起 去 了	s43	131226	现在#NT 可以#VV 带#VV 宝宝#NN 一起#AD 去#VV 了#SP
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	不 ， 我 的 身体 又 不 太 好 ， 我 很 烦 ， 你 知道 吗 ？	s44	134120	不#AD ，#PU 我#PN 的#DEG 身体#NN 又#AD 不#AD 太#AD 好#VA ，#PU 我#PN 很#AD 烦#VA ，#PU 你#PN 知道#VV 吗#SP ？#PU
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	你 的 肠炎 还是 很 严重 吗 ？	s45	131226	你#PN 的#DEG 肠炎#NN 还是#AD 很#AD 严重#VA 吗#SP ？#PU
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	这 段 时间 我 一直 在 坚持 ， 也 没 给 公司 领导 说 ，	s46	134120	这#DT 段#M 时间#NN 我#PN 一直#AD 在#AD 坚持#VV ，#PU 也#AD 没#AD 给#P 公司#NN 领导#VV 说#VV ，#PU
+CHT_CMN_20130523.0009.su.xml	我1	2743	8	但是 ， 昨晚 感觉 越来越 厉害 了 ， 我 哭 的 很 伤心 ， 宝宝 看 我 哭 了 ， 他 也 哭 了 ，	s47	134120	但是#AD ，#PU 昨晚#NT 感觉#VV 越来越#AD 厉害#VA 了#SP ，#PU 我#PN 哭#VV 的#DER 很#AD 伤心#VA ，#PU 宝宝#NN 看#VV 我#PN 哭#VV 了#AS ，#PU 他#PN 也#AD 哭#VV 了#AS ，#PU
+CHT_CMN_20130523.0009.su.xml	它1	2752	17	但是 ， 昨晚 感觉 越来越 厉害 了 ， 我 哭 的 很 伤心 ， 宝宝 看 我 哭 了 ， 他 也 哭 了 ，	s47	134120	但是#AD ，#PU 昨晚#NT 感觉#VV 越来越#AD 厉害#VA 了#SP ，#PU 我#PN 哭#VV 的#DER 很#AD 伤心#VA ，#PU 宝宝#NN 看#VV 我#PN 哭#VV 了#AS ，#PU 他#PN 也#AD 哭#VV 了#AS ，#PU
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	怎么 回 事 呀 ？	s48	131226	怎么#JJ 回#M 事#NN 呀#SP ？#PU
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	！	s48	131226	！#PU
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	肠炎 也 不 是 什么 疑难杂症 啊	s48	131226	肠炎#NN 也#AD 不#AD 是#VC 什么#DT 疑难杂症#NN 啊#SP
+CHT_CMN_20130523.0009.su.xml	你	2893	0	为什么 总是 好 不 了 ？	s49	131226	为什么#AD 总是#AD 好#AD 不#AD 了#VV ？#PU
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	！	s49	131226	！#PU
+CHT_CMN_20130523.0009.su.xml	你	2954	10	再说 你 的 饮食 很 注意 *T*-1 了	s50	131226	再说#AD 你#PN 的#DEG 饮食#NN 很#AD 注意#VV *T*-1#VV 了#SP
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	都	s51	131226	都#AD
+CHT_CMN_20130523.0009.su.xml	你	3031	0	要 不 要 换 家 医院 再 看看 ？	s52	131226	要#VV 不#AD 要#VV 换#VV 家#NN 医院#NN 再#AD 看看#VV ？#PU
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	！	s52	131226	！#PU
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	我 也 不 明白 ， 我 已经 很 小心 了 ， 都 不 在 外面 吃 饭 和 东西 的 ， 我 是 *OP* *T*-1 比 肠炎 稍微 严重 点 的 溃疡性 的	s53	134120	我#PN 也#AD 不#AD 明白#VA ，#PU 我#PN 已经#AD 很#AD 小心#VA 了#SP ，#PU 都#AD 不#AD 在#VV 外面#NN 吃#VV 饭#NN 和#CC 东西#NN 的#SP ，#PU 我#PN 是#VC *OP*#NN *T*-1#NN 比#P 肠炎#NN 稍微#AD 严重#VA 点#AD 的#DEC 溃疡性#JJ 的#DEG
+CHT_CMN_20130523.0009.su.xml	你	3204	6	这 个 病 会 整天 肚子 疼 或是 拉肚子 吗 ？	s54	131226	这#DT 个#M 病#NN 会#VV 整天#AD 肚子#NN 疼#VV 或是#CC 拉肚子#VV 吗#SP ？#PU
+CHT_CMN_20130523.0009.su.xml	它1	3259	0	对 ， 而且 是 便血 知道 吗 ？	s55	134120	对#VA ，#PU 而且#AD 是#VC 便血#AD 知道#VV 吗#SP ？#PU
+CHT_CMN_20130523.0009.su.xml	它1	3272	13	对 ， 而且 是 便血 知道 吗 ？	s55	134120	对#VA ，#PU 而且#AD 是#VC 便血#AD 知道#VV 吗#SP ？#PU
+CHT_CMN_20130523.0009.su.xml	你1	3283	24	对 ， 而且 是 便血 知道 吗 ？	s55	134120	对#VA ，#PU 而且#AD 是#VC 便血#AD 知道#VV 吗#SP ？#PU
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	时间 长 了 ， 人 会 严重 贫血 的	s55	134120	时间#NN 长#VA 了#AS ，#PU 人#NN 会#VV 严重#AD 贫血#VV 的#DEC
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	啊 。	s56	131226	啊#IJ 。#PU
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	这个 严重 。	s56	131226	这个#DT 严重#VA 。#PU
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	所以 你 换 家 医院 看看 不 行 吗	s57	131226	所以#AD 你#PN 换#VV 家#NN 医院#NN 看看#VV 不#AD 行#VV 吗#SP
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	你 怎么 会 得 肠炎 的 呀 ？	s58	131226	你#PN 怎么#AD 会#VV 得#VV 肠炎#NN 的#DEC 呀#SP ？#PU
+CHT_CMN_20130523.0009.su.xml	它1	3480	0	是 不 是 因为 你 太 洁癖 了 ， 抗菌 能力 差 ？	s59	131226	是#VC 不#AD 是#VC 因为#P 你#PN 太#AD 洁癖#VA 了#SP ，#PU 抗菌#JJ 能力#NN 差#VA ？#PU
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	[ 表情 ]	s59	131226	[#PU 表情#NN ]#PU
+CHT_CMN_20130523.0009.su.xml	我1	3577	26	可是 ， 我 姐 也 想 过 *PRO* 问 医生 做 手术 不 行 吗 ？	s60	134120	可是#AD ，#PU 我#PN 姐#NN 也#AD 想#VV 过#AS *PRO*#NR 问#VV 医生#NN 做#VV 手术#NN 不#AD 行#VV 吗#SP ？#PU
+CHT_CMN_20130523.0009.su.xml	我1	3606	10	但是 ， 医生 说 那 个 位置 做 手术 不 行 ，	s60	134120	但是#AD ，#PU 医生#NN 说#VV 那#DT 个#M 位置#NN 做#VV 手术#NN 不#AD 行#VV ，#PU
+CHT_CMN_20130523.0009.su.xml	我1	3680	22	*OP* *T*-1 更 烦人 的 是 ， 稍微 不 注意 就 容易 复发 ，	s61	134120	*OP*#NR *T*-1#CD 更#AD 烦人#JJ 的#DEG 是#VC ，#PU 稍微#AD 不#AD 注意#VV 就#AD 容易#AD 复发#VV ，#PU
+CHT_CMN_20130523.0009.su.xml	它1	3694	36	*OP* *T*-1 更 烦人 的 是 ， 稍微 不 注意 就 容易 复发 ，	s61	134120	*OP*#NR *T*-1#CD 更#AD 烦人#JJ 的#DEG 是#VC ，#PU 稍微#AD 不#AD 注意#VV 就#AD 容易#AD 复发#VV ，#PU
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	上 次 我 定期 去 抽血 ， 医生 还 安慰 我 ， 医院 又 住 过 好多 ， *OP* *T*-1 反复 发作 的 ，	s62	134120	上#DT 次#M 我#PN 定期#AD 去#VV 抽血#VV ，#PU 医生#NN 还#AD 安慰#VV 我#PN ，#PU 医院#NN 又#AD 住#VV 过#AS 好多#CD ，#PU *OP*#NN *T*-1#NN 反复#AD 发作#VV 的#SP ，#PU
+CHT_CMN_20130523.0009.su.xml	她	3837	8	但是 ， 虽然 这样 说 ， 可是 这 很 烦人 ， 也 让 人 *PRO* 痛苦 ， 谁 愿意 *PRO* 得病 呀 ， 而且 反复无常 ，	s63	134120	但是#AD ，#PU 虽然#CS 这样#AD 说#VV ，#PU 可是#AD 这#PN 很#AD 烦人#JJ ，#PU 也#AD 让#VV 人#NN *PRO*#VV 痛苦#NN ，#PU 谁#PN 愿意#VV *PRO*#VV 得病#VV 呀#SP ，#PU 而且#AD 反复无常#VV ，#PU
+CHT_CMN_20130523.0009.su.xml	它2	3900	71	但是 ， 虽然 这样 说 ， 可是 这 很 烦人 ， 也 让 人 *PRO* 痛苦 ， 谁 愿意 *PRO* 得病 呀 ， 而且 反复无常 ，	s63	134120	但是#AD ，#PU 虽然#CS 这样#AD 说#VV ，#PU 可是#AD 这#PN 很#AD 烦人#JJ ，#PU 也#AD 让#VV 人#NN *PRO*#VV 痛苦#NN ，#PU 谁#PN 愿意#VV *PRO*#VV 得病#VV 呀#SP ，#PU 而且#AD 反复无常#VV ，#PU
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	你 怎么 知道 我 有 洁癖 的 ？	s64	134120	你#PN 怎么#AD 知道#VV 我#PN 有#VE 洁癖#JJ 的#DEG ？#PU
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	你 原来 说 过 的 呀	s65	131226	你#PN 原来#AD 说#VV 过#AS 的#DEC 呀#SP
+CHT_CMN_20130523.0009.su.xml	你1	4031	2	那 要 天天 吃药 *PRO* 维持 控制 吗 ？	s66	131226	那#AD 要#VV 天天#AD 吃药#VV *PRO*#NN 维持#VV 控制#VV 吗#SP ？#PU
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	呵呵 ， 我 都 忘记 了 ， 我 老公 也 生气 这么 说 ，	s67	134120	呵呵#IJ ，#PU 我#PN 都#AD 忘记#VV 了#AS ，#PU 我#PN 老公#NN 也#AD 生气#VV 这么#AD 说#VV ，#PU
+CHT_CMN_20130523.0009.su.xml	我1	4155	5	可是 ， 已经 这样 了 ， 我 也 不 想 呀 。	s68	134120	可是#AD ，#PU 已经#AD 这样#VV 了#AS ，#PU 我#PN 也#AD 不#AD 想#VV 呀#SP 。#PU
+CHT_CMN_20130523.0009.su.xml	它2	4226	15	我 每 天 还 吃药 呢 ， 是 药 三 分 毒 对 ， ， 我 整天 提心吊胆 的 ， 但是 还是 要 吃 ， 医生 不 让 停 ，	s69	134120	我#PN 每#DT 天#M 还#AD 吃药#VV 呢#SP ，#PU 是#VC 药#NN 三#CD 分#M 毒#NN 对#VA ，#PU ，#PU 我#PN 整天#AD 提心吊胆#VV 的#SP ，#PU 但是#AD 还是#AD 要#VV 吃#VV ，#PU 医生#NN 不#AD 让#VV 停#VV ，#PU
+CHT_CMN_20130523.0009.su.xml	它2	4236	25	我 每 天 还 吃药 呢 ， 是 药 三 分 毒 对 ， ， 我 整天 提心吊胆 的 ， 但是 还是 要 吃 ， 医生 不 让 停 ，	s69	134120	我#PN 每#DT 天#M 还#AD 吃药#VV 呢#SP ，#PU 是#VC 药#NN 三#CD 分#M 毒#NN 对#VA ，#PU ，#PU 我#PN 整天#AD 提心吊胆#VV 的#SP ，#PU 但是#AD 还是#AD 要#VV 吃#VV ，#PU 医生#NN 不#AD 让#VV 停#VV ，#PU
+CHT_CMN_20130523.0009.su.xml	形	4248	37	我 每 天 还 吃药 呢 ， 是 药 三 分 毒 对 ， ， 我 整天 提心吊胆 的 ， 但是 还是 要 吃 ， 医生 不 让 停 ，	s69	134120	我#PN 每#DT 天#M 还#AD 吃药#VV 呢#SP ，#PU 是#VC 药#NN 三#CD 分#M 毒#NN 对#VA ，#PU ，#PU 我#PN 整天#AD 提心吊胆#VV 的#SP ，#PU 但是#AD 还是#AD 要#VV 吃#VV ，#PU 医生#NN 不#AD 让#VV 停#VV ，#PU
+CHT_CMN_20130523.0009.su.xml	我1	4277	66	我 每 天 还 吃药 呢 ， 是 药 三 分 毒 对 ， ， 我 整天 提心吊胆 的 ， 但是 还是 要 吃 ， 医生 不 让 停 ，	s69	134120	我#PN 每#DT 天#M 还#AD 吃药#VV 呢#SP ，#PU 是#VC 药#NN 三#CD 分#M 毒#NN 对#VA ，#PU ，#PU 我#PN 整天#AD 提心吊胆#VV 的#SP ，#PU 但是#AD 还是#AD 要#VV 吃#VV ，#PU 医生#NN 不#AD 让#VV 停#VV ，#PU
+CHT_CMN_20130523.0009.su.xml	我1	4299	88	我 每 天 还 吃药 呢 ， 是 药 三 分 毒 对 ， ， 我 整天 提心吊胆 的 ， 但是 还是 要 吃 ， 医生 不 让 停 ，	s69	134120	我#PN 每#DT 天#M 还#AD 吃药#VV 呢#SP ，#PU 是#VC 药#NN 三#CD 分#M 毒#NN 对#VA ，#PU ，#PU 我#PN 整天#AD 提心吊胆#VV 的#SP ，#PU 但是#AD 还是#AD 要#VV 吃#VV ，#PU 医生#NN 不#AD 让#VV 停#VV ，#PU
+CHT_CMN_20130523.0009.su.xml	它2	4337	0	是 中药 还是 西药 ？	s70	131226	是#VC 中药#NN 还是#CC 西药#NN ？#PU
+CHT_CMN_20130523.0009.su.xml	我1	4408	24	西药 ， 我 现在 吃 的 烦烦 的 ， 所以 定期 去 查 肝 功 和 肾 功 ，	s71	134120	西药#NN ，#PU 我#PN 现在#NT 吃#VV 的#DEC 烦烦#NN 的#SP ，#PU 所以#AD 定期#AD 去#VV 查#VV 肝#NN 功#NN 和#CC 肾#NN 功#NN ，#PU
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	哎 。	s72	131226	哎#IJ 。#PU
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	我 都 替 你 犯愁 。	s72	131226	我#PN 都#AD 替#P 你#PN 犯愁#VV 。#PU
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	这 也 没 个 头 吗 ？	s73	131226	这#PN 也#AD 没#VE 个#M 头#NN 吗#SP ？#PU
+CHT_CMN_20130523.0009.su.xml	我2	4569	21	嗯 ， 我 更 受 不 了 了 ， 昨天 哭 得 很 伤心	s74	134120	嗯#IJ ，#PU 我#PN 更#AD 受#VV 不#AD 了#VV 了#SP ，#PU 昨天#NT 哭#VV 得#DER 很#AD 伤心#VA
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	你 不 能 当着 宝宝 的 面 哭 的 。	s75	131226	你#PN 不#AD 能#VV 当着#P 宝宝#NN 的#DEG 面#NN 哭#VV 的#SP 。#PU
+CHT_CMN_20130523.0009.su.xml	我2	4690	28	哦 ， 但是 我 控制 不 住 ， 总 感觉 *OP* 欠 他 *T*-1 的 太 多 了 ，	s76	134120	哦#IJ ，#PU 但是#AD 我#PN 控制#VV 不#AD 住#VV ，#PU 总#JJ 感觉#NN *OP*#VV 欠#VV 他#PN *T*-1#VV 的#DEC 太#AD 多#VA 了#SP ，#PU
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	宝宝 现在 都 懂事 了 ， 他 也 不 好受	s77	131226	宝宝#NN 现在#NT 都#AD 懂事#VV 了#AS ，#PU 他#PN 也#AD 不#AD 好受#VA
+CHT_CMN_20130523.0009.su.xml	你1	4811	15	你 也 不 要 自责 了 ， 生病 也 不 是 *OP* 你 想 *T*-1 的 。	s78	131226	你#PN 也#AD 不#AD 要#VV 自责#VV 了#SP ，#PU 生病#VV 也#AD 不#AD 是#VC *OP*#VV 你#PN 想#VV *T*-1#VV 的#SP 。#PU
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	你 现在 应该 积极 *RNR*-1 乐观 些 。	s79	131226	你#PN 现在#NT 应该#VV 积极#AD *RNR*-1#AD 乐观#VA 些#AD 。#PU
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	这 个 病 又 不 是 啥 绝症 。	s79	131226	这#DT 个#M 病#NN 又#AD 不#AD 是#VC 啥#DT 绝症#NN 。#PU
+CHT_CMN_20130523.0009.su.xml	它2	4918	0	肯定 能 治好 的 。	s79	131226	肯定#AD 能#VV 治好#VV 的#SP 。#PU
+CHT_CMN_20130523.0009.su.xml	你1	4972	8	平常 *OP* *T*-1 没 事 的 时候 ， 尽量 多 陪 宝宝 玩 啦	s80	131226	平常#AD *OP*#VV *T*-1#NN 没#VE 事#NN 的#DEC 时候#NN ，#PU 尽量#AD 多#CD 陪#VV 宝宝#NN 玩#VV 啦#SP
+CHT_CMN_20130523.0009.su.xml	你1	4995	31	平常 *OP* *T*-1 没 事 的 时候 ， 尽量 多 陪 宝宝 玩 啦	s80	131226	平常#AD *OP*#VV *T*-1#NN 没#VE 事#NN 的#DEC 时候#NN ，#PU 尽量#AD 多#CD 陪#VV 宝宝#NN 玩#VV 啦#SP
+CHT_CMN_20130523.0009.su.xml	它2	5047	4	嗯 ， 好 的 ， 谢谢 你 ， 我 心里 好受 多 了 ， 他们 也 劝 我 ， *PRO* 不 要 怕 ，	s81	134120	嗯#IJ ，#PU 好#VA 的#SP ，#PU 谢谢#VV 你#PN ，#PU 我#PN 心里#NN 好受#VV 多#AD 了#SP ，#PU 他们#PN 也#AD 劝#VV 我#PN ，#PU *PRO*#AD 不#AD 要#VV 怕#VV ，#PU
+CHT_CMN_20130523.0009.su.xml	我2	5059	16	嗯 ， 好 的 ， 谢谢 你 ， 我 心里 好受 多 了 ， 他们 也 劝 我 ， *PRO* 不 要 怕 ，	s81	134120	嗯#IJ ，#PU 好#VA 的#SP ，#PU 谢谢#VV 你#PN ，#PU 我#PN 心里#NN 好受#VV 多#AD 了#SP ，#PU 他们#PN 也#AD 劝#VV 我#PN ，#PU *PRO*#AD 不#AD 要#VV 怕#VV ，#PU
+CHT_CMN_20130523.0009.su.xml	我2	5139	0	说 *OP* *T*-1 真 的 ， 这 真 不 是 什么 事儿 。	s82	131226	说#VV *OP*#NR *T*-1#NR 真#JJ 的#DEG ，#PU 这#PN 真#AD 不#AD 是#VC 什么#DT 事儿#NN 。#PU
+CHT_CMN_20130523.0009.su.xml	它2	5180	0	就 是 一 个 溃疡性 肠炎 。	s82	131226	就#AD 是#VC 一#CD 个#M 溃疡性#JJ 肠炎#NN 。#PU
+CHT_CMN_20130523.0009.su.xml	你1	5231	0	配合 好 治疗 ， 肯定 能 好 。	s83	131226	配合#VV 好#JJ 治疗#NN ，#PU 肯定#AD 能#VV 好#VA 。#PU
+CHT_CMN_20130523.0009.su.xml	你1	5247	16	配合 好 治疗 ， 肯定 能 好 。	s83	131226	配合#VV 好#JJ 治疗#NN ，#PU 肯定#AD 能#VV 好#VA 。#PU
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	老公 疼 你 ， 宝宝 疼 你 ， 你 多 幸福 ！	s84	131226	老公#NN 疼#VV 你#PN ，#PU 宝宝#NN 疼#VV 你#PN ，#PU 你#PN 多#AD 幸福#VA ！#PU
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	嗯 ， 你 说 得 对 ， 人 要 学会 *PRO* 知足 ！	s85	134120	嗯#IJ ，#PU 你#PN 说#VV 得#DER 对#VA ，#PU 人#NN 要#VV 学会#VV *PRO*#NN 知足#VA ！#PU
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	[ 表情 ]	s85	134120	[#PU 表情#NN ]#PU
+CHT_CMN_20130523.0009.su.xml	他	5424	12	人人 有 本 *OP* 难 念 *T*-1 的 经 。	s86	131226	人人#NN 有#VE 本#DT *OP*#NN 难#AD 念#VV *T*-1#NN 的#DEC 经#NN 。#PU
+CHT_CMN_20130523.0009.su.xml	你1	5446	0	想想 *OP* 现在 拥有 *T*-1 的 ， 就 什么 都 不 算 事儿 了	s86	131226	想想#VV *OP*#NR 现在#NT 拥有#VV *T*-1#NN 的#DEC ，#PU 就#AD 什么#PN 都#AD 不#AD 算#VV 事儿#NN 了#SP
+CHT_CMN_20130523.0009.su.xml	你1	5460	14	想想 *OP* 现在 拥有 *T*-1 的 ， 就 什么 都 不 算 事儿 了	s86	131226	想想#VV *OP*#NR 现在#NT 拥有#VV *T*-1#NN 的#DEC ，#PU 就#AD 什么#PN 都#AD 不#AD 算#VV 事儿#NN 了#SP
+CHT_CMN_20130523.0009.su.xml	你1	5530	4	嗯 ， 知道 吗 ？	s87	134120	嗯#IJ ，#PU 知道#VV 吗#SP ？#PU
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	赵 总 对 我 也 很 关照 无论 工作 和 生活 上 ，， 我 也 想 *PRO* 安心 好好 工作 ，	s87	134120	赵#NR 总#AD 对#P 我#PN 也#AD 很#AD 关照#VV 无论#AD 工作#VV 和#CC 生活#NN 上#LC ，，#VV 我#PN 也#AD 想#VV *PRO*#VV 安心#AD 好好#AD 工作#VV ，#PU
+CHT_CMN_20130523.0009.su.xml	我2	5650	25	可是 每 次 身体 一 不 好 ， 我 就 感觉 影响 了 工作 ， *PRO* 就 不好意思 ，	s88	134120	可是#AD 每#DT 次#M 身体#NN 一#CD 不#AD 好#VA ，#PU 我#PN 就#AD 感觉#VV 影响#VV 了#AS 工作#NN ，#PU *PRO*#NN 就#AD 不好意思#VV ，#PU
+CHT_CMN_20130523.0009.su.xml	它2	5730	21	但是 ， 赵 总 总 说 身体 重要 ， 没 关系 ， 我 总 感觉 心里 不 是 滋味	s89	134120	但是#AD ，#PU 赵#NR 总#JJ 总#JJ 说#NN 身体#NN 重要#VA ，#PU 没#VE 关系#NN ，#PU 我#PN 总#AD 感觉#VV 心里#NN 不#AD 是#VC 滋味#NN
+CHT_CMN_20130523.0009.su.xml	NONE	-1	-1	我 能 理解 你 。	s90	131226	我#PN 能#VV 理解#VV 你#PN 。#PU
+CHT_CMN_20130523.0009.su.xml	它2	5799	0	换做 我 也 不好意思 。	s90	131226	换做#VV 我#PN 也#AD 不好意思#VV 。#PU
+CHT_CMN_20130523.0009.su.xml	我2	5810	11	换做 我 也 不好意思 。	s90	131226	换做#VV 我#PN 也#AD 不好意思#VV 。#PU
+CHT_CMN_20130523.0009.su.xml	你2	5853	0	没 事 了 ， 你 确实 是 身体 不 好 ， 赵 总 也 不 会 怪 你 。	s91	131226	没#VE 事#NN 了#SP ，#PU 你#PN 确实#AD 是#VC 身体#NN 不#AD 好#VA ，#PU 赵#NR 总#AD 也#AD 不#AD 会#VV 怪#VV 你#PN 。#PU
+CHT_CMN_20130523.0009.su.xml	你2	5904	5	*OP* *T*-1 好 的 时候 ， 好好 工作 就 好 了	s91	131226	*OP*#NR *T*-1#NN 好#VA 的#DEC 时候#NN ，#PU 好好#AD 工作#NN 就#AD 好#VA 了#SP
+CHT_CMN_20130523.0009.su.xml	你2	5925	26	*OP* *T*-1 好 的 时候 ， 好好 工作 就 好 了	s91	131226	*OP*#NR *T*-1#NN 好#VA 的#DEC 时候#NN ，#PU 好好#AD 工作#NN 就#AD 好#VA 了#SP

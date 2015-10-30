@@ -1,0 +1,31 @@
+CHT_CMN_20120918.0007.su.xml	我	49	20	hi , 陳 小姐 , 之前 *OP* 發給 您 *T*-1 的 年審 資料 有 確認 過 *T*-2 嗎 ? [ 表情 ]	s0	134116	hi#NR ,#PU 陳#NR 小姐#NN ,#PU 之前#AD *OP*#NR 發給#VV 您#PN *T*-1#VV 的#DEC 年審#NN 資料#NN 有#VE 確認#NN 過#VV *T*-2#CD 嗎#M ?#PU [#PU 表情#NN ]#PU
+CHT_CMN_20120918.0007.su.xml	你	74	45	hi , 陳 小姐 , 之前 *OP* 發給 您 *T*-1 的 年審 資料 有 確認 過 *T*-2 嗎 ? [ 表情 ]	s0	134116	hi#NR ,#PU 陳#NR 小姐#NN ,#PU 之前#AD *OP*#NR 發給#VV 您#PN *T*-1#VV 的#DEC 年審#NN 資料#NN 有#VE 確認#NN 過#VV *T*-2#CD 嗎#M ?#PU [#PU 表情#NN ]#PU
+CHT_CMN_20120918.0007.su.xml	NONE	-1	-1	恩 。	s1	131226	恩#IJ 。#PU
+CHT_CMN_20120918.0007.su.xml	我	162	0	确认 了	s2	131226	确认#VV 了#AS
+CHT_CMN_20120918.0007.su.xml	它	204	4	恩 , 好 的 呢	s3	134116	恩#IJ ,#PU 好#VA 的#SP 呢#SP
+CHT_CMN_20120918.0007.su.xml	形	269	26	那 您 公司 *PRO* 有空 安排 下 尾款 , 放假 前 我 把 文件 寄給 您 公司 *-1 吧 , 呵呵	s4	134116	那#AD 您#PN 公司#NN *PRO*#VV 有空#VA 安排#VV 下#LC 尾款#NN ,#PU 放假#VV 前#LC 我#PN 把#BA 文件#NN 寄給#VV 您#PN 公司#NN *-1#NN 吧#SP ,#PU 呵呵#IJ
+CHT_CMN_20120918.0007.su.xml	它	333	0	好 的 。	s5	131226	好#VA 的#SP 。#PU
+CHT_CMN_20120918.0007.su.xml	我	348	3	尾款 已经 交给 财务 *T*-1 ， 等待 审核 呢 。	s5	131226	尾款#NN 已经#AD 交给#VV 财务#NN *T*-1#NN ，#PU 等待#VV 审核#NN 呢#SP 。#PU
+CHT_CMN_20120918.0007.su.xml	形	408	0	应该 快 了	s6	131226	应该#VV 快#VA 了#SP
+CHT_CMN_20120918.0007.su.xml	它	448	0	好 的 , 沒 事	s7	134116	好#VA 的#SP ,#PU 沒#JJ 事#NN
+CHT_CMN_20120918.0007.su.xml	我	460	12	好 的 , 沒 事	s7	134116	好#VA 的#SP ,#PU 沒#JJ 事#NN
+CHT_CMN_20120918.0007.su.xml	NONE	-1	-1	你們 幾號 放假 啊	s8	134116	你們#NN 幾號#NN 放假#VV 啊#SP
+CHT_CMN_20120918.0007.su.xml	我们	535	0	30号 开始 放	s9	131226	30号#NT 开始#VV 放#VV
+CHT_CMN_20120918.0007.su.xml	我们	584	6	哈哈 ,, 一樣 呢	s10	134116	哈哈#IJ ,,#AD 一樣#AD 呢#SP
+CHT_CMN_20120918.0007.su.xml	NONE	-1	-1	我們 也 是 , 8號 上班	s11	134116	我們#NN 也#AD 是#VC ,#PU 8號#NT 上班#VV
+CHT_CMN_20120918.0007.su.xml	NONE	-1	-1	但是 我们 3号 就 上班 了	s12	131226	但是#AD 我们#PN 3号#NT 就#AD 上班#VV 了#AS
+CHT_CMN_20120918.0007.su.xml	它	715	5	啊 ,, 不 是 中秋 跟 國慶 一起 放假 嗎	s13	134116	啊#IJ ,,#NN 不#AD 是#VC 中秋#NT 跟#P 國慶#NN 一起#AD 放假#VV 嗎#NN
+CHT_CMN_20120918.0007.su.xml	它	769	0	是 的 。	s14	131226	是#VC 的#SP 。#PU
+CHT_CMN_20120918.0007.su.xml	NONE	-1	-1	我们 放 三 天 就 不错 了	s14	131226	我们#PN 放#VV 三#CD 天#M 就#AD 不错#VA 了#SP
+CHT_CMN_20120918.0007.su.xml	NONE	-1	-1	不過 我們 是 有 客戶 放 三 天 的 , 可能 公司 規定 也 不 一樣	s15	134116	不過#AD 我們#NN 是#VC 有#VE 客戶#NN 放#VV 三#CD 天#M 的#DEC ,#PU 可能#AD 公司#NN 規定#VV 也#AD 不#AD 一樣#VA
+CHT_CMN_20120918.0007.su.xml	NONE	-1	-1	哎 ， 我们 最 惨 了 。	s16	131226	哎#IJ ，#PU 我们#PN 最#AD 惨#VA 了#SP 。#PU
+CHT_CMN_20120918.0007.su.xml	NONE	-1	-1	各 有 各 的 好 吧	s17	134116	各#AD 有#VE 各#DT 的#DEG 好#NN 吧#SP
+CHT_CMN_20120918.0007.su.xml	它	985	10	我們 就 是 假期 正常 跟著 國家 走 , 其他 的 福利 什麽 的 不 咋地	s18	134116	我們#NN 就#AD 是#VC 假期#NN 正常#JJ 跟著#NN 國家#NN 走#VV ,#PU 其他#DT 的#DEG 福利#NN 什麽#PN 的#DEG 不#AD 咋地#VV
+CHT_CMN_20120918.0007.su.xml	我们	1065	15	我们 不仅 没 啥 福利 ， 假期 更 是 没有 *-1	s19	131226	我们#PN 不仅#AD 没#AD 啥#DT 福利#NN ，#PU 假期#NN 更#AD 是#VC 没有#VE *-1#NN
+CHT_CMN_20120918.0007.su.xml	它	1113	0	是 不 是 你們 那 個 地方 的 原因 啊	s20	134116	是#VC 不#AD 是#VC 你們#NN 那#DT 個#M 地方#NN 的#DEG 原因#NN 啊#SP
+CHT_CMN_20120918.0007.su.xml	它	1170	0	有 这 个 原因	s21	131226	有#VE 这#DT 个#M 原因#NN
+CHT_CMN_20120918.0007.su.xml	它	1213	0	對 啊 ,, 應該 是 跟 區域 城市 有關	s22	134116	對#NN 啊#SP ,,#NN 應該#NN 是#VC 跟#P 區域#NN 城市#NN 有關#VV
+CHT_CMN_20120918.0007.su.xml	它	1226	13	對 啊 ,, 應該 是 跟 區域 城市 有關	s22	134116	對#NN 啊#SP ,,#NN 應該#NN 是#VC 跟#P 區域#NN 城市#NN 有關#VV
+CHT_CMN_20120918.0007.su.xml	NONE	-1	-1	在 深圳 這邊 什麽 都 高	s23	134116	在#P 深圳#NR 這邊#NN 什麽#PN 都#AD 高#VA
+CHT_CMN_20120918.0007.su.xml	它1	1319	0	就 是 工資 吧 有些 公司 不錯 , 有些 不 行 , 我們 就 不 行 啦	s24	134116	就#AD 是#VC 工資#NN 吧#SP 有些#DT 公司#NN 不錯#VV ,#PU 有些#PN 不#AD 行#VV ,#PU 我們#NN 就#AD 不#AD 行#VV 啦#SP
+CHT_CMN_20120918.0007.su.xml	它1	1393	0	一般般	s25	134116	一般般#NR

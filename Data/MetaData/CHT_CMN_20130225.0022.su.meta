@@ -1,0 +1,44 @@
+CHT_CMN_20130225.0022.su.xml	你	29	0	在 吗 ？	s0	134013	在#VV 吗#SP ？#PU
+CHT_CMN_20130225.0022.su.xml	NONE	-1	-1	你 好	s1	136581	你#PN 好#VA
+CHT_CMN_20130225.0022.su.xml	NONE	-1	-1	你 好 ！	s2	134013	你#PN 好#VA ！#PU
+CHT_CMN_20130225.0022.su.xml	我	105	0	问 你 一下 ， 工商证 什么 时间 去 领 *T*-1 呀 ？	s2	134013	问#VV 你#PN 一下#AD ，#PU 工商证#NN 什么#DT 时间#NN 去#MSP 领#VV *T*-1#NN 呀#SP ？#PU
+CHT_CMN_20130225.0022.su.xml	我	130	25	问 你 一下 ， 工商证 什么 时间 去 领 *T*-1 呀 ？	s2	134013	问#VV 你#PN 一下#AD ，#PU 工商证#NN 什么#DT 时间#NN 去#MSP 领#VV *T*-1#NN 呀#SP ？#PU
+CHT_CMN_20130225.0022.su.xml	NONE	-1	-1	3月 中旬 成绩 差 了 吗	s3	136581	3月#NT 中旬#NN 成绩#NN 差#VA 了#SP 吗#SP
+CHT_CMN_20130225.0022.su.xml	NONE	-1	-1	查	s4	136581	查#VV
+CHT_CMN_20130225.0022.su.xml	我	248	0	查 了	s5	134013	查#VV 了#AS
+CHT_CMN_20130225.0022.su.xml	你	290	5	恩恩 那 就 等 着 吧 我 会 通知 你 的	s6	136581	恩恩#NR 那#PN 就#AD 等#VV 着#AS 吧#SP 我#PN 会#VV 通知#VV 你#PN 的#SP
+CHT_CMN_20130225.0022.su.xml	它	342	0	好 的 ， 谢谢	s7	134013	好#VA 的#SP ，#PU 谢谢#VV
+CHT_CMN_20130225.0022.su.xml	我	354	12	好 的 ， 谢谢	s7	134013	好#VA 的#SP ，#PU 谢谢#VV
+CHT_CMN_20130225.0022.su.xml	NONE	-1	-1	68 分 过 了 吗 ？	s8	134013	68#CD 分#VV 过#AS 了#SP 吗#SP ？#PU
+CHT_CMN_20130225.0022.su.xml	NONE	-1	-1	高级 还是 中级 ？	s9	136581	高级#JJ 还是#CC 中级#NN ？#PU
+CHT_CMN_20130225.0022.su.xml	NONE	-1	-1	高级 的 分数线 是 75 分 中级 60	s10	136581	高级#JJ 的#DEG 分数线#NN 是#VC 75#CD 分#M 中级#JJ 60#NN
+CHT_CMN_20130225.0022.su.xml	它	519	0	就 是 *OP* *T*-1 顶 自考 的 那个	s11	134013	就#AD 是#VC *OP*#NN *T*-1#NN 顶#VV 自考#JJ 的#DEG 那个#DT
+CHT_CMN_20130225.0022.su.xml	它	578	0	对	s12	136581	对#VA
+CHT_CMN_20130225.0022.su.xml	它	614	0	是 中级 还是 高级 呀 ？	s13	134013	是#VC 中级#NN 还是#CC 高级#JJ 呀#SP ？#PU
+CHT_CMN_20130225.0022.su.xml	NONE	-1	-1	*OP* 你 考 *T*-1 的 是 本科 段 吗	s14	136581	*OP*#NR 你#PN 考#VV *T*-1#NN 的#DEC 是#VC 本科#NN 段#NN 吗#SP
+CHT_CMN_20130225.0022.su.xml	NONE	-1	-1	那 就 是 高级	s15	136581	那#PN 就#AD 是#VC 高级#VA
+CHT_CMN_20130225.0022.su.xml	NONE	-1	-1	哦	s16	134013	哦#IJ
+CHT_CMN_20130225.0022.su.xml	NONE	-1	-1	恩恩	s17	136581	恩恩#NR
+CHT_CMN_20130225.0022.su.xml	NONE	-1	-1	68 分 就 是 没 过 了 ？	s18	134013	68#CD 分#M 就#AD 是#VC 没#VE 过#AS 了#SP ？#PU
+CHT_CMN_20130225.0022.su.xml	形	860	0	那 怎么 ， 什么 时候 再 考 ？	s19	134013	那#AD 怎么#AD ，#PU 什么#DT 时候#NN 再#AD 考#VV ？#PU
+CHT_CMN_20130225.0022.su.xml	我	879	19	那 怎么 ， 什么 时候 再 考 ？	s19	134013	那#AD 怎么#AD ，#PU 什么#DT 时候#NN 再#AD 考#VV ？#PU
+CHT_CMN_20130225.0022.su.xml	NONE	-1	-1	*OP* *T*-1 没 过 的 怎么办 ， 还 能 补考 吗 ？	s20	134013	*OP*#NR *T*-1#NN 没#VE 过#AS 的#DEC 怎么办#VV ，#PU 还#AD 能#VV 补考#VV 吗#SP ？#PU
+CHT_CMN_20130225.0022.su.xml	你	984	3	恩恩 可以 补考 6月份	s21	136581	恩恩#NR 可以#VV 补考#VV 6月份#NT
+CHT_CMN_20130225.0022.su.xml	你	1028	0	一 年 就 考 两 次 6 12月份	s22	136581	一#CD 年#M 就#AD 考#VV 两#CD 次#M 6#CD 12月份#NT
+CHT_CMN_20130225.0022.su.xml	你	1081	0	3月份 报名	s23	136581	3月份#NT 报名#VV
+CHT_CMN_20130225.0022.su.xml	NONE	-1	-1	补考 费 200 元	s24	136581	补考#NN 费#NN 200#CD 元#M
+CHT_CMN_20130225.0022.su.xml	NONE	-1	-1	哦	s25	134013	哦#IJ
+CHT_CMN_20130225.0022.su.xml	我	1191	0	需要 把 你 的 资料 身份证 复印件 和 一 寸 两 寸 各 两 张	s26	136581	需要#VV 把#BA 你#PN 的#DEG 资料#NN 身份证#NN 复印件#NN 和#CC 一#CD 寸#M 两#CD 寸#M 各#DT 两#CD 张#M
+CHT_CMN_20130225.0022.su.xml	NONE	-1	-1	哦	s27	134013	哦#IJ
+CHT_CMN_20130225.0022.su.xml	我	1297	6	什么 时间 给 你	s28	134013	什么#DT 时间#NN 给#VV 你#PN
+CHT_CMN_20130225.0022.su.xml	其	1335	0	下 周 吧	s29	136581	下#DT 周#M 吧#SP
+CHT_CMN_20130225.0022.su.xml	NONE	-1	-1	哦	s30	134013	哦#IJ
+CHT_CMN_20130225.0022.su.xml	我	1409	4	到时候 让 我 女 朋友 *PRO* 给 你 送 过去 吧 ， 我 在 外地	s31	134013	到时候#AD 让#VV 我#PN 女#JJ 朋友#NN *PRO*#NR 给#P 你#PN 送#VV 过去#NT 吧#SP ，#PU 我#PN 在#P 外地#NN
+CHT_CMN_20130225.0022.su.xml	它	1478	0	好 的	s32	136581	好#VA 的#SP
+CHT_CMN_20130225.0022.su.xml	NONE	-1	-1	张志翔	s33	134013	张志翔#NR
+CHT_CMN_20130225.0022.su.xml	NONE	-1	-1	这 次 的 过关率 怎么样 ？	s34	134013	这#DT 次#M 的#DEG 过关率#NN 怎么样#VA ？#PU
+CHT_CMN_20130225.0022.su.xml	它	1592	0	挺 高 的 90%	s35	136581	挺#AD 高#VA 的#SP 90%#CD
+CHT_CMN_20130225.0022.su.xml	NONE	-1	-1	哦	s36	134013	哦#IJ
+CHT_CMN_20130225.0022.su.xml	我	1675	9	那 到 *OP* *T*-1 报名 的 时候 通知 我 一下 吧	s37	134013	那#AD 到#P *OP*#NR *T*-1#VV 报名#VV 的#DEC 时候#NN 通知#VV 我#PN 一下#AD 吧#SP
+CHT_CMN_20130225.0022.su.xml	你	1695	29	那 到 *OP* *T*-1 报名 的 时候 通知 我 一下 吧	s37	134013	那#AD 到#P *OP*#NR *T*-1#VV 报名#VV 的#DEC 时候#NN 通知#VV 我#PN 一下#AD 吧#SP
+CHT_CMN_20130225.0022.su.xml	我1	1739	0	谢谢	s38	134013	谢谢#VV

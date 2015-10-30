@@ -1,0 +1,112 @@
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	宇翔 ， 在 吗 ?	s0	133485	宇翔#NN ，#PU 在#P 吗#SP ?#PU
+CHT_CMN_20120801.0005.su.xml	我	67	0	在	s1	133543	在#P
+CHT_CMN_20120801.0005.su.xml	我	219	0	10号 过来 ?	s2	133543	10号#NT 过来#VV ?#PU
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	恩	s3	133485	恩#IJ
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	12号 你 要 一起 去 玩 吗 ？	s4	133485	12号#NT 你#PN 要#VV 一起#AD 去#VV 玩#VV 吗#SP ？#PU
+CHT_CMN_20120801.0005.su.xml	我	709	0	可能 去	s5	133543	可能#AD 去#VV
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	那 个 海边 离 高铁站 很 远 ？	s6	133485	那#DT 个#M 海边#NN 离#P 高铁站#NN 很#AD 远#VA ？#PU
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	哈哈	s7	133543	哈哈#IJ
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	高铁站 是 深圳 北站 吗 ?	s8	133543	高铁站#NR 是#VC 深圳#NR 北站#NN 吗#SP ?#PU
+CHT_CMN_20120801.0005.su.xml	我	777	0	对	s9	133485	对#VA
+CHT_CMN_20120801.0005.su.xml	我	1564	0	相当 远	s10	133543	相当#AD 远#VA
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	你 准备 *PRO* 住到 *OP* 他们 *T*-1 聚会 的 酒店 附近 吗 ?	s11	133543	你#PN 准备#VV *PRO*#NR 住到#VV *OP*#VV 他们#PN *T*-1#AD 聚会#VV 的#DEC 酒店#NN 附近#NN 吗#SP ?#PU
+CHT_CMN_20120801.0005.su.xml	我	1717	13	深圳 北站 是 *OP* 新 开 *T*-1 的 .	s12	133543	深圳#NR 北站#NN 是#VC *OP*#NR 新#AD 开#VV *T*-1#NN 的#SP .#PU
+CHT_CMN_20120801.0005.su.xml	我	2308	0	在 龙华 新区 .	s13	133543	在#P 龙华#NR 新区#NN .#PU
+CHT_CMN_20120801.0005.su.xml	我	3159	0	有没有 人 接 你 ? 没 人 接 的话 我 去 接 你 .	s14	133543	有没有#JJ 人#NN 接#VV 你#PN ?#PU 没#VE 人#NN 接#VV 的话#SP 我#PN 去#VV 接#VV 你#PN .#PU
+CHT_CMN_20120801.0005.su.xml	我	3341	18	有没有 人 接 你 ? 没 人 接 的话 我 去 接 你 .	s14	133543	有没有#JJ 人#NN 接#VV 你#PN ?#PU 没#VE 人#NN 接#VV 的话#SP 我#PN 去#VV 接#VV 你#PN .#PU
+CHT_CMN_20120801.0005.su.xml	我	3603	0	*OP* *T*-1 来 的 时候 不 担心	s15	133485	*OP*#NR *T*-1#NN 来#VV 的#DEC 时候#NN 不#AD 担心#VV
+CHT_CMN_20120801.0005.su.xml	我1	4062	11	*OP* *T*-1 来 的 时候 不 担心	s15	133485	*OP*#NR *T*-1#NN 来#VV 的#DEC 时候#NN 不#AD 担心#VV
+CHT_CMN_20120801.0005.su.xml	我1	4203	0	主要 是 *OP* *T*-1 回去 的 时候 ， 我 是 5点 的 火车 ， 那 个 时候 没 车 ？	s16	133485	主要#AD 是#VC *OP*#NN *T*-1#VV 回去#VV 的#DEC 时候#NN ，#PU 我#PN 是#VC 5点#NT 的#DEG 火车#NN ，#PU 那#DT 个#M 时候#NN 没#AD 车#NN ？#PU
+CHT_CMN_20120801.0005.su.xml	我1	4279	16	主要 是 *OP* *T*-1 回去 的 时候 ， 我 是 5点 的 火车 ， 那 个 时候 没 车 ？	s16	133485	主要#AD 是#VC *OP*#NN *T*-1#VV 回去#VV 的#DEC 时候#NN ，#PU 我#PN 是#VC 5点#NT 的#DEG 火车#NN ，#PU 那#DT 个#M 时候#NN 没#AD 车#NN ？#PU
+CHT_CMN_20120801.0005.su.xml	我1	4320	59	主要 是 *OP* *T*-1 回去 的 时候 ， 我 是 5点 的 火车 ， 那 个 时候 没 车 ？	s16	133485	主要#AD 是#VC *OP*#NN *T*-1#VV 回去#VV 的#DEC 时候#NN ，#PU 我#PN 是#VC 5点#NT 的#DEG 火车#NN ，#PU 那#DT 个#M 时候#NN 没#AD 车#NN ？#PU
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	凌晨 五点 ?	s17	133543	凌晨#NT 五点#NT ?#PU
+CHT_CMN_20120801.0005.su.xml	我1	4451	0	不 是	s18	133485	不#AD 是#VC
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	下午	s19	133485	下午#NT
+CHT_CMN_20120801.0005.su.xml	你	102	0	几号 的 ?	s20	133543	几号#NN 的#SP ?#PU
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	12号	s21	133543	12号#NT
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	12号	s22	133485	12号#NT
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	恩	s23	133485	恩#IJ
+CHT_CMN_20120801.0005.su.xml	你	1100	0	怎么 买 *OP* *T*-1 这么 早 的	s24	133543	怎么#AD 买#VV *OP*#NN *T*-1#NN 这么#AD 早#VA 的#SP
+CHT_CMN_20120801.0005.su.xml	你	1424	0	没有 *OP* *T*-1 晚 点 的 吗	s25	133543	没有#VE *OP*#NN *T*-1#NN 晚#VA 点#AD 的#SP 吗#SP
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	6点	s26	133485	6点#NT
+CHT_CMN_20120801.0005.su.xml	你	1620	0	在 海边 玩 , 才 开始 .	s27	133543	在#P 海边#NN 玩#VV ,#PU 才#AD 开始#VV .#PU
+CHT_CMN_20120801.0005.su.xml	你	1670	15	在 海边 玩 , 才 开始 .	s27	133543	在#P 海边#NN 玩#VV ,#PU 才#AD 开始#VV .#PU
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	*OP* *T*-1 最 晚 一 趟	s28	133485	*OP*#NR *T*-1#NN 最#AD 晚#VA 一#CD 趟#M
+CHT_CMN_20120801.0005.su.xml	你	1805	0	到 武汉 11点 了	s29	133485	到#P 武汉#NR 11点#NT 了#SP
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	啊	s30	133485	啊#IJ
+CHT_CMN_20120801.0005.su.xml	你	1977	2	那 买 6点 的	s31	133543	那#AD 买#VV 6点#NT 的#DEG
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	海边 的 活动 也 是 4点 结束 呀	s32	133485	海边#NN 的#DEG 活动#NN 也#AD 是#VC 4点#NT 结束#VV 呀#SP
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	只是 他们 的 大巴 要 回 酒店 去	s33	133485	只是#AD 他们#PN 的#DEG 大巴#NN 要#VV 回#VV 酒店#NN 去#VV
+CHT_CMN_20120801.0005.su.xml	你	2160	3	6点 也 赶 不 上 吧	s34	133485	6点#NT 也#AD 赶#VV 不#AD 上#VV 吧#SP
+CHT_CMN_20120801.0005.su.xml	你	2771	0	四点 结束 5点 赶 不 上 的 .	s35	133543	四点#NT 结束#VV 5点#NT 赶#VV 不#AD 上#VV 的#SP .#PU
+CHT_CMN_20120801.0005.su.xml	你	3771	12	四点 结束 5点 赶 不 上 的 .	s35	133543	四点#NT 结束#VV 5点#NT 赶#VV 不#AD 上#VV 的#SP .#PU
+CHT_CMN_20120801.0005.su.xml	你1	4107	3	6点 可以 赶上	s36	133543	6点#NT 可以#VV 赶上#VV
+CHT_CMN_20120801.0005.su.xml	你1	4405	7	我 怕 6点 也 赶 不 上	s37	133485	我#PN 怕#VV 6点#NT 也#AD 赶#VV 不#AD 上#VV
+CHT_CMN_20120801.0005.su.xml	她	3449	0	说 很 远	s38	133485	说#VV 很#AD 远#VA
+CHT_CMN_20120801.0005.su.xml	它	376	8	说 很 远	s38	133485	说#VV 很#AD 远#VA
+CHT_CMN_20120801.0005.su.xml	它	412	0	可以 3点多 出发	s39	133543	可以#VV 3点多#NT 出发#VV
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	到时 我 也 去 玩 , 送 你们 *PRO* 走 吧	s40	133543	到时#AD 我#PN 也#AD 去#VV 玩#VV ,#PU 送#VV 你们#PN *PRO*#AD 走#VV 吧#SP
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	嗯	s41	133543	嗯#IJ
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	你 开车 去 海边 吗 ？	s42	133485	你#PN 开车#VV 去#VV 海边#NN 吗#SP ？#PU
+CHT_CMN_20120801.0005.su.xml	它	583	0	买 6点 的 吧	s43	133543	买#VV 6点#NT 的#DEG 吧#SP
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	到时 你 提前 离开 ， 送 我 *PRO* 去 车站 了 ？	s44	133485	到时#AD 你#PN 提前#AD 离开#VV ，#PU 送#VV 我#PN *PRO*#VV 去#VV 车站#NN 了#SP ？#PU
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	[ 表情 ]	s44	133485	[#PU 表情#NN ]#PU
+CHT_CMN_20120801.0005.su.xml	它	761	0	可以	s45	133543	可以#VV
+CHT_CMN_20120801.0005.su.xml	它	896	0	好	s46	133485	好#VA
+CHT_CMN_20120801.0005.su.xml	它	1259	0	12号 不 上班 吧	s47	133485	12号#NT 不#AD 上班#VV 吧#SP
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	刘茵 什么 时候 回	s48	133543	刘茵#NR 什么#DT 时候#NN 回#VV
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	11号 我 跟 茵 自己 去 玩	s49	133485	11号#NT 我#PN 跟#P 茵#VV 自己#PN 去#VV 玩#VV
+CHT_CMN_20120801.0005.su.xml	它	1347	0	主要 有 哪些 *OP* 玩 *T*-1 的	s50	133485	主要#AD 有#VE 哪些#DT *OP*#NN 玩#VV *T*-1#NN 的#SP
+CHT_CMN_20120801.0005.su.xml	它	1608	19	主要 有 哪些 *OP* 玩 *T*-1 的	s50	133485	主要#AD 有#VE 哪些#DT *OP*#NN 玩#VV *T*-1#NN 的#SP
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	她 是 6点	s51	133485	她#PN 是#VC 6点#NT
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	但 她 不 是 高铁站	s52	133485	但#AD 她#PN 不#AD 是#VC 高铁站#NN
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	世界 之 窗 锦绣 中华 东部 华侨 城 欢乐谷 等 ..	s53	133543	世界#NN 之#DEG 窗#NN 锦绣#VA 中华#NR 东部#NN 华侨#NN 城#NN 欢乐谷#NR 等#ETC ..#NN
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	她 是 火车 ?	s54	133543	她#PN 是#VC 火车#NN ?#PU
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	恩	s55	133485	恩#IJ
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	她 赶 得 上 吗	s56	133543	她#PN 赶#VV 得#DER 上#VV 吗#SP
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	火车站 远 不 ？	s57	133485	火车站#NN 远#AD 不#AD ？#PU
+CHT_CMN_20120801.0005.su.xml	它	1767	0	到时 看看 学兵 来 陪 你们 玩 .	s58	133543	到时#AD 看看#VV 学兵#NN 来#MSP 陪#VV 你们#PN 玩#VV .#PU
+CHT_CMN_20120801.0005.su.xml	它	2087	5	我 觉得 玄	s59	133485	我#PN 觉得#VV 玄#NN
+CHT_CMN_20120801.0005.su.xml	它1	2124	0	比 你 那边 近 一点 .	s60	133543	比#P 你#PN 那边#PN 近#AD 一点#CD .#PU
+CHT_CMN_20120801.0005.su.xml	它1	2289	0	也 不 用 ， 我们 自己 去 也 可以	s61	133485	也#AD 不#AD 用#VV ，#PU 我们#PN 自己#PN 去#VV 也#AD 可以#VV
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	大家 难得 休息	s62	133485	大家#PN 难得#AD 休息#VV
+CHT_CMN_20120801.0005.su.xml	它1	2687	0	到时 看看 吧 , 能 一起 走 也 可以 .	s63	133543	到时#AD 看看#VV 吧#SP ,#PU 能#VV 一起#AD 走#VV 也#AD 可以#VV .#PU
+CHT_CMN_20120801.0005.su.xml	它1	2723	16	到时 看看 吧 , 能 一起 走 也 可以 .	s63	133543	到时#AD 看看#VV 吧#SP ,#PU 能#VV 一起#AD 走#VV 也#AD 可以#VV .#PU
+CHT_CMN_20120801.0005.su.xml	它1	3112	0	又 热	s64	133485	又#AD 热#VA
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	恩	s65	133485	恩#IJ
+CHT_CMN_20120801.0005.su.xml	它1	3283	0	是 顺路 吗	s66	133485	是#VC 顺路#AD 吗#SP
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	我 跟 茵	s67	133485	我#PN 跟#P 茵#NN
+CHT_CMN_20120801.0005.su.xml	我们	1244	0	差不多 的 .	s68	133543	差不多#VA 的#SP .#PU
+CHT_CMN_20120801.0005.su.xml	我们	2995	0	是 罗湖 火车站 吧 ?	s69	133543	是#VC 罗湖#NR 火车站#NN 吧#SP ?#PU
+CHT_CMN_20120801.0005.su.xml	你们	2879	0	不 知道 咧	s70	133485	不#AD 知道#VV 咧#NN
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	深圳 站 还是 深圳 西站	s71	133543	深圳#NR 站#NN 还是#CC 深圳#NR 西站#NN
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	票 上 有 的 .	s72	133543	票#NN 上#LC 有#VE 的#SP .#PU
+CHT_CMN_20120801.0005.su.xml	你们	3070	3	如果 是 深圳 站 的话 比较 顺路 .	s73	133543	如果#CS 是#VC 深圳#NR 站#NN 的话#SP 比较#AD 顺路#AD .#PU
+CHT_CMN_20120801.0005.su.xml	你们	3299	19	如果 是 深圳 站 的话 比较 顺路 .	s73	133543	如果#CS 是#VC 深圳#NR 站#NN 的话#SP 比较#AD 顺路#AD .#PU
+CHT_CMN_20120801.0005.su.xml	他们	535	0	到时 看 她 的 安排 吧	s74	133543	到时#AD 看#VV 她#PN 的#DEG 安排#NN 吧#SP
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	恩	s75	133485	恩#IJ
+CHT_CMN_20120801.0005.su.xml	他们	1759	30	如果 她 不 想 *PRO* *PRO* 那么 早 走 , 也 可以 和 大巴 一起 走 也 来 的 及 .	s76	133543	如果#CS 她#PN 不#AD 想#VV *PRO*#VV *PRO*#NN 那么#AD 早#AD 走#VV ,#PU 也#AD 可以#VV 和#P 大巴#NN 一起#AD 走#VV 也#AD 来#VV 的#DEV 及#VV .#PU
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	你 是 10号 晚上 的 10点 到 深圳 ?	s77	133543	你#PN 是#VC 10号#NT 晚上#NT 的#DEG 10点#NT 到#CC 深圳#NR ?#PU
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	我 想 *PRO* 飞机 去	s78	133485	我#PN 想#VV *PRO*#VV 飞机#NN 去#VV
+CHT_CMN_20120801.0005.su.xml	形	627	0	火车 回	s79	133485	火车#NN 回#VV
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	哦 , 那 也 好	s80	133543	哦#IJ ,#PU 那#PN 也#AD 好#VA
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	机场 离 *OP* 她们 *T*-1 聚会 的 地方 很 近 !	s81	133543	机场#NN 离#P *OP*#NR 她们#PN *T*-1#AD 聚会#VV 的#DEC 地方#NN 很#AD 近#VA !#PU
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	恩	s82	133485	恩#IJ
+CHT_CMN_20120801.0005.su.xml	形	645	0	准备 *PRO* 几点 到 呢 ?	s83	133543	准备#VV *PRO*#NR 几点#AD 到#VV 呢#SP ?#PU
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	志华 说 他 去 机场 接 我	s84	133485	志华#NR 说#VV 他#PN 去#VV 机场#NN 接#VV 我#PN
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	哦	s85	133543	哦#IJ
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	那 就 好	s86	133543	那#AD 就#AD 好#VA
+CHT_CMN_20120801.0005.su.xml	形	820	0	太 晚 了 ， 我 就 不 用 他 *PRO* 接 了	s87	133485	太#AD 晚#VA 了#SP ，#PU 我#PN 就#AD 不#AD 用#VV 他#PN *PRO*#VV 接#VV 了#SP
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	我 自己 打车 去	s88	133485	我#PN 自己#PN 打车#VV 去#VV
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	呵呵	s89	133543	呵呵#IJ
+CHT_CMN_20120801.0005.su.xml	形	1157	0	机场 打车 很 方便	s90	133485	机场#NN 打车#VV 很#AD 方便#VA
+CHT_CMN_20120801.0005.su.xml	形	2628	0	晚上 几点 到	s91	133543	晚上#NT 几点#NT 到#VV
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	北京 的 也 是 晚上 到	s92	133543	北京#NR 的#DEG 也#AD 是#VC 晚上#NT 到#VV
+CHT_CMN_20120801.0005.su.xml	形	2863	12	如果 时间 差不多 , 可以 一 趟 接完 .	s93	133543	如果#CS 时间#NN 差不多#VA ,#PU 可以#VV 一#CD 趟#M 接完#VV .#PU
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	恩	s94	133485	恩#IJ
+CHT_CMN_20120801.0005.su.xml	形	2927	0	8:45 到	s95	133485	8:45#NT 到#VV
+CHT_CMN_20120801.0005.su.xml	形	3931	0	7点 出发	s96	133485	7点#NT 出发#VV
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	燮华 他们 也 是 晚上 到 吗	s97	133485	燮华#NR 他们#PN 也#AD 是#VC 晚上#NT 到#VV 吗#SP
+CHT_CMN_20120801.0005.su.xml	其	698	0	和 他们 差不多 时间	s98	133543	和#P 他们#PN 差不多#JJ 时间#NN
+CHT_CMN_20120801.0005.su.xml	其	965	0	到时 一 趟 可以 接完	s99	133543	到时#AD 一#CD 趟#M 可以#VV 接完#VV
+CHT_CMN_20120801.0005.su.xml	NONE	-1	-1	呵呵	s100	133485	呵呵#IJ

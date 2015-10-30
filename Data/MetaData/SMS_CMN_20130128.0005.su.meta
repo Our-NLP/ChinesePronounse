@@ -1,0 +1,24 @@
+SMS_CMN_20130128.0005.su.xml	NONE	-1	-1	马上	s0	131597	马上#AD
+SMS_CMN_20130128.0005.su.xml	NONE	-1	-1	速度 啊 磊 哥 。	s1	131752	速度#NN 啊#SP 磊#VV 哥#NR 。#PU
+SMS_CMN_20130128.0005.su.xml	你	97	0	稍等 ， 你们 先 下去 ，	s2	131597	稍等#VV ，#PU 你们#PN 先#AD 下去#VV ，#PU
+SMS_CMN_20130128.0005.su.xml	你	145	0	别 在 那里 站 着 。	s3	131597	别#AD 在#P 那里#PN 站#VV 着#AS 。#PU
+SMS_CMN_20130128.0005.su.xml	你	191	0	不 来 了 吗 ？	s4	131752	不#AD 来#VV 了#SP 吗#SP ？#PU
+SMS_CMN_20130128.0005.su.xml	我	234	0	待会 到	s5	131597	待会#AD 到#VV
+SMS_CMN_20130128.0005.su.xml	我	272	0	收到 。	s6	131752	收到#VV 。#PU
+SMS_CMN_20130128.0005.su.xml	NONE	-1	-1	你 还 回来 不 ？	s7	131597	你#PN 还#AD 回来#VV 不#AD ？#PU
+SMS_CMN_20130128.0005.su.xml	我	348	0	下午 回去 ， 我 在 同事 家 呢 。	s8	131752	下午#NT 回去#VV ，#PU 我#PN 在#P 同事#NN 家#NN 呢#SP 。#PU
+SMS_CMN_20130128.0005.su.xml	NONE	-1	-1	你 把 刚才 那 个 短信 帮 我 *PRO* 给 董方旭 和 朱先康 说 一下 *-1	s9	131597	你#PN 把#BA 刚才#AD 那#DT 个#M 短信#NN 帮#VV 我#PN *PRO*#VV 给#VV 董方旭#NR 和#CC 朱先康#NR 说#VV 一下#AD *-1#NN
+SMS_CMN_20130128.0005.su.xml	它	475	0	好 的 。	s10	131752	好#VA 的#SP 。#PU
+SMS_CMN_20130128.0005.su.xml	其	515	0	还 去 玩 吧 你们 ？	s11	131752	还#AD 去#VV 玩#VV 吧#SP 你们#PN ？#PU
+SMS_CMN_20130128.0005.su.xml	我们	562	0	去 啊 ， 待会 就 去 。	s12	131597	去#VV 啊#SP ，#PU 待会#AD 就#AD 去#VV 。#PU
+SMS_CMN_20130128.0005.su.xml	它	611	0	好 的	s13	131597	好#VA 的#SP
+SMS_CMN_20130128.0005.su.xml	它	658	9	我 也 过去 ， 还 是 那里 吗 ？	s14	131752	我#PN 也#AD 过去#VV ，#PU 还#AD 是#VC 那里#PN 吗#SP ？#PU
+SMS_CMN_20130128.0005.su.xml	你	703	0	开完 了 吗 ？	s15	131752	开完#VV 了#AS 吗#SP ？#PU
+SMS_CMN_20130128.0005.su.xml	我	746	0	还 没 呢 ， 应该 快 了 。	s16	131597	还#AD 没#AD 呢#SP ，#PU 应该#VV 快#VA 了#SP 。#PU
+SMS_CMN_20130128.0005.su.xml	形	760	14	还 没 呢 ， 应该 快 了 。	s16	131597	还#AD 没#AD 呢#SP ，#PU 应该#VV 快#VA 了#SP 。#PU
+SMS_CMN_20130128.0005.su.xml	它	803	0	好 的	s17	131597	好#VA 的#SP
+SMS_CMN_20130128.0005.su.xml	我们	841	0	一会儿 去 那里 集合 吧 。	s18	131752	一会儿#AD 去#VV 那里#PN 集合#VV 吧#SP 。#PU
+SMS_CMN_20130128.0005.su.xml	我们	891	0	待会 都 回来 ， 要 考试 的	s19	131597	待会#AD 都#AD 回来#VV ，#PU 要#VV 考试#VV 的#SP
+SMS_CMN_20130128.0005.su.xml	我们	907	16	待会 都 回来 ， 要 考试 的	s19	131597	待会#AD 都#AD 回来#VV ，#PU 要#VV 考试#VV 的#SP
+SMS_CMN_20130128.0005.su.xml	NONE	-1	-1	几点 啊 ？	s20	131752	几点#NN 啊#SP ？#PU
+SMS_CMN_20130128.0005.su.xml	他们	983	0	没 说 ， 你们 三点 回来 就 行	s21	131597	没#AD 说#VV ，#PU 你们#PN 三点#NT 回来#VV 就#AD 行#VV
