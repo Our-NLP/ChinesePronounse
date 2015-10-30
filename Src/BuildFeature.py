@@ -22,7 +22,15 @@ class BuildFeature:
         self.feature_func.append(self.is_head)
         #self.feature_func.append(self.followed_verb)
         self.feature_func.append(self.pre_noun_followed_verb)
-        #self.feature_func.append(self.god_mod) testing only!
+        self.feature_func.append(self.at_head_followed_verb)
+        self.feature_func.append(self.followed_noun)
+        self.feature_func.append(self.is_pre_noun)
+        self.feature_func.append(self.is_pre_pre_noun)
+        self.feature_func.append(self.is_pre_pre_pre_noun)
+        self.feature_func.append(self.followed_verb)
+        self.feature_func.append(self.is_next_next_verb)
+        self.feature_func.append(self.is_next_next_next_verb)
+        #self.feature_func.append(self.god_mod) #testing only!
         #self.feature_func.append(self.get_suid)
         #self.feature_func.append(self.get_protype)
         self.multi_task()
@@ -67,21 +75,65 @@ class BuildFeature:
                     output_file.write("\n")
                 
 ##### feature #####
-    def followed_verb(self,item,loc):
-        print  "follow:",self.loc2tag[loc],loc
-        if self.is_verb(self.loc2tag[loc]): 
-            return str(1)
+    def at_head_followed_verb(self,item,loc):
+        if self.is_head(item,loc) and self.followed_verb(item,loc):
+            return '1'
         else:
-            return str(0)
+            return '0'
+    def followed_noun(self,item,loc):
+        if self.is_noun(self.loc2tag[loc]): 
+            return '1'
+        else:
+            return '1'
+
+    def followed_verb(self,item,loc):
+        #print  "follow:",self.loc2tag[loc],loc
+        if self.is_verb(self.loc2tag[loc]): 
+            return '1'
+        else:
+            return '0'
+        
         
     def is_pre_noun(self,item,loc):
         if loc==0:
-            return str(0)
+            return '0'
         pre_tag=self.get_pre_tag(item,loc)
         if self.is_noun(pre_tag):
-            return str(1)
+            return '1'
         else:
-            return str(0)
+            return '0'
+    def is_pre_pre_noun(self,item,loc):
+        pre_tag=self.get_pre_N(item,loc,2)
+        if pre_tag=="index error":
+            return '0'
+        elif self.is_noun(pre_tag):
+            return '1'
+        else:
+            return '0'
+    def is_pre_pre_pre_noun(self,item,loc):
+        pre_tag=self.get_pre_N(item,loc,3)
+        if pre_tag=="index error":
+            return '0'
+        elif self.is_noun(pre_tag):
+            return '1'
+        else:
+            return '0'
+    def is_next_next_verb(self,item,loc):
+        next_tag=self.get_next_N(item,loc,2)
+        if next_tag=='index error':
+            return '0'
+        elif self.is_verb(next_tag):
+            return '1'
+        else:
+            return '0'
+    def is_next_next_next_verb(self,item,loc):
+        next_tag=self.get_next_N(item,loc,3)
+        if next_tag=='index error':
+            return '0'
+        elif self.is_verb(next_tag):
+            return '1'
+        else:
+            return '0'        
 
     def pre_noun_followed_verb(self,item,loc):
         #print item[7]
@@ -92,12 +144,37 @@ class BuildFeature:
         else:
             return '0'
 ##### helper function ####
+    def get_next_N(self,item,loc,n):
+        index=self.loclist.index(loc)
+        if index+n-1>=len(self.loclist):
+            return 'index error'
+        else:
+            print self.loclist
+            print index,len(self.loclist),n
+            index=index+n-1
+            next_loc=self.loclist[index]
+            next_tag= self.loc2tag[pre_loc]
+            return next_tag
+
+            
+    def get_pre_N(self,item,loc,n):
+        index=self.loclist.index(loc)
+        if index<n:
+            return "index error"
+        else:
+            index=index-n
+            pre_loc=self.loclist[index]
+            pre_tag= self.loc2tag[pre_loc]
+            return pre_tag
+
+
     def get_pre_tag(self,item,loc):
-        index=self.loclist.index(loc)-1
-        pre_loc=self.loclist[index]
-        pre_tag= self.loc2tag[pre_loc]
-        print "pre:",pre_tag
-        return pre_tag
+        #index=self.loclist.index(loc)-1
+        #pre_loc=self.loclist[index]
+        #pre_tag= self.loc2tag[pre_loc]
+        #print "pre:",pre_tag
+        #return pre_tag
+        return self.get_pre_N(item,loc,1)
 
     def get_pos_from_tag(self,tag):
         return tag.split("#")[1]
