@@ -99,15 +99,24 @@ class BuildFeature:
         print "pre:",pre_tag
         return pre_tag
 
+    def get_pos_from_tag(self,tag):
+        return tag.split("#")[1]
+
+    def is_sign(self,tag):
+        pos=self.get_pos_from_tag(tag)
+        if pos=='PU':
+            return True
+        else:
+            return False
 
     def is_verb(self,tag):
-        pos=tag.split("#")[1]
+        pos=self.get_pos_from_tag(tag)
         if 'V' in pos or pos=='BA' or pos=='P':
             return True
         else:
             return False
     def is_noun(self,tag):
-        pos=tag.split("#")[1]
+        pos=self.get_pos_from_tag(tag)
         if pos=='NN' or pos=='PN' or pos=='NR':
             return True
         else:
@@ -136,10 +145,13 @@ class BuildFeature:
         else:
             return str(0)
     def is_head(self,item,loc):
+        '''if current is at the beginning of sentence'''
         if loc==0:
-            return str(1)
+            return '1'
+        elif self.is_sign(self.get_pre_tag(item,loc)):
+            return '1'
         else:
-            return str(0)
+            return '0'
 
 
 
