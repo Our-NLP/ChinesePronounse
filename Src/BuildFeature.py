@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import os
 
 
@@ -30,6 +31,7 @@ class BuildFeature:
         self.feature_func.append(self.followed_verb)
         self.feature_func.append(self.is_next_next_verb)
         self.feature_func.append(self.is_next_next_next_verb)
+        self.feature_func.append(self.unigram_followed_cirtical_words)
         #self.feature_func.append(self.god_mod) #testing only!
         #self.feature_func.append(self.get_suid)
         #self.feature_func.append(self.get_protype)
@@ -143,17 +145,29 @@ class BuildFeature:
             return '1'
         else:
             return '0'
+    ## version 2##
+    def unigram_followed_cirtical_words(self,item,loc):
+        next_tag=self.get_next_N(item,loc,1)
+        if next_tag=='index error':
+            return '0'
+        else:
+            next_word=self.get_word_from_tag(next_tag)
+            if next_word=='对' or next_word=='也' or next_word=='能' or next_word=='应该' or next_word=='谢谢':
+                return '1'
+            else:
+                return '0'
+
 ##### helper function ####
     def get_next_N(self,item,loc,n):
         index=self.loclist.index(loc)
         if index+n-1>=len(self.loclist):
             return 'index error'
         else:
-            print self.loclist
-            print index,len(self.loclist),n
+            #print self.loclist
+            #print index,len(self.loclist),n
             index=index+n-1
             next_loc=self.loclist[index]
-            next_tag= self.loc2tag[pre_loc]
+            next_tag= self.loc2tag[next_loc]
             return next_tag
 
             
@@ -178,6 +192,8 @@ class BuildFeature:
 
     def get_pos_from_tag(self,tag):
         return tag.split("#")[1]
+    def get_word_from_tag(self,tag):
+        return tag.split("#")[0]
 
     def is_sign(self,tag):
         pos=self.get_pos_from_tag(tag)

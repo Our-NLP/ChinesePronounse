@@ -14,5 +14,5 @@ if __name__=="__main__":
     #subprocess.call([mallet_bin+"vectors2info","--input",mallet_data,"--print-matrix"]);
 #Classify 
     print "Classifying..."
-    subprocess.call([mallet_bin+"mallet","train-classifier","--input",mallet_data,"--trainer","MaxEnt","--training-portion","0.9"]);
+    subprocess.call([mallet_bin+"mallet","train-classifier","--input",mallet_data,"--trainer","MaxEnt","--training-portion","0.9"])
 
