@@ -32,6 +32,8 @@ class BuildFeature:
         self.feature_func.append(self.is_next_next_verb)
         self.feature_func.append(self.is_next_next_next_verb)
         self.feature_func.append(self.unigram_followed_cirtical_words)
+        self.feature_func.append(self.HaoXiangShiAtHead)
+        #self.feature_func.append(self.HaoXiangFeature)
         #self.feature_func.append(self.god_mod) #testing only!
         #self.feature_func.append(self.get_suid)
         #self.feature_func.append(self.get_protype)
@@ -68,7 +70,10 @@ class BuildFeature:
                     self.loc2tag[loc]=items[7].split(' ')[count]
                     count+=1
                     self.loclist.append(loc)
-
+                    
+                for loc in range(0,len(items[4])):
+                    if loc!=0 and items[4][loc]!=' ' and loc!=len(items[4]):
+                        continue
                     output_file.write(str(self.get_label(items,loc)))
                     feature=''
                     for fuc in self.feature_func:
@@ -156,15 +161,70 @@ class BuildFeature:
                 return '1'
             else:
                 return '0'
+            
+    def HaoXiangShiAtHead(self,item,loc):
+        next_tag=self.get_next_N(item,loc,1)
+        next_next_tag=self.get_next_N(item,loc,2)
+        pre_tag=self.get_pre_N(item,loc,1)
+        if next_tag=='index error' or next_next_tag=="index error":
+            return '0'
+        else:
+            next_word=self.get_word_from_tag(next_tag)
+            next_next_word=self.get_word_from_tag(next_next_tag)
+            if(next_word!='好像' or next_next_word!='是'):
+                    return '0'
+            if pre_tag=='index error':
+                return '10'
+            else:
+                pre_pos=self.get_pos_from_tag(pre_tag)
+                if pre_pos=='PU':
+                    return '10'
+        return '0'
+                
+            
+
+
+    def HaoXiangFeature(self,item,loc):
+        next_tag=self.get_next_N(item,loc,1)
+        next_next_tag=self.get_next_N(item,loc,2)
+        pre_tag=self.get_pre_N(item,loc,1)
+        pre_pre_tag=self.get_pre_N(item,loc,2)
+        if next_tag=='index error':
+            return '0'
+        next_word=self.get_word_from_tag(next_tag)
+        if next_word!='好像':
+            return '0'
+
+        if pre_tag!='index error':
+            pre_word=self.get_word_from_tag(pre_tag)
+            pre_pos=self.get_pos_from_tag(pre_tag)
+            if 'N' in pre_pos or pre_word=='就' or pre_pos=='DEG' or pre_pos=='DT':
+                return '0'
+            #if pre_word=='这些' or pre_word=='那边' or pre_word=='现在' or pre_word=='就' or pre_word=='那个' or pre_pos=='NN':
+             #   return '0'
+            #if pre_pos=='NN' or pre_pos=='NP':
+                return '0'
+        #if next_next_tag == 'index error':
+        #    return '0'
+        #next_next_word=self.get_word_from_tag(next_next_tag)
+        #next_next_pos=self.get_pos_from_tag(next_next_tag)
+        #if next_pos=='NN' or next_pos=="NP":
+        #    return '0'
+
+        ##Check the pre_pre
+        return '1'
+        
+
+        
 
 ##### helper function ####
     def get_next_N(self,item,loc,n):
         index=self.loclist.index(loc)
         if index+n-1>=len(self.loclist):
-            return 'index error'
-        else:
             #print self.loclist
             #print index,len(self.loclist),n
+            return 'index error'
+        else:
             index=index+n-1
             next_loc=self.loclist[index]
             next_tag= self.loc2tag[next_loc]
@@ -172,6 +232,7 @@ class BuildFeature:
 
             
     def get_pre_N(self,item,loc,n):
+        #print loc,self.loclist
         index=self.loclist.index(loc)
         if index<n:
             return "index error"
