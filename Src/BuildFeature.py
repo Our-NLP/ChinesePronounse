@@ -33,6 +33,7 @@ class BuildFeature:
         self.feature_func.append(self.is_next_next_next_verb)
         self.feature_func.append(self.unigram_followed_cirtical_words)
         self.feature_func.append(self.HaoXiangShiAtHead)
+        self.feature_func.append(self.YeJiuFeature)
         #self.feature_func.append(self.HaoXiangFeature)
         self.feature_func.append(self.without_pro_in_sentence)
 
@@ -182,10 +183,6 @@ class BuildFeature:
                 if pre_pos=='PU':
                     return '10'
         return '0'
-
-
-
-
     def HaoXiangFeature(self,item,loc):
         next_tag=self.get_next_N(item,loc,1)
         next_next_tag=self.get_next_N(item,loc,2)
@@ -232,9 +229,20 @@ class BuildFeature:
                 return '0'
             i+=1
         return '1'
-
-            
-
+    def YeJiuFeature(self,item,loc):
+        next_tag=self.get_next_N(item,loc,1);
+        next_next_tag=self.get_next_N(item,loc,2);
+        next_next_next_tag=self.get_next_N(item,loc.3)
+        next_word=self.get_word_from_tag(next_tag)
+        if next_word!= '也' and next_next_word!='就':
+            return 0;
+        pre_tag=self.get_pre_N(item,loc,1)
+        pre_pre_tag=self.get_pre_N(item,loc,2)
+        pre_pos=self.get_pos_from_tag(pre_tag)
+        pre_pre_pos=self.get_pos_from_tag(pre_pre_tag)
+        if pre_pos=='NN' or pre_pos=='PN':
+            return 0;
+        return 1;
 
 
 
