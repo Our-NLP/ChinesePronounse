@@ -34,6 +34,8 @@ class BuildFeature:
         self.feature_func.append(self.unigram_followed_cirtical_words)
         self.feature_func.append(self.HaoXiangShiAtHead)
         self.feature_func.append(self.YeJiuFeature)
+        self.feature_func.append(self.LenSmaller4)
+        self.feature_func.append(self.DanShiFeature)
         #self.feature_func.append(self.HaoXiangFeature)
         self.feature_func.append(self.without_pro_in_sentence)
 
@@ -229,6 +231,28 @@ class BuildFeature:
                 return '0'
             i+=1
         return '1'
+    def LenSmaller4(self,item,loc):
+        last_loc=self.loclist[-1]
+        last_tag= self.loc2tag[last_loc]
+        last_word=self.get_pos_from_tag(last_tag)
+        if len(self.loclist)<=6 and (last_tag=="SP" or last_tag=='PU'):
+            return "1"
+        else:
+            return "0"
+    def DanShiFeature(self,item,loc):
+        pre_tag=self.get_pre_N(item,loc,1)
+        next_tag=self.get_next_N(item,loc,1)
+        if pre_tag=='index error':
+            pre_word= self.get_word_from_tag(pre_tag)
+            if pre_word!='但是':
+                return '0'
+        if next_tag=='index error':
+            return '0'
+        next_pos=self.get_pos_from_tag(next_tag)
+        if 'N' in next_pos:
+            return '0'
+        return '1'
+
     def YeJiuFeature(self,item,loc):
         next_tag=self.get_next_N(item,loc,1);
         next_next_tag=self.get_next_N(item,loc,2);

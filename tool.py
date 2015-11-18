@@ -1,7 +1,7 @@
 import os
-files=os.listdir('./Data/XMLData')
+files=os.listdir('./Data/MetaData')
 for file in files:
-    with open('./Data/XMLData/'+file) as f:
+    with open('./Data/MetaData/'+file) as f:
         for line in f:
             print line
 
