@@ -232,17 +232,23 @@ class BuildFeature:
     def YeJiuFeature(self,item,loc):
         next_tag=self.get_next_N(item,loc,1);
         next_next_tag=self.get_next_N(item,loc,2);
-        next_next_next_tag=self.get_next_N(item,loc.3)
+        if next_tag == 'index error' or next_next_tag=='index error':
+            return "0"
         next_word=self.get_word_from_tag(next_tag)
-        if next_word!= '也' and next_next_word!='就':
-            return 0;
+        next_next_word=self.get_word_from_tag(next_next_tag)
+
         pre_tag=self.get_pre_N(item,loc,1)
         pre_pre_tag=self.get_pre_N(item,loc,2)
+        if pre_tag== 'index error' or  pre_pre_tag== 'index error':
+            return "0";
         pre_pos=self.get_pos_from_tag(pre_tag)
         pre_pre_pos=self.get_pos_from_tag(pre_pre_tag)
+        
         if pre_pos=='NN' or pre_pos=='PN':
-            return 0;
-        return 1;
+            return "0";     
+        if next_word== '也' and next_next_word=='就':
+            return "1";
+        return "0";
 
 
 
