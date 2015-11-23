@@ -21,7 +21,7 @@ class BuildFeature:
         #self.feature_func.append(self.cur_loc)
         #self.feature_func.append(self.get_participant) too big value!
         self.feature_func.append(self.is_head)
-        #self.feature_func.append(self.followed_verb)
+        self.feature_func.append(self.followed_verb)
         self.feature_func.append(self.pre_noun_followed_verb)
         self.feature_func.append(self.at_head_followed_verb)
         self.feature_func.append(self.followed_noun)
@@ -36,9 +36,14 @@ class BuildFeature:
         self.feature_func.append(self.YeJiuFeature)
         self.feature_func.append(self.LenSmaller4)
         self.feature_func.append(self.DanShiFeature)
+        self.feature_func.append(self.GenFeature)
         #self.feature_func.append(self.HaoXiangFeature)
         self.feature_func.append(self.without_pro_in_sentence)
-
+        self.feature_func.append(self.RuGuoYouFeature)
+        self.feature_func.append(self.ShiDeFeature)
+        self.feature_func.append(self.ZhenHaoFeature)
+        self.feature_func.append(self.ZhiDaoFeature)
+        self.feature_func.append(self.DuiLeFeature)
         #self.feature_func.append(self.god_mod) #testing only!
         #self.feature_func.append(self.get_suid)
         #self.feature_func.append(self.get_protype)
@@ -54,6 +59,7 @@ class BuildFeature:
 
     def extract_feature(self,in_file,output_file):
         in_path=self.meta_dir+in_file
+        self.pre_sent=[]
         with open(in_path) as input_file:
             for line in input_file:
                 #0:f_name
@@ -88,7 +94,7 @@ class BuildFeature:
 
 ##### feature #####
     def at_head_followed_verb(self,item,loc):
-        if self.is_head(item,loc) and self.followed_verb(item,loc):
+        if self.is_head(item,loc)>'0' and self.followed_verb(item,loc):
             return '1'
         else:
             return '0'
@@ -273,9 +279,115 @@ class BuildFeature:
         if next_word== '也' and next_next_word=='就':
             return "1";
         return "0";
+    def GenFeature(self,item,loc):
+        next_tag=self.get_next_N(item,loc,1)
+        next2tag=self.get_next_N(item,loc,2)
+        next3tag=self.get_next_N(item,loc,3)
 
+        pre_tag=self.get_pre_N(item,loc,1)
 
+        if next_tag!='index error':
+                next_word=self.get_word_from_tag(next_tag)
+                next_pos=self.get_pos_from_tag(next_tag)
+                if next_word=='跟':
+                    pre_pos=self.get_word_from_tag(pre_tag)
+                    if pre_tag!='index error':
+                        if 'N' not in pre_pos:
+                            return '10'
+                elif next2tag!='index error':
+                        next2word=self.get_word_from_tag(next2tag)
+                        next2pos=self.get_pos_from_tag(next2tag)
+                        if next2tag=='跟':
+                            pre_pos=self.get_word_from_tag(pre_tag)
+                            if pre_tag!='index error':
+                                if 'N' not in pre_pos and 'N' not in next_pos:
+                                    return '10' 
+        return '0'
+    def RuGuoYouFeature(self,item,loc):
+        next_tag=self.get_next_N(item,loc,1)
+        next2tag=self.get_next_N(item,loc,2)
+        pre_tag=self.get_pre_N(item,loc,1)
+        if next_tag=='index error':
+            return '0'
+        else:
+            next_word=self.get_word_from_tag(next_tag)
+            if next_word=='如果' and next2tag!='index error':
+                next2word=self.get_word_from_tag(next2tag)
+                if next2word=='有':
+                    return "1"
+            elif next_word=='有' and pre_tag!='index error':
+               pre_word=self.get_word_from_tag(pre_tag)
+               if pre_word=='如果':
+                   return '1'
+        return '0'
+    def ShiDeFeature(self,item,loc):
+        next_tag=self.get_next_N(item,loc,1)
+        next2tag=self.get_next_N(item,loc,2)
+        if next_tag!='index error' and next2tag!='index error':
+            next_word=self.get_word_from_tag(next_tag)
+            next2word=self.get_word_from_tag(next2tag)
+            if next_word=='是' and next2word=='的':
+                return '1'
+        return '0'
 
+    def ZhenHaoFeature(self,item,loc):
+        next_tag=self.get_next_N(item,loc,1)
+        next2tag=self.get_next_N(item,loc,2)
+        if next_tag!='index error' and next2tag!='index error':
+            next_word=self.get_word_from_tag(next_tag)
+            next2word=self.get_word_from_tag(next2tag)
+            if next_word=='真' and next2word=='好':
+                return '1'
+        return '0'
+    def BuKeQiFeature(self,item,loc):
+        next_tag=self.get_next_N(item,loc,1)
+        next2tag=self.get_next_N(item,loc,2)
+        if next_tag!='index error' and next2tag!='index error':
+            next_word=self.get_word_from_tag(next_tag)
+            next2word=self.get_word_from_tag(next2tag)
+            if next_word=='不' and next2word=='客气':
+                return '1'
+        return '0'
+    def ZhiDaoFeature(self,item,loc):
+        next_tag=self.get_next_N(item,loc,1)
+        next2tag=self.get_next_N(item,loc,2)
+        next3tag=self.get_next_N(item,loc,3)
+        pre_tag=self.get_pre_N(item,loc,1)
+        if pre_tag!='index error':
+            pre_pos=self.get_pos_from_tag(pre_tag)
+            if pre_pos=='PN':
+                return '0'
+        if next_tag!='index error':
+            next_word=self.get_word_from_tag(next_tag)
+            if next_word=='知道':
+                return '1'
+            if next2tag!='index error':
+                next2word=self.get_word_from_tag(next2tag)
+                if next2word=='知道':
+                    return '1'
+            if next3tag!='index error':
+                next3word=self.get_word_from_tag(next2tag)
+                if next3word=='知道':
+                    return '1'
+        return '0'
+    def DuiLeFeature(self,item,loc):
+        next_tag=self.get_next_N(item,loc,1)
+        next2tag=self.get_next_N(item,loc,2)
+        if next_tag!='index error' and next2tag!='index error':
+            next_word=self.get_word_from_tag(next_tag)
+            next2word=self.get_word_from_tag(next2tag)
+            if next_word=='对' and next2word=='了':
+                return '1'
+        return '0'
+
+        
+
+        
+
+        
+        
+
+        
         ##### helper function ####
     def get_next_N(self,item,loc,n):
         index=self.loclist.index(loc)
@@ -337,9 +449,14 @@ class BuildFeature:
     def get_label(self,item,loc):
         #if loc can be the place to hide pro
         if loc == int(item[3]):
-            return 1
+            if item[1]=='我':
+                return '我'
+            elif item[1]== '你':
+                return '你'
+            else:
+                return '其他'
         else:
-            return 0
+            return 'none'
     def get_filename(self,item,loc):
         return item[0]
     def get_protype(self,item,loc):
@@ -360,7 +477,7 @@ class BuildFeature:
     def is_head(self,item,loc):
         '''if current is at the beginning of sentence'''
         if loc==0:
-            return '1'
+            return '2'
         elif self.is_sign(self.get_pre_tag(item,loc)):
             return '1'
         else:
