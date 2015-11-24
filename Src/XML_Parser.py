@@ -13,7 +13,20 @@ class xml_parser:
             self.data_path+="/"
         if self.output_path[-1] is not '/':
             self.output_path+="/"
-
+    def relative_loc(self,text):
+        tokens=text.split(" ")
+        loc=0
+        pro_num=[]
+        new_text=[]
+        for token in tokens:
+            if '*' in token:
+                if token=='*pro*':
+                    pro_num.append(loc);
+            else:
+                loc+=len(token)+1
+                new_text.append(token)
+        text=" ".join(new_text)
+        return pro_num,text
 
     def GenerateMeta(self,root,out_file):
         texts= root[0].text.splitlines()
@@ -35,11 +48,14 @@ class xml_parser:
                 suid,speaker=texts[i].split(" ")
                 continue
             if "*pro*" in texts[i] and tags_index<tags_len:
-                pro_num=[m.start() for m in re.finditer('\*pro\*', texts[i])]
+                #pro_num=[m.start() for m in re.finditer('\*pro\*', texts[i])]
+                #pro_num=[m.start() for m in re.finditer('\*.*?\*', texts[i])]
+                pro_num,texts[i]= self.relative_loc(texts[i])
                 #print pro_num
                 #print tags_index
                 #print tags_len
-                texts[i]=texts[i].replace("*pro* ",""); #remove *pro*+" "
+                #print texts[i]
+                #texts[i]=texts[i].replace("*pro* ",""); #remove *pro*+" "
                 for j in pro_num:#if multiple *pro* apprear in the line
                     pro=tag_list[tags_index].attrib["id"][:-1]
                     start=tag_list[tags_index].attrib["start"]
