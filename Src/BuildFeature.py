@@ -46,6 +46,10 @@ class BuildFeature:
         self.feature_func.append(self.DuiLeFeature)
         self.feature_func.append(self.HaoDeFeature)
         self.feature_func.append(self.XieXieFeature)
+        self.feature_func.append(self.NaJiuFeature)
+        self.feature_func.append(self.ZaiMaFeature)
+
+
         #self.feature_func.append(self.god_mod) #testing only!
         #self.feature_func.append(self.get_suid)
         #self.feature_func.append(self.get_protype)
@@ -88,20 +92,23 @@ class BuildFeature:
                     if pre[4] != items[4]:
                         self.pre_sent.append(items)
                 count=0
-                print self.loclist
-                for key in self.loc2tag:
-                    print key,self.loc2tag[key]
+                #print items[4]
+                #print self.loclist
+                #for key in self.loc2tag:
+                #    print key,self.loc2tag[key]
                 self.loc2tag={}
                 self.loclist=[]
-                for loc in range(0,len(items[4])):
-                    if loc!=0 and items[4][loc]!=' ' and loc!=len(items[4]):
+                sentence=items[4].decode('utf8')
+                for loc in range(0,len(sentence)):
+                    #print loc,sentence[loc],len(sentence.strip())
+                    if loc!=0 and sentence[loc]!=' ' and loc!=len(sentence):
                         continue
                     #build loc->postag
                     self.loc2tag[loc]=items[7].split(' ')[count]
                     count+=1
                     self.loclist.append(loc)
-                for loc in range(0,len(items[4])):
-                    if loc!=0 and items[4][loc]!=' ' and loc!=len(items[4]):
+                for loc in range(0,len(sentence)):
+                    if loc!=0 and sentence[loc]!=' ' and loc!=len(sentence):
                         continue
                     output_file.write(str(self.get_label(items,loc)))
                     feature=''
@@ -112,6 +119,39 @@ class BuildFeature:
 
 
 ##### 你我其他feature #####
+    def NaJiuFeature(self,item,loc):
+        next_tag=self.get_next_N(item,loc,1)
+        pre_tag=self.get_pre_N(item,loc,1)
+        if pre_tag=='index error' or next_tag=='index error':
+            return '0'
+        else:
+            next_word=self.get_word_from_tag(next_tag)
+            pre_word=self.get_word_from_tag(pre_tag)
+            if pre_word == '那' and next_word=='就':
+                return '1'
+            else:
+                return '0'
+    def ZaiMaFeature(self,item,loc):
+        if loc!=0:
+            return '0'
+        else:
+            next_tag=self.get_next_N(item,loc,1)
+            next_next_tag=self.get_next_N(item,loc,2)
+            if next_tag=='index error':
+                return '0'
+            else:
+                if self.get_word_from_tag(next_tag)=='在' and next_next_tag!='index error':
+                    next_next_word=self.get_word_from_tag(next_next_tag)
+                    if next_next_word=='吗'or next_next_word=='?':
+                        #print item[1],item[4]
+                        return '1'
+                    else:
+                        return '0'
+                else:
+                    return '0'
+                
+
+                
     def first_sent(self,item,loc):
         if len(self.pre_sent)==1:
             return '1'
@@ -125,7 +165,7 @@ class BuildFeature:
             
 ##### general feature #####
     def at_head_followed_verb(self,item,loc):
-        if self.is_head(item,loc)>'0' and self.followed_verb(item,loc):
+        if self.is_head(item,loc)=='1' and self.followed_verb(item,loc):
             return '1'
         else:
             return '0'
@@ -138,6 +178,9 @@ class BuildFeature:
     def followed_verb(self,item,loc):
         #print  "follow:",self.loc2tag[loc],loc
         if self.is_verb(self.loc2tag[loc]): 
+            #print self.loc2tag
+            #print item[4]
+            #print loc,self.loc2tag[loc]
             return '1'
         else:
             return '0'
@@ -525,7 +568,7 @@ class BuildFeature:
     def is_head(self,item,loc):
         '''if current is at the beginning of sentence'''
         if loc==0:
-            return '2'
+            return '1'
         elif self.is_sign(self.get_pre_tag(item,loc)):
             return '1'
         else:
