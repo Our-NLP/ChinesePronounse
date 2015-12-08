@@ -7,7 +7,7 @@ class BuildFeature:
         """ multiple input,single output"""
 
         self.data_dir=os.path.realpath(os.path.dirname(os.path.realpath("__file__"))+"/../Data")
-        self.meta_dir=self.data_dir+"/MetaData/"
+        self.meta_dir=self.data_dir+"/MergedMetaData/"
         self.feature_dir=self.data_dir+"/Features/"
 
         self.feature_file=self.feature_dir+"features.fb"
@@ -19,45 +19,48 @@ class BuildFeature:
     def run(self):
         self.feature_func.append(self.at_head)
         self.feature_func.append(self.followed_verb)
-        #self.feature_func.append(self.pre_noun_followed_verb)
-        #self.feature_func.append(self.at_head_followed_verb)
+        ##self.feature_func.append(self.pre_noun_followed_verb)
+        ##self.feature_func.append(self.at_head_followed_verb)
         self.feature_func.append(self.followed_noun)
-        #self.feature_func.append(self.is_pre_noun)
-        #self.feature_func.append(self.is_pre_pre_noun)
-        #self.feature_func.append(self.is_pre_pre_pre_noun)
-        self.feature_func.append(self.is_next_next_verb)
-        self.feature_func.append(self.is_next_next_next_verb)
-        self.feature_func.append(self.unigram_followed_cirtical_words)
+        ##self.feature_func.append(self.is_pre_noun)
+        ##self.feature_func.append(self.is_pre_pre_noun)
+        ##self.feature_func.append(self.is_pre_pre_pre_noun)
+        #self.feature_func.append(self.is_next_next_verb)
+        #self.feature_func.append(self.is_next_next_next_verb)
+        #self.feature_func.append(self.unigram_followed_cirtical_words)
         self.feature_func.append(self.without_pro_in_previous)
         self.feature_func.append(self.without_pro_in_following)
-        self.feature_func.append(self.without_noun_in_previous)
-        self.feature_func.append(self.HaoXiangShiAtHead)
-        self.feature_func.append(self.YeJiuFeature)
-        self.feature_func.append(self.LenSmaller4)
+        #self.feature_func.append(self.without_noun_in_previous)
+        #self.feature_func.append(self.HaoXiangShiAtHead)
+        #self.feature_func.append(self.YeJiuFeature)
+        
+        self.feature_func.append(self.LenFeature)
+        #self.feature_func.append(self.LenSmaller4)
         #self.feature_func.append(self.LenBetween4_10)
-        #self.feature_func.append(self.LenLargerThan10)
+        ##self.feature_func.append(self.LenLargerThan10)
+        
         self.feature_func.append(self.EndWithSign)
-        self.feature_func.append(self.DanShiFeature)
-        self.feature_func.append(self.GenFeature)
-        self.feature_func.append(self.HaoXiangFeature)
-        self.feature_func.append(self.RuGuoYouFeature)
-        self.feature_func.append(self.ShiDeFeature)
-        self.feature_func.append(self.ZhenHaoFeature)
-        self.feature_func.append(self.ZhiDaoFeature)
-        self.feature_func.append(self.DuiLeFeature)
-        self.feature_func.append(self.HaoDeFeature)
-        self.feature_func.append(self.XieXieFeature)
+        #self.feature_func.append(self.DanShiFeature)
+        #self.feature_func.append(self.GenFeature)
+        #self.feature_func.append(self.HaoXiangFeature)
+        #self.feature_func.append(self.RuGuoYouFeature)
+        #self.feature_func.append(self.ShiDeFeature)
+        #self.feature_func.append(self.ZhenHaoFeature)
+        #self.feature_func.append(self.ZhiDaoFeature)
+        #self.feature_func.append(self.DuiLeFeature)
+        #self.feature_func.append(self.HaoDeFeature)
+        #self.feature_func.append(self.XieXieFeature)
         self.feature_func.append(self.NaJiuFeature)
-        self.feature_func.append(self.ZaiMaFeature)
+        #self.feature_func.append(self.ZaiMaFeature)
 
 
-        ##self.feature_func.append(self.god_mod) #testing only!
+        #self.feature_func.append(self.god_mod) #testing only!
         ##self.feature_func.append(self.get_suid)
         ##self.feature_func.append(self.get_protype)
 
 
-        self.feature_func.append(self.first_sent)
-        self.feature_func.append(self.same_speaker)
+        #self.feature_func.append(self.first_sent)
+        ##self.feature_func.append(self.same_speaker)
 
         self.multi_task()
 
@@ -128,8 +131,25 @@ class BuildFeature:
         else:
             next_word=self.get_word_from_tag(next_tag)
             pre_word=self.get_word_from_tag(pre_tag)
+            next2tag=self.get_next_N(item,loc,2)
+            
             if pre_word == '那' and next_word=='就':
+                print ' '
+                print item[7]," ",item[1]," ",item[3]
+                print 'cur:',loc
                 return '1'
+                '''if next2tag=='index error':
+                    return '0'
+                else:
+                    next2pos=self.get_pos_from_tag(next2tag)
+                    if next2pos=='VA':
+                        return '1'
+                    elif next2pos=='VD':
+                        return '2'
+                    elif next2pos=='VV':
+                        return '3'
+                    else:
+                        return '4'''
             else:
                 return '0'
     def ZaiMaFeature(self,item,loc):
@@ -337,6 +357,8 @@ class BuildFeature:
             i+=1
         return '1'
 
+    def LenFeature(self,item,loc):
+        return str(len(self.loclist))
     def LenLargerThan10(self,item,loc):
         if len(self.loclist)>12 :
             return "1"
@@ -513,16 +535,7 @@ class BuildFeature:
             if next_word=='谢谢' :
                 return '1'
         return '0'
-
-
-        
-
-        
-
-        
-        
-
-        
+            
         ##### helper function ####
     def get_next_N(self,item,loc,n):
         index=self.loclist.index(loc)
@@ -536,7 +549,6 @@ class BuildFeature:
             next_tag= self.loc2tag[next_loc]
             return next_tag
 
-
     def get_pre_N(self,item,loc,n):
         #print loc,self.loclist
         index=self.loclist.index(loc)
@@ -547,7 +559,6 @@ class BuildFeature:
             pre_loc=self.loclist[index]
             pre_tag= self.loc2tag[pre_loc]
             return pre_tag
-
 
     def get_pre_tag(self,item,loc):
         return self.get_pre_N(item,loc,1)
@@ -578,20 +589,27 @@ class BuildFeature:
             return False
     def get_label(self,item,loc):
         #if loc can be the place to hide pro
-        print item[4]
-        print 'cur:',loc," ",item[3],
-        if loc == int(item[3]):
-            if '我' in item[1] and '我们' not in item[1]:
-                print '我'
+        candidate_locs=item[3].split(',')
+        candidate_pros=item[1].split(',')
+        
+        #print item[4]
+        #print candidate_locs,candidate_pros
+        #print 'cur:',loc," ",
+        if str(loc) in candidate_locs:
+            pro_index=candidate_locs.index(str(loc))
+            pro=candidate_pros[pro_index]
+            #print pro,
+            if '我' in pro and '我们' not in pro:
+                #print '我'
                 return '我'
-            elif '你' in item[1] and '你们' not in item[1]:
-                print '你'
+            elif '你' in pro and '你们' not in pro:
+                #print '你'
                 return '你'
             else:
-                print '其他'
+                #print '其他'
                 return '其他'
         else:
-            print  'none'
+            #print  'none'
             return 'none'
     def get_filename(self,item,loc):
         return item[0]
@@ -606,10 +624,19 @@ class BuildFeature:
     def get_participant(self,item,loc):
         return item[6]
     def god_mod(self,item,loc):
-        if int(item[3])==loc:
-            return str(100)
+        candidate_locs=item[3].split(',')
+        candidate_pros=item[1].split(',')
+        if str(loc) in candidate_locs:
+            pro_index=candidate_locs.index(str(loc))
+            pro=candidate_pros[pro_index]
+            if '我' in pro and '我们' not in pro :
+                return '1'
+            elif '你' in pro and '你们' not in pro:
+                return '2'
+            else:
+                return '3'
         else:
-            return str(0)
+            return '0'
     def is_head(self,item,loc):
         '''if current is at the beginning of sentence'''
         if loc==0:
