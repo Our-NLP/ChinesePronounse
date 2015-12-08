@@ -145,11 +145,11 @@ class BuildFeature:
                     if next2pos=='VA':
                         return '0'
                     elif next2pos=='VD':
-                        return '2'
+                        return '1'
                     elif next2pos=='VV':
-                        return '3'
+                        return '2'
                     else:
-                        return '4'
+                        return '1'
             else:
                 return '0'
     def ZaiMaFeature(self,item,loc):
