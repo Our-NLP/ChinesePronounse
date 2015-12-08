@@ -134,22 +134,22 @@ class BuildFeature:
             next2tag=self.get_next_N(item,loc,2)
             
             if pre_word == '那' and next_word=='就':
-                print ' '
-                print item[7]," ",item[1]," ",item[3]
-                print 'cur:',loc
-                return '1'
-                '''if next2tag=='index error':
+                #print ' '
+                #print item[7]," ",item[1]," ",item[3]
+                #print 'cur:',loc
+                #return '1'
+                if next2tag=='index error':
                     return '0'
                 else:
                     next2pos=self.get_pos_from_tag(next2tag)
                     if next2pos=='VA':
-                        return '1'
+                        return '0'
                     elif next2pos=='VD':
                         return '2'
                     elif next2pos=='VV':
                         return '3'
                     else:
-                        return '4'''
+                        return '4'
             else:
                 return '0'
     def ZaiMaFeature(self,item,loc):
