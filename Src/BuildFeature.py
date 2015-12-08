@@ -34,8 +34,8 @@ class BuildFeature:
         self.feature_func.append(self.HaoXiangShiAtHead)
         self.feature_func.append(self.YeJiuFeature)
         self.feature_func.append(self.LenSmaller4)
-        self.feature_func.append(self.LenBetween4_10)
-        self.feature_func.append(self.LenLargerThan10)
+        #self.feature_func.append(self.LenBetween4_10)
+        #self.feature_func.append(self.LenLargerThan10)
         self.feature_func.append(self.EndWithSign)
         self.feature_func.append(self.DanShiFeature)
         self.feature_func.append(self.GenFeature)
@@ -578,14 +578,20 @@ class BuildFeature:
             return False
     def get_label(self,item,loc):
         #if loc can be the place to hide pro
+        print item[4]
+        print 'cur:',loc," ",item[3],
         if loc == int(item[3]):
             if '我' in item[1] and '我们' not in item[1]:
+                print '我'
                 return '我'
             elif '你' in item[1] and '你们' not in item[1]:
+                print '你'
                 return '你'
             else:
+                print '其他'
                 return '其他'
         else:
+            print  'none'
             return 'none'
     def get_filename(self,item,loc):
         return item[0]
