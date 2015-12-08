@@ -20,46 +20,43 @@ class BuildFeature:
         #self.feature_func.append(self.get_filename)
         #self.feature_func.append(self.cur_loc)
         #self.feature_func.append(self.get_participant) too big value!
-        self.feature_func.append(self.is_head)
+        self.feature_func.append(self.at_head)
         self.feature_func.append(self.followed_verb)
-        self.feature_func.append(self.pre_noun_followed_verb)
-        self.feature_func.append(self.at_head_followed_verb)
-        self.feature_func.append(self.followed_noun)
-        self.feature_func.append(self.is_pre_noun)
-        self.feature_func.append(self.is_pre_pre_noun)
-        self.feature_func.append(self.is_pre_pre_pre_noun)
-        self.feature_func.append(self.followed_verb)
-        self.feature_func.append(self.is_next_next_verb)
-        self.feature_func.append(self.is_next_next_next_verb)
-        self.feature_func.append(self.unigram_followed_cirtical_words)
-        self.feature_func.append(self.HaoXiangShiAtHead)
-        self.feature_func.append(self.YeJiuFeature)
-        self.feature_func.append(self.LenSmaller4)
-        self.feature_func.append(self.DanShiFeature)
-        self.feature_func.append(self.GenFeature)
-        #self.feature_func.append(self.HaoXiangFeature)
-        self.feature_func.append(self.without_pro_in_sentence)
-        self.feature_func.append(self.RuGuoYouFeature)
-        self.feature_func.append(self.ShiDeFeature)
-        self.feature_func.append(self.ZhenHaoFeature)
-        self.feature_func.append(self.ZhiDaoFeature)
-        self.feature_func.append(self.DuiLeFeature)
-        self.feature_func.append(self.HaoDeFeature)
-        self.feature_func.append(self.XieXieFeature)
-        self.feature_func.append(self.NaJiuFeature)
-        self.feature_func.append(self.ZaiMaFeature)
+        #self.feature_func.append(self.pre_noun_followed_verb)
+        #self.feature_func.append(self.at_head_followed_verb)
+        #self.feature_func.append(self.followed_noun)
+        #self.feature_func.append(self.is_pre_noun)
+        #self.feature_func.append(self.is_pre_pre_noun)
+        #self.feature_func.append(self.is_pre_pre_pre_noun)
+        #self.feature_func.append(self.followed_verb)
+        #self.feature_func.append(self.is_next_next_verb)
+        #self.feature_func.append(self.is_next_next_next_verb)
+        #self.feature_func.append(self.unigram_followed_cirtical_words)
+        #self.feature_func.append(self.HaoXiangShiAtHead)
+        #self.feature_func.append(self.YeJiuFeature)
+        #self.feature_func.append(self.LenSmaller4)
+        #self.feature_func.append(self.DanShiFeature)
+        #self.feature_func.append(self.GenFeature)
+        ##self.feature_func.append(self.HaoXiangFeature)
+        #self.feature_func.append(self.without_pro_in_sentence)
+        #self.feature_func.append(self.RuGuoYouFeature)
+        #self.feature_func.append(self.ShiDeFeature)
+        #self.feature_func.append(self.ZhenHaoFeature)
+        #self.feature_func.append(self.ZhiDaoFeature)
+        #self.feature_func.append(self.DuiLeFeature)
+        #self.feature_func.append(self.HaoDeFeature)
+        #self.feature_func.append(self.XieXieFeature)
+        #self.feature_func.append(self.NaJiuFeature)
+        #self.feature_func.append(self.ZaiMaFeature)
 
 
-        #self.feature_func.append(self.god_mod) #testing only!
-        #self.feature_func.append(self.get_suid)
-        #self.feature_func.append(self.get_protype)
+        ##self.feature_func.append(self.god_mod) #testing only!
+        ##self.feature_func.append(self.get_suid)
+        ##self.feature_func.append(self.get_protype)
 
 
-        self.feature_func.append(self.first_sent)
-        self.feature_func.append(self.same_speaker)
-
-
-
+        #self.feature_func.append(self.first_sent)
+        #self.feature_func.append(self.same_speaker)
 
         self.multi_task()
 
@@ -99,12 +96,15 @@ class BuildFeature:
                 self.loc2tag={}
                 self.loclist=[]
                 sentence=items[4].decode('utf8')
+                sentence=u' '+sentence+u' '
+                
                 for loc in range(0,len(sentence)):
-                    #print loc,sentence[loc],len(sentence.strip())
+                    print loc,sentence[loc],len(sentence.strip())
                     if loc!=0 and sentence[loc]!=' ' and loc!=len(sentence):
                         continue
                     #build loc->postag
-                    self.loc2tag[loc]=items[7].split(' ')[count]
+                    if loc<len(sentence)-1:
+                        self.loc2tag[loc]=items[7].split(' ')[count]
                     count+=1
                     self.loclist.append(loc)
                 for loc in range(0,len(sentence)):
@@ -164,11 +164,16 @@ class BuildFeature:
             return '0'
             
 ##### general feature #####
-    def at_head_followed_verb(self,item,loc):
-        if self.is_head(item,loc)=='1' and self.followed_verb(item,loc):
+    def at_head(self,item,loc):
+        if self.is_head(item,loc):
             return '1'
         else:
             return '0'
+
+    '''def at_head_followed_verb(self,item,loc):
+        if self.is_head(item,loc): 
+            return self.followed_verb(item,loc)'''
+
     def followed_noun(self,item,loc):
         if self.is_noun(self.loc2tag[loc]): 
             return '1'
@@ -176,11 +181,11 @@ class BuildFeature:
             return '0'
 
     def followed_verb(self,item,loc):
-        #print  "follow:",self.loc2tag[loc],loc
-        if self.is_verb(self.loc2tag[loc]): 
-            #print self.loc2tag
-            #print item[4]
-            #print loc,self.loc2tag[loc]
+        next_tag=self.get_next_N(item,loc,1)
+        #print 'loc',loc,' next',next_tag
+        if next_tag=='index error':
+            return '0'
+        elif self.is_verb(next_tag): 
             return '1'
         else:
             return '0'
@@ -482,12 +487,13 @@ class BuildFeature:
         ##### helper function ####
     def get_next_N(self,item,loc,n):
         index=self.loclist.index(loc)
-        if index+n-1>=len(self.loclist):
+        if index+n-1>=len(self.loclist)-1:
             #print self.loclist
             #print index,len(self.loclist),n
             return 'index error'
         else:
             index=index+n-1
+            print self.loclist
             next_loc=self.loclist[index]
             next_tag= self.loc2tag[next_loc]
             return next_tag
@@ -568,11 +574,12 @@ class BuildFeature:
     def is_head(self,item,loc):
         '''if current is at the beginning of sentence'''
         if loc==0:
-            return '1'
+            return True
         elif self.is_sign(self.get_pre_tag(item,loc)):
-            return '1'
+            #print self.get_pre_tag(item,loc)
+            return True
         else:
-            return '0'
+            return False
 
 
 
