@@ -34,6 +34,7 @@ class BuildFeature:
         self.feature_func.append(self.without_pro_in_following)
         self.feature_func.append(self.without_noun_in_previous)
         self.feature_func.append(self.HaoXiangShiAtHead)
+        self.feature_func.append(self.WanAnFeature)
         #self.feature_func.append(self.YeJiuFeature)
         
         #self.feature_func.append(self.LenFeature)
@@ -63,6 +64,9 @@ class BuildFeature:
 
         self.feature_func.append(self.first_sent)
         self.feature_func.append(self.same_speaker)
+
+        #我
+        self.feature_func.append(self.BaoQianFeature)
 
         self.multi_task()
 
@@ -131,6 +135,46 @@ class BuildFeature:
 
         
 ##### 你我其他feature #####
+    def NextIsSomeWord(self,item,loc,word):
+        next_tag=self.get_next_N(item,loc,1)
+        if next_tag=='index error':
+            return '0'
+        else:
+            next_word=self.get_word_from_tag(next_tag)
+            if next_word==word:
+                return '1'
+            else:
+                return '0'
+    def NextIsSomePos(self,item,loc,pos):
+        next_tag=self.get_next_N(item,loc,1)
+        if next_tag=='index error':
+            return '0'
+        else:
+            next_pos=self.get_pos_from_tag(next_tag)
+            if next_pos==pos:
+                return '1'
+            else:
+                return '0'
+    def NextLoc(self,item,loc):
+        index=self.loclist.index(loc)
+        if index+1<len(self.loclist):
+            return self.loclist[index+1]
+        else:
+            return loc
+
+            
+        
+    #你
+    def WanAnFeature(self,item,loc):
+        return self.NextIsSomeWord(item,loc,'晚安')
+    
+    def BaoQianFeature(self,item,loc):
+        if self.NextIsSomePos(item,loc,'AD')=='1':
+            return self.NextIsSomeWord(item,self.NextLoc(item,loc),'抱歉')
+        else:
+            return self.NextIsSomeWord(item,loc,'抱歉')
+        
+
     def NaJiuFeature(self,item,loc):
         next_tag=self.get_next_N(item,loc,1)
         pre_tag=self.get_pre_N(item,loc,1)
@@ -285,6 +329,7 @@ class BuildFeature:
             else:
                 return '0'
 
+            
     def HaoXiangShiAtHead(self,item,loc):
         next_tag=self.get_next_N(item,loc,1)
         next_next_tag=self.get_next_N(item,loc,2)
@@ -536,11 +581,19 @@ class BuildFeature:
     def HaoDeFeature(self,item,loc):
         next_tag=self.get_next_N(item,loc,1)
         next2tag=self.get_next_N(item,loc,2)
+        pre_tag=self.get_pre_N(item,loc,1)
         if next_tag!='index error' and next2tag!='index error':
             next_word=self.get_word_from_tag(next_tag)
             next2word=self.get_word_from_tag(next2tag)
             if next_word=='好' and next2word=='的':
-                return '1'
+                if pre_tag=='index error':
+                    return '1'
+                else:
+                    pre_pos=self.get_pos_from_tag(pre_tag)
+                    if pre_pos=='VV' or pre_pos=='AD' or pre_pos=='NN':
+                        return '0'
+                    else:
+                        return '1'
         return '0'
     #wo featuer
     def XieXieFeature(self,item,loc):
