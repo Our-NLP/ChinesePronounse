@@ -22,36 +22,38 @@ class BuildFeature:
         ##self.feature_func.append(self.pre_noun_followed_verb)
         ##self.feature_func.append(self.at_head_followed_verb)
         self.feature_func.append(self.followed_noun)
-        ##self.feature_func.append(self.is_pre_noun)
-        ##self.feature_func.append(self.is_pre_pre_noun)
-        ##self.feature_func.append(self.is_pre_pre_pre_noun)
-        #self.feature_func.append(self.is_next_next_verb)
-        #self.feature_func.append(self.is_next_next_next_verb)
-        #self.feature_func.append(self.unigram_followed_cirtical_words)
+        
+        self.feature_func.append(self.is_pre_noun)
+        self.feature_func.append(self.is_pre_pre_noun)
+        self.feature_func.append(self.is_pre_pre_pre_noun)
+        self.feature_func.append(self.is_next_next_verb)
+        self.feature_func.append(self.is_next_next_next_verb)
+        
+        #self.feature_func.append(self.unigram_followed_cirtical_words) #blur
         self.feature_func.append(self.without_pro_in_previous)
         self.feature_func.append(self.without_pro_in_following)
-        #self.feature_func.append(self.without_noun_in_previous)
-        #self.feature_func.append(self.HaoXiangShiAtHead)
+        self.feature_func.append(self.without_noun_in_previous)
+        self.feature_func.append(self.HaoXiangShiAtHead)
         #self.feature_func.append(self.YeJiuFeature)
         
-        self.feature_func.append(self.LenFeature)
-        #self.feature_func.append(self.LenSmaller4)
-        #self.feature_func.append(self.LenBetween4_10)
-        ##self.feature_func.append(self.LenLargerThan10)
+        #self.feature_func.append(self.LenFeature)
+        self.feature_func.append(self.LenSmaller4)
+        self.feature_func.append(self.LenBetween4_10)
+        self.feature_func.append(self.LenLargerThan10)
         
         self.feature_func.append(self.EndWithSign)
-        #self.feature_func.append(self.DanShiFeature)
-        #self.feature_func.append(self.GenFeature)
+        #self.feature_func.append(self.DanShiFeature) dummy
+        self.feature_func.append(self.GenFeature)
         #self.feature_func.append(self.HaoXiangFeature)
-        #self.feature_func.append(self.RuGuoYouFeature)
-        #self.feature_func.append(self.ShiDeFeature)
-        #self.feature_func.append(self.ZhenHaoFeature)
-        #self.feature_func.append(self.ZhiDaoFeature)
-        #self.feature_func.append(self.DuiLeFeature)
-        #self.feature_func.append(self.HaoDeFeature)
-        #self.feature_func.append(self.XieXieFeature)
+        ##self.feature_func.append(self.RuGuoYouFeature)
+        self.feature_func.append(self.ShiDeFeature)
+        self.feature_func.append(self.ZhenHaoFeature)
+        self.feature_func.append(self.ZhiDaoFeature)
+        self.feature_func.append(self.DuiLeFeature)
+        self.feature_func.append(self.HaoDeFeature)
+        self.feature_func.append(self.XieXieFeature)
         self.feature_func.append(self.NaJiuFeature)
-        #self.feature_func.append(self.ZaiMaFeature)
+        self.feature_func.append(self.ZaiMaFeature)
 
 
         #self.feature_func.append(self.god_mod) #testing only!
@@ -59,8 +61,8 @@ class BuildFeature:
         ##self.feature_func.append(self.get_protype)
 
 
-        #self.feature_func.append(self.first_sent)
-        ##self.feature_func.append(self.same_speaker)
+        self.feature_func.append(self.first_sent)
+        self.feature_func.append(self.same_speaker)
 
         self.multi_task()
 
@@ -121,7 +123,13 @@ class BuildFeature:
                     output_file.write(feature)
                     output_file.write("\n")
 
+    def printState(self,item,loc):
+        print ' '
+        print item[7],"locs: ",item[3]," labels",item[1]
+        print 'cur:',loc
+        return '1'
 
+        
 ##### 你我其他feature #####
     def NaJiuFeature(self,item,loc):
         next_tag=self.get_next_N(item,loc,1)
@@ -164,7 +172,7 @@ class BuildFeature:
                 if self.get_word_from_tag(next_tag)=='在' and next_next_tag!='index error':
                     next_next_word=self.get_word_from_tag(next_next_tag)
                     if next_next_word=='吗'or next_next_word=='?':
-                        #print item[1],item[4]
+                        #self.printState(item,loc)
                         return '1'
                     else:
                         return '0'
@@ -354,6 +362,8 @@ class BuildFeature:
             next_pos=self.get_pos_from_tag(next_tag)
             if next_pos=='PN':
                 return '0'
+            elif next_pos=='PU':
+                break
             i+=1
         return '1'
 
@@ -433,7 +443,7 @@ class BuildFeature:
                     pre_pos=self.get_word_from_tag(pre_tag)
                     if pre_tag!='index error':
                         if 'N' not in pre_pos:
-                            return '10'
+                            return '1'
                 elif next2tag!='index error':
                         next2word=self.get_word_from_tag(next2tag)
                         next2pos=self.get_pos_from_tag(next2tag)
@@ -441,7 +451,7 @@ class BuildFeature:
                             pre_pos=self.get_word_from_tag(pre_tag)
                             if pre_tag!='index error':
                                 if 'N' not in pre_pos and 'N' not in next_pos:
-                                    return '10' 
+                                    return '1' 
         return '0'
     def RuGuoYouFeature(self,item,loc):
         next_tag=self.get_next_N(item,loc,1)
@@ -460,6 +470,7 @@ class BuildFeature:
                if pre_word=='如果':
                    return '1'
         return '0'
+    #其他
     def ShiDeFeature(self,item,loc):
         next_tag=self.get_next_N(item,loc,1)
         next2tag=self.get_next_N(item,loc,2)
@@ -488,6 +499,7 @@ class BuildFeature:
             if next_word=='不' and next2word=='客气':
                 return '1'
         return '0'
+    #Mixed feature
     def ZhiDaoFeature(self,item,loc):
         next_tag=self.get_next_N(item,loc,1)
         next2tag=self.get_next_N(item,loc,2)
@@ -510,6 +522,7 @@ class BuildFeature:
                 if next3word=='知道':
                     return '1'
         return '0'
+    #其他
     def DuiLeFeature(self,item,loc):
         next_tag=self.get_next_N(item,loc,1)
         next2tag=self.get_next_N(item,loc,2)
@@ -519,6 +532,7 @@ class BuildFeature:
             if next_word=='对' and next2word=='了':
                 return '1'
         return '0'
+    #其他
     def HaoDeFeature(self,item,loc):
         next_tag=self.get_next_N(item,loc,1)
         next2tag=self.get_next_N(item,loc,2)
@@ -528,6 +542,7 @@ class BuildFeature:
             if next_word=='好' and next2word=='的':
                 return '1'
         return '0'
+    #wo featuer
     def XieXieFeature(self,item,loc):
         next_tag=self.get_next_N(item,loc,1)
         if next_tag!='index error':
