@@ -67,6 +67,7 @@ class BuildFeature:
 
         #我
         self.feature_func.append(self.BaoQianFeature)
+        self.feature_func.append(self.GongXiFeature)
 
         self.multi_task()
 
@@ -155,13 +156,40 @@ class BuildFeature:
                 return '1'
             else:
                 return '0'
+
+    def PreIsSomeWord(self,item,loc,word):
+        pre_tag=self.get_pre_N(item,loc,1)
+        if pre_tag=='index error':
+            return '0'
+        else:
+            pre_word=self.get_word_from_tag(pre_tag)
+            if pre_word==word:
+                return '1'
+            else:
+                return '0'
+    def PreIsSomePos(self,item,loc,pos):
+        pre_tag=self.get_pre_N(item,loc,1)
+        if pre_tag=='index error':
+            return '0'
+        else:
+            pre_pos=self.get_pos_from_tag(pre_tag)
+            if pre_pos==pos:
+                return '1'
+            else:
+                return '0'
+
     def NextLoc(self,item,loc):
         index=self.loclist.index(loc)
         if index+1<len(self.loclist):
             return self.loclist[index+1]
         else:
             return loc
-
+    #我
+    def GongXiFeature(self,item,loc):
+        if self.PreIsSomeWord(item,loc,'恭喜')=='0':
+            return self.NextIsSomeWord(item,loc,'恭喜')
+        else:
+            return '0'
             
         
     #你
@@ -169,12 +197,8 @@ class BuildFeature:
         return self.NextIsSomeWord(item,loc,'晚安')
     
     def BaoQianFeature(self,item,loc):
-        if self.NextIsSomePos(item,loc,'AD')=='1':
-            return self.NextIsSomeWord(item,self.NextLoc(item,loc),'抱歉')
-        else:
-            return self.NextIsSomeWord(item,loc,'抱歉')
+        return self.NextIsSomeWord(item,loc,'抱歉')
         
-
     def NaJiuFeature(self,item,loc):
         next_tag=self.get_next_N(item,loc,1)
         pre_tag=self.get_pre_N(item,loc,1)
