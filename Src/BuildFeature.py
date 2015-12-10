@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import os
-
+import sys
 
 class BuildFeature:
     def __init__(self):
@@ -64,10 +64,23 @@ class BuildFeature:
 
         self.feature_func.append(self.first_sent)
         self.feature_func.append(self.same_speaker)
+        #你
+        self.feature_func.append(self.PreVerb)
+        self.feature_func.append(self.FollowingWo)
+        self.feature_func.append(self.PreProSPInFollow)
+        self.feature_func.append(self.JiaYouFeature)
+        self.feature_func.append(self.Deng)
 
         #我
         self.feature_func.append(self.BaoQianFeature)
         self.feature_func.append(self.GongXiFeature)
+        self.feature_func.append(self.GuJiFeature)
+
+        #其他
+        self.feature_func.append(self.Dui)
+        self.feature_func.append(self.GuJiInFrontFeature)
+        self.feature_func.append(self.OKFeature)
+        self.feature_func.append(self.ZenMe)
 
         self.multi_task()
 
@@ -124,6 +137,7 @@ class BuildFeature:
                     output_file.write(str(self.get_label(items,loc)))
                     feature=''
                     for fuc in self.feature_func:
+                        #print fuc.__name__
                         feature+=' '+fuc.__name__+":"+fuc(items,loc)
                     output_file.write(feature)
                     output_file.write("\n")
@@ -177,6 +191,45 @@ class BuildFeature:
                 return '1'
             else:
                 return '0'
+    
+    def SomeWordInPre(self,item,loc,word,n=sys.maxint):
+        cur_index=self.loclist.index(loc)
+        while cur_index>0 and n>0:
+            loc=self.loclist[cur_index]
+            if self.PreIsSomeWord(item,loc,word)=='1':
+                return '1'
+            cur_index-=1
+            n-=1
+        return '0'
+    
+    def SomePosInPre(self,item,loc,pos,n=sys.maxint):
+        cur_index=self.loclist.index(loc)
+        while cur_index>0 and n>0:
+            loc=self.loclist[cur_index]
+            if self.PreIsSomePos(item,loc,pos)=='1':
+                return '1'
+            cur_index-=1
+            n-=1
+        return '0'
+
+    def SomeWordInFollow(self,item,loc,word,n=sys.maxint):
+        cur_index=self.loclist.index(loc)
+        while cur_index < len(self.loclist) and n>0:
+            loc=self.loclist[cur_index]
+            if self.NextIsSomeWord(item,loc,word)=='1':
+                return '1'
+            cur_index+=1
+            n-=1
+        return '0'
+    def SomePosInFollow(self,item,loc,pos,n=sys.maxint):
+        cur_index=self.loclist.index(loc)
+        while cur_index < len(self.loclist) and n>0:
+            loc=self.loclist[cur_index]
+            if self.NextIsSomePos(item,loc,pos)=='1':
+                return '1'
+            cur_index+=1
+            n-=1
+        return '0'
 
     def NextLoc(self,item,loc):
         index=self.loclist.index(loc)
@@ -184,17 +237,90 @@ class BuildFeature:
             return self.loclist[index+1]
         else:
             return loc
+
+    #其他
+    def Dui(self,item,loc):
+        if self.SomePosInPre(item,loc,'PN',3)=='0' and self.SomePosInPre(item,loc,'NN',3) == '0':
+            return self.NextIsSomeWord(item,loc,'对')
+        return '0'
+    def ZenMe(self,item,loc):
+        words=['怎么','怎么办','怎么样','谢','看看']
+        if self.SomePosInPre(item,loc,'PN')=='1':
+            return '0'
+        for word in words:
+            return self.SomeWordInFollow(item,loc,word,3)
+        return '0'
+            
+    def OKFeature(self,item,loc):
+        words=['ok','OK','Okay']
+        if self.SomePosInPre(item,loc,'PN')=='0':
+            for word in words:
+                return self.NextIsSomeWord(item,loc,word)
+        return '0'
+    def GuJiInFrontFeature(self,item,loc):
+        if self.PreIsSomeWord(item,loc,'估计')=='1':
+            if self.NextIsSomePos(item,loc,'VV')=='1' or self.NextIsSomePos(item,loc,'AD')=='1':
+                return '1'
+        return '0'
+
     #我
     def GongXiFeature(self,item,loc):
         if self.PreIsSomeWord(item,loc,'恭喜')=='0':
             return self.NextIsSomeWord(item,loc,'恭喜')
         else:
             return '0'
+    def GuJiFeature(self,item,loc):
+        if self.PreIsSomePos(item,loc,'PN')=='0':
+            return self.NextIsSomeWord(item,loc,'估计')
+        else:
+            return '0'
             
         
     #你
+    def Deng(self,item,loc):
+        if self.NextIsSomeWord(item,loc,'等') and self.NextIsSomePos(item,loc,'VV'):
+            return self.SomePosInPre(item,loc,'PN')
+        elif self.PreIsSomeWord(item,loc,'等') and self.PreIsSomePos(item,loc,'VV'):
+            return self.SomePosInFollow(item,loc,'PN')
+        else:
+            return '0'
+        
+    def PreProSPInFollow(self,item,loc):
+        if self.SomePosInPre(item,loc,'PN')=='0' :
+            if self.SomePosInFollow(item,loc,'SP')=='1':
+                return '1'
+            elif self.SomeWordInFollow(item,loc,'?') or self.SomeWordInFollow(item,loc,'？'):
+                return '1'
+            elif self.SomeWordInFollow(item,loc,'!') or self.SomeWordInFollow(item,loc,'！'):
+                return '1'
+        else:
+            return '0'
+        
+    def JiaYouFeature(self,item,loc):
+        return self.NextIsSomeWord(item,loc,'加油')
+
     def WanAnFeature(self,item,loc):
-        return self.NextIsSomeWord(item,loc,'晚安')
+        words=['客气','早点','注意','加油','晚安']
+        for word in words:
+            if self.SomeWordInFollow(item,loc,word,3)=='1' and self.SomePosInPre(item,loc,'PN')=='0':
+                return '1'
+        return '0'
+    
+    def PreVerb(self,item,loc):
+        return self.PreIsSomePos(item,loc,'VV')
+    
+    def FollowingWo(self,item,loc):
+        cur_index=self.loclist.index(loc)
+        while(cur_index<len(self.loclist)):
+            if self.NextIsSomeWord(item,loc,'我')=='1':
+                return '1'
+            if self.NextIsSomePos(item,loc,'PU')=='1':
+                break
+            loc=self.loclist[cur_index]
+            cur_index+=1
+            
+        return '0'
+
     
     def BaoQianFeature(self,item,loc):
         return self.NextIsSomeWord(item,loc,'抱歉')
