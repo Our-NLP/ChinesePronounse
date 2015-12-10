@@ -57,6 +57,8 @@ class BuildFeature:
         self.feature_func.append(self.FollowPU)
         self.feature_func.append(self.SameSpeakerProType)
         self.feature_func.append(self.OtherSpeakerProType)
+        self.feature_func.append(self.PreSentFirst)
+        #self.feature_func.append(self.PreSentSecond)
 
 
         #self.feature_func.append(self.god_mod) #testing only!
@@ -146,6 +148,7 @@ class BuildFeature:
                     for fuc in self.feature_func:
                         #print fuc.__name__
                         feature+=' '+fuc.__name__+":"+fuc(items,loc)
+                    
                     #update pre_PN
                     speaker=items[6]
                     if self.NextIsSomePos(items,loc,'PN')=='1':
@@ -263,7 +266,7 @@ class BuildFeature:
     def SameSpeakerProType(self,item,loc):
         speaker=item[6]
         if speaker in self.pre_PN:
-            pro=self.pre_PN[speaker]
+            pro=self.pre_PN[speaker][-1]
             if '我' in pro and '我们' not in pro :
                 return '1'
             elif '你' in pro and '你们' not in pro:
@@ -279,7 +282,7 @@ class BuildFeature:
             if key != item[6]:
                 other = key
         if other != None:
-            pro= self.pre_PN[other]
+            pro= self.pre_PN[other][-1]
             if '我' in pro and '我们' not in pro :
                 return '1'
             elif '你' in pro and '你们' not in pro:
@@ -288,7 +291,46 @@ class BuildFeature:
                 return '3'
         else:
             return '0'
-        
+    def PreSentFirst(self,item,loc):
+        if self.NextIsSomePos(item,loc,'VV')=='0':
+            return '0'
+        if len(self.pre_sent) >1:
+            last=self.pre_sent[-2][7].split(' ')
+            for tag in last:
+                pos=self.get_pos_from_tag(tag)
+                word=self.get_word_from_tag(tag)
+                if pos=='PN':
+                    if '我' in word and '我们' not in word:
+                        return '1'
+                    elif '你' in word and '你们' not in word:
+                        return '2'
+                    else:
+                        return '3'
+                elif pos=='NN':
+                    return '3'
+        return '0'
+    def PreSentSecond(self,item,loc):
+        if self.NextIsSomePos(item,loc,'VV')=='0':
+            return '0'
+        count=0
+        if len(self.pre_sent)>1:
+            last=self.pre_sent[-2][7].split(' ')
+            for tag in last:
+                pos=self.get_pos_from_tag(tag)
+                if pos == 'NN' or 'PN':
+                    count+=1
+                if count==2:
+                    word=self.get_word_from_tag(tag)
+                    if pos=='PN':
+                        if '我' in word and '我们' not in word:
+                            return '1'
+                        elif '你' in word and '你们' not in word:
+                            return '2'
+                        else:
+                            return '3'
+                    elif pos=='NN':
+                        return '3'
+        return '0'
 
 
     #其他
