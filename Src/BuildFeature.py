@@ -19,8 +19,6 @@ class BuildFeature:
     def run(self):
         self.feature_func.append(self.at_head)
         self.feature_func.append(self.followed_verb)
-        ##self.feature_func.append(self.pre_noun_followed_verb)
-        ##self.feature_func.append(self.at_head_followed_verb)
         self.feature_func.append(self.followed_noun)
         
         self.feature_func.append(self.is_pre_noun)
@@ -55,6 +53,8 @@ class BuildFeature:
         self.feature_func.append(self.XieXieFeature)
         self.feature_func.append(self.NaJiuFeature)
         self.feature_func.append(self.ZaiMaFeature)
+        self.feature_func.append(self.NoPNFollowingVerb)
+        self.feature_func.append(self.FollowPU)
 
 
         #self.feature_func.append(self.god_mod) #testing only!
@@ -68,19 +68,21 @@ class BuildFeature:
         self.feature_func.append(self.PreVerb)
         self.feature_func.append(self.FollowingWo)
         self.feature_func.append(self.PreProSPInFollow)
-        self.feature_func.append(self.JiaYouFeature)
         self.feature_func.append(self.Deng)
 
         #我
         self.feature_func.append(self.BaoQianFeature)
         self.feature_func.append(self.GongXiFeature)
         self.feature_func.append(self.GuJiFeature)
+        self.feature_func.append(self.LaiZi)
 
         #其他
         self.feature_func.append(self.Dui)
         self.feature_func.append(self.GuJiInFrontFeature)
         self.feature_func.append(self.OKFeature)
         self.feature_func.append(self.ZenMe)
+        self.feature_func.append(self.ShiDe)
+        #self.feature_func.append(self.Zai)
 
         self.multi_task()
 
@@ -237,8 +239,20 @@ class BuildFeature:
             return self.loclist[index+1]
         else:
             return loc
+    def NoPNFollowingVerb(self,item,loc):
+        if self.SomePosInPre(item,loc,'PN')=='0' and self.SomePosInPre(item,loc,'NN')=='0':
+            if self.SomePosInFollow(item,loc,'VV',2)=='1' or self.SomePosInFollow(item,loc,'VC',2)=='1' or self.SomePosInFollow(item,loc,'VA',2)=='1':
+                return '1'
+        return '0'
+
 
     #其他
+    def ShiDe(self,item,loc):
+        if self.NextIsSomeWord(item,loc,'是')=='1':
+            loc=self.NextLoc(item,loc)
+            if self.NextIsSomeWord(item,loc,'的')=='1':
+                return '1'
+        return '0'
     def Dui(self,item,loc):
         if self.SomePosInPre(item,loc,'PN',3)=='0' and self.SomePosInPre(item,loc,'NN',3) == '0':
             return self.NextIsSomeWord(item,loc,'对')
@@ -262,18 +276,33 @@ class BuildFeature:
             if self.NextIsSomePos(item,loc,'VV')=='1' or self.NextIsSomePos(item,loc,'AD')=='1':
                 return '1'
         return '0'
-
+    def Zai(self,item,loc):
+        if self.SomePosInPre(item,loc,'PN',3)=='1' or self.SomePosInPre(item,loc,'NN',3)=='1':
+            return '0'
+        cur_index=self.loclist.index(loc)
+        count=3
+        while cur_index<len(self.loclist) and count>0:
+            if self.NextIsSomeWord(item,loc,'在'):
+                return str(count)
+            count-=1
+        return '0'
     #我
+    def LaiZi(self,item,loc):
+        if self.NextIsSomeWord(item,loc,'来自')=='1' or self.NextIsSomeWord(item,loc,'晕')=='1':
+            return '1'
+        return '0'
+    
     def GongXiFeature(self,item,loc):
         if self.PreIsSomeWord(item,loc,'恭喜')=='0':
             return self.NextIsSomeWord(item,loc,'恭喜')
         else:
             return '0'
+        
     def GuJiFeature(self,item,loc):
-        if self.PreIsSomePos(item,loc,'PN')=='0':
-            return self.NextIsSomeWord(item,loc,'估计')
-        else:
+        if self.SomePosInPre(item,loc,'PN',2)=='1' or self.SomePosInPre(item,loc,'NN',2):
             return '0'
+        else:
+            return self.NextIsSomeWord(item,loc,'估计')
             
         
     #你
@@ -296,13 +325,10 @@ class BuildFeature:
         else:
             return '0'
         
-    def JiaYouFeature(self,item,loc):
-        return self.NextIsSomeWord(item,loc,'加油')
-
     def WanAnFeature(self,item,loc):
         words=['客气','早点','注意','加油','晚安']
         for word in words:
-            if self.SomeWordInFollow(item,loc,word,3)=='1' and self.SomePosInPre(item,loc,'PN')=='0':
+            if self.SomeWordInFollow(item,loc,word,3)=='1' and self.SomePosInPre(item,loc,'PN',3)=='0' and self.SomePosInPre(item,loc,'NN',3)=='0':
                 return '1'
         return '0'
     
@@ -334,7 +360,20 @@ class BuildFeature:
             next_word=self.get_word_from_tag(next_tag)
             pre_word=self.get_word_from_tag(pre_tag)
             next2tag=self.get_next_N(item,loc,2)
-            
+            next2word=self.get_word_from_tag(next2tag)
+            next3tag=self.get_next_N(item,loc,3)
+
+            '''if (pre_word=='那' and next_word=='就') or (next_word=='那' and next2word=='就'):
+                if next3tag=='index error':
+                    return '0'
+                next3pos=self.get_pos_from_tag(next3tag)
+                if next3pos=='VA':
+                    return '0'
+                else:
+                    return '1'
+                
+            else:
+                return '0'''
             if pre_word == '那' and next_word=='就':
                 #print ' '
                 #print item[7]," ",item[1]," ",item[3]
@@ -354,7 +393,20 @@ class BuildFeature:
                         return '1'
             else:
                 return '0'
+
     def ZaiMaFeature(self,item,loc):
+        '''if loc!=0 or self.NextIsSomeWord(item,loc,'在')=='0':
+            return '0'
+        if len(self.loclist)<=5:
+            #self.printState(item,loc)
+            return '1'
+        else:
+            tag= self.get_next_N(item,loc,4)
+            if self.get_pos_from_tag(tag)=='PU':
+                #self.printState(item,loc)
+                return '1'
+        return '0'''
+
         if loc!=0:
             return '0'
         else:
@@ -387,15 +439,13 @@ class BuildFeature:
             return '0'
             
 ##### general feature #####
+    def FollowPU(self,item,loc):
+        return self.NextIsSomePos(item,loc,'PU')
     def at_head(self,item,loc):
         if self.is_head(item,loc):
             return '1'
         else:
             return '0'
-
-    '''def at_head_followed_verb(self,item,loc):
-        if self.is_head(item,loc): 
-            return self.followed_verb(item,loc)'''
 
     def followed_noun(self,item,loc):
         next_tag=self.get_next_N(item,loc,1)
@@ -459,14 +509,7 @@ class BuildFeature:
         else:
             return '0'        
 
-    def pre_noun_followed_verb(self,item,loc):
-        #print item[7]
-        #pre_bool= self.is_pre_noun(item,loc)=='1'
-        #next_bool=self.followed_verb(item,loc)=='1'
-        if  self.is_pre_noun(item,loc)=='1' and self.followed_verb(item,loc)=='1':
-            return '1'
-        else:
-            return '0'
+
     ## version 2##
     def unigram_followed_cirtical_words(self,item,loc):
         next_tag=self.get_next_N(item,loc,1)
