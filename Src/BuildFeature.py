@@ -55,6 +55,8 @@ class BuildFeature:
         self.feature_func.append(self.ZaiMaFeature)
         self.feature_func.append(self.NoPNFollowingVerb)
         self.feature_func.append(self.FollowPU)
+        self.feature_func.append(self.SameSpeakerProType)
+        self.feature_func.append(self.OtherSpeakerProType)
 
 
         #self.feature_func.append(self.god_mod) #testing only!
@@ -97,7 +99,9 @@ class BuildFeature:
     def extract_feature(self,in_file,output_file):
         in_path=self.meta_dir+in_file
         self.pre_sent=[]
+        #self.pre_PN={}# user id as key
         with open(in_path) as input_file:
+            self.pre_PN={}# user id as key
             for line in input_file:
                 #0:f_name
                 #1:pro_type
@@ -137,10 +141,21 @@ class BuildFeature:
                     if loc!=0 and sentence[loc]!=' ' and loc!=len(sentence):
                         continue
                     output_file.write(str(self.get_label(items,loc)))
+                   
                     feature=''
                     for fuc in self.feature_func:
                         #print fuc.__name__
                         feature+=' '+fuc.__name__+":"+fuc(items,loc)
+                    #update pre_PN
+                    speaker=items[6]
+                    if self.NextIsSomePos(items,loc,'PN')=='1':
+                        pro_tag=self.get_next_N(items,loc,1)
+                        pro=self.get_word_from_tag(pro_tag)
+                        if speaker in self.pre_PN:
+                            self.pre_PN[speaker].append(pro)
+                        else:
+                            self.pre_PN[speaker]=[pro]
+
                     output_file.write(feature)
                     output_file.write("\n")
 
@@ -244,6 +259,36 @@ class BuildFeature:
             if self.SomePosInFollow(item,loc,'VV',2)=='1' or self.SomePosInFollow(item,loc,'VC',2)=='1' or self.SomePosInFollow(item,loc,'VA',2)=='1':
                 return '1'
         return '0'
+    
+    def SameSpeakerProType(self,item,loc):
+        speaker=item[6]
+        if speaker in self.pre_PN:
+            pro=self.pre_PN[speaker]
+            if '我' in pro and '我们' not in pro :
+                return '1'
+            elif '你' in pro and '你们' not in pro:
+                return '2'
+            else:
+                return '3'
+        else:
+            return '0'
+    
+    def OtherSpeakerProType(self,item,loc):
+        other= None
+        for key in self.pre_PN:
+            if key != item[6]:
+                other = key
+        if other != None:
+            pro= self.pre_PN[other]
+            if '我' in pro and '我们' not in pro :
+                return '1'
+            elif '你' in pro and '你们' not in pro:
+                return '2'
+            else:
+                return '3'
+        else:
+            return '0'
+        
 
 
     #其他
