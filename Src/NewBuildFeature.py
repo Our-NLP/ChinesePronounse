@@ -19,13 +19,17 @@ class BuildFeature:
         self.loclist=[]
 
     def run(self):
-        
-
         #self.feature_func.append(self.god_mod) #testing only!
         self.feature_func.append(self.UnigramsInWindow)
         self.feature_func.append(self.BigramsInWindow)
         self.feature_func.append(self.PosOfUnigramsInWindow)
         self.feature_func.append(self.PosOfBigramsInWindow)
+        self.feature_func.append(self.PosOfTrigram)
+        self.feature_func.append(self.PrePosCurWord)
+        self.feature_func.append(self.PreWordCurPos)
+        self.feature_func.append(self.PosSequence)
+        self.feature_func.append(self.SameSpeakerProType)
+        self.feature_func.append(self.OtherSpeakerProType)
 
         self.multi_task()
 
@@ -128,7 +132,7 @@ class BuildFeature:
         if next2_tag!='index error':
             next2_word=self.get_word_from_tag(next2_tag)
             res.append(next2_word)
-        return ' '.join(res)
+        return ' '.join(res).strip()
     def BigramsInWindow(self,item,loc):
         pre_tag=self.get_pre_N(item,loc,1)
         pre2_tag=self.get_pre_N(item,loc,2)
@@ -145,7 +149,7 @@ class BuildFeature:
             next_word=self.get_word_from_tag(next_tag)
             next2_word=self.get_word_from_tag(next2_tag)
             next_bigram=next_word+'_'+next2_word
-        return pre_bigram+" "+next_bigram
+        return (pre_bigram+" "+next_bigram).strip()
     def PosOfUnigramsInWindow(self,item,loc):
         res=[]
         pre_tag=self.get_pre_N(item,loc,1)
@@ -183,8 +187,81 @@ class BuildFeature:
             next_pos=self.get_pos_from_tag(next_tag)
             next2_pos=self.get_pos_from_tag(next2_tag)
             next_bigram=next_pos+'_'+next2_pos
-        return pre_bigram+" "+next_bigram
+        res= pre_bigram+" "+next_bigram
+        return res.strip()
 
+    def PosOfTrigram(self,item,loc):
+        res=''
+        next_tag=self.get_next_N(item,loc,1)
+        next2_tag=self.get_next_N(item,loc,2)
+        next3_tag=self.get_next_N(item,loc,3)
+        if next_tag!='index error' and next2_tag!='index error' and next3_tag!='index error':
+            next_pos=self.get_pos_from_tag(next_tag)
+            next2_pos=self.get_pos_from_tag(next2_tag)
+            next3_pos=self.get_pos_from_tag(next3_tag)
+            res+= next_pos+'_'+next2_pos+'_'+next3_pos
+        return res.strip()
+    def PrePosCurWord(self,item,loc):
+        res=''
+        pre_tag=self.get_pre_N(item,loc,1)
+        next_tag=self.get_next_N(item,loc,1)
+        if next_tag!='index error' and pre_tag!='index error':
+            pre_pos=self.get_pos_from_tag(pre_tag)
+            next_word= self.get_word_from_tag(next_tag)
+            res=pre_pos+'_'+next_word
+        return res.strip()
+    def PreWordCurPos(self,item,loc):
+        res=''
+        pre_tag=self.get_pre_N(item,loc,1)
+        next_tag=self.get_next_N(item,loc,1)
+        if next_tag!='index error' and pre_tag!='index error':
+            pre_word=self.get_word_from_tag(pre_tag)
+            next_pos=self.get_pos_from_tag(next_tag)
+            res+=pre_word+'_'+next_pos
+        return res.strip()
+    def PosSequence(self,item,loc):
+        res=[]
+        count=1
+        tag=self.get_pre_N(item,loc,count)
+        while tag!='index error':
+            pos=self.get_pos_from_tag(tag)
+            if pos=='PU':
+                break
+            res.append(pos.strip())
+            count+=1
+            tag=self.get_pre_N(item,loc,count)
+        return '_'.join(res)
+    
+    def SameSpeakerProType(self,item,loc):
+        speaker=item[6]
+        if speaker in self.pre_PN:
+            pro=self.pre_PN[speaker][-1]
+            if '我' in pro and '我们' not in pro :
+                return '我'
+            elif '你' in pro and '你们' not in pro:
+                return '你'
+            else:
+                return '其他'
+        else:
+            return 'none'
+    
+    def OtherSpeakerProType(self,item,loc):
+        other= None
+        for key in self.pre_PN:
+            if key != item[6]:
+                other = key
+        if other != None:
+            pro= self.pre_PN[other][-1]
+            if '我' in pro and '我们' not in pro :
+                return '我'
+            elif '你' in pro and '你们' not in pro:
+                return '你'
+            else:
+                return '其他'
+        else:
+            return 'none'
+
+            
 
 
 
@@ -311,34 +388,6 @@ class BuildFeature:
                 return '1'
         return '0'
     
-    def SameSpeakerProType(self,item,loc):
-        speaker=item[6]
-        if speaker in self.pre_PN:
-            pro=self.pre_PN[speaker][-1]
-            if '我' in pro and '我们' not in pro :
-                return '1'
-            elif '你' in pro and '你们' not in pro:
-                return '2'
-            else:
-                return '3'
-        else:
-            return '0'
-    
-    def OtherSpeakerProType(self,item,loc):
-        other= None
-        for key in self.pre_PN:
-            if key != item[6]:
-                other = key
-        if other != None:
-            pro= self.pre_PN[other][-1]
-            if '我' in pro and '我们' not in pro :
-                return '1'
-            elif '你' in pro and '你们' not in pro:
-                return '2'
-            else:
-                return '3'
-        else:
-            return '0'
     def PreSentFirst(self,item,loc):
         if self.NextIsSomePos(item,loc,'VV')=='0':
             return '0'
