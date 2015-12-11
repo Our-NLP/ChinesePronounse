@@ -30,6 +30,11 @@ class BuildFeature:
         self.feature_func.append(self.PosSequence)
         self.feature_func.append(self.SameSpeakerProType)
         self.feature_func.append(self.OtherSpeakerProType)
+        self.feature_func.append(self.AllPrePN)
+        self.feature_func.append(self.NextMark)
+        self.feature_func.append(self.IsQuestion)
+        self.feature_func.append(self.IsSP)
+        self.feature_func.append(self.PreFirstTwo)
 
         self.multi_task()
 
@@ -237,13 +242,13 @@ class BuildFeature:
         if speaker in self.pre_PN:
             pro=self.pre_PN[speaker][-1]
             if '我' in pro and '我们' not in pro :
-                return '我'
+                return 'Same_我'
             elif '你' in pro and '你们' not in pro:
-                return '你'
+                return 'Same_你'
             else:
-                return '其他'
+                return 'Same_其他'
         else:
-            return 'none'
+            return 'Same_none'
     
     def OtherSpeakerProType(self,item,loc):
         other= None
@@ -253,14 +258,78 @@ class BuildFeature:
         if other != None:
             pro= self.pre_PN[other][-1]
             if '我' in pro and '我们' not in pro :
-                return '我'
+                return 'Other_我'
             elif '你' in pro and '你们' not in pro:
-                return '你'
+                return 'Other_你'
             else:
-                return '其他'
+                return 'Other_其他'
         else:
-            return 'none'
-
+            return 'Other_none'
+        
+    def AllPrePN(self,item,loc):
+        count=1
+        res=[]
+        tag=self.get_pre_N(item,loc,count)
+        while tag!='index error':
+            pos=self.get_pos_from_tag(tag)
+            if pos=='PN':
+                res.append(self.get_word_from_tag(tag))
+            elif pos=='PU':
+                break
+            count+=1
+            tag=self.get_pre_N(item,loc,count)
+        return ' '.join(res).strip()
+    def NextMark(self,item,loc):
+        count=1
+        res=''
+        tag=self.get_next_N(item,loc,count)
+        while tag!='index error':
+            pos=self.get_pos_from_tag(tag)
+            word=self.get_word_from_tag(tag)
+            if pos=='PU':
+                if word=='?' or word=='？':
+                    return '问号'
+                elif word=='!' or word=='！' or word=='！！！':
+                    return '感叹号'
+                elif word=='...' or word== '。。。':
+                    return '省略号'
+                elif word=='.' or word=='。':
+                    return '句号'
+                else:
+                    return '其他符号'
+            count+=1
+            tag=self.get_next_N(item,loc,count)
+        return res
+    
+    def IsQuestion(self,item,loc):
+        words=['吗','么','吧','呢','?','？']
+        for word in words: 
+            if self.SomeWordInFollow(item,loc,word) =='1':
+                return 'IS_QUESTION'
+        return 'NOT_QUESTION'
+    def IsSP(self,item,loc):
+        last=self.loclist[-1]
+        pre_tag=self.get_pre_N(item,last,1)
+        pos=self.get_pos_from_tag(pre_tag)
+        if pos=='SP':
+            return 'IS_SP'
+        else:
+            return 'NOT_SP'
+    def PreFirstTwo(self,item,loc):
+        last_sent=''
+        if len(last_sent)> 1:
+            last_sent=self.pre_sent[-2]
+        else:
+            return ''
+        tag_list=last_sent[7].split(' ')
+        res=[]
+        for tag in tag_list:
+            pos=self.get_pos_from_tag(tag)
+            word=self.get_word_from_tag(tag)
+            if (pos=='NN' or pos=='PN') and len(res)<2:
+                res.append(word.strip())
+        return ' '.join(res)
+        
             
 
 
