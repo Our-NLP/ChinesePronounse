@@ -19,76 +19,13 @@ class BuildFeature:
         self.loclist=[]
 
     def run(self):
-        #self.feature_func.append(self.at_head)
-        #self.feature_func.append(self.followed_verb)
-        #self.feature_func.append(self.followed_noun)
-        #
-        #self.feature_func.append(self.is_pre_noun)
-        #self.feature_func.append(self.is_pre_pre_noun)
-        #self.feature_func.append(self.is_pre_pre_pre_noun)
-        #self.feature_func.append(self.is_next_next_verb)
-        #self.feature_func.append(self.is_next_next_next_verb)
-        #
-        ##self.feature_func.append(self.unigram_followed_cirtical_words) #blur
-        #self.feature_func.append(self.without_pro_in_previous)
-        #self.feature_func.append(self.without_pro_in_following)
-        #self.feature_func.append(self.without_noun_in_previous)
-        #self.feature_func.append(self.HaoXiangShiAtHead)
-        #self.feature_func.append(self.WanAnFeature)
-        ##self.feature_func.append(self.YeJiuFeature)
-        #
-        ##self.feature_func.append(self.LenFeature)
-        #self.feature_func.append(self.LenSmaller4)
-        #self.feature_func.append(self.LenBetween4_10)
-        #self.feature_func.append(self.LenLargerThan10)
-        #
-        #self.feature_func.append(self.EndWithSign)
-        ##self.feature_func.append(self.DanShiFeature) dummy
-        #self.feature_func.append(self.GenFeature)
-        ##self.feature_func.append(self.HaoXiangFeature)
-        ###self.feature_func.append(self.RuGuoYouFeature)
-        #self.feature_func.append(self.ShiDeFeature)
-        #self.feature_func.append(self.ZhenHaoFeature)
-        #self.feature_func.append(self.ZhiDaoFeature)
-        #self.feature_func.append(self.DuiLeFeature)
-        #self.feature_func.append(self.HaoDeFeature)
-        #self.feature_func.append(self.XieXieFeature)
-        #self.feature_func.append(self.NaJiuFeature)
-        #self.feature_func.append(self.ZaiMaFeature)
-        #self.feature_func.append(self.NoPNFollowingVerb)
-        #self.feature_func.append(self.FollowPU)
-        #self.feature_func.append(self.SameSpeakerProType)
-        #self.feature_func.append(self.OtherSpeakerProType)
-        #self.feature_func.append(self.PreSentFirst)
-        ##self.feature_func.append(self.PreSentSecond)
+        
 
-
-        self.feature_func.append(self.god_mod) #testing only!
-        ##self.feature_func.append(self.get_suid)
-        ##self.feature_func.append(self.get_protype)
-
-
-        #self.feature_func.append(self.first_sent)
-        #self.feature_func.append(self.same_speaker)
-        ##你
-        #self.feature_func.append(self.PreVerb)
-        #self.feature_func.append(self.FollowingWo)
-        #self.feature_func.append(self.PreProSPInFollow)
-        #self.feature_func.append(self.Deng)
-
-        #我
-        #self.feature_func.append(self.BaoQianFeature)
-        #self.feature_func.append(self.GongXiFeature)
-        #self.feature_func.append(self.GuJiFeature)
-        #self.feature_func.append(self.LaiZi)
-
-        #其他
-        #self.feature_func.append(self.Dui)
-        #self.feature_func.append(self.GuJiInFrontFeature)
-        #self.feature_func.append(self.OKFeature)
-        #self.feature_func.append(self.ZenMe)
-        #self.feature_func.append(self.ShiDe)
-        #self.feature_func.append(self.Zai)
+        #self.feature_func.append(self.god_mod) #testing only!
+        self.feature_func.append(self.UnigramsInWindow)
+        self.feature_func.append(self.BigramsInWindow)
+        self.feature_func.append(self.PosOfUnigramsInWindow)
+        self.feature_func.append(self.PosOfBigramsInWindow)
 
         self.multi_task()
 
@@ -138,7 +75,7 @@ class BuildFeature:
                         continue
                     #build loc->postag
                     if loc<len(sentence)-1:
-                        self.loc2tag[loc]=items[7].split(' ')[count]
+                         self.loc2tag[loc]=items[7].split(' ')[count]
                     count+=1
                     self.loclist.append(loc)
                 count=0
@@ -171,8 +108,115 @@ class BuildFeature:
         print item[7],"locs: ",item[3]," labels",item[1]
         print 'cur:',loc
         return '1'
+### new features####
+    def UnigramsInWindow(self,item,loc):
+        res=[]
+        pre_tag=self.get_pre_N(item,loc,1)
+        pre2_tag=self.get_pre_N(item,loc,2)
+        next_tag=self.get_next_N(item,loc,1)
+        next2_tag=self.get_next_N(item,loc,2)
+            
+        if pre2_tag!='index error':
+            pre2_word=self.get_word_from_tag(pre2_tag)
+            res.append(pre2_word)
+        if pre_tag!='index error':
+            pre_word=self.get_word_from_tag(pre_tag)
+            res.append(pre_word)
+        if next_tag!='index error':
+            next_word=self.get_word_from_tag(next_tag)
+            res.append(next_word)
+        if next2_tag!='index error':
+            next2_word=self.get_word_from_tag(next2_tag)
+            res.append(next2_word)
+        return ' '.join(res)
+    def BigramsInWindow(self,item,loc):
+        pre_tag=self.get_pre_N(item,loc,1)
+        pre2_tag=self.get_pre_N(item,loc,2)
+        next_tag=self.get_next_N(item,loc,1)
+        next2_tag=self.get_next_N(item,loc,2)
+
+        pre_bigram=''
+        next_bigram=''
+        if pre2_tag!='index error' and pre_tag!='index error':
+            pre2_word=self.get_word_from_tag(pre2_tag)
+            pre_word=self.get_word_from_tag(pre_tag)
+            pre_bigram=pre2_word+'_'+pre_word
+        if next_tag!='index error' and next2_tag!='index error':
+            next_word=self.get_word_from_tag(next_tag)
+            next2_word=self.get_word_from_tag(next2_tag)
+            next_bigram=next_word+'_'+next2_word
+        return pre_bigram+" "+next_bigram
+    def PosOfUnigramsInWindow(self,item,loc):
+        res=[]
+        pre_tag=self.get_pre_N(item,loc,1)
+        pre2_tag=self.get_pre_N(item,loc,2)
+        next_tag=self.get_next_N(item,loc,1)
+        next2_tag=self.get_next_N(item,loc,2)
 
         
+        if pre2_tag!='index error':
+            pre2_pos=self.get_pos_from_tag(pre2_tag)
+            res.append(pre2_pos.strip())
+        if pre_tag!='index error':
+            pre_pos=self.get_pos_from_tag(pre_tag)
+            res.append(pre_pos.strip())
+        if next_tag!='index error':
+            next_pos=self.get_pos_from_tag(next_tag)
+            res.append(next_pos.strip())
+        if next2_tag!='index error':
+            next2_pos=self.get_pos_from_tag(next2_tag)
+            res.append(next2_pos.strip())
+        return ' '.join(res)
+    def PosOfBigramsInWindow(self,item,loc):
+        pre_tag=self.get_pre_N(item,loc,1)
+        pre2_tag=self.get_pre_N(item,loc,2)
+        next_tag=self.get_next_N(item,loc,1)
+        next2_tag=self.get_next_N(item,loc,2)
+
+        pre_bigram=''
+        next_bigram=''
+        if pre2_tag!='index error' and pre_tag!='index error':
+            pre2_pos=self.get_pos_from_tag(pre2_tag)
+            pre_pos=self.get_pos_from_tag(pre_tag)
+            pre_bigram=pre2_pos+'_'+pre_pos
+        if next_tag!='index error' and next2_tag!='index error':
+            next_pos=self.get_pos_from_tag(next_tag)
+            next2_pos=self.get_pos_from_tag(next2_tag)
+            next_bigram=next_pos+'_'+next2_pos
+        return pre_bigram+" "+next_bigram
+
+
+
+
+
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ##### 你我其他feature #####
     def NextIsSomeWord(self,item,loc,word):
         next_tag=self.get_next_N(item,loc,1)
@@ -982,11 +1026,11 @@ class BuildFeature:
             pro_index=candidate_locs.index(str(loc))
             pro=candidate_pros[pro_index]
             if '我' in pro and '我们' not in pro :
-                return '我 PN soso'
+                return '我'
             elif '你' in pro and '你们' not in pro:
-                return '你 PN bad'
+                return '你'
             else:
-                return '其他 PN good'
+                return '其他'
         else:
             return 'none'
     def is_head(self,item,loc):

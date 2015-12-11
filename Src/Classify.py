@@ -9,7 +9,10 @@ if __name__=="__main__":
 
 #Import Data
     print "Transforming data into vector..."
-    subprocess.call([mallet_bin+"mallet","import-svmlight","--input",train_data,"--output",mallet_data])
+    #subprocess.call([mallet_bin+"mallet","import-svmlight","--input",train_data,"--output",mallet_data])
+    subprocess.call([mallet_bin+"mallet","import-file","--input",train_data,"--output",mallet_data,'--print-output',"--token-regex",'[\p{L}\p{P}]*\p{L}'])
+    #subprocess.call([mallet_bin+"mallet","import-file","--input",train_data,"--output",mallet_data,])
+
 #Check Data
     #subprocess.call([mallet_bin+"vectors2info","--input",mallet_data,"--print-matrix"]);
 #Classify 
